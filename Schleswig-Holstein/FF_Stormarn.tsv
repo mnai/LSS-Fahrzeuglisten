@@ -1,3 +1,4 @@
+Funkrufname	Fahrzeugtyp	Kommentare
 Stadt Reinbek		
 FF Reinbek 90	Klosterbergenstrasse 1b	21465 Reinbek
 Florian Stormarn 90-10-01	KdoW	
@@ -6,15 +7,191 @@ Florian Stormarn 90-18-01	MTW
 Florian Stormarn 90-18-02	MTW	
 Florian Stormarn 90-18-03	MTW	
 Florian Stormarn 90-32-01	DLK	
-Florian Stormarn 90-46-01	LF 10	(1.600l Wasser)
-Florian Stormarn 90-48-01	LF 16/12	(1.800l Wasser)
-Florian Stormarn 90-48-02	HLF 20	(2.000l Wasser)
+Florian Stormarn 90-46-01	LF 10	1.600l Wasser
+Florian Stormarn 90-48-01	LF 16/12	1.800l Wasser
+Florian Stormarn 90-48-02	HLF 20	2.000l Wasser
 Florian Stormarn 90-51-01	RW	
 Florian Stormarn 90-67-01	GW-L	
 		
 FF Schönningstedt 91	Oher Straße 18	21465 Reinbek
 Florian Stormarn 91-18-01	MTW	
-Florian Stormarn 91-46-01	LF 20	(2.000l Wasser)
-Florian Stormarn 91-48-01	HLF 20	(2.000l Wasser)
-Florian Stormarn 91-96-01	MZF-T	(MTW+ Einsatzstellenhygiene)
+Florian Stormarn 91-46-01	LF 20	2.000l Wasser
+Florian Stormarn 91-48-01	HLF 20	2.000l Wasser
+Florian Stormarn 91-96-01	MZF-T	MTW+ Einsatzstellenhygiene
 		
+FF Ohe 92	Hoibeken 6	21465 Reinbek
+Florian Stormarn 92-10-01	KdoW	
+Florian Stormarn 92-11-01	ELW 1	
+Florian Stormarn 92-18-01	MTW	
+Florian Stormarn 92-46-01	LF 20	
+Florian Stormarn 92-48-01	HLF 20/16	
+		
+Gemeinde Oststeinbek		
+FF Oststeinbek 93	Stormarnstraße 2	22113 Oststeinbek	
+Florian Stormarn 93-14-01	MZF	eingesetzt als ELW 1
+Florian Stormarn 93-14-02	MZF	KdoW GBM
+Florian Stormarn 93-18-01	MTW	
+Florian Stormarn 93-18-02	MTW	
+Florian Stormarn 93-36-01	HuRW	TMF+RW
+Florian Stormarn 93-46-01	LF 20/25	
+Florian Stormarn 93-48-01	HLF	
+Florian Stormarn 93-68-01	GW Logistik	
+		
+FF Havighorst 94	Dorfstraße 49	22113 Oststeinbek	
+Florian Stormarn 94-19-01	MTW	
+Florian Stormarn 94-42-01	LF 8/6	
+Florian Stormarn 94-59-01	GW-L2	TS, Wassertank, Schläuche, Öl, TP
+		
+		
+Stadt Glinde		
+FF Glinde 80	Oher Weg 8	21509 Glinde	
+Florian Stormarn 80-10-01	KdoW	
+Florian Stormarn 80-10-02	KdoW	
+Florian Stormarn 80-11-01	ELW	
+Florian Stormarn 80-14-01	MZF	ELW/MTW
+Florian Stormarn 80-18-01	MTW	
+Florian Stormarn 80-18-03	MTW	
+Florian Stormarn 80-32-01	DLK 23/12	
+Florian Stormarn 80-41-01	MLF	600l Wasser, 3000er Pumpe
+Florian Stormarn 80-46-01	LF 20	3.000l Wasser, 3500er Pumpe
+Florian Stormarn 80-48-01	LF 10/6	1.000l Wasser, 2000er Pumpe
+Florian Stormarn 80-48-02	HLF 20/16	1.600l Wasser, 2000er Pumpe
+Florian Stormarn 80-63-01	WLF	
+Florian Stormarn 80-69-01	MZF-T Material/Rollcontainer	
+AB Logistik		
+AB Mulde		
+AB Umwelt		
+AB Wasser/Schaum		7.000l Wasser, 1.000l Schaum, TS
+2 Gabelstapler		
+3 Anhänger		
+Anhänger Stromerzeuger 100 kVA		
+Florian Stormarn 80-22-01 TLF 16/24		Oldtimer
+		
+Gemeinde Barsbüttel		
+FF Barsbüttel 95	Hauptstraße 38e	22885 Barsbüttel
+Florian Stormarn 95-11-01	ELW 1	
+Florian Stormarn 95-18-01	MTW	
+Florian Stormarn 95-32-01	DLK 23	
+Florian Stormarn 95-46-01	LF 20	2.000l Wasser, 2000er Pumpe
+Florian Stormarn 95-48-01	HLF 20/16	2.500l Wasser, 2000er Pumpe
+Florian Stormarn 95-61-01	SW 2000	
+		
+		
+FF Stellau 98	Am Spritzenhaus 2	22885 Barsbüttel
+FF Stemwarde 97	Dorfring 16	22885 Barsbüttel
+FF Willinghusen 96	Am Sportpl. 5	22885 Barsbüttel
+		
+		
+Amt Siek		
+FF Braak 88	Dorfstraße 10	22145 Braak
+FF Hoisdorf 82	Krütz 11	22955 Hoisdorf
+FF Kronshorst 85	Brommelweg 3	22946 Brunsbek
+FF Langelohe 86	Hauptstr. 22	22946 Brunsbek
+FF Meilsdorf 84	Gutsstraße 13	22962 Siek
+FF Oetjendorf 81	Krütz 11	22955 Hoisdorf
+FF Papendorf 87	Dorfstraße 8	22946 Brunsbek
+FF Siek 83	Marktstraße 1B	22962 Siek
+FF Stapelfeld 89	Hauptstraße 69	22145 Stapelfeld
+		
+		
+Amt Trittau		
+FF Grande 77	Tannenweg 25	22946 Grande
+FF Grönwohld 72	Bahnhofstraße 3	22956 Grönwohld
+FF Großensee 74	Hamburger Str. 11	22946 Großensee
+FF Hamfelde 78	Schulstraße 14 a/b	22929 Hamfelde
+FF Köthel 79	An der Bille 1	22929 Köthel	Kreis Stormarn
+FF Lütjensee 73	Alte Schulstraße 4	22952 Lütjensee
+FF Rausdorf 75	Hauptstraße 25	22929 Rausdorf
+FF Trittau 70	Rausdorfer Str. 3	22946 Trittau
+FF Witzhave 76	Rausdorfer Weg 18	22969 Witzhave
+		
+		
+Stadt Ahrensburg		
+FF Ahrensburg 60	Am Weinberg 2-4	22926 Ahrensburg
+FF Ahrensfelde 62	Teichstraße 3	22926 Ahrensburg
+FF Wulfsdorf 61	Bornkampsweg 33	22926 Ahrensburg
+		
+		
+Gemeinde Ammersbek		
+FF Bünningstedt 69	Dorfstraße 62 a	22949 Ammersbek
+FF Hoisbüttel 68	Hoisbütteler Dorfstraße 6	22949 Ammersbek
+		
+		
+Gemeinde Großhansdorf		
+FF Großhansdorf 71	Wöhrendamm 39	22927 Großhansdorf
+		
+		
+Amt Bargteheide-Land		
+FF Bargfeld-Stegen 54	Mittelweg 4	23863 Bargfeld-Stegen
+FF Delingsdorf 64	Schulstraße 3	22941 Delingsdorf
+FF Elmenhorst 56	Schulstraße 1	23869 Elmenhorst
+FF Fischbek 57	Am Dorfpl. 3 ggü	23869 Elmenhorst
+FF Hammoor 59	Kamp 3-1	22941 Hammoor
+FF Jersbek 52	Langereihe 1	22941 Jersbek
+FF Kleinhansdorf-Timmerhorn 53	Klein Hansdorfer Str. 29	22941 Jersbek
+FF Nienwohld 55	Schulstraße 3	23863 Nienwohld
+FF Todendorf 63	Rönnbaum 14	22965 Todendorf
+FF Tremsbüttel 58	Hauptstraße 66	22967 Tremsbüttel
+		
+		
+Stadt Bargteheide		
+FF Bargteheide 50	Alter Sportpl. 8	22941 Bargteheide
+		
+		
+Gemeinde Tangstedt		
+FF Tangstedt 65	Dorfstraße 28	22889 Tangstedt
+FF Wilstedt 66	Am Dorfpl. 7	22889 Tangstedt
+FF Wulksfelde 67	Rader Weg 192	22889 Tangstedt
+		
+		
+Amt Bad Oldesloe-Land		
+FF Eichede 39	Kirchenstraße 1	22964 Steinburg 
+FF Grabau 47	Grover Weg 8	21493 Grabau
+FF Klein Boden 36	Schlagenweg	23847 Rethwisch
+FF Lasbek 42	In de Eck 21	23847 Lasbek
+FF Meddewade 34	Hörn 5	23847 Meddewade
+FF Mollhagen 40	Twiete 1	22964 Steinburg
+FF Neritz 46	Schmiedeberg	23843 Neritz
+FF Pölitz 37	Schulstraße 5	23847 Pölitz
+FF Rethwischdorf 35	Am Sportpl.	23847 Rethwisch
+FF Rohlfshagen 45	An de Sylsbek 1	23843 Rümpel
+FF Rümpel 44	Lindenstraße 8a	23843 Rümpel
+FF Schlamersdorf 49	Dorfstraße 4a	23843 Travenbrück
+FF Schulenburg 38	Schulstraße 1	23847 Pölitz
+FF Sprenge 41	Raumredder 22964	Steinburg
+FF Sühlen 51	Zur Trave 23843	Travenbrück
+FF Tralau 48	Schulstraße 29	23843 Travenbrück
+		
+		
+Stadt Bad Oldesloe		
+FF Bad Oldesloe 30	Lübecker Str. 38	23843 Bad Oldesloe		
+FF Poggensee 31	Alte Dorfstraße 28	23896 Poggensee		
+FF Rethwischfeld 33	Am Sportpl.	23847 Rethwisch		
+FF Seefeld 32	Seefeld 3a	23843 Bad Oldesloe		
+		
+		
+Amt Nordstormarn		
+FF Badendorf 18	Dorfstraße 43a	23619 Badendorf
+FF Barnitz 28	Schlitzer Weg 2-5	23858 Barnitz
+FF Benstaben 29	Benstaben 1	23858 Barnitz
+FF Groß Wesenberg 21	Mühlenkamp 2	23858 Wesenberg
+FF Hamberge 19	Schulstraße 13A	23619 Hamberge
+FF Havighorst 11	Havighorst 53	23858 Feldhorst
+FF Heidekamp 14	Schulsteig 3	23858 Heidekamp
+FF Heilshoop 16	Hauptstraße 45	23619 Heilshoop
+FF Klein Wesenberg 24	Alte Dorfstraße 18A	23860 Klein Wesenberg
+FF Mönkhagen-Langniendorf 17	Hauptstraße 29	23619 Mönkhagen
+FF Pöhls 13	Dorfstraße 2	23619 Rehhorst
+FF Ratzbek 22	Dorfstraße 46	23858 Wesenberg
+FF Rehhorst 12	Up'n Knust 26	23619 Rehhorst
+FF Steinfeld 10	Steinfeld 71	23858 Feldhorst
+FF Stubbendorf 23	Bruhnkatener Weg 22	23858 Wesenberg
+FF Trenthorst-Ahrensfelde 26	An der K 8	23847 Westerau Trenthorst 32
+FF Westerau 25	Schulstraße 6	23847 Westerau
+FF Zarpen 15	Teichstraße 18	23619 Zarpen
+		
+		
+Stadt Reinfeld		
+FF Reinfeld 20	Mahlmannstraße 1	23858 Reinfeld
+		
+WF Druckzentrum Ahrensburg	Alter Postweg 6	22926 Ahrensburg
