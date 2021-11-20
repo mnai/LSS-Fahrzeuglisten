@@ -17,7 +17,7 @@ Bundeslandweite Listen für Polizei und andere übergordnete Informationen
 - Issue erstellen
 - Issue auf eigens erstelltem Branch fixen
 - Pull-Request stellen
-- Squash-Merge auf Mmain
+- Squash-Merge auf main
 
 ## Commit-Messages
 
