@@ -2,7 +2,7 @@
 name: Fehler in Fahrzeugliste
 about: Melde Fehler bzw. Korrekturen für Listen
 title: ''
-labels: ''
+labels: Korrektur
 assignees: ''
 
 ---
