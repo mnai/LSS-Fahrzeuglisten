@@ -8,7 +8,7 @@ Bundesland -> Landkreis/Stadt -> FF/RD/...
 Bundeslandweite Listen für Polizei und andere übergordnete Informationen
 
 # Ich hab einen Fehler gefunden
-- Erstelle einen Issue mit Fehlerbeschreibung / Korrektur oder wende dich an 112233/mnai
+- Erstelle einen Issue mit Fehlerbeschreibung / Korrektur https://github.com/mnai/LSS-Fahrzeuglisten/issues oder starte ein Thema in den Diskussionen https://github.com/mnai/LSS-Fahrzeuglisten/discussions
 - Korrigiere den Fehler mittels Pull-Request
 
 # Konventionen
