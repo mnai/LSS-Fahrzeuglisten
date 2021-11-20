@@ -1,5 +1,5 @@
 Wach- /Funkrufname,Typ,Kommentar
-Feuer- und Rettungswache 1 Innenstadt - Agrippastraße 18  50667 Köln,,
+Feuer- und Rettungswache 1 Innenstadt,Agrippastraße 18,50667 Köln
 Florian Köln 01 KDOW 01,KdoW,
 Florian Köln 01 HLF 01,HLF 20,
 Florian Köln 01 HLF 02,HLF 20/16,
@@ -16,7 +16,7 @@ Florian Köln 01 RTW 07,RTW,
 Florian Köln 01 RTW 08,RTW,
 Florian Köln 01 RTW 09,RTW,Durch 5-15
 ,,
-"Feuer- und Rettungswache 2 Marienburg - Schillingsrotter Weg 8-12, 50968 Köln",,
+Feuer- und Rettungswache 2 Marienburg,Schillingsrotter Weg 8-12,50968 Köln
 Florian Köln 02 KDOW 01,KdoW,
 Florian Köln 02 ELW1 01,ELW1,
 Florian Köln 02 HLF 01,HLF 20,
@@ -30,7 +30,7 @@ Florian Köln 02 RTW 02,RTW,
 Florian Köln 02 RTW 03,RTW,PTLF-Springer
 Florian Köln 02 RTW 04,RTW,
 ,,
-"Feuer- und Rettungswache 3 Lindenthal - Gleueler Straße 223-225, 50935 Köln",,
+Feuer- und Rettungswache 3 Lindenthal,Gleueler Straße 223-225,50935 Köln
 Florian Köln 03 KDOW 01,KdoW,
 Florian Köln 3 HLF 01,HLF 20/16,
 Florian Köln 3 TLF 01,TLF 24/50,
@@ -42,7 +42,7 @@ Florian Köln 03 RTW 03,RTW,TLF-Springer
 Florian Köln 03 RTW 04,RTW,
 Florian Köln 03 RTW 05,RTW,
 ,,
-"Feuer- und Rettungswache 4 Ehrenfeld - Äußere Kanalstraße 67, 50827 Köln",,
+Feuer- und Rettungswache 4 Ehrenfeld,Äußere Kanalstraße 67,50827 Köln
 Florian Köln 04 KDOW 01,KdoW,
 Florian Köln 04 HLF 01,HLF 20,
 Florian Köln 04 TLF 01,TLF 24/50,
@@ -56,7 +56,7 @@ Florian Köln 04 RTW 04,RTW,
 Florian Köln 04 RTW 05,Schwerlast-RTW,Bei Bedarf durch BF Besetzt
 Florian Köln 04 RTW 06,RTW,
 ,,
-"Feuer- und Rettungswache 5 Weidenpesch - Scheibenstr. 13, 50737 Köln",,
+Feuer- und Rettungswache 5 Weidenpesch,"Scheibenstr. 13,",50737 Köln
 Florian Köln 05 LEITER 01,KdoW LdF,
 Florian Köln 05 KDOW 01,KdoW,
 Florian Köln 05 KDOW 02,KdoW,
