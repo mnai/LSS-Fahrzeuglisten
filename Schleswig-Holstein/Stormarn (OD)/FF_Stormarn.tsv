@@ -36,6 +36,7 @@ Florian Stormarn 93-36-01	HuRW	TMF+RW
 Florian Stormarn 93-46-01	LF 20/25	
 Florian Stormarn 93-48-01	HLF	
 Florian Stormarn 93-68-01	GW Logistik	
+Anhänger Boot		
 		
 FF Havighorst 94	Dorfstraße 49	22113 Oststeinbek
 Florian Stormarn 94-19-01	MTW	
@@ -76,22 +77,65 @@ Florian Stormarn 95-46-01	LF 20	2.000l Wasser, 2000er Pumpe
 Florian Stormarn 95-48-01	HLF 20/16	2.500l Wasser, 2000er Pumpe
 Florian Stormarn 95-61-01	SW 2000	
 		
-		
 FF Stellau 98	Am Spritzenhaus 2	22885 Barsbüttel
+Florian Stormarn 98-18-01	MTW	
+Florian Stormarn 98-47-01	LF 20/16	2.000l Wasser, 3000er Pumpe
+Florian Stormarn 98-68-01	GW-L2	Atemschutz, Gefahrgut, Öl
+Anhänger Transport		
+Anhänger SEA		
+		
 FF Stemwarde 97	Dorfring 16	22885 Barsbüttel
+Florian Stormarn 97-18-01	MTW	
+Florian Stormarn 97-48-01	LF 16/12	2.000l Wasser, 1600er Pumpe, TH-Beladung
+Florian Stormarn 97-49-01	SLF 48	kein Wasser, 4800er Pumpe
+		
 FF Willinghusen 96	Am Sportpl. 5	22885 Barsbüttel
+Florian Stormarn 03-14-02	MZF	Löschzug Gefahrgut
+Florian Stormarn 95-10-01	KdoW	Fahrzeug Gemeindewehrführer
+Florian Stormarn 95-18-02	MTW	Jugendfeuerwehr
+Florian Stormarn 96-14-01	MZF	
+Florian Stormarn 96-22-01	TLF 16/25	
+Florian Stormarn 96-44-01	LF 20/16	2.400l Wasser, 3000er Pumpe
+Anhänger Jugendfeuerwehr		
 		
 		
 Amt Siek		
 FF Braak 88	Dorfstraße 10	22145 Braak
-FF Hoisdorf 82	Krütz 11	22955 Hoisdorf
+Florian Stormarn 88-18-01	MTW	
+Florian Stormarn 88-47-01	LF 20	
+		
+FF Hoisdorf 82	Krütz 16	22955 Hoisdorf
+Florian Stormarn 82-18-01	MTW	
+Florian Stormarn 82-40-01	TSF	
+Florian Stormarn 82-46-01	LF 20	2.800l Wasser, 2000er Pumpe
+Florian Stormarn 82-50-01	RW 1	
+		
 FF Kronshorst 85	Brommelweg 3	22946 Brunsbek
+Florian Stormarn 85-19-01	MTW	
+Florian Stormarn 85-46-01	LF 16/12	1.400l Wasser, 1600er Pumpe
+		
 FF Langelohe 86	Hauptstr. 22	22946 Brunsbek
+Florian Stormarn 86-44-01	LF 8/6	
+		
 FF Meilsdorf 84	Gutsstraße 13	22962 Siek
-FF Oetjendorf 81	Krütz 11	22955 Hoisdorf
+Florian Stormarn 84-18-01	MTW	
+Florian Stormarn 84-44-01	LF 8/6	
+		
+FF Oetjendorf 81	Oetjendorfer Landstraße 60	22961 Oetjendorf
+Florian Stormarn 81-42-01	LF 8/6	
+		
 FF Papendorf 87	Dorfstraße 8	22946 Brunsbek
+Florian Stormarn 87-18-01	MTF	
+Florian Stormarn 87-48-01	HLF 20/16	1.600l Wasser, 1600er Pumpe
+		
 FF Siek 83	Marktstraße 1B	22962 Siek
+Florian Stormarn 83-48-01	LF 16/12	mit TH-Ausrüstung
+Florian Stormarn 83-67-01	GW-L1	TS, TH, CSA, Schlauch,Öl
+		
 FF Stapelfeld 89	Hauptstraße 69	22145 Stapelfeld
+Florian Stormarn 89-18-01	MTW
+Florian Stormarn 89-48-01	HLF 20	2.000l Wasser, 2000er Pumpe
+Florian Stormarn 89-59-01	GW-Sonder	Material zur technischen Hilfe
 		
 		
 Amt Trittau		
@@ -145,7 +189,7 @@ FF Wulksfelde 67	Rader Weg 192	22889 Tangstedt
 		
 		
 Amt Bad Oldesloe-Land		
-FF Eichede 39	Kirchenstraße 1	22964 Steinburg 
+FF Eichede 39	Kirchenstraße 1	22964 Steinburg
 FF Grabau 47	Grover Weg 8	21493 Grabau
 FF Klein Boden 36	Schlagenweg	23847 Rethwisch
 FF Lasbek 42	In de Eck 21	23847 Lasbek
