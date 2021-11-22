@@ -1,0 +1,13 @@
+Ortsverband Bremen-Nord, Typ A
+Ortsverband Bremen-Ost, Typ B, Dia
+Ortsverband Stade, Typ B, DIA
+Ortsverband Stelle-Winsen, Typ A
+Ortsverband Verden, Typ A
+Ortsverband Bad Segeberg, Typ B
+Ortsverband Elmshorn, Typ A
+Ortsverband Flensburg, Typ A
+Ortsverband Hamburg-Bergedorf, Typ B
+Ortsverband Hamburg-Eimsbüttel, Typ A
+Ortsverband Mölln, Typ A
+Ortsverband Niebüll, Typ B
+Ortsverband Oldenburg, Typ B 
