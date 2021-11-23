@@ -1,0 +1,168 @@
+Übersicht Polizei Hamburg
+
+Funkrufnamenkennung:
+Die Funkstreifenwagen der Polizeikommissariate heißen "PETER >>> (Danach das PK)
+ >>>(Danach die Wagennummer) z.B. Peter 15/1 (PK 15 ist die Davidwache)
+ 
+Mögiche Struktur eines Beispiel-PKs:
+Peter 19/1  FuStW
+Peter 19/2  FuStW
+Peter 19/3  FuStW
+Peter 19/9  FuStW der Angestellten im Polizeidienst
+Peter 19/10 FuStW Dienstgruppenleiter
+Peter 19/11 Reservefahrzeug
+Peter 19/12 Reservefahrzeug
+Peter 19/15 Polizeimotorrad
+Peter 19/16 Polizeimotorrad
+Peter 19/20 LeMKw (auch Alarmabteilung)
+Peter 19/21 Zivilfahrzeug
+Peter 19/22 Zivilfahrzeug 
+Peter 19/81 Kripo
+
+Die genaue Anzahl unterscheidet sich je nach Wache deutlich.
+Motorräder, AiP und Kripo gibt es nicht an jedem Kommissariat.
+
+Die Fahrzeugangaben sind ungefähre Schätzungen der jeweils zu Spitzenzeiten 
+bzw. maximal besetzbaren FuStW basierend auf diversen Quellen.
+Die Anzahl der real besetzten Fahrzeuge kann deutlich kleiner oder größer sein.
+In Minimal-/Durchschnittsbesetzung haben viele PKs nur 2-4 FuStW im Dienst.
+Reserve- und Sonderfahrzeuge sind in den Zahlen nicht enthalten.
+
+*****
+
+Polizeipräsidium Hamburg, Bruno-Georges-Platz, 22297 Hamburg
+
+Polizeikommissariat 11, Steindamm 82, 20099 Hamburg
+5-6 FuStW
++ Container Hauptbahnhof, Hachmannplatz
++ Polizeiwache Hamburg-Hauptbahnhof, Kirchenallee, 20099 Hamburg
+
+Polizeikommissariat 14, Caffamacherreihe 4, 20355 Hamburg
+6-8 FuStW
++ Außenstelle Rathaus, Große Johannisstraße
++ Außenstelle Klingberg, Klingberg 1, 20095 Hamburg
++ Außenstelle Strafjustiz, Sievekingplatz 3
+
+Polizeikommissariat 15, Spielbudenplatz 31, 20359 Hamburg (Davidwache)
+5-6 FuStW
+
+Polizeikommissariat 16, Lerchenstraße 82, 22767 Hamburg
+4-5 FuStW
++ Domwache, Feldstraße 65 (nur besetzt, wenn Hamburger Dom ist)
+
+Polizeikommissariat 17, Sedanstraße 28, 20146 Hamburg
+4-6 FuStW
+Krad-Standort, Peter 17/15+17/16
+
+Polizeikommissariat 21, Mörkenstraße 30, 22767 Hamburg
+5-8 FuStW
+
+Polizeikommissariat 23, Troplowitzstraße 3, 22529 Hamburg
+6-9 FuStW
++ Außenstelle, Grundstraße 6, 20257 Hamburg
+
+Polizeikommissariat 24, Garstedter Weg 24, 22453 Hamburg
+5-6 FuStW
+
+Polizeikommissariat 25, Notkestraße 95, 22607 Hamburg
+5-8 FuStW
+Krad-Standort, Peter 25/15+25/16
++ Bedarfsaußenstelle Arenen, Sylvesterallee 12, 22525 Hamburg
+
+Polizeikommissariat 26, Blomkamp 23, 22549 Hamburg
+3-6 FuStW
++ Außenstelle Rissen, Rissener Dorfstraße 40, 22529 Hamburg (Neubau 2020)
+
+Polizeikommissariat 27, Koppelstraße 7, 22527 Hamburg
+3-5 FuStW
+
+Polizeikommissariat 31, Oberaltenallee 42, 22081 Hamburg
+5-10 FuStW
+Krad-Standort, Peter 31/15+31/16
+
+Polizeikommissariat 33, Wiesendamm 133, 22303 Hamburg
+3-5 FuStW
+
+Polizeikommissariat 34, Wördenmoorweg 78, 22415 Hamburg
+4-7 FuStW
++ Außenstelle Flughafen, Flughafenstraße 1
+
+Polizeikommissariat 35, Wentzelplatz 1, 22391 Hamburg
+4-5 FuStW
+Krad-Standort, Peter 35/15+35/16
++ Außenstelle Volksdorf, Farmsener Landstraße 202, 22359 Hamburg
+Peter 35/91
+
+Polizeikommissariat 36, Ellernreihe 135, 22179 Hamburg
+4-7 FuStW
+
+Polizeikommissariat 37, Am Alten Posthaus 6, 22041 Hamburg
+2-3 FuStW
+Krad-Standort, Peter 37/15+37/16
+
+Polizeikommissariat 38, Scharbeutzer Straße 15, 22147 Hamburg 
+5-6 FuStW
+
+Polizeikommissariat 41, Sievekingdamm 20, 20535 Hamburg
+4-8 FuStW
+
+Polizeikommissariat 42, Möllner Landstraße 44, 22111 Hamburg
+6-8 FuStW
++ Außenstelle Horn, Rennbahnstraße 38 c
+
+Polizeikommissariat 43, Ludwig-Rosenberg-Ring 57, 21031 Hamburg
+6-10 FuStW
+Krad-Standort, Peter 43/15+43/16
++ Außenstelle Allermöhe, Walter-Rudolphi-Weg 32 (43/91)
++ Polizeiposten Ochsenwerder-Moorfleet, Gauerter Hauptdeich 73 (43/92)
++ Polizeiposten Billwerder-Allermöhe, Standort wird gesucht, aktuell über AST Allermöhe (43/93)
++ Polizeiposten Kirchwerder-Warwisch, Durchdeich 155 a (43/94)
++ Polizeiposten Kirchwerder-Zollenspieker, Auf dem Sülzbrack 4 (43/95)
++ Polizeiposten Curslack-Neuengamme, Curslacker Deich 165 a (43/96)
++ Polizeiposten Altengamme, Gammer Weg 30 (43/97)
+
+Polizeikommissariat 44, Georg-Wilhelm-Straße 77, 21107 Hamburg
+4-7 FuStW
+
+Polizeikommissariat 46, Lauterbachstraße 7, 21073 Hamburg
+5-9 FuStW
+
+Polizeikommissariat 47, Neugrabener Markt 3, 21149 Hamburg
+3-7 FuStW
+Krad-Standort, Peter 47/15+47/16
++ Außenstelle Finkenwerder, Butendeichsweg 2
++ Polizeiposten Cranz, Estedeich 95 (aktuell nicht besetzt)
+
+Wasserschutzpolizeikommissariat 1, Waltershofer Damm 1, 21129 Hamburg
+Elbe 51/xx 2-3 FuStW
+
+Wasserschutzpolizeikommissariat 2, Roßdamm 10, 20457 Hamburg
+Elbe 52/xx 2-3 FuStW
+
+Wasserschutzpolizeikommissariat 3, Am Überwinterungshafen 1, 21079 Hamburg
+Elbe 53/xx 2-3 FuStW
+
+Verkehrsstaffel Süd, Großmoorring 14, 21079 Hamburg
+Vera Süd 11 ff. FuStW
+Vera Süd 21+22 SiKW
+Vera Süd 41 ff. ProVida
+Vera Süd 61 ff. VUD
+
+Verkehrsstaffel West, Stresemannstraße 341-347, 22761 Hamburg
+Vera West 11 ff. FuStW
+Vera West 21+22 leMKW
+Vera West 41 ff. ProVida
+Vera West 51-58 Krad
+Vera West 61 ff. VUD
+Außenstelle Elbtunnel Nord
+Vera West 23+24 SiKW
+
+Verkehrsstaffel Ost, Rennbahnstraße 129, 22043 Hamburg
+Vera Ost 11 ff. FuStW
+Vera Ost 21+22 leMKW
+Vera Ost 41 ff. ProVida
+Vera Ost 51-58 Krad
+Vera Ost 61 ff. VUD
+ 
+Landesbereitschaftspolizei (LBP) Hamburg, Carl-Cohn-Straße 39, 22297 Hamburg
+siehe Liste Bereitschaftspolizei Hamburg
