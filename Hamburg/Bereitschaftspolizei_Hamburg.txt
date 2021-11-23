@@ -1,0 +1,104 @@
+Die Bereitschaftspolizei wurde in 2018 (und danach erneut) neu strukturiert. Sie hat jetzt die Bezeichnung Landesbereitschaftspolizei (LBP) und weiterhin die Adresse Carl-Cohn-Straße 39.
+
+Diese gliedert sich in zwei Abteilungen:
+1 - mit 4 Einsatzhunderschaften (ehemals Brise 31-34)
+2 - mit einer Beweissicherungs- und Festnahme Hundertschaft (BFHu, ehemals 2 Züge BFE), sowie der Reiterstaffel, den Tauchern und allen weiteren technischen Einheiten wie z.B. Wasserwerfern
+
+Die vier Hundertschaften der Abteilung 1 bestehen aus jeweils 4 Zügen mit jeweils 4 Gruppen. 
+Die Zugehörigkeit eines Beamten kann man anhand der jeweiligen 6-stelligen Kennzeichnung, den Kennziffern auf dem Helm und der Kennziffer auf dem Nackenschutz erkennen.
+Ein Beamter der Abteilung 1, 1. Hundertschaft, 2. Zug, 3. Gruppe hat als Kennziffer immer 1123xx, trägt auf dem Helm die 12 und auf dem Nackenschutz eine 3. Führungsbeamte haben je nach Position verschieden viele 0en in der Kennzeichnung, 110000 ist zum Beispiel die Kennziffer des Hundertschaftsführers und 112000 wäre der Zugführer des zweiten Zuges dieser Hundertschaft. 
+Zugführer und Gruppenführer tragen entsprechend ihrer Funktion zusätzlich 3 bzw. 2 Punkte auf Helm und Uniform.
+
+Leider sind die neuen Funkrufnamen bisher nicht eindeutig zu ermitteln gewesen (siehe auch Post im Forum). 
+Wahrscheinlich ist folgende Struktur mit 2.Ziffer/3.+4.Ziffer der Kennung.
+
+Brise 1/01 Hundertschaftsführung
+Brise 1/0x Versorgungsdienst/Führungsgruppe
+
+Brise 1/10--- Zugführer 1. Zug
+Brise 1/11--- 1. Gruppe
+Brise 1/12--- 2. Gruppe
+Brise 1/13--- 3. Gruppe
+
+Brise 1/20--- Zugführer 2. Zug
+Brise 1/21--- 1. Gruppe
+Brise 1/22--- 2. Gruppe
+Brise 1/23--- 3. Gruppe
+
+Brise 1/30--- Zugführer 3. Zug
+Brise 1/31--- 1. Gruppe
+Brise 1/32--- 2. Gruppe
+Brise 1/33--- 3. Gruppe
+
+Brise 1/40--- Zugführer 4. Zug
+Brise 1/41--- 1. Gruppe
+Brise 1/42--- 2. Gruppe
+Brise 1/43--- 3. Gruppe
+
+Die Fahrzeugkennzeichnungen (nicht Autokennzeichen) bestehen im Allgemeinen aus der 2. und 3. Ziffer der 6-stelligen Einheitskennzeichnung, also z.B. 14 für Zug 4 der 1. HS. 
+Davon abweichend haben viele (Le)BefKw (=Zugführung) eine Kennzeichnung aus arabischer Ziffer für die Hundertschaft und römischer Zahl für den Zug.
+
+Der Aufbau von Abteilung 2 ist deutlich komplizierter.
+
+Die Beweissicherungs- und Festnahme Hundertschaft (BFHu) ist als 5. Hundertschaft in Abteilung 2 angesiedelt, Kennzeichnung 25xxxx. 
+An dritter Stelle konnte bisher nur eine 1 oder 3 beobachtet werden, was dafür spricht, dass die Züge 1 und 3 einsatzfähig sind, während 2 und 4 sich in Ausbildung befinden oder bisher nicht im Einsatz waren. 
+Die Gruppensystematik scheint besonders zu sein, da an vierter Stelle nahezu alle Ziffern (außer 2, 3 und 7) bisher beobachtet wurden.
+
+Außerdem gibt es noch die 5 Einsatzzüge (ehemals DE 361 - 365) vermutlich jetzt als 26xxxx und die Reiter- und Hundestaffel (ehemals DE 37) wovon die Reiter jetzt als 271xxx laufen.
+
+Die Ziffer 8 (28xxxx) wird vielleicht von den Alarmabteilungen genutzt.
+
+Die technische Hundertschaft heißt jetzt LBP 9 bzw. 9. Hundertschaft in Abteilung 2, Kennzeichnung 29xxxx.
+
+Die Taucher (zwischenzeitlich LBP 91) sind eine Gruppe mit Tauchereinsatzfahrzeug 01 und 02, also 291xxx. Wasserwerfer werden von Fahrzeugen mit Kennzeichnung 91 und 92 begleitet, also 291xxx oder 292xxx.
+
+Die Funkrufnamen der Einheiten ergeben sich vermutlich aus der Zahl, die sich aus zweiter und dritter Ziffer bildet, also 143xxx (3. Zug, 4. Hundertschaft) wäre Brise 43. 
+
+http://bos-fahrzeuge.info/wachen/955/Landesbereitschaftspolizei_LBP_Hamburg/einsatzfahrzeuge
+
+
+******************
+Diensthundestaffel
+******************
+
+Die Diensthundestaffel (272xxx) sitzt an der Stresemannstraße 361-365, und hat die Fahrzeuge Brise 72/80 ff.
+
+
+******************
+Alarmabteilung Hamburg
+******************
+
+Die Alarmabteilung Hamburg besteht aus zusammengezogenen Einheiten der PKs und kann insgesamt 4 Hundertschaften stellen. 
+Sie hat keine festen Wachen oder Standorte. Die Funkrufnamen besitzen dasselbe Schema wie die normalen Hundertschaften, beginnend mit 81 bis 84.
+
+
+******************
+SEK und MEK
+******************
+
+Angegliedert beim LKA Abteilung 24, Funkrufname Kastor
+
+
+******************
+Polizeihubschrauber
+******************
+Am Flughafen Hamburg Airport / Helmut Schmidt Flughafenstraße 1 Hamburg, nordöstliche Ecke des Apron 5 der Lufthansa Technik
+
+Libelle 1 D-HONE EC 135 P2
+
+Libelle 2 D-HTWO EC 135 P2 
+
+
+******************
+Landesreserve
+******************
+
+LRA = Landesreserve A, Bereitschaftspolizei, fährt lagebezogen bzw. zur allg. Verstärkung 24h
+
+Peter 2/1 (Zugführer) und 2/11 - 13 (1.Gruppe) 2/21 - 23 (2. Gruppe) und 2/31 - 33 (3. Gruppe)
+
+LRC = Landesreserve C, Bereitschaftspolizei, fährt lagebezogen bzw. zur allg. Verstärkung Spät und Nacht
+
+Peter 2/6 (Zugführer) und 2/61 - 63 (1. Gruppe) 2/64 - 66 (2. Gruppe) und die 3. Gruppe hat nur 2 FuStw Peter 2/67 und 2/68
+
+Beide Landesreserven haben ihre Basis bei der Bereitschaftspolizei / dem Polizeipräsidum.
