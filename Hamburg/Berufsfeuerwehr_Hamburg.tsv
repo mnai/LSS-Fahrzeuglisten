@@ -120,9 +120,9 @@ Florian Hamburg 14 KLB		außer Dienst?
 Florian Hamburg 14 RTW Anton		
 Florian Hamburg 14 RTW Berta		
 Florian Hamburg 14 RTW Cäsar		
+Florian Hamburg 14 RTW Dora		Ehemals 10-RTW-A
 Florian Hamburg 14 RTW Kaufmann		
 Florian Hamburg 14 GW-SAN		
-Florian Hamburg 10 RTW Anton		Bereichsverstärkung
 + Außenstelle Othmarschen	Walderseestraße 15	besetzt von F14, außer 12 RTW E
 Florian Hamburg 12 SLF-T 1		
 Florian Hamburg 12 VRW-T 1		
@@ -224,10 +224,9 @@ Florian Hamburg 23 GW1 1
 Florian Hamburg 23 GW-SEGH 1	GW-Höhenrettung	
 Florian Hamburg 23 RTW Anton		
 Florian Hamburg 23 RTW Berta		
-Florian Hamburg 23 RTW Cäsar		a.d. ab 04.01.2021, dafür 11 RTW F neu
+Florian Hamburg 23 RTW Cäsar		war a.d. ab 04.01.2021, dafür 11 RTW F neu, seit Ende 2021 Nachfolger vom 20-RTW-C
 Florian Hamburg 23 RTW Kaufmann		
 Florian Hamburg 23 GW-SAN		
-Florian Hamburg 20 RTW Cäsar		Bereichsverstärkung
 + RW Barmbek-Nord	AK Barmbek Rübenkamp 220	
 Florian Hamburg 23 NEF Anton		
 Florian Hamburg 23 RTW Friedrich		
@@ -241,10 +240,10 @@ Florian Hamburg 24 DLK 1
 Florian Hamburg 24 GW1 1		
 Florian Hamburg 24 RTW Anton		
 Florian Hamburg 24 RTW Berta		
+Florian Hamburg 20 RTW Cäsar		Ehemals 20-RTW-A
 Florian Hamburg 24 RTW Kaufmann		
-Florian Hamburg 24 RTW Ludwig		
+(Florian Hamburg 24 RTW Ludwig)		nur technische Reserve
 Florian Hamburg 24 NEF Anton		
-Florian Hamburg 20 RTW Anton		Bereichsverstärkung
 + RTW Außenstelle Bramfeld	Ellernreihe 139	ASB
 Florian Hamburg 24 RTW Friedrich		seit 01.04.2021 Betrieb durch die ASB Rettungsdienst Hamburg GmbH
 + RTW Außenstelle Lemsahl-Mellingstedt	Lemsahler Landstraße 220	
@@ -380,7 +379,7 @@ Florian Hamburg 35 RTW Kaufmann
 F 36 Feuer- und Rettungswache Süderelbe	Waltershofer Strasse 1	
 Florian Hamburg 36 ELW 1		
 Florian Hamburg 36 HLF 1		
-Florian Hamburg 36 TMF 1		
+Florian Hamburg 36 DLK 1		
 Florian Hamburg 36 GW-R2 1		
 Florian Hamburg 36 GW1 1		
 Florian Hamburg 36 WLF A		
