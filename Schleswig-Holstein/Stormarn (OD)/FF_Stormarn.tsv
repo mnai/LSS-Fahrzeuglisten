@@ -129,7 +129,7 @@ FF Papendorf 87	Dorfstraße 8	22946 Brunsbek
 Florian Stormarn 87-18-01	MTF	
 Florian Stormarn 87-48-01	HLF 20/16	1.600l Wasser, 1600er Pumpe
 		
-FF Siek 83	Marktstraße 1B	22962 Siek
+FF Siek 83	Marktstraße 1B	22962 Siek Neubau Freifläche Hauptstraße
 Florian Stormarn 83-48-01	LF 16/12	mit TH-Ausrüstung
 Florian Stormarn 83-67-01	GW-L1	TS, TH, CSA, Schlauch,Öl
 		
@@ -141,29 +141,103 @@ Florian Stormarn 89-59-01	GW-Sonder	Material zur technischen Hilfe
 		
 Amt Trittau		
 FF Grande 77	Tannenweg 25	22946 Grande
+Florian Stormarn 77-18-01	MTF	
+Florian Stormarn 77-45-01	LF 10/6	1.000l Wasser, 1000er Pumpe
+Tragkraftspritzenanhänger		
+		
 FF Grönwohld 72	Bahnhofstraße 3	22956 Grönwohld
+Florian Stormarn 72-18-01	MTF	
+Florian Stormarn 72-44-01	LF 8/6	600l Wasser, 800er Pumpe
+Florian Stormarn 72-48-01	HLF 20	2.000l Wasser, 2000er Pumpe
+		
 FF Großensee 74	Hamburger Str. 11	22946 Großensee
-FF Hamfelde 78	Schulstraße 14 a/b	22929 Hamfelde
+Florian Stormarn 74-14-01	MZF	MTW/ELW/Transport
+Florian Stormarn 74-22-01	TLF 16/25	2.400l Wasser, 1/8 Besatzung
+Florian Stormarn 74-42-01	LF 8	
+Florian Stormarn 74-78-01	Boot	
+Anhänger Jugendfeuerwehr		
+		
+FF Hamfelde 78	Schulstraße 14 a/b	22929 Hamfelde, Neubau schräg gegenüber in Planung
+Florian Stormarn 78-18-01	MTW	
+Florian Stormarn 78-44-01	LF 8/6	Ersatz durch LF 10 läuft
+		
 FF Köthel 79	An der Bille 1	22929 Köthel Kreis Stormarn
+Florian Stormarn 79-19-01	MTW	
+Florian Stormarn 79-42-01	LF 8/6	
+		
 FF Lütjensee 73	Alte Schulstraße 4	22952 Lütjensee
+Florian Stormarn 73-14-01	MZF	
+Florian Stormarn 73-48-01	HLF 20	
+Florian Stormarn 73-48-02	LF 16/12	1.600l Wasser, 1600er Pumpe
+		
 FF Rausdorf 75	Hauptstraße 25	22929 Rausdorf
-FF Trittau 70	Rausdorfer Str. 3	22946 Trittau
+Florian Stormarn 75-40-01	TSF	
+Florian Stormarn 75-48-01	LF 16/12	1.400l Wasser, 1600er Pumpe
+		
+FF Trittau 70	Rausdorfer Str. 3	22946 Trittau. Neubau Rettungszentrum Gadebuscher Straße in Planung
+Florian Stormarn 70-11-01	ELW 1	
+Florian Stormarn 70-18-01	MTW	
+Florian Stormarn 70-46-01	LF 20	2.400l Wasser, 2000er Pumpe
+Florian Stormarn 70-48-01	HLF 20
+Florian Stormarn 70-48-02	HLF 20	2.000l Wasser, 2000er Pumpe
+Florian Stormarn 70-68-01	GW-L2	v.a. SW
+Florian Stormarn 03-72-02	ReakErkTrKW	
+		
 FF Witzhave 76	Rausdorfer Weg 18	22969 Witzhave
+Florian Stormarn 76-18-01	MTW	
+Florian Stormarn 76-42-01	LF 8	
+Florian Stormarn 76-48-01	HLF 20/16	3.000l Wasser
 		
 		
 Stadt Ahrensburg		
 FF Ahrensburg 60	Am Weinberg 2-4	22926 Ahrensburg
+Florian Stormarn 60-00-01?	PKW?	
+Florian Stormarn 60-10-01	KdoW	VW Amarok
+Florian Stormarn 60-11-01	ELW 1	
+Florian Stormarn 60-17-01	GW	Gerätewartung und Atemluftflaschen
+Florian Stormarn 60-18-01	MTF	
+Florian Stormarn 60-25-01	TLF 24/50	
+Florian Stormarn 60-32-01	DLK 23/12	
+Florian Stormarn 60-47-01	LF 20/16	2.400l Wasser, 2000er Pumpe
+Florian Stormarn 60-48-01	HLF 20	1.600l Wasser, 2000er Pumpe
+Florian Stormarn 60-51-01	RW 2	
+Florian Stormarn 60-57-01	GW-AS	
+Florian Stormarn 60-67-01	GW-L1	
+		
+Zweites Gerätehaus	Jonny-Loesch-Weg 3	22926 Ahrensburg
+Florian Stormarn 60-18-02	MTF	
+Florian Stormarn 60-45-01	LF 10	
+		
+Löschgruppe Wulfsdorf	Bornkampsweg 33	22926 Ahrensburg
+Florian Stormarn 60-18-03	MTW	
+Florian Stormarn 60-45-02	LF 8/6	
+		
 FF Ahrensfelde 62	Teichstraße 3	22926 Ahrensburg
-FF Wulfsdorf 61	Bornkampsweg 33	22926 Ahrensburg
+Florian Stormarn 62-18-01	MTW	
+Florian Stormarn 62-45-01	HLF 10	
 		
 		
 Gemeinde Ammersbek		
 FF Bünningstedt 69	Dorfstraße 62 a	22949 Ammersbek
+Florian Stormarn 69-18-01	MTW	
+Florian Stormarn 69-45-01	LF 10/6	
+Florian Stormarn 69-46-01	LF 10	2.000l Wasser, 2000er Pumpe
+Tragkraftspritzenanhänger		
+		
 FF Hoisbüttel 68	Hoisbütteler Dorfstraße 6	22949 Ammersbek
+Florian Stormarn 68-18-01	MTW	
+Florian Stormarn 68-47-01	LF 20/16	
+Florian Stormarn 68-48-01	LF 20	3.000l Wasser, 2000er Pumpe
 		
 		
 Gemeinde Großhansdorf		
 FF Großhansdorf 71	Wöhrendamm 39	22927 Großhansdorf
+Florian Stormarn 71-11-01	ELW 1	
+Florian Stormarn 71-18-01	MTW	
+Florian Stormarn 71-22-01	TLF 16/25	Besatzung 1/8
+Florian Stormarn 71-32-01	DLA(K) 23/12	
+Florian Stormarn 71-48-01	HLF 20/16	
+Florian Stormarn 71-51-01	RW 2	
 		
 		
 Amt Bargteheide-Land		
@@ -241,3 +315,4 @@ FF Reinfeld 20	Mahlmannstraße 1	23858 Reinfeld
 		
 WF Druckzentrum Ahrensburg	Alter Postweg 6	22926 Ahrensburg
 		
+Feuerwehrtachnische Zentrale	Lindenstraße 82	23843 Travenbrück
