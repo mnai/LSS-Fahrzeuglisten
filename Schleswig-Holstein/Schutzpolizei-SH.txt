@@ -1,0 +1,801 @@
+PD
+    (B)KI
+        KPSt.
+    PR
+        PSt.
+            PSt. Außenstellen
+    PZSt.
+        PSt.
+            PSt. Außenstellen
+    P(A)BR
+        FD
+    PVÜD
+
+1. SE
+PD Segeberg, Dorfstraße 16-18, 23795 Bad Segeberg
+- Kalkberg xx/xx
+
+1a.
+KI Segeberg, Dorfstraße 16-18, 23795 Bad Segeberg
+- Kalkberg 90/xx
+
+    KPSt Norderstedt, Europaallee 24, 22850 Norderstedt
+    - Kalkberg 95/xx
+
+    KPSt Elmshorn, Moltkestraße 26, 25335 Elmshorn
+    - Rose 95/xx?
+
+    KPSt Pinneberg, Elmshorner Straße 40, 25421 Pinneberg
+    - Rose 90/xx
+
+
+1b.
+PR Bad Segeberg, Dorfstraße 16-18, 23795 Bad Segeberg
+- Kalkberg 10/xx
+
+    PSt. Garbek, Segeberger Straße 3, 23827 Garbek
+    - Kalkberg 12/xx
+
+    PSt. Wahlstedt, Segeberger Straße 12, 23812 Wahlstedt
+    - Kalkberg 15/xx
+
+    PSt. Leezen, Raiffeisenstraße 6, 23816 Leezen
+    - Kalkberg 16/xx
+
+    PSt. Rickling, Dorfstraße 35a, 24635 Rickling
+    - Kalkberg 17/xx
+
+    PSt. Trappenkamp, Am Markt 28, 24610 Trappenkamp
+    - Kalkberg 18/xx
+    
+    LUK Bad Segeberg, Segeberger Str. 106a, 23795 Bad Segeberg
+    - vmt. keine Fahrzeuge, nur Fußstreifen auf Gelände. (Landesunterkunft)
+
+PR Norderstedt, Europaallee 24, 22850 Norderstedt
+- Kalkberg 2/xx
+
+    PSt. Norderstedt-Mitte, Rathausallee 78, 22846 Norderstedt
+    - Kalkberg 21/xx
+
+    PSt. Norderstedt-Ost Poppenbütteler Straße 178, 22851 Norderstedt
+    - Kalkberg 22/xx
+
+PR Kaltenkirchen, Hamburger Straße 62, 24568 Kaltenkirchen
+- Kalkberg 35/xx
+
+    PSt. Bad Bramstedt, Altonaer Straße 2, 24576 Bad Bramstedt
+    - Kalkberg 30/xx
+
+    PSt. Boostedt, Twiete 9, 24598 Boostedt
+    - Kalkberg 31/xx
+
+    PSt. Henstedt-Ulzburg, Maurepassstraße 26, 24558 Henstedt-Ulzburg (25 Mitarbeiter)
+    - Kalkberg 40/xx
+
+    PSt. Ellerau, Brombeerweg 110, 25479 Ellerau
+    - Kalkberg 42/xx
+
+    PSt. Tangstedt, Wassermühlenweg 12, 22889 Tangstedt (Dorfsheriff)
+    - Kalkberg 43/xx
+
+    PSt. Itzstedt, Segeberger Straße 41, 23845 Itzstedt (Umzug nach Nahe geplant!)
+    - Kalkberg 44/xx
+    
+    LUK Boostedt
+    - vmt. keine Fahrzeuge, nur Fußstreifen auf Gelände. (Landesunterkunft)
+
+PR Pinneberg, Elmshorner Straße 40, 25421 Pinneberg
+- Rose 1/xx
+
+    PSt. Kummerfeld, Dorfstraße 1, 25495 Kummerfeld
+    - Rose 12/xx
+
+PR Rellingen, Halstenbeker Weg 85
+- Rose 2/xx
+
+    PSt. Schenefeld, Kiebitzweg 22, 22869 Schenefeld (bei Hamburg)
+    - Rose 21/xx
+
+    PSt. Bönningstedt, Kieler Straße 103, 25474 Bönningstedt
+    - Rose 23/xx
+
+    PSt. Quickborn, Ernst-Abbe-Straße 10, 25451 Quickborn, Neubau Marktstraße 1-3 geplant
+    - Rose 24/xx
+
+PR Wedel, Gorch-Fock Straße 9-11, 22880 Wedel
+- Rose 3/xx
+
+    PSt. Uetersen, Marktstraße 34, 25436 Uetersen
+    - Rose 31/xx
+
+PR Elmshorn, Moltkestraße 26, 25335 Elmshorn
+- Rose 4/xx
+
+    PSt. Barmstedt, Reichenstraße 38, 25355 Barmstedt
+    - Rose 41/xx
+
+    PSt. Brande-Hörnerkirchen, Rosentwiete 4, 25364 Brande-Hörnerkirchen
+    - Rose 42/xx
+
+
+1c.
+PABR Bad Segeberg, Dorfstraße 16-18, 23795 Bad Segeberg
+- Kalkberg 48/xx
+1x ProViDa Wagen
+
+PABR Elmshorn
+- Rose 7/xx
+vmt. 1x ProViDa Wagen (von ehem. PABR Pinneberg)?
+
+
+
+2. FL
+PD Flensburg, Norderhofenden 1, 24937 Flensburg
+- Förde xx / Nordwind xx
+
+2a.
+BKI Flensburg, Norderhofenden 1, 24937 Flensburg
+- Nordkap 90/xx
+
+    KPSt. Schleswig, Friedrich-Ebert-Straße 8, 24837 Schleswig
+    - Schlei 90/xx
+
+    KPSt. Husum, Poggenburgstraße 9, 25183 Husum
+    - Friesland 90/xx
+
+    KPSt. Sylt, Stephanstraße 14, 25980 Sylt
+    - Düne 95/xx
+
+    KPSt. Niebüll, Gather Landstraße 75, 25899 Niebül
+    - Friesland 95/xx
+
+
+2b.
+1. PR Flensburg, Norderhofenden 1, 24937 Flensburg
+- Förde 1/xx 
+
+2. PR Flensburg, Norderhofenden 1, 24937 Flensburg 
+- verwaltet alle umliegenden Polizeistationen
+- keine Kennung bekannt vmt. keine Fahrzeuge zugeteilt.
+
+    PSt. Flensburg Mitte, Große Straße 16, 24937 Flensburg
+    - keine Fahrzeuge?
+
+    PSt. Mürwik, Fichtestraße 2, 24943 Flensburg
+    - Förde 21/xx
+
+    PSt. Engelsby, Franz-Schubert-Hof 21, 24943 Flensburg
+    - Förde 22/xx
+
+    PSt. Flensburg Nord, Neustadt 30, 24939 Flensburg (ehemals 2. PR Flensburg)
+    - Förde 2/xx oder Förde 2x/xx
+
+    PSt. Friesischer Berg, Thomas-Mann-Straße 22, 24937 Flensburg
+    - Förde 23/xx
+
+    PSt. Weiche, Ochsenweg 32, 24941 Flensburg
+    - Förde 25/xx
+
+    PSt. Harrislee, Geheimrat-Dr.-Schaedel-Straße 20, 24955 Harrislee
+    - Schlei 70/xx
+
+    PSt. Handewitt, Wiesharder Markt 23, 24983 Handewitt
+    - Schlei 71/xx
+
+    PSt. Glücksburg, Collenburger Straße 33, 24960 Glücksburg
+    - Schlei 40/xx
+
+    PSt. Schafflund, Tannenweg 1, 24980 Schafflund
+    - Schlei 73/xx
+
+    PSt. Husby, Flensburger Straße 40-42, 24975 Husby
+    - Schlei 41/xx oder 43/xx, Fusion aus Hürup und Langballig
+
+PR Schleswig, Friedrich-Ebert-Straße 8, 24837 Schleswig
+- Schlei 10/xx
+
+    PSt. Kropp, Am Markt 10a, 24848 Kropp
+    - Schlei 30/xx
+
+    PSt. Silberstedt, Hauptstraße 41, 24887 Silberstedt
+    - Schlei 32/xx
+
+    PSt. Erfde, Beekstraße 2, 24803 Erfde
+    - Schlei 34/xx
+
+    PSt. Busdorf, Schulstraße 1, 24866 Busdorf
+    - Schlei 31/xx
+
+    PSt. Böklund, Toft 7, 24860 Böklund
+    - Schlei 61/xx
+
+PR Kappeln, Gerichtsstraße 1, 24376 Kappeln
+- Schlei 20/xx
+
+    PSt. Süderbrarup, Bismarckstraße 27, 24392 Süderbrarup
+    - Schlei 21/xx
+
+    PSt. Steinbergkirche, Nordstraße 1, 24972 Steinbergkirche
+    - Schlei 44/xx
+
+    PSt. Mittelangeln, Flensburger Straße 6, 24986 Mittelangeln
+    - Schlei 63/xx
+
+    PSt. Tarp, Dorfstraße 22, 24963 Tarp
+    - Schlei 60/xx
+
+PR Husum, Poggenburgstraße 9, 25183 Husum
+- Friesland 10/xx
+
+    PSt. Friedrichstadt, Lohberger Straße 33a, 25840 Friedichstadt
+    - Friesland 20/xx
+
+    PSt. Viöl, Westerende 41, 25884 Viöl
+    - Friesland 23/xx
+
+    PSt. Hattstedt, Amtsweg 10, 25856 Hattstedt
+    - Friesland 24/xx
+
+    PSt. Pellworm, Uthlandstrasse 1, 25849 Pellworm
+    - Friesland 27/xx
+
+    PSt. Tönning, Schloßgarten 1, 25832 Tönning
+    - Friesland 15/xx
+
+    PSt. Garding, Osterende 10, 25836 Garding
+    - Friesland 17/xx
+
+    PSt. St.-Peter Ording, Deichgrafenweg 4, 25826 St. Peter Ording
+    - Friesland 16/xx
+
+    LUK Seeth
+    - Nurnoch im Reservebetriebt! vmt. keine Fahrzeuge, nur Fußstreifen auf Gelände. (Landesunterkunft)
+
+PR Niebüll, Gather Landstraße 75, 25899 Niebüll
+- Friesland 35/xx
+
+    PSt. Leck, Marktstraße 7-9, 25917 Leck
+    - Friesland 40/xx
+
+    PSt. Bredstedt, Markt 33, 25821 Bredstedt
+    - Friesland 30/xx
+
+    PSt. Wyk, Hafendeich 15, 25938 Wyk auf Föhr
+    - Friesland 45/xx
+
+    Zweigstelle PSt. Nebel, Sanghughwai 12A, 25946 Nebel
+    - Friesland 46/xx
+
+PR Sylt, Stephanstraße 14, 25980 Sylt / OT Westerland
+- Düne 10/xx
+
+
+2c.
+PABR Nord
+    FD BAB Schleswig-Schuby, Lürschau Weg 1, 24850 Schuby
+    Schlei 7/xx
+
+    FD Bezirk Schleswig, Friedrich-Ebert-Straße 8, 24837 Schleswig
+    Schlei 48/xx 
+    Schlei 48/74 - 1x ProViDa Wagen
+
+    FD Bezirk Husum, Poggenburgstraße 9, 25813 Husum
+    Friesland 48/xx
+    Friesland 48/74? - 1x ProViDa Wagen
+
+
+
+3. IZ
+
+PD Itzehoe, Große Paaschburg 66, 25524 Itzehoe
+- Westwind xx/xx
+
+3a.
+BKI Itzehoe, Große Paaschburg 66, 25524 Itzehoe
+- Westkap 90/xx
+
+    KPSt. Heide
+    - Deichgraf 90/xx
+
+
+3b. 
+PR Itzehoe, Große Paaschburg 66, 25524 Itzehoe
+- Steinburg 10/xx (PR)
+
+    PSt. Kellinghusen, Haupststra0e 31, 25548 Kellinghusen
+    - Steinburg 40/xx
+
+    PSt. Hohenlockstedt, Kieler Straße 55, 25551 Hohenlockstedt
+    - Steinburg 41/xx
+
+    PSt. Schenefeld, Bahnhofstraße 16a, 25560 Schenefeld
+    - Steinburg 21/xx
+
+    PSt. Wellenkamp, Lübscher Kamp, 25524 Itzehoe
+    - Steinburg 11/xx
+
+
+PR Heide, Markt 59, 25746 Heide
+- Deichgraf 1, Deichgraf 10
+
+    PSt. Meldorf, Nordermarkt 3a, 25704 Meldorf
+    - Deichgraf 20/xx
+
+    PSt. Büsum, Vereinsallee 28, 25761 Büsum
+    - Deichgraf 25/xx
+
+    PSt. Albersdorf, Bahnhofstraße 20, 25767 Albersdorf
+    - Deichgraf 41/xx
+
+    PSt. Lunden, Poststraße 10, 25774 Lunden
+    - Deichgraf 15/xx
+
+    PSt. Hennstedt, Tellingstedter Straße 8, 25779 Hennstedt
+    - Deichgraf 16/xx
+
+    PSt. Tellingstedt, Teichstraße 1a, 25782 Tellingstedt
+    - Deichgraf 17/xx
+
+    PSt. Wesselburen, Wulf-Isebrand-Strasse 1b, 25764 Wesselburen
+    - Deichgraf 26/xx
+
+PR Brunsbüttel, Emil-von-Behring-Straße 1, 25541 Brunsbüttel
+- Deichgraf 30/xx
+
+    PSt. Glückstadt, Königstraße 39, 25348 Glückstadt
+    - Steinburg 30/xx
+
+    PSt. Marne, Bahnhofstraße 70, 25709 Marne
+    - Deichgraf 35/xx
+
+    PSt. Wilster, Etatsrätin-Doos-Straße 22, 25554 Wilster
+    - Steinburg 20/xx
+
+    PSt. Krempe, Süderstraße 40, 25361 Krempe
+    - Steinburg 32/xx
+
+    PSt. Burg, Holzmarkt 7, 25712 Burg/Dithm.
+    - Deichgraf 40/xx
+
+    PSt. Horst, Wilhelms-Busch-Weg 7, 25358 Horst (Holstein)
+    - Steinburg 31/xx
+
+3c. 
+PBR Heide, Markt 59, 25746 Heide (41 Mitarbeiter)
+- Deichgraf 48/xx
+- vmt. 1x ProViDa Wagen (von ehemaliger PBR Itzehoe)
+
+
+
+4. HL
+Polizeidirektion Lübeck, Possehlstraße 4, 23560 Lübeck
+
+4a.
+BKI Lübeck, Possehlstraße 4 23560 Lübeck 
+- Südkap xx/xx
+
+    KPSt. Eutin, Lübecker Straße 35, 23701 Eutin
+    - Freischütz 90/xx
+
+    KPSt. Bad Schwartau, Eutiner Ring 4, 23611 Bad Schwartau
+    - Freischütz 95/xx
+
+    KPSt. Oldenburg, Hoheluftstraße 20, 23758 Oldenburg i.H.
+    - Freischütz 95/xx
+
+    KPSt. Neustadt, Lübecker Straße 35, 23701 Eutin
+    - Freischütz xx/xx?
+
+
+4b.
+1. PR Lübeck, Mengstraße 18-20 23552 Lübeck
+- Trave 1/xx
+
+2. PR Lübeck, Hansestraße 22 23558 Lübeck
+- Trave 2/xx
+
+    PSt. Buntekuh, Karavellenstraße 5a 23558 Lübeck 
+    - Trave 21?/xx
+
+3. PR Lübeck, Meesenring 9 23566 Lübeck
+- Trave 3/xx
+
+    PSt. Kücknitz, Kücknitzer Hauptstraße 1 23569 Lübeck 
+    - Trave 32/xx
+
+    PSt. Travemünde, Moorredder 1 23570 Lübeck
+    - Trave 31/xx
+
+    PSt. Schlutup, Mecklenburger Straße 37-43 23568 Lübeck 
+    - Trave 33/11
+
+    PSt. Eichholz, Koppelbarg 2 23564 Lübeck 
+    - Trave 34/11
+
+4. PR Lübeck, Possehlstraße 4, 23560 Lübeck
+- Trave 4/xx
+
+    PSt. Moisling, Niendorfer Straße 15, 23560 Lübeck 
+    - Trave 41/xx
+
+    PSt. Blankensee, Blankenseer Straße 101 23562 Lübeck 
+    - Trave 42/xx
+
+    PSt. St. Jürgen, Alexander-Fleming-Straße 6-12 23562 Lübeck
+    - Trave 43/xx
+
+    PSt. Hüxtertor, Wakenitzstr. 34g 23564 Lübeck
+    - Trave 44/xx
+
+
+PR Eutin, Lübecker Straße 35, 23701 Eutin
+- Freischütz 10/xx
+
+    PSt. Malente, Kampstraße 14, 23714 Bad Malente-Gremsmühlen
+    - Freischütz 13/xx
+
+    PSt. Süsel, An der Bäderstraße 36-38, 23701 Süsel
+    - Freischütz 11/xx
+
+    PSt. Hutzfeld, Wöbser Straße 4-6, 23715 Bosau
+    - Freischütz 12/xx
+
+PR Bad Schwartau, Eutiner Ring 4, 23611 Bad Schwartau
+- Freischütz 35/xx
+
+    PSt. Stockelsdorf, Ahrensböker Straße 7a 23617 Stockelsdorf 
+    - Freischütz 36/xx
+
+    PSt. Ahrensbök, Poststraße 3, 23623 Ahrensbök
+    - Freischütz 37/xx
+
+    PSt. Timmendorfer Strand, Wohldstraße 24a, 23669 Timmendorfer Strand
+    - Freischütz 40/xx
+
+    PSt. Scharbeutz, Kammerweg 39, 23683 Scharbeutz
+    - Freischütz 42/xx
+
+    PSt. Ratekau, Bäderstraße 36, 23626 Ratekau
+    - Freischütz 41/xx
+
+PR Heiligenhafen, Lauritz Maßmann Straße 13, 23774 Heiligenhafen
+- Freischütz 15/xx
+
+    PSt. Oldenburg, Hoheluftstraße 20, 23758 Oldenburg i.H.
+    - Freischütz 20/xx
+
+    PSt. Fehmarn, Kaestnerstraße 2a, 23769 Fehmarn
+    - Freischütz 25/xx
+
+    PSt. Lehnsahn, Lübecker Straße 19, 23738 Lehnsahn
+    - Freischütz 21/xx
+
+    PSt. Großenbrode, Strandstraße 2a, 23775 Großenbrode
+    - Freischütz 16/xx
+
+PR Neustadt, Lienaustraße 12, 23730 Neustadt
+- Freischütz 30/xx
+
+    PSt. Grube, Hauptstraße 69, 23749 Grube
+    - Freischütz 32/xx
+
+    PSt. Schönwalde, Eutiner Straße 6, 23744 Schönwalde am Bungsberg
+    - Freischütz 34/xx
+
+    PSt. Grömitz, Gildestraße 1, 23743 Grömitz
+    - Freischütz 31/xx
+
+
+4c.
+PABR Scharbeutz, Breitenkamp 127, 23684 Scharbeutz
+- Trave 7/xx
+- 2x ProViDa Wagen
+
+
+
+5. Kiel
+Polizeidirektion Kiel, Gartenstraße 7, 24103 Kiel
+- Ostwind xx / Möwe xx
+
+5a.
+BKI Kiel, Blumenstraße 2-4, 24103 Kiel
+- Ostkap 90/xx
+
+    KPSt. Plön, Hamburger Straße 30, 24306 Plön
+    - Parnas 90/xx 
+
+
+5b.
+1. PR Kiel, Düppelstraße 23, 24105 Kiel
+- Möwe 1/xx
+
+    PSt. Friedrichsort, Fritz-Reuter-Straße 94, 24159 Kiel
+    - Möwe 12/xx
+
+    PSt. Suchsdorf, Eckernförder Straße 425, 24107 Kiel
+    - Möwe 16/xx
+
+    PSt. Wik, Wiker Straße 53, 24106 Kiel
+    - Möwe 11/xx
+
+2. PR Kiel, Falckstraße 4, 24103 Kiel
+- Möwe 2/xx
+
+3. PR Kiel, Von-der-Tann-Straße 34, 24114 Kiel
+- Möwe 3/xx
+
+    PSt. Hassee, Rendsburger Landstraße 206, 24113 Kiel
+    - Möwe 32/xx
+
+    PSt. Mettenhof, Skandinaviendamm 251, 24109 Kiel
+    - Möwe 31/xx
+
+4. PR Kiel, Werftstraße 217 24143 Kiel
+- Möwe 4/xx
+
+    PSt. Dietrichsdorf, Ivensring 27, 24149 Kiel
+    - Möwe 41/xx
+
+    PSt. Wellsee, Wellseedamm 16b, 24145 Kiel
+    - Möwe 42/xx oder Möwe 43/xx
+
+PR Plön , Hamburger Straße 30, 24306 Plön
+- Parnas 10/xx
+
+    PSt. Preetz, Gasstraße 11, 24211 Preetz
+    - Parnas 15/xx
+
+    PSt. Wankendorf, Markt 8, 24601 Wankendorf
+    - Parnas 18/xx
+
+    PSt. Schwentinental, Lise-Meitner-Straße 12, 24223 Schwentinental
+    - Parnas 20/xx
+
+    PSt. Schönkirchen, Mühlenstraße 46-48, 24232 Schönkirchen
+    - Parnas 22/xx
+
+    PSt. Heikendorf, Grasweg 2, 24226 Heikendorf
+    - Parnas 24/xx
+
+    PSt. Schönberg, Knüll 13, 24217 Schönberg
+    - Parnas 25/xx
+
+    PSt. Lütjenburg, Gildenplatz 6c, 24321 Lütjenburg
+    - Parnas 30/xx
+
+5c.
+PBR Kiel, Mühlenweg 166, 24116 Kiel
+- Möwe 48/xx
+- 1x ProViDa Wagen
+
+PBR Plön, Hamburger Straße 30, 24306 Plön
+- Parnas 48/xx?
+
+
+
+6.
+PD Neumünster, Alemannenstraße 14-18, 24539 Neumünster
+- Erika xx/xx
+
+
+6a.
+KI Neumünster, 
+- Erika 90/xx
+
+    KPSt. Rendsburg, Moltkestraße 9, 24768 Rendsburg
+    - Lotse 90/xx
+
+    KPSt. Eckernförde, Gerichtstraße 4, 24340 Eckernförde
+    - Lotse 95/xx
+
+
+6b.
+PR Rendsburg, Moltkestraße 9, 24768 Rendsburg
+- Lotse 1/xx / Lotse 10/xx
+
+    PSt. Osterrönfeld, Wehrautal 2, 24783 Osterrönfeld
+    - Lotse 18/xx
+
+    PSt. Fockbek, Rendsburger Straße 37, 24787 Fockbek
+    - Lotse 12/xx
+
+    PSt. Owschlag, An der Post 2, 24811 Owschlag
+    - Lotse 13/xx
+
+PZSt. Hohenwestedt, Friedrichstraße 20, 24595 Hohenwestedt
+- Lotse 20/xx
+
+    PSt. Hanerau-Hademarschen, Lindenstraße 2a, 25557 Hanerau-Hademarschen
+    - Lotse 22/xx
+
+    PSt. Jevenstedt, Schwaber Straße 18, 24808 Jevenstedt
+    - Lotse 23/xx
+
+PZSt. Nortorf, Kieler Straße 19, 24589 Nortorf
+- Lotse 25/xx
+
+    PSt. Aukrug, Heinkenborsteler Straße 9, 24613 Aukrug
+    - Lotse 28/xx
+
+PZSt. Bordesholm, Heinrich-Rix-Straße 1, 24582 Bordesholm
+- Lotse 45/xx
+
+    PSt. Molfsee, Hamburger Chaussee 25, 24113 Molfsee
+    - Lotse 47/xx
+
+    PSt. Flintbek, Heitmannskamp 2, 24220 Flintbek
+    - Lotse 46/xx
+
+PZSt. Kronshagen, Kopperpahler Allee 61, 24199 Kronshagen
+- Lotse 35/xx
+
+    PSt. Achterwehr, Inspektor-Weimar-Weg 17, 24239 Achterwehr
+    - Lotse 36/xx
+
+PR Eckernförde, Gerichtstraße 4, 24340 Eckernförde
+- Lotse 30/xx
+
+    PSt. Gettorf, Hochkamp 1-3, 24214 Gettorf
+    - Lotse 40/xx
+
+    PSt. Ascheffel, Hüttener Weg 10, 24358 Ascheffel
+    - Lotse 32/xx
+
+    PSt. Damp, Auf der Höhe 12, 24351 Damp
+    - Lotse 31/xx
+
+    PSt. Altenholz, An der Feuerwache 3, 24161 Altenholz
+    - Lotse 43/xx
+
+    PSt. Rieseby, Dorfstraße 13, 24354 Rieseby
+    - Lotse 34/xx
+
+    PSt. Schwedeneck, Alte Dorfstraße 31, 24229 Schwedeneck
+    - Lotse 44/xx
+
+1. PR Neumünster, Altonaer Straße 101, 24539 Neumünster - Einsatzrevier
+- Erika 1/xx
+
+2. PR Neumünster, Hansaring 122, 24534 Neumünster
+- Erika 2/xx - unklar ob eigene FuStw oder nur die der PSt West oder?
+
+    PSt. NMS-Nord, Einfelder Straße 59, 24536 Neumünster
+    - Erika 2/41
+
+    PSt. NMS-Nord DO Tungendorf, Hürsland 2, 24536 Neumünster
+    - Erika 2/31
+
+    PSt. NMS-Südost, Mühlenstraße 16, 24539 Neumünster
+    - Erika 1/35
+
+    PSt. NMS-Südost DO Gadeland, Krogredder 2, 24539 Neumünster
+    - Erika 1/25
+
+    PSt. NMS-Mitte, Parkstraße 20, aktuell (2018) wegen Wasserschaden im Hansaring?
+
+    PSt. NMS-West, Hansaring 122, 24534 Neumünster
+    - Erika 2/1x?
+
+    PSt. NMS-West DO Faldera, Ehndorfer Straße 118, 24537 Neumünster
+    - Erika 2/21
+
+    LUK Neumünster, Haart 148, 24539 Neumünster
+    - vmt. keine Fahrzeuge, nur Fußstreifen auf Gelände. (Landesunterkunft)
+
+
+6c.
+PAR Neumünster
+- Lotse 7/10 ff.
+- 1x ProViDa Wagen
+
+PBR Rendsburg, Helgoländer Str. 24768 Rendsburg (48 Mitarbeiter)
+- Lotse 48/xx
+- 1x ProViDa Wagen
+
+PVÜD Neumünster
+- Nordland 01/xx 7x ProViDa Wagen
+
+
+
+
+7. RZ
+PD Ratzeburg
+
+7a.
+KI Bad Oldesloe, Berliner Ring 27, 23843 Bad Oldesloe 
+- Storman 90/xx
+
+    KPSt. Ahrensburg, 
+    - Storman 95/xx
+
+    KPSt. Reinbek
+    - Storman 95/xx
+
+    KPSt. Ratzeburg
+    - Iltis 90/xx
+
+    KPSt. Geesthacht
+    - 	Iltis 95/xx
+
+7b.
+PR Bad Oldesloe, Berliner Ring 27, 23843 Bad Oldesloe 
+- Stormarn 10/xx
+- außerdem Diensthunde
+
+    PSt. Reinfeld, Barnitzer Str. 10, 23858 Reinfeld
+    - Stormarn 11/xx
+
+PR Ahrensburg, An der Reitbahn 5, 22926 Ahrensburg 
+- Stormarn 20/xx
+
+    PSt. Großhansdorf, Kortenkamp 18, 22927 Großhansdorf 
+    - Stormarn 22/xx
+
+    PSt. Trittau, Rausdorfer Str. 29, 22946 Trittau 
+    - Stormarn 21/xx
+
+    PSt. Bargteheide, Alte Landstraße 68, 22941 Bargteheide 
+    - Stormarn 25/xx
+
+    PSt. Ammersbek, Grootkoppel 1, 22949 Ammersbek 
+    - Stormarn 26/xx
+
+PR Schwarzenbek, Compestraße 10, 21493 Schwarzenbek
+- Iltis 40/xx
+
+    PSt. Lauenburg, Alte Wache 14, 21481 Lauenburg/Elbe
+    - Iltis 35/xx
+
+    PSt. Büchen, Amtsplatz 1, 21514 Büchen
+    - Iltis 36/xx
+
+PR Geesthacht, Am Markt 11, 21502 Geesthacht
+- Iltis 30/xx
+
+PR Ratzeburg Seestraße 12-14 23909 Ratzeburg
+Iltis 10/xx
+
+    PSt. Berkenthin, Oldesloer Straße 3, 23919 Berkenthin
+    - Iltis 12/xx
+
+    PSt. Sandesneben, Am Amtsgraben 4, 23898 Sandesneben
+    - Iltis 16/xx
+
+    PSt. Mölln, Mühlenplatz 7, 23879 Mölln
+    - Iltis 20/xx
+
+    PSt. Nusse, Klingenberg 7, 23896 Nusse
+    - Iltis 14/xx
+
+
+PR Reinbek, Sophienstraße 5, 21465 Reinbek 
+- Stormarn 30/xx
+
+    PSt. Wentorf, Südring 26, 21465 Wentorf
+    - Stormarn 31/xx
+
+    PSt. Glinde, Oher Weg 1, 21509 Glinde 
+    - Stormarn 35/xx
+
+    PSt. Barsbüttel, Hauptstraße 38e, 22885 Barsbüttel 
+    - Stormarn 36/xx
+
+    PSt. Aumühle, Bergstraße 9, 21521 Aumühle
+    - Iltis 46/xx
+
+
+7c.
+PABR Bad Oldesloe, Steinkamp 3, 23843 Bad Oldesloe 
+    FD-Bezirk Bad Oldesloe
+    - Stormarn 48/xx?
+
+    FD-Autobahn, Steinkamp 3, 23843 Bad Oldesloe
+    - Stormarn 7/xx
+    - 1x ProViDa Wagen
+
+PABR Ratzeburg
+    FD-Bezirk Ratzeburg Seestraße 12-14 23909 Ratzeburg
+    - Iltis 48/xx
+
+    FD-Autobahn, A24 Auffahrt Talkau, 21493 Elmenhorst
+    - Iltis 7/xx
