@@ -1,0 +1,46 @@
+WSPD Kiel
+- Seewind xx/xx
+
+WSPR Kiel, Arwed-Emminghaus-Weg 11, 24105 Kie
+- 	Möwe 81/xx
+
+    WSPSt. Flensburg, Schiffbrücke 66, 24939 Flensburg
+    - Förde 81/xx
+
+    WSPSt. Kappeln, Gerichtsstraße 1, 24376 Kappeln
+    - Schlei 86/xx
+
+    BPD Kiel
+    - Möwe 82/xx?
+
+
+WSPR Brunsbüttel, Koogstraße 97, 25534 Brunsbüttel 
+- Deichgraf 81/xx
+
+    WSPSt. Husum, Am Außenhafen, 25813 Husum
+    - Friesland 81/xx
+
+    WSPSt. Helgoland, Hafenstraße 1078, 27498 Helgoland
+    - Deichgraf 86/xx
+
+    KD Husum, 
+    - Deichgraf 82/xx?
+
+    KD Büsum, Vereinsallee 28, 25761 Büsum
+    - Deichgraf 82/xx
+
+
+WSPR Lübeck, Am Leuchtenfeld 23570 Lübeck-Travemünde
+- Seewind 35/xx
+    
+    WSPSt. Fehmarn, Fährhafen Puttgarden, 23769 Fehmarn
+    - Seewind 34/xx
+
+    BPD Heiligenhafen, Am Yachthafen 6, 23774 Heiligenhafen
+    - Seewind 4/xx
+
+
+
+
+
+
