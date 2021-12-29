@@ -57,7 +57,7 @@ PR Norderstedt, Europaallee 24, 22850 Norderstedt
     PSt. Norderstedt-Mitte, Rathausallee 78, 22846 Norderstedt
     - Kalkberg 21/xx
 
-    PSt. Norderstedt-Ost Poppenbütteler Straße 178, 22851 Norderstedt
+    PSt. Norderstedt-Ost, Poppenbütteler Straße 178, 22851 Norderstedt
     - Kalkberg 22/xx
 
 PR Kaltenkirchen, Hamburger Straße 62, 24568 Kaltenkirchen
@@ -69,7 +69,7 @@ PR Kaltenkirchen, Hamburger Straße 62, 24568 Kaltenkirchen
     PSt. Boostedt, Twiete 9, 24598 Boostedt
     - Kalkberg 31/xx
 
-    PSt. Henstedt-Ulzburg, Maurepassstraße 26, 24558 Henstedt-Ulzburg (25 Mitarbeiter)
+    PSt. Henstedt-Ulzburg, Maurepasstraße 26, 24558 Henstedt-Ulzburg
     - Kalkberg 40/xx
 
     PSt. Ellerau, Brombeerweg 110, 25479 Ellerau
@@ -90,7 +90,7 @@ PR Pinneberg, Elmshorner Straße 40, 25421 Pinneberg
     PSt. Kummerfeld, Dorfstraße 1, 25495 Kummerfeld
     - Rose 12/xx
 
-PR Rellingen, Halstenbeker Weg 85
+PR Rellingen, Halstenbeker Weg 85, 25462 Rellingen
 - Rose 2/xx
 
     PSt. Schenefeld, Kiebitzweg 22, 22869 Schenefeld (bei Hamburg)
@@ -121,11 +121,12 @@ PR Elmshorn, Moltkestraße 26, 25335 Elmshorn
 1c.
 PABR Bad Segeberg, Dorfstraße 16-18, 23795 Bad Segeberg
 - Kalkberg 48/xx
-1x ProViDa Wagen
 
-PABR Elmshorn
+- Kalkberg 48/74? - 1x ProViDa Wagen
+
+PABR Elmshorn, Wittenberger Straße 12, 25337 Elmshorn
 - Rose 7/xx
-vmt. 1x ProViDa Wagen (von ehem. PABR Pinneberg)?
+- Rose 7/74? -  vmt. 1x ProViDa Wagen (von ehem. PABR Pinneberg)?
 
 
 
@@ -146,7 +147,7 @@ BKI Flensburg, Norderhofenden 1, 24937 Flensburg
     KPSt. Sylt, Stephanstraße 14, 25980 Sylt
     - Düne 95/xx
 
-    KPSt. Niebüll, Gather Landstraße 75, 25899 Niebül
+    KPSt. Niebüll, Gather Landstraße 75, 25899 Niebüll
     - Friesland 95/xx
 
 
@@ -193,6 +194,7 @@ BKI Flensburg, Norderhofenden 1, 24937 Flensburg
 
 PR Schleswig, Friedrich-Ebert-Straße 8, 24837 Schleswig
 - Schlei 10/xx
+- Diensthunde
 
     PSt. Kropp, Am Markt 10a, 24848 Kropp
     - Schlei 30/xx
@@ -227,7 +229,7 @@ PR Kappeln, Gerichtsstraße 1, 24376 Kappeln
 PR Husum, Poggenburgstraße 9, 25183 Husum
 - Friesland 10/xx
 
-    PSt. Friedrichstadt, Lohberger Straße 33a, 25840 Friedichstadt
+    PSt. Friedrichstadt, Lohbergerstraße 33a, 25840 Friedrichstadt
     - Friesland 20/xx
 
     PSt. Viöl, Westerende 41, 25884 Viöl
@@ -236,7 +238,7 @@ PR Husum, Poggenburgstraße 9, 25183 Husum
     PSt. Hattstedt, Amtsweg 10, 25856 Hattstedt
     - Friesland 24/xx
 
-    PSt. Pellworm, Uthlandstrasse 1, 25849 Pellworm
+    PSt. Pellworm, Uthlandestraße 1, 25849 Pellworm
     - Friesland 27/xx
 
     PSt. Tönning, Schloßgarten 1, 25832 Tönning
@@ -273,15 +275,16 @@ PR Sylt, Stephanstraße 14, 25980 Sylt / OT Westerland
 2c.
 PABR Nord
     FD BAB Schleswig-Schuby, Lürschau Weg 1, 24850 Schuby
-    Schlei 7/xx
+    - Schlei 7/xx
 
     FD Bezirk Schleswig, Friedrich-Ebert-Straße 8, 24837 Schleswig
-    Schlei 48/xx 
-    Schlei 48/74 - 1x ProViDa Wagen
+    - Schlei 48/xx
+    - Schlei 48/71 - Krad
+    - Schlei 48/74 - 1x ProViDa Wagen
 
     FD Bezirk Husum, Poggenburgstraße 9, 25813 Husum
-    Friesland 48/xx
-    Friesland 48/74? - 1x ProViDa Wagen
+    - Friesland 48/xx
+    - Friesland 48/74? - 1x ProViDa Wagen
 
 
 
@@ -294,15 +297,15 @@ PD Itzehoe, Große Paaschburg 66, 25524 Itzehoe
 BKI Itzehoe, Große Paaschburg 66, 25524 Itzehoe
 - Westkap 90/xx
 
-    KPSt. Heide
+    KPSt. Heide, Markt 59, 25746 Heide
     - Deichgraf 90/xx
 
 
 3b. 
 PR Itzehoe, Große Paaschburg 66, 25524 Itzehoe
-- Steinburg 10/xx (PR)
+- Steinburg 10/xx
 
-    PSt. Kellinghusen, Haupststra0e 31, 25548 Kellinghusen
+    PSt. Kellinghusen, Hauptstraße 31, 25548 Kellinghusen
     - Steinburg 40/xx
 
     PSt. Hohenlockstedt, Kieler Straße 55, 25551 Hohenlockstedt
@@ -354,16 +357,16 @@ PR Brunsbüttel, Emil-von-Behring-Straße 1, 25541 Brunsbüttel
     PSt. Krempe, Süderstraße 40, 25361 Krempe
     - Steinburg 32/xx
 
-    PSt. Burg, Holzmarkt 7, 25712 Burg/Dithm.
+    PSt. Burg, Holzmarkt 7, 25712 Burg
     - Deichgraf 40/xx
 
-    PSt. Horst, Wilhelms-Busch-Weg 7, 25358 Horst (Holstein)
+    PSt. Horst, Wilhelm-Busch-Weg 7, 25358 Horst (Holstein)
     - Steinburg 31/xx
 
 3c. 
-PBR Heide, Markt 59, 25746 Heide (41 Mitarbeiter)
+PBR Heide, Markt 59, 25746 Heide
 - Deichgraf 48/xx
-- vmt. 1x ProViDa Wagen (von ehemaliger PBR Itzehoe)
+- Deichgraf 48/74? - vmt. 1x ProViDa Wagen (von ehemaliger PBR Itzehoe)
 
 
 
@@ -372,7 +375,7 @@ Polizeidirektion Lübeck, Possehlstraße 4, 23560 Lübeck
 
 4a.
 BKI Lübeck, Possehlstraße 4 23560 Lübeck 
-- Südkap xx/xx
+- Südkap 90/xx?
 
     KPSt. Eutin, Lübecker Straße 35, 23701 Eutin
     - Freischütz 90/xx
@@ -383,7 +386,7 @@ BKI Lübeck, Possehlstraße 4 23560 Lübeck
     KPSt. Oldenburg, Hoheluftstraße 20, 23758 Oldenburg i.H.
     - Freischütz 95/xx
 
-    KPSt. Neustadt, Lübecker Straße 35, 23701 Eutin
+    KPSt. Neustadt, Lienaustraße 12, 23730 Neustadt
     - Freischütz xx/xx?
 
 
@@ -467,7 +470,7 @@ PR Heiligenhafen, Lauritz Maßmann Straße 13, 23774 Heiligenhafen
     PSt. Fehmarn, Kaestnerstraße 2a, 23769 Fehmarn
     - Freischütz 25/xx
 
-    PSt. Lehnsahn, Lübecker Straße 19, 23738 Lehnsahn
+    PSt. Lensahn, Lübecker Straße 19, 23738 Lensahn
     - Freischütz 21/xx
 
     PSt. Großenbrode, Strandstraße 2a, 23775 Großenbrode
@@ -489,7 +492,7 @@ PR Neustadt, Lienaustraße 12, 23730 Neustadt
 4c.
 PABR Scharbeutz, Breitenkamp 127, 23684 Scharbeutz
 - Trave 7/xx
-- 2x ProViDa Wagen
+- Trave 7/74? und 7/75? - 2x ProViDa Wagen
 
 
 
@@ -566,20 +569,20 @@ PR Plön , Hamburger Straße 30, 24306 Plön
 5c.
 PBR Kiel, Mühlenweg 166, 24116 Kiel
 - Möwe 48/xx
-- 1x ProViDa Wagen
+- Möwe 48/74? - 1x ProViDa Wagen
 
 PBR Plön, Hamburger Straße 30, 24306 Plön
 - Parnas 48/xx?
 
 
 
-6.
+6. NMS
 PD Neumünster, Alemannenstraße 14-18, 24539 Neumünster
 - Erika xx/xx
 
 
 6a.
-KI Neumünster, 
+KI Neumünster, Alemannenstraße 14-18, 24539 Neumünster
 - Erika 90/xx
 
     KPSt. Rendsburg, Moltkestraße 9, 24768 Rendsburg
@@ -684,37 +687,39 @@ PR Eckernförde, Gerichtstraße 4, 24340 Eckernförde
 
 
 6c.
-PAR Neumünster
-- Lotse 7/10 ff.
-- 1x ProViDa Wagen
+PAR Neumünster, Am Aalbek 10, 24644 Krogaspe
+- Lotse 7/xx
+- Lotse 7/74? - 1x ProViDa Wagen
 
-PBR Rendsburg, Helgoländer Str. 24768 Rendsburg (48 Mitarbeiter)
+PBR Rendsburg, Helgoländer Str. 34-40, 24768 Rendsburg (48 Mitarbeiter)
 - Lotse 48/xx
-- 1x ProViDa Wagen
+- Lotse 48/74? - 1x ProViDa Wagen
 
-PVÜD Neumünster
+PVÜD Neumünster, Alemannenstraße 14-18, 24539 Neumünster
 - Nordland 01/xx 7x ProViDa Wagen
 
 
 
 
 7. RZ
-PD Ratzeburg
+PD Ratzeburg, Seestraße 12-14, 23909 Ratzeburg
+- Iltis xx/xx
+
 
 7a.
 KI Bad Oldesloe, Berliner Ring 27, 23843 Bad Oldesloe 
 - Storman 90/xx
 
-    KPSt. Ahrensburg, 
+    KPSt. Ahrensburg, An der Reitbahn 5, 22926 Ahrensburg
     - Storman 95/xx
 
-    KPSt. Reinbek
+    KPSt. Reinbek, Sophienstraße 5, 21465 Reinbek
     - Storman 95/xx
 
-    KPSt. Ratzeburg
+    KPSt. Ratzeburg, Seestraße 12-14, 23909 Ratzeburg
     - Iltis 90/xx
 
-    KPSt. Geesthacht
+    KPSt. Geesthacht, Markt 11, 21502 Geesthacht
     - 	Iltis 95/xx
 
 7b.
@@ -749,10 +754,10 @@ PR Schwarzenbek, Compestraße 10, 21493 Schwarzenbek
     PSt. Büchen, Amtsplatz 1, 21514 Büchen
     - Iltis 36/xx
 
-PR Geesthacht, Am Markt 11, 21502 Geesthacht
+PR Geesthacht, Markt 11, 21502 Geesthacht
 - Iltis 30/xx
 
-PR Ratzeburg Seestraße 12-14 23909 Ratzeburg
+PR Ratzeburg Seestraße 12-14, 23909 Ratzeburg
 Iltis 10/xx
 
     PSt. Berkenthin, Oldesloer Straße 3, 23919 Berkenthin
@@ -791,10 +796,10 @@ PABR Bad Oldesloe, Steinkamp 3, 23843 Bad Oldesloe
 
     FD-Autobahn, Steinkamp 3, 23843 Bad Oldesloe
     - Stormarn 7/xx
-    - 1x ProViDa Wagen
+    - Stormarn 7/74? - 1x ProViDa Wagen
 
 PABR Ratzeburg
-    FD-Bezirk Ratzeburg Seestraße 12-14 23909 Ratzeburg
+    FD-Bezirk Ratzeburg, Seestraße 12-14 23909 Ratzeburg
     - Iltis 48/xx
 
     FD-Autobahn, A24 Auffahrt Talkau, 21493 Elmenhorst
