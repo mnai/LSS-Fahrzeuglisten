@@ -121,6 +121,7 @@ PR Elmshorn, Moltkestraße 26, 25335 Elmshorn
 1c.
 PABR Bad Segeberg, Dorfstraße 16-18, 23795 Bad Segeberg
 - Kalkberg 48/xx
+
 - Kalkberg 48/74? - 1x ProViDa Wagen
 
 PABR Elmshorn, Wittenberger Straße 12, 25337 Elmshorn
@@ -282,8 +283,8 @@ PABR Nord
     - Schlei 48/74 - 1x ProViDa Wagen
 
     FD Bezirk Husum, Poggenburgstraße 9, 25813 Husum
-    Friesland 48/xx
-    Friesland 48/74? - 1x ProViDa Wagen
+    - Friesland 48/xx
+    - Friesland 48/74? - 1x ProViDa Wagen
 
 
 
@@ -374,7 +375,7 @@ Polizeidirektion Lübeck, Possehlstraße 4, 23560 Lübeck
 
 4a.
 BKI Lübeck, Possehlstraße 4 23560 Lübeck 
-- Südkap xx/xx
+- Südkap 90/xx?
 
     KPSt. Eutin, Lübecker Straße 35, 23701 Eutin
     - Freischütz 90/xx
@@ -703,6 +704,7 @@ PVÜD Neumünster, Alemannenstraße 14-18, 24539 Neumünster
 7. RZ
 PD Ratzeburg, Seestraße 12-14, 23909 Ratzeburg
 - Iltis xx/xx
+
 
 7a.
 KI Bad Oldesloe, Berliner Ring 27, 23843 Bad Oldesloe 
