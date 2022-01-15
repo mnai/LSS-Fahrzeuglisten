@@ -14,7 +14,7 @@ Florian Hamburg 03 LF 16
 Florian Hamburg 03 NEF ?		Technische Reserve
 Florian Hamburg 03 RTW ?		Technische Reserve
 Florian Hamburg 03 RTW ?		Technische Reserve
-+ Außenstelle Strategische Reserve	Mühlendamm	
++ Außenstelle Reservehalle Ost	Mühlendamm	
 Florian Hamburg 03 Dekon-P		(ehem. LOKS Dekon-P)
 Florian Hamburg 03 NEF A?		Strategische Reserve
 Florian Hamburg 03 RTW ?		Strategische Reserve
@@ -24,6 +24,16 @@ Florian Hamburg 03 RTW ?		Technische Reserve
 Florian Hamburg 03 RTW ?		Technische Reserve
 Florian Hamburg 03 RTW ?		Technische Reserve
 Florian Hamburg 03 RTW ?		Technische Reserve
+Florian Hamburg 11 RTW M		Sonderbedarf
+Florian Hamburg 12 RTW M		Sonderbedarf
+Florian Hamburg 13 RTW M		Sonderbedarf
+Florian Hamburg 15 RTW M		Sonderbedarf
+Florian Hamburg 16 RTW M		Sonderbedarf
+Florian Hamburg 21 RTW M		Sonderbedarf
+Florian Hamburg 22 RTW M		Sonderbedarf
+Florian Hamburg 23 RTW M		Sonderbedarf
+Florian Hamburg 25 RTW M		Sonderbedarf
+Florian Hamburg 33 RTW M		Sonderbedarf
 + Außenstelle Tilsiter Straße	Tilsiter Straße	Standort unbekannt (Stand 13.10.2021)
 Florian Hamburg 03 RTW ?		Technische Reserve
 Florian Hamburg 03 RTW ?		Technische Reserve
@@ -64,7 +74,6 @@ Florian Hamburg 05 RTW A ?		Aus- und Fortbildung
 Florian Hamburg 05 RTW B ?		Aus- und Fortbildung
 Florian Hamburg 05 RTW C ?		Aus- und Fortbildung
 Florian Hamburg 05 RTW D ?		Aus- und Fortbildung
-Florian Hamburg 05 RTW E ?		Aus- und Fortbildung (vielleicht Standort abweichend an Schulungsräume NotSan)
 Florian Hamburg 05 RTW K ?		Aus- und Fortbildung
 Florian Hamburg 05 TMF		5x
 Florian Hamburg 05 VRW		
@@ -73,6 +82,8 @@ Florian Hamburg 05 AB-BES		(Besprechungsraum)
 Florian Hamburg 05 AB-Gefahrgutübungsanlage		
 Florian Hamburg 05 Ab-Mulde		2x
 Florian Hamburg 05 AB-Taucher-Übung		
++ Berufsfachschule der Feuerwehr Hamburg für NotSan	Ausschläger Elbdeich 2	20539 Hamburg
+Florian Hamburg 05 RTW E ?		Aus- und Fortbildung
 		
 F 11 Feuer- und Rettungswache Innenstadt	Admiralitätstraße 54	20459 Hamburg
 Florian Hamburg 11 ELW 1		
@@ -83,7 +94,6 @@ Florian Hamburg 11 GW-TEL 1
 Florian Hamburg 11 RTW A		
 Florian Hamburg 11 RTW B		
 Florian Hamburg 11 RTW K		
-Florian Hamburg 11 RTW M		
 Florian Hamburg 11 GW-LBZ 1		(MTW/MZF) Löschbootzentrum
 + Außenstelle Rettungswache Millerntor	Glacischausse 4	(ab 04.01.2021)
 Florian Hamburg 11 RTW E		
@@ -118,7 +128,6 @@ Florian Hamburg 12 RTW A
 Florian Hamburg 12 RTW B		
 Florian Hamburg 12 RTW C		
 Florian Hamburg 12 RTW K		
-Florian Hamburg 12 RTW M		
 Florian Hamburg 12 RTW ?		Technische Reserve
 Florian Hamburg 12 IRTW A		
 Florian Hamburg 12 IRTW B		Technische Reserve
@@ -137,7 +146,6 @@ Florian Hamburg 13 RTW A
 Florian Hamburg 13 RTW B		
 Florian Hamburg 13 RTW C		
 Florian Hamburg 13 RTW K		
-Florian Hamburg 13 RTW M		
 		
 F 14 Feuer- und Rettungswache Osdorf	Harderweg 10	22549 Hamburg
 Florian Hamburg 14 ELW 1		
@@ -150,7 +158,7 @@ Florian Hamburg 14 RTW B
 Florian Hamburg 14 RTW C		
 Florian Hamburg 14 RTW D		Ehemals 10-RTW-A
 Florian Hamburg 14 RTW K		
-Florian Hamburg 14 RTW L		
+Florian Hamburg 14 RTW L	MZF	"Mit Tragestuhl für Krankentransporte ausgestattet. "
 Florian Hamburg 14 NEF B		Technische Reserve
 Florian Hamburg 14 GW-BHP		Stand 13.10.2021 (Fraglich ob noch in nutzung)
 Florian Hamburg 14 GW-SAN		
@@ -182,7 +190,6 @@ Florian Hamburg 15 RTW B
 Florian Hamburg 15 RTW C		
 Florian Hamburg 15 RTW D		
 Florian Hamburg 15 RTW K		
-Florian Hamburg 15 RTW M		
 Florian Hamburg 15 GW-MANV 1		
 Florian Hamburg 15 MZF		(ehemaliges KLF)
 + RW Eidelstedt	Furtweg 57	
@@ -206,7 +213,6 @@ Florian Hamburg 16 GW1 1
 Florian Hamburg 16 RTW A		
 Florian Hamburg 16 RTW B		
 Florian Hamburg 16 RTW K		
-Florian Hamburg 16 RTW M		
 + RW Langenhorn	Tangstedter Landstraße 139	
 Florian Hamburg 16 RTW F		
 +RW Ochsenzoll	Langenhorner Chaussee 488	
@@ -225,7 +231,6 @@ Florian Hamburg 21 RTW C
 Florian Hamburg 21 RTW D		
 Florian Hamburg 21 RTW I		
 Florian Hamburg 21 RTW K		
-Florian Hamburg 21 RTW M		
 Florian Hamburg 21 RTW ?		Technische Reserve
 Florian Hamburg 21 GW-MANV 1		
 + RTW Außenstelle Rahlstedt	Brockdorffstraße 22	Besetzt von Veddel
@@ -243,12 +248,11 @@ Florian Hamburg 22 BFW 1
 Florian Hamburg ADI 1	KdoW-ADI	
 Florian Hamburg 22 KB 1		
 Florian Hamburg 22 NEF B?		Technische Reserve
-Florian Hamburg 22 RTW Anton		
-Florian Hamburg 22 RTW Berta		
-Florian Hamburg 22 RTW Cäsar		
-Florian Hamburg 22 RTW Dora		
-Florian Hamburg 22 RTW Kaufmann		
-Florian Hamburg 22 RTW M		
+Florian Hamburg 22 RTW A		
+Florian Hamburg 22 RTW B		
+Florian Hamburg 22 RTW C		
+Florian Hamburg 22 RTW D		
+Florian Hamburg 22 RTW K		
 Florian Hamburg 22 RTW ?		Technische Reserve
 Florian Hamburg 22 GW-BHP		Stand 13.10.2021 (Fraglich ob noch in nutzung)
 Florian Hamburg 22 GW-MANV 1		
@@ -267,7 +271,6 @@ Florian Hamburg 23 RTW A
 Florian Hamburg 23 RTW B		
 Florian Hamburg 23 RTW C		war a.d. ab 04.01.2021, dafür 11 RTW F neu, seit Ende 2021 Nachfolger vom 20-RTW-C
 Florian Hamburg 23 RTW K		
-Florian Hamburg 23 RTW M		
 Florian Hamburg 23 RTW ?		Technische Reserve
 Florian Hamburg 23 GW-SAN		
 + RW Barmbek-Nord	AK Barmbek Rübenkamp 220	
@@ -286,7 +289,7 @@ Florian Hamburg 24 RTW A
 Florian Hamburg 24 RTW B		
 Florian Hamburg 24 RTW C		Ehemals 20-RTW-A
 Florian Hamburg 24 RTW K		
-Florian Hamburg 24 RTW L		
+Florian Hamburg 24 RTW L	MZF	Mit Tragestuhl für Krankentransporte ausgestattet.
 Florian Hamburg 24 RTW ?		Technische Reserve
 + RTW Außenstelle Bramfeld	Ellernreihe 139	ASB
 Florian Hamburg 24 RTW F		seit 01.04.2021 Betrieb durch die ASB Rettungsdienst Hamburg GmbH
@@ -314,7 +317,6 @@ Florian Hamburg 25 RTW A
 Florian Hamburg 25 RTW B		
 Florian Hamburg 25 RTW C		
 Florian Hamburg 25 RTW K		
-Florian Hamburg 25 RTW M		
 + NEF Außenstelle Boberg	Bergedorfer Strasse 10	am BUK Boberg
 Florian Hamburg 25 NEF A		
 		
@@ -329,7 +331,7 @@ Florian Hamburg 26 RTW B
 Florian Hamburg 26 RTW C		
 Florian Hamburg 26 RTW D		
 Florian Hamburg 26 RTW K		
-Florian Hamburg 26 RTW L		
+Florian Hamburg 26 RTW L	MZF	Mit Tragestuhl für Krankentransporte ausgestattet.
 Florian Hamburg 26 RTW ?		Technische Reserve
 + RTW Außenstelle Mümmelmannsberg	Asbrookdamm 32	
 Florian Hamburg 26 RTW F		
@@ -403,7 +405,6 @@ Florian Hamburg 33 GW-MANV 1
 Florian Hamburg 33 NEF A		
 Florian Hamburg 33 RTW A		
 Florian Hamburg 33 RTW K		
-Florian Hamburg 33 RTW M		
 Florian Hamburg 33 RTW ?		Technische Reserve
 		
 F 34 Feuer- und Rettungswache Wilhelmsburg	Rotenhäuser Str. 73	21107 Hamburg

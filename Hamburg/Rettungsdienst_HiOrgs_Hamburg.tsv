@@ -157,51 +157,38 @@ Bundeswehr Rettungszentrum Wandsbek	Lesserstraße 180	Bundeswehrkrankenhaus
 23-NAW		Reservefahrzeug (Iveco Daily Y 864 716)
 SIM-NAW		(Mercedes Vario, Y-449-703, Simulationsfahrzeug)
 		
-GARD RW Hamburg-Bahrenfeld	Rondenbarg 7	
-RTW GARD BAHRF		
-1 ITW		
-2 Verlegungs-RTW		
-26 KTW		
-4 AEF		
+Falck RW Hamburg-Bahrenfeld	Rondenbarg 7	
+Rettung Hamburg FALCK-BAHRF1	RTW	Teil der Hamburger Notfallrettung
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Barmbek	Mexikoring 11	
-RTW GARD BARMB		
-1 Verlegungs-RTW		
-8 KTW		
-1 AEF		
+Falck RW Barmbek	Mexikoring 11	
+Rettung Hamburg FALCK-BARMB1	RTW	RD-345
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Hamburg-Bramfeld	Gründgensstraße 10	
-15 KTW		
+Falck RW Hamburg-Harburg	Eißendorfer Pferdeweg 52	
+Rettung Hamburg FALCK-HARB		
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Hamburg-Harburg	Eißendorfer Pferdeweg 52	
-RTW GARD HARB		
-10 KTW		
-3 AEF		
+Falck RW Hohenfelde	Alfredstraße 9	
+Rettung Hamburg FALCK-HO	RTW	HO-363
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Hohenfelde	Alfredstraße 9	
-RTW GARD HO		
-3 KTW		
-1 AEF		
+Falck RW Hamburg-Langenhorn	Tangstedter Landstraße 400	
+Rettung Hamburg FALCK-LANGH1	RTW	
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Hamburg-Langenhorn	Tangstedter Landstraße 400	
-RTW GARD Langenhorn 1		
-ITW in Kooperation mit AK Nord		
-6 KTW		
-1 AEF		
+Falck RW Lohbrügge	Weberade 9-11	
+Rettung Hamburg FALCK-LOHBR1	RTW	
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Lohbrügge	Weberade 9-11	
-RTW GARD LOHBR		
-ca. 12 KTW		
+Falck RW Poppenbüttel	Hinsbleek 2	
+Rettung Hamburg FALCK-POPPB1	RTW	
 		
-GARD RW Poppenbüttel	Hinsbleek 2	
-RTW GARD POPPB		
-1 RTW		
-1 AEF		
+Falck RW Rothenburgsort	Ausschläger Billdeich 50	
+Rettung Hamburg FALCK-ROTB1	RTW	RD-367
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		
-GARD RW Rothenburgsort	Ausschläger Billdeich 50	
-RTW GARD ROTB1		
-18 KTW		
-		
-GARD RW Wandsbek	Holstenhofkamp 12	
-RTW GARD WDB		(Fahrzeug W-349)
+Falck RW Wandsbek	Holstenhofkamp 12	
+Rettung Hamburg RTW Falck WDB		(Fahrzeug W-349)
+Weitere Fahrzeuge: siehe Privat_KTP_RD		
 		dutzende Fahrzeuge, Europas größte Rettungswache
