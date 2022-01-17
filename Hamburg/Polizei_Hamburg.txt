@@ -154,6 +154,8 @@ Vera West 21+22 leMKW
 Vera West 41 ff. ProVida
 Vera West 51-58 Krad
 Vera West 61 ff. VUD
+Vera West 70 Fahrradstaffel (DGL)
+Vera West 71 ff. Fahrradstaffel
 Außenstelle Elbtunnel Nord
 Vera West 23+24 SiKW
 
