@@ -194,7 +194,7 @@ BKI Flensburg, Norderhofenden 1, 24937 Flensburg
 
 PR Schleswig, Friedrich-Ebert-Straße 8, 24837 Schleswig
 - Schlei 10/xx
-- Diensthunde
+- Schlei 10/73 - Diensthunde
 
     PSt. Kropp, Am Markt 10a, 24848 Kropp
     - Schlei 30/xx
@@ -393,6 +393,7 @@ BKI Lübeck, Possehlstraße 4 23560 Lübeck
 4b.
 1. PR Lübeck, Mengstraße 18-20 23552 Lübeck
 - Trave 1/xx
+- Trave 1/81 - Diensthunde
 
 2. PR Lübeck, Hansestraße 22 23558 Lübeck
 - Trave 2/xx
@@ -708,24 +709,24 @@ PD Ratzeburg, Seestraße 12-14, 23909 Ratzeburg
 
 7a.
 KI Bad Oldesloe, Berliner Ring 27, 23843 Bad Oldesloe 
-- Storman 90/xx
+- Stormarn 90/xx
 
     KPSt. Ahrensburg, An der Reitbahn 5, 22926 Ahrensburg
-    - Storman 95/xx
+    - Stormarn 95/1x
 
     KPSt. Reinbek, Sophienstraße 5, 21465 Reinbek
-    - Storman 95/xx
+    - Stormarn 95/2x
 
     KPSt. Ratzeburg, Seestraße 12-14, 23909 Ratzeburg
     - Iltis 90/xx
 
     KPSt. Geesthacht, Markt 11, 21502 Geesthacht
-    - 	Iltis 95/xx
+    - Iltis 95/xx
 
 7b.
 PR Bad Oldesloe, Berliner Ring 27, 23843 Bad Oldesloe 
 - Stormarn 10/xx
-- außerdem Diensthunde
+- Stormarn 10/73? oder Stormarn 10/81? - Diensthunde
 
     PSt. Reinfeld, Barnitzer Str. 10, 23858 Reinfeld
     - Stormarn 11/xx
