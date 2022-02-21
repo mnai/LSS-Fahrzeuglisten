@@ -1,0 +1,478 @@
+Polizei in Niedersachsen
+
+Die genauen Fahrzeugzahlen bleiben oft unklar, generell haben Polizeiposten/ manche Polizeistationen oft nur 1 Fahrzeug, 
+je nach PI/PK kann bis zur Hälfte der angegebenen Fahrzeugzahlen zivil sein und sind nicht in dieser Liste aufgeführt, 
+diese werden als Zivil-FuStW, von Ermittlern und Kripo genutzt.
+Systematik für die Fahrzeugkennungen:
+Fustw Kennungsbereich 21 fortlaufend nach Anzahl der Fahrzeuge
+Zivil Kennungsbereich 35 fortlaufend nach Anzahl der Fahrzeuge
+Fustw Kennungsbereich 40 fortlaufend nach Anzahl der Fahrzeuge der ??/20er (=Außenstellen ohne Wachleiter)
+Krad Kennungsbereich 60 fortlaufend nach Anzahl der Krads (sind nur sehr wenige vorhanden)
+Bullis Kennungsbereich 70 fortlaufend nach Anzahl der Fahrzeuge 
+
+
+
+### Polizeiinspektion Stade insgesamt 41 Wagen, davon 40 einsatzbereit und ?? besetzt (09/2017)
+Nur die PI Stade und das PK Buxtehude sind 24h besetzt.
+PI Stade, Teichstraße 10, 21682 Stade
+Schwinge 10/21 FuStW
+Schwinge 10/22 FuStW
+Schwinge 10/23 FuStW
+usw.
+Schwinge 10/70 FuStW (VW-Bus)
+usw.
+außerdem diverse Sonderfahrzeuge, Zivilfahrzeuge, Diensthunde und Reservefahrzeuge
+
+PK Buxtehude, Kottmeierstraße 1, 21614 Buxtehude
+Schwinge 16/21 FuStW
+Schwinge 16/22 FuStW
+usw.
+Schwinge 16/70 FuStW (VW-Bus)
+Zivilfahrzeuge, Reservefahrzeuge
+
+Polizeistation Apensen, Buxtehuder Straße 27, 21641 Apensen 
+Schwinge 17/21 FuStW
+
+Polizeistation Drochtersen, Sietwender Str. 20, 21706 Drochtersen
+Schwinge 14/21 FuStW
+Schwinge 14/70 FuStW (VW-Bus)
+
+Polizeistation Fredenbeck, Hauptstr. 3, 21717 Fredenbeck
+Schwinge 23/21 FuStW
+
+Polizeistation Freiburg, Hans-Mügge-Str. 11, 21729 Freiburg
+Schwinge 15/21 FuStW
+
+Polizeistation Harsefeld, Am Rosenborn 5, 21698 Harsefeld
+Schwinge 22/21 FuStW
+Schwinge 22/22 FuStW
+
+Polizeistation Himmelpforten, Mittelweg 10, 21709 Himmelpforten
+Schwinge 11/21 FuStW
+Schwinge 11/70 FuStW (VW-Bus)
+
+Polizeistation Horneburg, Bleiche 5, 21640 Horneburg
+Schwinge 19/21 FuStW
+Schwinge 19/70 FuStW (VW-Bus)
+
+Polizeistation Jork, Borsteler Reihe 54, 21635 Jork
+Schwinge 18/21 FuStW
+
+Polizeistation Oldendorf, Schützenstr. 5, 21726 Oldendorf
+Schwinge 12/21 FuStW
+
+Polizeistation Steinkirchen, Alter Marktplatz 9, 21720 Steinkirchen
+Schwinge 20/21 FuStW
+
+WSP Stadersand, Johann-Rathje-Köser-Straße 1, 21683 Stade
+VW-Amarok ZugFz für Anhänger Streifenboot oder auswärtige Einsatzstellen
+einziges Fahrzeug mit unbekanntem FRN
+
+
+
+### Polizeiinspektion Harburg insgesamt 50 Wagen, davon 49 einsatzbereit und ?? besetzt (09/2017)
+PK Winsen (Luhe), Luhdorfer Str. 49 a-d, 21423 Winsen/Luhe (24h)
+Mehrere FuStW, Wachkennung unbekannt, wahrscheinlich 31?
+ca. 8 Mitarbeiter in einer Schicht also 3-4 Wagen
+Luhe 31/21 FuStW 
+Luhe 31/22 FuStW 
+Luhe 31/23 FuStW 
+...?
+
+City-Wache des PK-Winsen, Rathausstraße 29, 21423 Winsen (Luhe)
+bürgernaher Außenposten, nicht immer besetzt, maximal 4 Mitarbeiter, unklar ob auch FuStW im Bedarfsfall besetzt werden
+
+PST Stelle, Unter den Linden 18, 21435 Stelle
+Luhe 29/21 FuStW
+
+PST Salzhausen, Zickzackweg 5, 21376 Salzhausen (8 Mitarbeiter)
+Luhe 27/21 FuStW 
+Luhe 27/70 FuStW  (VW-Bus)
+
+PST Hanstedt, Rathausstr. 1, 21271 Hanstedt (gehört zu Salzhausen, 2 Mitarbeiter)
+Luhe 36/21 FuStW 
+
+PST Marschacht, Elbuferstr. 98, 21436 Marschacht 
+Luhe 28/21 FuStW 
+
+PK Seevetal, Hamburger Straße 1, 21220 Seevetal-Maschen (24h)
+Luhe 30/21 FuStw
+Luhe 30/22 FuStw
+Luhe 30/23 FuStw
+Luhe 30/70 FuStw (VW-Bus)
+
+PST Nenndorf, Kirchenstr. 3, 21224 Rosengarten 
+Luhe 32/21 FuStW 
+
+PST Neu Wulmstorf, Schifferstraße 10, 21629 Neu Wulmstorf
+Luhe 37/21 FuStW
+Luhe 37/22 FuStW ?
+
+PST Meckelfeld, Bgm.-Heitmann-Str. 34, 21217 Seevetal 
+Luhe 39/21 FuStW 
+
+PI Harburg in Buchholz, Schützenstraße 17, 21244 Buchholz in der Nordheide (24h)
+Luhe 33/21 FuStW
+Luhe 33/22 FuStW
+Luhe 33/23 FuStW
+Luhe 33/70 FuStW (VW-Bus)
+diverse weitere Fahrzeuge (Reserve, Zivil,…)
+
+PST Jesteburg, Niedersachsenplatz 5, 21266 Jesteburg
+Luhe 34/21 FuStW 
+
+PST Hollenstedt, Am Markt 10, 21279 Hollenstedt
+Luhe 38/21 FuStW 
+
+PST Tostedt, Schützenstraße 26, 21255 Tostedt (ca. 20 Mitarbeiter)
+Luhe 35/21 FuStW
+Luhe 35/22 FuStW
+Luhe 35/70 FuStW
+unklar wie viele Fahrzeuge genau und ob weitere Zivil-/Reservefahrzeuge
+
+APK Winsen, Luhdorfer Str. 49 b, 21423 Winsen/Luhe 
+Früher am Standort Thieshope, aktuell wird ein Standort im Bereich Maschen gesucht
+Luhe 19/70 FuStW (VW-Bus, WL PI 905)
+Luhe 19/?? ... ?
+
+
+
+### Polizeiinspektion Cuxhaven insgesamt 53 Wagen, davon 51 einsatzbereit und ?? besetzt (09/2017)
+PI Cuxhaven, Werner-Kammann-Straße 8, 27472 Cuxhaven
+Bake 30?/21 FuStw
+Bake xx/22 FuStw
+Bake xx/23 FuStw
+Bake xx/70 FuStw (VW-Bus)
+
+PST Ihlienworth, Hauptstraße 15, 21775 Ilienworth (Mo-Fr 9-17)
+Bake 31/21 FuStw
+
+PST Altenwalde, Frankenweg 2, 27478 Cuxhaven
+Bake 32/21 FuStw
+
+PST Otterndorf, Am Großen Specken 7, 21762 Otterndorf
+Bake 33/21 FuStw
+
+PST Nordholz, Memelstraße 4, 27639 Wurster Nordseeküste
+Bake 34/21 FuStw
+
+PK Hemmoor, Zentrumstraße 2, 21745 Hemmoor (24/7) besetzt
+Bake 45/21 FuStw
+Bake 45/22 FuStw
+Bake 45/23 FuStw?
+Bake 45/70 FuStw (VW-Bus)?
+
+PST Cadenberge, Bahnhofstraße 16, 21781 Cadenberge (Mo-Fr 7-20)
+Bake 46/21 FuStw
+Bake 46/22 FuStw?
+
+PST Lamstedt, Schützenstraße 20, 21769 Lamstedt
+Bake 47/21 FuStw
+
+PK Geestland / PST Langen, Sieverner Str. 1, 27607 Langen
+Bake 37/21 FuStw (PST Langen)
+unklar ob weitere Fahrzeuge des PK, FuStw stehen beim ESD Geestland
+
+ESD Geestland (Autobahnpolizeikommissariat Debstedt), Rosenburg 9, 27607 Geestland
+Bake 49/21 FuStw
+Bake 49/22 FuStw
+Bake 49/70 FuStw
+diverse Zivilfahrzeuge etc.
+
+PST Dorum, Speckenstraße 25, 27639 Wurster Nordseeküste
+Bake 38/21 FuStw
+
+PST Bad Bederkesa, Am Markt 4, 27624 Bad Bederkesa
+Bake 39/21 FuStw
+Bake 39/22 FuStw?
+
+PK Schiffdorf, Bohlenstraße 54, 27619 Schiffdorf (64 Mitarbeiter mit den drei PST)
+Bake 36/21 FuStW
+Bake 36/22 FuStW
+Bake 36/70 FuStW (VW-Bus)
+
+PST Loxstedt, Parkstraße 21, 27612 Loxstedt
+Bake 41/21 FuStW
+
+PST Beverstedt, Schulstraße 1, 27616 Beverstedt
+Bake 42/21 FuStW
+
+PST Hagen, Amtsdamm 74, 27628 Hagen
+Bake 43/21 FuStW
+
+
+
+### Polizeiinspektion Rotenburg insgesamt 40 Wagen, davon 39 einsatzbereit und ?? besetzt (09/2017)
+PI Rotenburg, Königsberger Straße 46, 27356 Rotenburg (Wümme)
+Wümme ??/21 FuStW
+Wümme ??/22 FuStW
+Wümme ??/23 FuStW
+Wümme ??/70 FuStW
+diverse weitere Fahrzeuge (Reserve, Zivil,…)
+
+PST Bothel, Eschfeldweg 2, 28386 Bothel
+Wümme 26/21 FuStw
+
+PST Fintel, Rotenburger Straße 10, 27389 Fintel
+Wümme 30/40 FuStW
+
+PST Scheeßel, Hirschberger Str. 26, 27383 Scheeßel
+Wümme 27?/70 FuStW (VW-Bus)
+
+PST Sottrum, Am Eichkamp 27, 27367 Sottrum
+Wümme 28?/21 FuStW
+Wümme 28?/70 FuStW (VW-Bus)
+
+PST Visselhövede, Marktplatz 16, 27374 Visselhövede (8 Ma, Mo-Fr 7-20, Sa 7-12)
+Wümme 29/70 FuStW
+
+APK/ESD Sittensen, Stader Str. 26, 27419 Sittensen (mit PST Sittensen in einem Gebäude)
+Wümme 59/21 FuStw
+Wümme 59/22 FuStw
+Wümme 59/23 FuStw ?
+Wümme 59/70 FuStw
+
+PK Zeven, Lindenstraße 9, 27404 Zeven
+Wümme 35/21 FuStW
+Wümme 35/22 FuStW
+Wümme 35/70 FuStW (VW-Bus)
+
+PST Sittensen, Stader Straße 26, 27419 Sittensen (6 Mitarbeiter, Mo-Fr 7-20, Sa 8-12)
+Wümme 36/70 FuStW (VW-Bus)
+
+PST Tarmstedt, Hepstedter Straße 9, 27412 Tarmstedt
+Wümme 37/21 FuStW
+
+PK Bremervörde, Huddelberg 30, 27432 Bremervörde
+Wümme 82?/21 FuStW
+Wümme 82?/22 FuStW
+Wümme 82?/70 FuStW (VW-Bus)?
+
+PST Gnarrenburg, Hindenburgstraße 1a, 27442 Gnarrenburg
+Wümme 33/21 FuStW
+Wümme 33/22 FuStW
+
+PST Oerel, Bohlenstraße 10, 27432 Oerel
+Wümme 34/40 FuStW
+
+PST Selsingen, Hauptstraße 30, 27446 Selsingen
+Wümme 32/21 FuStW
+
+
+
+### Polizeidirektion Lüneburg
+- Stab der Polizeidirektion: 1 unbekanntes Fahrzeug
+- Zentrale Kriminalinspektion Lüneburg: 14 Fahrzeuge (zivil)
+- Polizeiinspektion Lüneburg/Lüchow-Dannenberg/Uelzen insgesamt 88 Wagen, davon 86 einsatzbereit und ?? besetzt (09/2017)
+
+PI Lüneburg - ESD Lüneburg, Auf der Hude 1, 21339 Lüneburg, 24h besetzt
+Sole 10/21 FuStw
+Sole 10/22 FuStw
+usw.
+Sole 10/70 FuStw (VW-Bus)
+
+PST Bardowick, Bahnhofstraße 8, 21357 Bardowick
+Sole 11/21 FuStw
+Sole 11/22 FuStw
+
+PST Reppenstedt, Wiesenweg 2, 21391 Reppenstedt, der PST Bardowick untergeordnet
+Sole 12/21 FuStw
+
+PST Melbeck, Am Diemel 17, 21406 Melbeck
+Sole 13/21 FuStw
+Sole 13/70 FuStw (VW-Bus)
+
+PST Amelinghausen, An‘n Sprüttenhaus 2, 21385 Amelinghausen, der PST Melbeck untergeordnet
+Sole 14/21 FuStw
+
+PST Adendorf, Rathausplatz 16, 21365 Adendorf
+Sole 15/21 FuStw
+
+PST Scharnebeck, Hülsenberg 12, 21379 Scharnebeck, 10 Mitarbeiter, WSP Scharnebeck nebenan
+Sole 16/21 FuStw
+Sole 16/70 FuStw (VW-Bus)
+
+PST Barendorf, Wacholderweg 30, 21397 Barendorf, der PST Scharnebeck untergeordnet
+Sole 17/21 FuStw
+
+PST Dahlenburg, Lüneburger Straße 7 21368 Dahlenburg, der PST Bleckede untergeordnet
+Sole 18/21 FuStw
+
+PST Bleckede, Bahnhofstraße 2a, 21354 Bleckede
+Sole 19/21 FuStw
+Sole 19/70 FuStw (VW-Bus)
+
+PST Neuhaus - mittlerweile dem PK Lüchow und der PST Dannenberg unterstellt
+
+
+PK Uelzen, An der Zuckerfabrik 6, 29525 Uelzen
+ESD Uelzen
+Sole 40/21 FuStW
+Sole 40/22 usw.
+Sole 40/70 FuStW (VW-Bus)
+
+Polizeistation Bad Bevensen, Klein Bünstorfer Straße 2, 29549 Bad Bevensen
+Sole 41/21 FuStW
+
+Polizeistation Bienenbüttel, Bahnhofstraße 33, 29553 Bienenbüttel
+Sole 42/21 FuStW
+
+Polizeistation Himbergen - seit 2014 außer Dienst
+
+Polizeistation Bad Bodenteich, Schützenstraße 10, 29389 Bad Bodenteich
+Sole 44/21 FuStW
+
+Polizeistation Rosche, Lüchower Straße 12, 29571 Rosche
+Sole 45/40 FuStW
+
+Polizeistation Wrestedt, Lerchenweg 5, 29559 Wrestedt
+Sole 46/21 FuStW
+
+Polizeistation Ebstorf, Lüneburger Straße 17a, 29574 Ebstorf
+Sole 47/21 FuStW
+
+Polizeistation Suderburg, Hauptstraße 5a, 29556 Suderburg
+Sole 48/21 FuStW
+
+
+PK Lüchow, Saaßer Chaussee, 29439 Lüchow
+ESD Lüchow
+Sole 55/21 FuStW
+Sole 55/22 usw.
+Sole 55/70 FuStW (VW-Bus)
+
+PSt Clenze, Lüchower Straße 13, 29459 Clenze
+Sole 57/40 FuStW
+
+PSt Dannenberg, Am Markt 6, 29541 Dannenberg
+Sole 60/21 FuStW
+
+PSt Gartow, Springstraße 14, 29471 Gartow
+Sole 58/40 FuStW
+
+PSt Hitzacker, Brauhofstraße 1, 29456 Hitzacker
+Sole 61/40 FuStW
+
+PSt Neuhaus, Parkstraße 2, 19273 Neuhaus
+Sole 20/21 FuStW
+
+
+
+### Polizeinspektion Heidekreis, insgesamt 38 FuStw, davon 38 einsatzbereit und ?? zivil (09/2017)
+ESD Soltau, Böhmheide 37-41, 29614 Soltau (24/7)
+Böhme 30/21 FuStw
+Böhme 30/22 FuStw
+Böhme 30/23 FuStw
+Böhme 30/70 FuStw (VW-Bus)
+Böhme xx/60-62    3 Kräder unnbek. Standort
+
+PST Neuenkirchen, Am Kleinbahnhof 8, 29643 Neuenkirchen (2 Beamte)
+Böhme 31/40 FuStw
+
+PST Schneverdingen, Verdener Straße 32, 29640 Schneverdingen („Fast alle Tage Rund um die Uhr ein Wagen“, 18900EW)
+Böhme 37/21 FuStw (HK PI 981, HK PI 975?)
+Böhme 37/70 FuStw (VW-Bus) zeitweise?
+
+PK Munster, Klappgarten 2a, 29633 Munster (? Beamte, 15100 EW)
+Böhme 34/21 FuStw
+Böhme 34/22 FuStw ?
+Böhme 34/70 FuStw
+
+PST Wietzendorf, Hauptstraße 12, 29649 Wietzendorf (2 Beamte, 4100 EW)
+Böhme 32/40 FuStw
+
+PST Bispingen, Bahnhofstraße 5, 29646 Bispingen (? Beamte, 6400 EW)
+Böhme 35/21 FuStw
+
+PK Bad Fallingbostel, Düshorner Straße 17, 29683 Bad Fallingbostel (24/7, PK+Autobahn, Neu in 2018)
+Böhme 39/21 FuStw
+Böhme 39/22 FuStw
+Böhme 39/23 FuStw ?
+Böhme 39/70 (SiKW, HK PI 939)
+
+PK Walsrode, Hannoversche Straße 14, 29664 Walsrode (? Beamte, 23900 EW)
+Böhme 45/21 FuStw
+Böhme 45/22 FuStw
+Böhme 45/70 FuStw (VW-Bus)
+
+PST Bomlitz, Walsroder Straße 18, 29699 Bomlitz
+Böhme 40/21 FuStw (SFA PI 927)
+
+PST Schwarmstedt, Celler Straße 41, 29690 Schwarmstedt
+Böhme 42/21 FuStw
+Böhme 42/70 FuStw (VW-Bus)
+
+PST Hodenhagen, Heerstraße 40, 29693 Hodenhagen
+Böhme 43/40 FuStw
+
+PST Rethem (Aller), Zur Scheibenwiese 2, 27336 Rethem
+Böhme 46/40 FuStw
+
+
+
+### Polizeiinspektion Verden/Osterholz, insgesamt 59 FuStw, davon 56 einsatzbereit und ?? zivil (09/2017)
+
+Im Landkreis Osterholz:
+PK Osterholz, Pappstraße 4-6, 27711 Osterholz-Scharmbeck (24/7, 24 Mitarbeiter 2015)
+Aller 40/21 FuStW
+Aller 40/22 FuStW
+Aller 40/23 FuStW
+Aller 40/70 FuStW (VW-Bus)
+
+PST Grasberg, Speckmannstraße 35, 28879 Grasberg
+Aller 46/70 FuStW (VW-Bus)
+
+PST Hambergen, Bremer Straße 2, 27729 Hambergen
+Aller 41/21 FuStW
+
+PST Lilienthal, Zinckestraße 24, 28865 Lilienthal
+Aller 44/21 FuStW
+Aller 44/22 FuStW
+
+PST Ritterhude, Riesstraße 30, 27721 Ritterhude
+Aller 42/70 FuStW (VW-Bus)
+
+PST Schwanewede, Am Markt 2a, 28790 Schwanewede
+Aller 48/21 FuStW
+
+PST Worpswede, Hembergstraße 12, 27726 Worpswede
+Aller 45/21 FuStW
+
+
+PI Verden, Im Burgfeld 6, 27283 Verden (24h)
+Aller 10/21 FuStW
+Aller 10/22 FuStW
+Aller 10/23 FuStW
+Aller 10/70 FuStW (VW-Bus)
+Aller 10/51 ff? DHuFüKw
+diverse weitere Fahrzeuge (Reserve, Zivil,…)
+
+ESD BAB Langwedel, Feldstraße 100, 27299 Langwedel, Raststätte Goldbach Süd (33 Mitarbeiter, insgesamt 6 FuStW parkend)
+Aller 19/21 FuStW
+Aller 19/22 FuStW
+Aller 19/23 FuStW
+Aller 19/70 FuStW (VW-Bus)
+
+PST Dörverden, Große Straße 80, 27313 Dörverden (4 Mitarbeiter, Mo-Fr 7:30-16:00)
+Aller 13/21 FuStW
+
+PST Kirchlinteln, Am Rathaus 1, 27308 Kirchlinteln (2 Mitarbeiter)
+Aller 11/21 FuStW
+
+PST Langwedel, Am Rathaus 1, 27299 Langwedel (5 Mitarbeiter)
+Aller 12/21 FuStW
+
+PK Achim, Obernstraße 136, 28832 Achim (24h)
+Aller 14/21 FuStW
+Aller 14/22 FuStW
+Aller 14/70 FuStW
+diverse weitere Fahrzeuge (Reserve, Zivil,…)
+
+PST Ottersberg, Grüne Straße 26, 28870 Ottersberg
+Aller 16/70 FuStW (VER P 9472 VW-Bus)
+
+PST Oyten, Hauptstraße 45/47, 28876 Oyten
+Aller 17/21 FuStW
+
+PST Thedinghausen, Syker Straße 25, 27321 Thedinghausen (Neubau 2017, 3 Mitarbeiter, Mo-Fr 7:30-16:00)
+Aller 15/21 FuStW
