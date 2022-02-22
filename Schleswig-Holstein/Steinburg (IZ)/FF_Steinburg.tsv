@@ -1,0 +1,453 @@
+Funk	Feuerwehr	Amt/Stadt	Adresse
+Florian Steinburg 00	Kreiswehrführung		
+Florian Steinburg 00-01-01	Kreiswehrführer		
+			
+Florian Steinburg 01	FTZ / Kreisfeuerwehrverband		Elmshorner Straße 48, 25524 Münsterdorf
+Florian Steinburg 01-10-01	KdoW	KFV	
+Florian Steinburg 01-18-01	MTW	KFV	
+Florian Steinburg 01-67-01	GW-L1	FTZ-Rufbereitschaft	
+			
+Florian Steinburg 02	Technische Einsatzleitung		Elmshorner Straße 48, 25524 Münsterdorf
+Florian Steinburg 02-10-01	KdoW	TEL	
+Florian Steinburg 02-12-01	ELW 2	TEL	
+Florian Steinburg 02-13-01	GW-IuK	TEL	
+Florian Steinburg 02-14-01	MZF	TEL	
+Florian Steinburg 02-15-01 A	Krad	TEL	
+Florian Steinburg 02-18-01	MTW	TEL	
+	AB-Einsatzleitung		
+			
+Florian Steinburg 03	Löschzug Gefahrgut		Elmshorner Straße 48, 25524 Münsterdorf
+Florian Steinburg 03-10-01	KdoW	LZG	
+Florian Steinburg 03-11-01	ELW 1	LZG	
+Florian Steinburg 03-18-01	MTW	LZG	
+Florian Steinburg 03-54-01	GW-G	LZG	
+Florian Steinburg 03-57-01	GW-AS	LZG	
+Florian Steinburg 03-63-01	WLF-26	LZG	
+Florian Steinburg 03-63-02	WLF-26	LZG	
+Florian Steinburg 03-67-01	GW-L1	LZG	
+Florian Steinburg 03-69-01	sonLog	LZG	
+Florian Steinburg 03-71-01	CBRNErkW	LZG	
+Florian Steinburg 03-72-01	ReakErk	Standort Wrist	
+Florian Steinburg 03-72-02	ReakErk	Standort Schenefeld	
+Florian Steinburg 03-72-03	ReakErk	Standort Glückstadt	
+Florian Steinburg 03-72-04	ReakErk	Standort Wilster	
+Florian Steinburg 03-74-01	GWDekonP	LZG	
+	AB-Dekon		
+	AB-A/S		
+	AB-Mulde		
+	AB-Pritsche		
+			
+Florian Steinburg 04	Feuerwehrbereitschaft		Elmshorner Straße 48, 25524 Münsterdorf
+Florian Steinburg 04-14-01	MZF	Feuerwehrbereitschaft	
+Florian Steinburg 04-18-01	MTW	Feuerwehrbereitschaft	
+Florian Steinburg 04-47-01	LF-KatS	Standort Hohenaspe	
+Florian Steinburg 04-47-02	LF-KatS	Standort Siehtwende	
+Florian Steinburg 04-47-03	LF-KatS	Standort Krempe	
+Florian Steinburg 04-47-04	LF-KatS	Feuerwehrbereitschaft	
+Florian Steinburg 04-61-01	SW 2000Tr	Feuerwehrbereitschaft	
+			
+Florian Steinburg 05	FF Breitenberg-Moordiek	Amt Breitenburg	Dörpstraat 8, 25597 Westermoor
+Florian Steinburg 05-41-01	TSF-W		
+			
+Florian Steinburg 06	FF Breitenburg	Amt Breitenburg	Heideweg 23, 25524 Breitenburg
+Florian Steinburg 06-14-01	MZF		
+Florian Steinburg 06-41-01	MLF		
+Florian Steinburg 06-42-01	LF 8		
+			
+Florian Steinburg 07	FF Münsterdorf	Amt Breitenburg	Kirchenfeld 1 25587 Münsterdorf
+Florian Steinburg 07-44-01	LF 10-6		
+Florian Steinburg 07-46-01	LF 20		
+			
+Florian Steinburg 08	FF Oelixdorf	Amt Breitenburg	Oberstraße 56, 25524 Oelixdorf
+Florian Steinburg 08-11-01	ELW		
+Florian Steinburg 08-41-01	MLF		
+Florian Steinburg 08-44-01	LF 8-6		
+			
+Florian Steinburg 09	FF Westermoor-Kronsmoor	Amt Breitenburg	Dörpstraat 36, 25597 Westermoor
+Florian Steinburg 09-40-01	TSF		
+			
+Florian Steinburg 10	FF Itzehoe	Stadt Itzehoe	Hindenburgstraße 48, 25524 Klosterforst Itzehoe
+Florian Steinburg 10-10-01	KdoW		
+Florian Steinburg 10-10-02	KdoW		
+Florian Steinburg 10-11-01	ELW 1		
+Florian Steinburg 10-18-01	MTW		
+Florian Steinburg 10-18-02	MTW		
+Florian Steinburg 10-18-03	MTW		
+Florian Steinburg 10-21-01	TLF 16-24		
+Florian Steinburg 10-32-01	DLK 23		
+Florian Steinburg 10-32-02	DLK 23		
+Florian Steinburg 10-48-01	HLF 20-16		
+Florian Steinburg 10-48-02	LF 20		
+Florian Steinburg 10-48-03	HLF 20		
+Florian Steinburg 10-48-04	HLF 20		
+Florian Steinburg 10-51-01	RW 2		
+Florian Steinburg 10-56-01 A	GW-A		
+Florian Steinburg 10-58-01	GW-W		
+Florian Steinburg 10-63-01	WLF-26		
+Florian Steinburg 10-64-01	WLF-Lkr		
+Florian Steinburg 10-68-01	GW-L2		
+Florian Steinburg 10-69-01	sonLog		
+Florian Steinburg 10-69-02	sonLog		
+Florian Steinburg 10-78-01	MZB		
+			
+Florian Steinburg 11	FF Blomesche Wildnis	Amt Horst-Herzhorn	Sperforkenweg 18, 25348 Blomesche Wildnis
+Florian Steinburg 11-41-01	StLF 10-6		
+		
+Florian Steinburg 12	FF Borsfleth	Amt Horst-Herzhorn	Schulstraße 36, 25376 Borsfleth
+Florian Steinburg 12-41-01	TSF-W		
+			
+Florian Steinburg 13	FF Engelbrechtsche Wildnis	Amt Horst-Herzhorn	Herzhorner Rhin 1, 25348 Engelbrechtsche Wildnis
+Florian Steinburg 13-44-01	LF 10-6		
+			
+Florian Steinburg 14	FF Gehlensiel	Amt Horst-Herzhorn	Gehlensiel 9b 25379 Herzhorn
+Florian Steinburg 14-40-01	TSF		
+			
+Florian Steinburg 14	FF Herzhorn	Amt Horst-Herzhorn	Reinenreihe 32, 25379 Herzhorn
+Florian Steinburg 14-40-02	TSF		
+Florian Steinburg 14-41-01	TSF-W		
+			
+Florian Steinburg 15	FF Kollmar-Bielenberg	Amt Horst-Herzhorn	Wiesengrund 1, 25377 Kollmar
+Florian Steinburg 15-41-01	StLF 10-6		
+			
+Florian Steinburg 15	FF Langenhals	Amt Horst-Herzhorn	Moorhusen 55a 25377 Kollmar
+Florian Steinburg 15-41-02	TSF-W		
+			
+Florian Steinburg 16	FF Krempdorf	Amt Horst-Herzhorn	Dorfstraße 51, 25376 Krempdorf
+Florian Steinburg 16-40-01	TSF		
+			
+Florian Steinburg 17	FF Neuendorf b.E.	Amt Horst-Herzhorn	Moorhusen 7a, 25335 Neuendorf bei Elmshorn
+Florian Steinburg 17-41-01	StLF 10-6		
+			
+Florian Steinburg 18	FF Hungriger Wolf-Bücken	Amt Kellinghusen	Bücken 12, 25551 Hohenlockstedt
+Florian Steinburg 18-41-01	TSF-W		
+			
+Florian Steinburg 18	FF Lockstedter Lager	Amt Kellinghusen	Leipziger Str. 1, 25551 Hohenlockstedt
+Florian Steinburg 18-18-01	MTW		
+Florian Steinburg 18-41-03	MLF		
+Florian Steinburg 18-48-01	LF 16-12		
+			
+Florian Steinburg 18	FF Ridders	Amt Kellinghusen	Ridders 43 25551 Hohenlockstedt
+Florian Steinburg 18-44-01	LF 16-TS		
+			
+Florian Steinburg 18	FF Springhoe-Hohenfiert	Amt Kellinghusen	Springhoe 10A, 25551 Hohenlockstedt
+Florian Steinburg 18-41-02	TSF-W		
+			
+Florian Steinburg 19	FF Lockstedt	Amt Kellinghusen	Wiesenweg, 25551 Lockstedt
+Florian Steinburg 19-41-01	TSF-W		
+			
+Florian Steinburg 20	FF Lohbarbek	Amt Itzehoe-Land	Hohenlockstedter Straße 3, 25551 Lohbarbek
+Florian Steinburg 20-18-01	MTW		
+Florian Steinburg 20-41-01	MLF		
+			
+Florian Steinburg 21	FF Schlotfeld	Amt Itzehoe-Land	Rothenmühlen, 25551 Schlotfeld
+Florian Steinburg 21-41-01	TSF-W		
+			
+Florian Steinburg 22	FF Silzen	Amt Itzehoe-Land	Dorfstraße 19, 25551 Silzen
+Florian Steinburg 22-41-01	TSF-W		
+			
+Florian Steinburg 23	FF Winseldorf	Amt Itzehoe-Land	Brookweg 3, 25551 Winseldorf
+Florian Steinburg 23-41-01	TSF-W		
+			
+Florian Steinburg 24	FF Altenmoor	Amt Horst-Herzhorn	Bullendorf, 25335 Altenmoor
+Florian Steinburg 24-42-01	LF 8		
+			
+Florian Steinburg 25	FF Hohenfelde	Amt Horst-Herzhorn	Dorfstraße 50, 25358 Hohenfelde
+Florian Steinburg 25-14-01	MZF		
+Florian Steinburg 25-41-01	TSF-W		
+Florian Steinburg 25-41-02	StLF 10-6		
+			
+Florian Steinburg 26	FF Horst	Amt Horst-Herzhorn	Elmshorner Str. 35, 25358 Horst
+Florian Steinburg 26-14-01	MZF		
+Florian Steinburg 26-44-01	LF 8-6		
+Florian Steinburg 26-48-01	HLF 20		
+Florian Steinburg 26-48-02	LF 16-12		
+Florian Steinburg 26-59-01	sonGW		
+Florian Steinburg 26-69-01	sonLog		
+			
+Florian Steinburg 27	FF Kiebitzreihe	Amt Horst-Herzhorn	Hauptstraße 46, 25368 Kiebitzreihe
+Florian Steinburg 27-44-01	LF 8-6		
+Florian Steinburg 27-45-01	HLF 10-6		
+			
+Florian Steinburg 28	FF Grönland-Dückermühle	Amt Horst-Herzhorn	Grönland 56 25358 Sommerland
+Florian Steinburg 28-40-01	TSF		
+Florian Steinburg 28-40-02	TSF		
+			
+Florian Steinburg 28	FF Siethwende	Amt Horst-Herzhorn	Sommerland 2, 25358 
+Florian Steinburg 28-43-01	LF 8-6		
+			
+Florian Steinburg 30	FF Glückstadt	Stadt Glückstadt	Am Fleth 70, 25348 Glückstadt
+Florian Steinburg 30-10-01	KdoW		
+Florian Steinburg 30-11-01	ELW 1		
+Florian Steinburg 30-18-01	MTW		
+Florian Steinburg 30-32-01	DLK 23		
+Florian Steinburg 30-47-01	LF 20-16		
+Florian Steinburg 30-48-01	HLF 20-16		
+Florian Steinburg 30-48-02	HLF 20-16		
+Florian Steinburg 30-64-01	WLF-Lkr		
+Florian Steinburg 30-69-01	sonLog		
+Florian Steinburg 30-78-01	MZB		
+			
+Florian Steinburg 31	FF Drage	Amt Itzehoe-Land	Hauptstraße, 25582 Drage
+Florian Steinburg 31-42-01	LF 8		
+			
+Florian Steinburg 32	FF Heiligenstedten-Bekmünde	Amt Itzehoe-Land	Juliankadamm 11, 25524 Heiligenstedten
+Florian Steinburg 32-20-01	TLF 16-24		
+Florian Steinburg 32-44-01	LF 8-6		
+Florian Steinburg 32-44-02	LF 8-6		
+			
+Florian Steinburg 33	FF Heiligenstedtenerkamp-Hodorf	Amt Itzehoe-Land	Dorfstraße 5A, 25569 Hodorf
+Florian Steinburg 33-40-01	TSF		
+Florian Steinburg 33-44-01	LF 8-6		
+			
+Florian Steinburg 35	FF Hohenaspe	Amt Itzehoe-Land	Charlottenburger Weg 15, 25582 Hohenaspe
+Florian Steinburg 35-14-01	MZF		
+Florian Steinburg 35-22-01	TLF 16-25		
+Florian Steinburg 35-47-01	LF 10		
+			
+Florian Steinburg 36	FF Huje	Amt Itzehoe-Land	Dorfstraße 18, 25588 Huje
+Florian Steinburg 36-40-01	TSF		
+			
+Florian Steinburg 37	FF Kaaks	Amt Itzehoe-Land	Hauptstraße 1A, 25582 Kaaks
+Florian Steinburg 37-40-01	KLF		
+			
+Florian Steinburg 38	FF Krummendiek	Amt Itzehoe-Land	Gutsweg 8, 25554 Kleve
+Florian Steinburg 38-20-01	TLF 16-24		
+Florian Steinburg 38-40-01	TSF-GW		
+			
+Florian Steinburg 39	FF Mehlbek	Amt Itzehoe-Land	Dorfstraße 15A, 25588 Mehlbek
+Florian Steinburg 39-40-01	TSF		
+			
+Florian Steinburg 40	FF Oldendorf	Amt Itzehoe-Land	Dreschkamp 1, 25588 Oldendorf
+Florian Steinburg 40-18-01	MTW		
+Florian Steinburg 40-20-01	TLF 16-24		
+Florian Steinburg 40-44-01	LF 10-6		
+			
+Florian Steinburg 41	FF Ottenbüttel	Amt Itzehoe-Land	Böverst Dörpstraat 2, 25591 Ottenbüttel
+Florian Steinburg 41-44-01	LF 8-6		
+			
+Florian Steinburg 42	FF Peissen	Amt Itzehoe-Land	Obere Dorfstraße, 25551 Peissen
+Florian Steinburg 42-41-01	TSF-W		
+			
+Florian Steinburg 43	FF Kellinghusen	Amt Kellinghusen	Schulstraße 8, 25548 Kellinghusen
+Florian Steinburg 43-14-01	MZF		
+Florian Steinburg 43-22-01	TLF 16-25		
+Florian Steinburg 43-32-01	DLK 23		
+Florian Steinburg 43-45-01	LF 8-6		
+Florian Steinburg 43-48-01	HLF 20-16		
+Florian Steinburg 43-68-01	GW-L2		
+Florian Steinburg 43-69-01	sonLog		
+			
+Florian Steinburg 44	FF Auufer-Wittenbergen	Amt Breitenburg	Mühlenstraße 5c, 25548 Wittenbergen
+Florian Steinburg 44-40-01	TSF		
+			
+Florian Steinburg 45	FF Brokstedt	Amt Kellinghusen	Dörnbek 7, 24616 Brokstedt
+Florian Steinburg 45-18-01	MTW		
+Florian Steinburg 45-20-01	TLF 8-18		
+Florian Steinburg 45-48-01	HLF 10-6		
+Florian Steinburg 45-49-01	sonLF		
+			
+Florian Steinburg 46	FF Fitzbek	Amt Kellinghusen	Störweg, 25579 Fitzbek
+Florian Steinburg 46-41-01	TSF-W		
+			
+Florian Steinburg 47	FF Hennstedt	Amt Kellinghusen	Schulstraße 15b, 25581 Hennstedt
+Florian Steinburg 47-42-01	LF 8		
+			
+Florian Steinburg 48	FF Mühlenbarbek	Amt Kellinghusen	Johann-Hinrich-Fehrs-Straße, 25548 Mühlenbarbek
+Florian Steinburg 48-41-01	TSF-W		
+			
+Florian Steinburg 49	FF Oeschebüttel	Amt Kellinghusen	Grüner Weg, 25548 Oeschebüttel
+Florian Steinburg 49-20-01	TLF 8-18		
+			
+Florian Steinburg 50	FF Poyenberg	Amt Kellinghusen	Reihe 1, 25581 Poyenberg
+Florian Steinburg 50-41-01	TSF-W		
+			
+Florian Steinburg 51	FF Quarnstedt	Amt Kellinghusen	Schulstraße, 25563 Quarnstedt
+Florian Steinburg 51-44-01	LF 8/6		
+Florian Steinburg 51-47-01	LF 10		
+			
+Florian Steinburg 52	FF Rade	Amt Kellinghusen	Twiete 14 25579 Rade
+Florian Steinburg 52-49-01 A	TSA		
+			
+Florian Steinburg 53	FF Rosdorf	Amt Kellinghusen	Hauptstraße, 25548 Rosdorf
+Florian Steinburg 53-41-01	TSF-W		
+			
+Florian Steinburg 54	FF Sarlhusen	Amt Kellinghusen	Hörn, 24616 Sarlhusen
+Florian Steinburg 54-18-01	MTW		
+Florian Steinburg 54-41-01	TSF-W		
+			
+Florian Steinburg 56	FF Willenscharen	Amt Kellinghusen	Am Wallberg, 24616 Willenscharen
+Florian Steinburg 56-40-01	TSF		
+			
+Florian Steinburg 57	FF Wrist	Amt Kellinghusen	Am Sportplatz 6, 25563 Wrist
+Florian Steinburg 57-22-01	TLF 16-25		
+Florian Steinburg 57-48-01	HLF 20		
+Florian Steinburg 57-50-01	RW 1		
+			
+Florian Steinburg 58	FF Wulfsmoor-Hingstheide	Amt Kellinghusen	Knöller Damm 1, 25563 Wulfsmoor
+Florian Steinburg 58-41-01	TSF-W		
+			
+Florian Steinburg 59	FF Bahrenfleth	Amt Krempermarsch	Fritz-Höger-Straße, 25569 Bahrenfleth
+Florian Steinburg 59-41-01	TSF-W		
+			
+Florian Steinburg 60	FF Dägeling	Amt Krempermarsch	Dorfstraße, 25578 Dägeling
+Florian Steinburg 60-41-01	TSF-W		
+Florian Steinburg 60-44-01	LF 10-6		
+Florian Steinburg 60-46-01	LF 20		
+			
+Florian Steinburg 62	FF Grevenkop	Amt Krempermarsch	Hauptstraße 14A, 25361 Grevenkop
+Florian Steinburg 62-41-01	TSF-W		
+			
+Florian Steinburg 63	FF Krempe	Amt Krempermarsch	Am Burggraben, 25361 Krempe
+Florian Steinburg 63-14-01	MZF		
+Florian Steinburg 63-44-01	LF 10-6		
+Florian Steinburg 63-48-01	LF 16-12		
+			
+Florian Steinburg 64	FF Kremperheide	Amt Krempermarsch	Dorfstraße 22, 25569 Kremperheide
+Florian Steinburg 64-14-01	MZF		
+Florian Steinburg 64-48-01	LF 10Son		
+Florian Steinburg 64-46-01	LF 10-6		
+			
+Florian Steinburg 65	FF Krempermoor	Amt Krempermarsch	Dorfstraße 35a, 25569 Krempermoor
+Florian Steinburg 65-44-01	LF 8-6		
+			
+Florian Steinburg 66	FF Neuenbrook	Amt Krempermarsch	West 12d, 25578 Neuenbrook
+Florian Steinburg 66-44-01	LF 8-6		
+			
+Florian Steinburg 67	FF Rethwisch	Amt Krempermarsch	Kirchweg, 25566 Rethwisch
+Florian Steinburg 67-18-01	MTW		
+Florian Steinburg 67-47-01	LF 20		
+			
+Florian Steinburg 68	FF Steinburg	Amt Krempermarsch	Gewerbestraße 3, 25361 Süderau
+Florian Steinburg 68-41-02	TSF-W		
+			
+Florian Steinburg 68	FF Süderau/Elskop	Amt Krempermarsch	Süderauerdorfstraße 14A, 25361 Süderau
+Florian Steinburg 68-41-01	TSF-W		
+			
+Florian Steinburg 69	FF Lägerdorf	Amt Breitenburg	Sandkuhle, 25566 Lägerdorf
+Florian Steinburg 69-14-01	MZF		
+Florian Steinburg 69-22-01	TLF 3000		
+Florian Steinburg 69-42-01	LF 8		
+Florian Steinburg 69-48-01	LF 20		
+Florian Steinburg 69-50-01	RW 1		
+			
+Florian Steinburg 70	FF Aasbüttel	Amt Schenefeld	K 60, 25560 Aasbüttel
+Florian Steinburg 70-42-01	LF 8		
+			
+Florian Steinburg 71	FF Besdorf	Amt Schenefeld	Dorfstraße 31, 25584 Besdorf
+Florian Steinburg 71-40-01	TSF-GW		
+			
+Florian Steinburg 72	FF Bokhorst	Amt Schenefeld	Lohmühler Weg, 25560 Bokhorst
+Florian Steinburg 72-40-01	TSF		
+			
+Florian Steinburg 73	FF Christinenthal	Amt Schenefeld	B 430, 25593 Christinenthal
+Florian Steinburg 73-41-01	TSF-W		
+			
+Florian Steinburg 74	FF Gribbohm	Amt Schenefeld	Dorfstraße 39, 25596 Gribbohm
+Florian Steinburg 74-20-01	TLF 8-18		
+Florian Steinburg 74-42-01	LF 8		
+			
+Florian Steinburg 75	FF Holstenniendorf	Amt Schenefeld	Hauptstraße, 25584 Holstenniendorf
+Florian Steinburg 75-44-01	LF 8-6		
+			
+Florian Steinburg 76	FF Looft	Amt Schenefeld	Raiffeisenstraße, 25582 Looft
+Florian Steinburg 76-40-01	TSF		
+			
+Florian Steinburg 77	FF Nienbüttel-Agethorst-Bokelrehm	Amt Schenefeld	Hörstenweg 2, 25596 Nienbüttel
+Florian Steinburg 77-41-01	TSF-W		
+			
+Florian Steinburg 78	FF Oldenborstel	Amt Schenefeld	Dorfstraße, 25560 Oldenborstel
+Florian Steinburg 78-41-01	TSF-W		
+			
+Florian Steinburg 79	FF Pöschendorf-Hadenfeld-Kaisborstel	Amt Schenefeld	Schulstraße, 25560 Pöschendorf
+Florian Steinburg 79-41-01	TSF-W		
+			
+Florian Steinburg 80	FF Puls	Amt Schenefeld	Schulstraße, 25560 Puls
+Florian Steinburg 80-44-01	LF 8-6		
+			
+Florian Steinburg 81	FF Reher	Amt Schenefeld	Bahnhofstraße, 25593 Reher
+Florian Steinburg 81-14-01 A	MZF		
+Florian Steinburg 81-41-01	MLF		
+			
+Florian Steinburg 82	FF Schenefeld-Siezbüttel	Amt Schenefeld	Marktstraße 2, 25560 Schenefeld
+Florian Steinburg 82-14-01	MZF		
+Florian Steinburg 82-22-01	TLF 16-25		
+Florian Steinburg 82-45-01	LF 10-6		
+Florian Steinburg 82-50-01	RW 1		
+			
+Florian Steinburg 83	FF Vaale-Nutteln	Amt Schenefeld	An der Schule 1, 25594 Vaale
+Florian Steinburg 83-14-01	MZF		
+Florian Steinburg 83-41-01	TSF-W		
+Florian Steinburg 83-45-01	LF 8-6		
+			
+Florian Steinburg 84	FF Vaalermoor	Amt Schenefeld	Südende, 25594 Vaalermoor
+Florian Steinburg 84-40-01	TSF		
+			
+Florian Steinburg 85	FF Wacken	Amt Schenefeld	Alter Markt, 25596 Wacken
+Florian Steinburg 85-14-01	MZF		
+Florian Steinburg 85-41-01	MLF		
+Florian Steinburg 85-44-01	LF 8-6		
+			
+Florian Steinburg 86	FF Warringholz	Amt Schenefeld	Seefelder Weg 18, 25560 Warringholz
+Florian Steinburg 86-41-01	TSF-W		
+			
+Florian Steinburg 87	FF Wilster	Stadt Wilster	An der Au 3, 25554 Wilster
+Florian Steinburg 87-11-01	ELW 1		
+Florian Steinburg 87-14-01	MZF		
+Florian Steinburg 87-32-01	DLK 23/12		
+Florian Steinburg 87-44-01	LF 8-6		
+Florian Steinburg 87-48-01	LF 16-12		
+Florian Steinburg 87-68-01	GW-L2		
+			
+Florian Steinburg 88	FF Aebtissinwisch-Ecklak	Amt Wilstermarsch	Hauptstraße 28a, 25572 Ecklak
+Florian Steinburg 88-41-01	TSF-W		
+			
+Florian Steinburg 89	FF Beidenfleth	Amt Wilstermarsch	Deichreihe, 25573 Beidenfleth
+Florian Steinburg 89-14-01	MZF		
+Florian Steinburg 89-44-01	LF 8-6		
+			
+Florian Steinburg 90	FF Brokdorf	Amt Wilstermarsch	Dorfstraße, 25576 Brokdorf
+Florian Steinburg 90-11-01	ELW 1		
+Florian Steinburg 90-45-01	LF 8-6		
+Florian Steinburg 90-46-01	LF 20		
+Florian Steinburg 90-67-01	GW-L1		
+Florian Steinburg 90-78-01	MRB		
+			
+Florian Steinburg 92	FF Damfleth	Amt Wilstermarsch	Hochfeld 13, 25554 Dammfleth
+Florian Steinburg 92-47-01	LF 10		
+			
+Florian Steinburg 93	FF Kudensee	Amt Wilstermarsch	Dörpstroot, 25572 Kudensee
+Florian Steinburg 93-40-01	TSF		
+			
+Florian Steinburg 94	FF Landrecht-Stördorf	Amt Wilstermarsch	Bischof, 25554 Landrecht
+Florian Steinburg 94-41-01	TSF-W		
+			
+Florian Steinburg 95	FF Landscheide	Amt Wilstermarsch	Flethseer Straße 21, 25572 Landscheide
+Florian Steinburg 95-41-01	TSF-W		
+			
+Florian Steinburg 96	FF Neuendorf-Sachsenbande	Amt Wilstermarsch	Dückerstieg, 25554 Neuendorf-Sachsenbande
+Florian Steinburg 96-41-01	MLF		
+			
+Florian Steinburg 97	FF Nortorf	Amt Wilstermarsch	Schotten 11, 25554 Nortorf
+Florian Steinburg 97-44-01	LF 8-6		
+			
+Florian Steinburg 98	FF St. Margarethen	Amt Wilstermarsch	Wilhelm-Jensen-Weg 1a, 25572 Sankt Margarethen
+Florian Steinburg 98-14-01	MZF		
+Florian Steinburg 98-40-01	TSF		
+Florian Steinburg 98-41-01	MLF		
+Florian Steinburg 98-48-01	HLF 10		
+			
+Florian Steinburg 99	FF Wewelsfleth	Amt Wilstermarsch	Am Sportplatz, 25599 Wewelsfleth
+Florian Steinburg 99-20-01	TLF 8-18		
+Florian Steinburg 99-41-01	TSF-W		
+Florian Steinburg 99-43-01	LF 10-6		
+			
+Florian Steinburg 29	Werkfeuerwehr Steinbeis Temming		
+Florian Steinburg 29-42-01	LF 8		
+Florian Steinburg 29-44-01	LF 8/6		
+Florian Steinburg 29-59-01	sonGW		
+			
+Florian Steinburg 91	Werkfeuerwehr Kernkraftwerk Brokdorf		
+Florian Steinburg 91-27-01 A	SMF		
+Florian Steinburg 91-27-02 A	SMF		
+Florian Steinburg 91-41-01	StLF 10-6		
+Florian Steinburg 91-67-01 A	GW-L1		
