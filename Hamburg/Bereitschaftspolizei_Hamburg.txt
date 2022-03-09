@@ -36,7 +36,7 @@ Brise 1/42--- 2. Gruppe
 Brise 1/43--- 3. Gruppe
 
 Die Fahrzeugkennzeichnungen (nicht Autokennzeichen) bestehen im Allgemeinen aus der 2. und 3. Ziffer der 6-stelligen Einheitskennzeichnung, also z.B. 14 für Zug 4 der 1. HS. 
-Davon abweichend haben viele (Le)BefKw (=Zugführung) eine Kennzeichnung aus arabischer Ziffer für die Hundertschaft und römischer Zahl für den Zug.
+Davon abweichend haben viele (Le)BefKw (=Hundertschaftsführer) eine römischen 1 (I) die das Fahrzeug als Führungsfahrzeug der Hunderschaft erkennbar machen sowie eine Kennzeichnung aus arabischer Ziffer für die Hundertschaft (z.B. 4).
 
 Der Aufbau von Abteilung 2 ist deutlich komplizierter.
 
@@ -69,7 +69,160 @@ Alarmabteilung Hamburg
 ******************
 
 Die Alarmabteilung Hamburg besteht aus zusammengezogenen Einheiten der PKs und kann insgesamt 4 Hundertschaften stellen. 
-Sie hat keine festen Wachen oder Standorte. Die Funkrufnamen besitzen dasselbe Schema wie die normalen Hundertschaften, beginnend mit 81 bis 84.
+Sie hat keine festen Wachen oder Standorte. Die Funkrufnamen besitzen dasselbe Schema wie die normalen Hundertschaften, beginnend mit Anton 81 bis 84:
+
+**1. AAH**
+> Anton 81/01 - HH-7705 - leBefKW
+> Anton 81/05 - HH-7786 - leMKW - Vera Ost XX -  (Funktion??)
+> 
+>
+> 1. Zug
+> Anton 81/10 - HH-7256 - FuStW
+> Anton 81/11 - HH-7614 - leMKW - Peter 14/32
+> Anton 81/12 - HH-7616 - leMKW - Peter 14/20
+> Anton 81/13 - HH-7783 - leMKW
+> 
+> 2. Zug
+> Anton 81/20 - HH-7294 - FuStW
+> Anton 81/21 - HH-7724 - leMKW - Peter 11/20
+> Anton 81/22 - HH-7618 - leMKW - Peter 15/20
+> Anton 81/23 - HH-7715 - leMKW - Peter xx/xx
+> 
+> 3. Zug
+> Anton 81/30 - HH 7315 - FuStW
+> Anton 81/31 - HH-7769 - leMKW
+> Anton 81/32 - HH-7627 - leMKW - Peter 15/xx
+> Anton 81/33 - HH-7758 - leMKW - Peter 16/19
+> 
+> 4. Zug
+> Anton 81/40 - HH-7303 - FuStW
+> Anton 81/41 - HH-7681 - leMKW - Peter 25/xx
+> Anton 81/42 - HH-7633 - leMKW
+> Anton 81/43 - HH-7771 - leMKW
+
+
+**2. AAH**
+> Anton 82/01 - HH-7706 - leBefKW
+> Anton 82/05 - HH-7637 - leMKW - Peter 21/xx
+> Anton 82/09 - [...] - Ziv. Fahrzeug
+> 
+> 1. Zug
+> Anton 82/10 - HH-7323 - FuStW
+> Anton 82/11 - HH-7756 - leMKW
+> Anton 82/12 - HH-7615 - leMKW
+> Anton 82/13 - HH-7604 - leMKW - Objektschutz
+> 
+> 2. Zug
+> Anton 82/20 - HH-7321 - FuStW
+> Anton 82/21 - HH-7613 - leMKW
+> Anton 82/22 - HH-7727 - leMKW
+> Anton 82/23 - HH-7625 - leMKW
+> 
+> 3. Zug
+> Anton 82/30 - HH-7302 - FuStW - Peter 25/xx
+> Anton 82/31 - HH-7617 - leMKW
+> Anton 82/32 - HH-7624 - leMKW
+> Anton 82/33 - HH-7785 - leMKW - Peter xx/xx - (Fahrradstaffel)
+> 
+> 4. Zug
+> Anton 82/40 - HH-7352 - FuStW
+> Anton 82/41 - HH-7632 - leMKW - Peter 43/42
+> Anton 82/42 - HH-7710 - leMKW
+> Anton 82/43 - HH-7746 - leMKW - Peter 42/xx
+
+
+**3. AAH**
+> Anton 83/01
+> 
+> 1. Zug
+> Anton 83/10
+> Anton 83/11
+> Anton 83/12
+> Anton 83/13
+> 
+> 2. Zug
+> Anton 83/20
+> Anton 83/21
+> Anton 83/22
+> Anton 83/23
+> 
+> 3. Zug
+> Anton 83/30
+> Anton 83/31
+> Anton 83/32
+> Anton 83/33
+> 
+> 4. Zug
+> Anton 83/40
+> Anton 83/41
+> Anton 83/42
+> Anton 83/43
+> 
+
+**4. AAH**
+> Anton 84/01 - HH-7708 - leBefKW
+>Anton 84/05 - HH-7747 - leMKW
+> 
+> 1. Zug
+> Anton 84/10 - HH-7378 - FuStW - Peter 46/35
+> Anton 84/11 - HH-7697
+> Anton 84/12 - HH-7634 - leMKW - Peter 46/30
+> Anton 84/13 - HH-7773 - leMKW - Elbe 53/20
+> 
+> 2. Zug
+> Anton 84/20 - HH-7252 - FuStW
+> Anton 84/21 - HH-7728 - leMKW
+> Anton 84/22 - HH-7632 - leMKW
+> Anton 84/23 - HH-7732 - leMKW
+> 
+> 3. Zug
+> Anton 84/30 - HH-7275 - FuStW
+> Anton 84/31 - HH-7744 - leMKW
+> Anton 84/32 - HH-7713 - leMKW
+> Anton 84/33 - HH-7788 - leMKW
+> 
+> 
+> 4. Zug
+> Anton 84/40 - HH-7304/7 - FuStW
+> Anton 84/41 - HH-7742 - leMKW
+> Anton 84/42 - HH-7712 - leMKW
+> Anton 84/43 - HH-7683 - leMKW - Peter 37/19
+
+
+******************
+Einsatzzüge
+******************
+Neben der AAH gibt es in Hamburg zusätzlich 5 EInsatzzüge die eine ähnliche Funktion erfüllen.
+Die Funkrufnamen besitzen dasselbe Schema wie die normalen Hundertschaften, beginnend mit Brise 61 bis 65:
+
+EZ West 1 und 2 - am Verkehrsdienst West (2)
+Brise 61/01 - Zugführer
+Brise 61/1 - HGruKW
+Brise 61/2 - HGruKW
+Brise 61/3 - HGruKW
+
+Brise 62/02 - Zugführer
+Brise 62/1 - HGruKW
+Brise 62/2 - HGruKW
+Brise 62/3 - HGruKW
+
+EZ Mitte - am PK 23 Ast Grundstraße
+Brise 63/01 - Zugführer
+Brise 63/1 - HGruKW
+Brise 63/2 - HGruKW
+Brise 63/3 - HGruKw
+
+EZ Ost - am Verkehrsdienst Ost (3)
+Brise 64/01 - Zugführer
+Brise 64/1 - HGruKW
+Brise 64/2 - HGruKW
+Brise 64/3 - HGruKW
+
+EZ Süd - am PK 46
+Brise 65/01 - Zugführer
+Brise 65/1 - HGruKW
+Brise 65/2 - HGruKW
+Brise 65/3 - HGruKW
 
 
 ******************
