@@ -46,7 +46,7 @@ Florian Steinburg 04-47-03	LF-KatS	Standort Krempe
 Florian Steinburg 04-47-04	LF-KatS	Feuerwehrbereitschaft	
 Florian Steinburg 04-61-01	SW 2000Tr	Feuerwehrbereitschaft	
 			
-Florian Steinburg 05	FF Breitenberg-Moordiek	Amt Breitenburg	Dörpstraat 8, 25597 Westermoor
+Florian Steinburg 05	FF Breitenberg-Moordiek	Amt Breitenburg	Hauptstraße 5, 25597 Westermoor
 Florian Steinburg 05-41-01	TSF-W		
 			
 Florian Steinburg 06	FF Breitenburg	Amt Breitenburg	Heideweg 23, 25524 Breitenburg
@@ -55,40 +55,48 @@ Florian Steinburg 06-41-01	MLF
 Florian Steinburg 06-42-01	LF 8		
 			
 Florian Steinburg 07	FF Münsterdorf	Amt Breitenburg	Kirchenfeld 1 25587 Münsterdorf
-Florian Steinburg 07-44-01	LF 10-6		
-Florian Steinburg 07-46-01	LF 20		
+Florian Steinburg 07-44-01	LF 10-6	1.000l Wasser	
+Florian Steinburg 07-46-01	LF 20	2.400l Wasser	
 			
 Florian Steinburg 08	FF Oelixdorf	Amt Breitenburg	Oberstraße 56, 25524 Oelixdorf
 Florian Steinburg 08-11-01	ELW		
 Florian Steinburg 08-41-01	MLF		
 Florian Steinburg 08-44-01	LF 8-6		
 			
-Florian Steinburg 09	FF Westermoor-Kronsmoor	Amt Breitenburg	Dörpstraat 36, 25597 Westermoor
+Florian Steinburg 09	FF Westermoor-Kronsmoor	Amt Breitenburg	Dörpstraat 14, 25597 Westermoor
 Florian Steinburg 09-40-01	TSF		
 			
-Florian Steinburg 10	FF Itzehoe	Stadt Itzehoe	Hindenburgstraße 48, 25524 Klosterforst Itzehoe
+Florian Steinburg 10	FF Itzehoe Hauptwache	Stadt Itzehoe	Hindenburgstraße 48, 25524 Klosterforst Itzehoe
+		Neubau in Bau bis Mitte 2022	Zwischen B77 und B206 an der Kastanienallee
 Florian Steinburg 10-10-01	KdoW		
 Florian Steinburg 10-10-02	KdoW		
 Florian Steinburg 10-11-01	ELW 1		
 Florian Steinburg 10-18-01	MTW		
-Florian Steinburg 10-18-02	MTW		
-Florian Steinburg 10-18-03	MTW		
-Florian Steinburg 10-21-01	TLF 16-24		
-Florian Steinburg 10-32-01	DLK 23		
+Florian Steinburg 10-21-01	TLF 16/25		
 Florian Steinburg 10-32-02	DLK 23		
-Florian Steinburg 10-48-01	HLF 20-16		
-Florian Steinburg 10-48-02	LF 20		
-Florian Steinburg 10-48-03	HLF 20		
-Florian Steinburg 10-48-04	HLF 20		
+Florian Steinburg 10-48-01	HLF 20/38		
+Florian Steinburg 10-48-02	HLF 20/20		
 Florian Steinburg 10-51-01	RW 2		
-Florian Steinburg 10-56-01 A	GW-A		
 Florian Steinburg 10-58-01	GW-W		
 Florian Steinburg 10-63-01	WLF-26		
 Florian Steinburg 10-64-01	WLF-Lkr		
-Florian Steinburg 10-68-01	GW-L2		
+Florian Steinburg 10-68-01	GW-L2	1000m B-Schlauch, Dekon, Zelt, Bindemittel, Taucher,...	
 Florian Steinburg 10-69-01	sonLog		
 Florian Steinburg 10-69-02	sonLog		
 Florian Steinburg 10-78-01	MZB		
+	AB-Wasser/Schaum	7.000l Wasser, 1.000l Schaum, 4000er Pumpe,...	
+	AB-Atemschutz/Strahlenschutz		
+	AB-Mulde		
+	AB-Mehrzweckboot		
+			
+Florian Steinburg 10	FF Itzehoe Wache Nord	Stadt Itzehoe	Lise-Meitner-Straße 6, 25524 Itzehoe
+Florian Steinburg 10-18-03	MTW		
+Florian Steinburg 10-32-01	DLK 23		
+Florian Steinburg 10-48-04	HLF 20/24		
+			
+Florian Steinburg 10	FF Itzehoe Wache Süd	Stadt Itzehoe	Kamper Weg 105a, 25524 Itzehoe
+Florian Steinburg 10-18-02	MTW		
+Florian Steinburg 10-48-03	HLF 20		
 			
 Florian Steinburg 11	FF Blomesche Wildnis	Amt Horst-Herzhorn	Sperforkenweg 18, 25348 Blomesche Wildnis
 Florian Steinburg 11-41-01	StLF 10-6		
@@ -102,7 +110,7 @@ Florian Steinburg 13-44-01	LF 10-6
 Florian Steinburg 14	FF Gehlensiel	Amt Horst-Herzhorn	Gehlensiel 9b 25379 Herzhorn
 Florian Steinburg 14-40-01	TSF		
 			
-Florian Steinburg 14	FF Herzhorn	Amt Horst-Herzhorn	Reinenreihe 32, 25379 Herzhorn
+Florian Steinburg 14	FF Herzhorn	Amt Horst-Herzhorn	Hinterstraße 21b, 25379 Herzhorn
 Florian Steinburg 14-40-02	TSF		
 Florian Steinburg 14-41-01	TSF-W		
 			
@@ -112,13 +120,13 @@ Florian Steinburg 15-41-01	StLF 10-6
 Florian Steinburg 15	FF Langenhals	Amt Horst-Herzhorn	Moorhusen 55a 25377 Kollmar
 Florian Steinburg 15-41-02	TSF-W		
 			
-Florian Steinburg 16	FF Krempdorf	Amt Horst-Herzhorn	Dorfstraße 51, 25376 Krempdorf
+Florian Steinburg 16	FF Krempdorf	Amt Horst-Herzhorn	Dorfstraße ??, 25376 Krempdorf
 Florian Steinburg 16-40-01	TSF		
 			
 Florian Steinburg 17	FF Neuendorf b.E.	Amt Horst-Herzhorn	Moorhusen 7a, 25335 Neuendorf bei Elmshorn
 Florian Steinburg 17-41-01	StLF 10-6		
 			
-Florian Steinburg 18	FF Hungriger Wolf-Bücken	Amt Kellinghusen	Bücken 12, 25551 Hohenlockstedt
+Florian Steinburg 18	FF Hungriger Wolf-Bücken	Amt Kellinghusen	Bücken 12a, 25551 Hohenlockstedt
 Florian Steinburg 18-41-01	TSF-W		
 			
 Florian Steinburg 18	FF Lockstedter Lager	Amt Kellinghusen	Leipziger Str. 1, 25551 Hohenlockstedt
