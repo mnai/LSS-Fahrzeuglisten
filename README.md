@@ -5,6 +5,8 @@ Wie du hier genau die Information findest, die du suchst, Verbesserungen einreic
 
 ## Wie finde ich was ich suche?
 
+Schau am besten in die [Übersichtstabelle im Wiki](https://github.com/mnai/LSS-Fahrzeuglisten/wiki).
+
 Alle Informationen sind hierarchisch strukturiert, jeweils in der Form Bundesland -> Landkreis / Stadt -> Liste für die jeweilige Organisation.
 
 Für übergeordnete Organisationen wie THW oder die Polizei liegen die Listen jeweils im Ordner des Bundeslandes.
