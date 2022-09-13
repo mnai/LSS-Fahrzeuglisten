@@ -130,9 +130,11 @@ Florian Steinburg 18	FF Hungriger Wolf-Bücken	Amt Kellinghusen	Bücken 12a, 255
 Florian Steinburg 18-41-01	TSF-W		
 			
 Florian Steinburg 18	FF Lockstedter Lager	Amt Kellinghusen	Leipziger Str. 1, 25551 Hohenlockstedt
+Florian Steinburg 18-11-01	ELW		
 Florian Steinburg 18-18-01	MTW		
-Florian Steinburg 18-41-03	MLF		
+Florian Steinburg 18-41-03	MLF	1.000er Pumpe, 2.500l Wasser	
 Florian Steinburg 18-48-01	LF 16-12		
+Florian Steinburg 18-68-01	GW-L2	auch LF10-Logistik	
 			
 Florian Steinburg 18	FF Ridders	Amt Kellinghusen	Ridders 43 25551 Hohenlockstedt
 Florian Steinburg 18-44-01	LF 16-TS		
@@ -193,7 +195,12 @@ Florian Steinburg 30-48-01	HLF 20-16
 Florian Steinburg 30-48-02	HLF 20-16		
 Florian Steinburg 30-64-01	WLF-Lkr		
 Florian Steinburg 30-69-01	sonLog		
-Florian Steinburg 30-78-01	MZB		
+Florian Steinburg 30-77-01	RTB	Stralsund	
+Florian Steinburg 30-78-01	MZB	HLM G. Tietkens	
+	AB-Rüst		
+	AB-Hochwaser		
+	AB-Ölwehr		
+	AB-Logistik		
 			
 Florian Steinburg 31	FF Drage	Amt Itzehoe-Land	Hauptstraße, 25582 Drage
 Florian Steinburg 31-42-01	LF 8		
@@ -376,7 +383,7 @@ Florian Steinburg 81	FF Reher	Amt Schenefeld	Bahnhofstraße, 25593 Reher
 Florian Steinburg 81-14-01 A	MZF		
 Florian Steinburg 81-41-01	MLF		
 			
-Florian Steinburg 82	FF Schenefeld-Siezbüttel	Amt Schenefeld	Marktstraße 2, 25560 Schenefeld
+Florian Steinburg 82	FF Schenefeld-Siezbüttel	Amt Schenefeld	Erlengrund 1, 25560 Schenefeld
 Florian Steinburg 82-14-01	MZF		
 Florian Steinburg 82-22-01	TLF 16-25		
 Florian Steinburg 82-45-01	LF 10-6		
