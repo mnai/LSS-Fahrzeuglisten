@@ -52,7 +52,8 @@ Polizeikommissariat 16, Lerchenstraße 82, 22767 Hamburg
 
 Polizeikommissariat 17, Sedanstraße 28, 20146 Hamburg
 4-6 FuStW
-Krad-Standort, Peter 17/15+17/16
+Peter 17/15 - Krad
+Peter 17/16 - Krad
 
 Polizeikommissariat 21, Mörkenstraße 30, 22767 Hamburg
 5-8 FuStW
@@ -66,7 +67,8 @@ Polizeikommissariat 24, Garstedter Weg 24, 22453 Hamburg
 
 Polizeikommissariat 25, Notkestraße 95, 22607 Hamburg
 5-8 FuStW
-Krad-Standort, Peter 25/15+25/16
+Peter 25/15 - Krad
+Peter 25/16 - Krad
 + Bedarfsaußenstelle Arenen, Sylvesterallee 12, 22525 Hamburg
 
 Polizeikommissariat 26, Blomkamp 23, 22549 Hamburg
@@ -78,7 +80,8 @@ Polizeikommissariat 27, Koppelstraße 7, 22527 Hamburg
 
 Polizeikommissariat 31, Oberaltenallee 42, 22081 Hamburg
 5-10 FuStW
-Krad-Standort, Peter 31/15+31/16
+Peter 31/15 - Krad
+Peter 31/16 - Krad
 
 Polizeikommissariat 33, Wiesendamm 133, 22303 Hamburg
 3-5 FuStW
@@ -89,7 +92,8 @@ Polizeikommissariat 34, Wördenmoorweg 78, 22415 Hamburg
 
 Polizeikommissariat 35, Wentzelplatz 1, 22391 Hamburg
 4-5 FuStW
-Krad-Standort, Peter 35/15+35/16
+Peter 35/15 - Krad
+Peter 35/16 - Krad
 + Außenstelle Volksdorf, Farmsener Landstraße 202, 22359 Hamburg
 Peter 35/91
 
@@ -98,7 +102,15 @@ Polizeikommissariat 36, Ellernreihe 135, 22179 Hamburg
 
 Polizeikommissariat 37, Am Alten Posthaus 6, 22041 Hamburg
 2-3 FuStW
-Krad-Standort, Peter 37/15+37/16
+Peter 37/1 - HH-7035 - FuStW - MB E-Klasse T-Model
+Peter 37/2 - HH-7091 - FuStW - MB E-Klasse T-Modell
+Peter 37/3 - HH-7067 - FuStW - MB E-Klasse T-Modell
+Peter 37/4 - HH-7192 - FuStW - MB E-Klasse T-Modell
+Peter 37/10 - HH-7387E - FuStW - VW Passat GTE - (DGL?)
+Peter 37/11 - HH-7377 - FuStW - VW Touran - ZbV
+Peter 37/(12?) - HH-7291E - FuStW - Opel Ampera-e
+Peter 37/15 - Krad
+Peter 37/16 - Krad
 
 Polizeikommissariat 38, Scharbeutzer Straße 15, 22147 Hamburg 
 5-6 FuStW
@@ -112,7 +124,8 @@ Polizeikommissariat 42, Möllner Landstraße 44, 22111 Hamburg
 
 Polizeikommissariat 43, Ludwig-Rosenberg-Ring 57, 21031 Hamburg
 6-10 FuStW
-Krad-Standort, Peter 43/15+43/16
+Peter 43/15 - Krad
+Peter 43/16 - Krad
 + Außenstelle Allermöhe, Walter-Rudolphi-Weg 32 (43/91)
 + Polizeiposten Ochsenwerder-Moorfleet, Gauerter Hauptdeich 73 (43/92)
 + Polizeiposten Billwerder-Allermöhe, Standort wird gesucht, aktuell über AST Allermöhe (43/93)
@@ -129,7 +142,8 @@ Polizeikommissariat 46, Lauterbachstraße 7, 21073 Hamburg
 
 Polizeikommissariat 47, Neugrabener Markt 3, 21149 Hamburg
 3-7 FuStW
-Krad-Standort, Peter 47/15+47/16
+Peter 47/15 - Krad
+Peter 47/16 - Krad
 + Außenstelle Finkenwerder, Butendeichsweg 2
 + Polizeiposten Cranz, Estedeich 95 (aktuell nicht besetzt)
 
@@ -140,30 +154,63 @@ Wasserschutzpolizeikommissariat 2, Roßdamm 10, 20457 Hamburg
 Elbe 52/xx 2-3 FuStW
 
 Wasserschutzpolizeikommissariat 3, Am Überwinterungshafen 1, 21079 Hamburg
-Elbe 53/xx 2-3 FuStW
+Elbe 53/(01?) - FuStW - MB E-Klasse T-Model
+Elbe 53/(02?) - FuStW - MB E-Klasse T-Model
+Elbe 53/(10?) - FuStW - VW Passat GTE - (DGL?)
+Elbe 53/xx - (E-)FuStW - MB GLC 
+Elbe 53/xx - leMKW
+Elbe 53/xx - leMKW
+Elbe 53/xx - HGruKw
+Elbe 53/xx - HGruKw
+Elbe 53/xx - HGruKw
 
-Verkehrsstaffel Süd, Großmoorring 14, 21079 Hamburg
+Verkehrsdirektion 4 (VD4)
+Verkehrsstaffel Süd (VS), Großmoorring 14, 21079 Hamburg
 Vera Süd 11 ff. FuStW
 Vera Süd 21+22 SiKW
 Vera Süd 41 ff. ProVida
+Vera Süd 51 - Krad
+Vera Süd 52 - Krad
 Vera Süd 61 ff. VUD
 
-Verkehrsstaffel West, Stresemannstraße 341-347, 22761 Hamburg
+Kontrollgruppe Schwerlast
+Vera XX - Schwerlastkontrollfahrzeuge - HH-7542 - MB Sprinter Flachdach, mittlerer Radstand. Silber mit VESA (Keine Beschriftung oder Kennung außer POLIZEI)
+
+
+Verkehrsdirektion 2 (VD2)
+Verkehrsstaffel West (VW), Stresemannstraße 341-347, 22761 Hamburg
 Vera West 11 ff. FuStW
 Vera West 21+22 leMKW
+Vera West (23?) - SiKw - HH-7495 - VW T6.1 4Motion
 Vera West 41 ff. ProVida
-Vera West 51-58 Krad
+Vera West 51 - Krad
+Vera West 52 - Krad
+Vera West 53 - Krad
+Vera West 54 - Krad
+Vera West 55 - Krad
+Vera West 56 - Krad
+Vera West 57 - Krad
+Vera West 58 - Krad
 Vera West 61 ff. VUD
 Vera West 70 Fahrradstaffel (DGL)
 Vera West 71 ff. Fahrradstaffel
 Außenstelle Elbtunnel Nord
 Vera West 23+24 SiKW
 
-Verkehrsstaffel Ost, Rennbahnstraße 129, 22043 Hamburg
+Verkehrsdirektion 3 (VD3)
+Verkehrsstaffel Ost (VO), Rennbahnstraße 129, 22043 Hamburg
 Vera Ost 11 ff. FuStW
 Vera Ost 21+22 leMKW
+Vera Ost (23?) - SiKw - HH-7493 - VW T6.1 4Motion
 Vera Ost 41 ff. ProVida
-Vera Ost 51-58 Krad
+Vera Ost 51 - Krad
+Vera Ost 52 - Krad
+Vera Ost 53 - Krad
+Vera Ost 54 - Krad
+Vera Ost 55 - Krad
+Vera Ost 56 - Krad
+Vera Ost 57 - Krad
+Vera Ost 58 - Krad
 Vera Ost 61 ff. VUD
  
 Landesbereitschaftspolizei (LBP) Hamburg, Carl-Cohn-Straße 39, 22297 Hamburg
