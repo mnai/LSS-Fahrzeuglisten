@@ -1,0 +1,621 @@
+Kennung	Feuerwehr	Funk	Fahrzeugtyp
+			
+1	KFV Herzogtum Lauenburg	Lankener Weg 26	21493 Elmenhorst
+		Florian Lauenburg 01/10-01	KdoW
+		Florian Lauenburg 01/14-01	MZF
+		Florian Lauenburg 01/18-01	MTW
+		Florian Lauenburg 01/41-01	TSF-W
+		Florian Lauenburg 01/46-01	LF 16
+		Florian Lauenburg 01/50-01	RW1
+		Florian Lauenburg 01/68-01	GW-L2 (Schlauchwagen)
+			
+2	TEL Herzogtum Lauenburg		
+		Florian Lauenburg 02/12-01	ELW2 (TEL)
+		Florian Lauenburg 02/14-01	MZF Drohne
+			
+3	LZG Herzogtum Lauenburg	Lankener Weg 26	21493 Elmenhorst
+		Florian Lauenburg 03/11-01	ELW1
+		Florian Lauenburg 03/14-01	MZF
+		Florian Lauenburg 03/54-01	GW-G
+		Florian Lauenburg 03/68-01	GW-L
+		Florian Lauenburg 03/71-01	CBRNErkW
+		Florian Lauenburg 03/72-02	ReakErk (Lauenburg)
+		Florian Lauenburg 03/72-03	ReakErk (Mölln)
+		Florian Lauenburg 03/72-04	ReakErk (Schwarzenbek)
+		Florian Lauenburg 03/74-01	GW DekonP
+			
+7	LZG Herzogtum Lauenburg		
+		Florian Lauenburg 07/61-01	SW KatS
+			Hochleistungspumpe 50
+			
+10	Geesthacht Hauptwache	Kehrwieder Straße	21502 Geesthacht
+		Florian Lauenburg 10/10-01	KdoW
+		Florian Lauenburg 10/11-01	ELW 1
+		Florian Lauenburg 10/12-01	ELW 2
+		Florian Lauenburg 10/18-01	MTW
+		Florian Lauenburg 10/25-01	TLF 4000
+		Florian Lauenburg 10/32-01	DLK 23/12
+		Florian Lauenburg 10/46-01	LF 20
+		Florian Lauenburg 10/47-01	LF 16/12
+		Florian Lauenburg 10/48-01	HLF 20
+		Florian Lauenburg 10/68-01	GW-L2
+		Florian Lauenburg 10/76-01	GW-ASG
+			
+	Geesthacht Nordwache	Mercatorstraße 14a	21502 Geesthacht
+		Florian Lauenburg 10/47-02	LF-KatS
+		Florian Lauenburg 10/48-02	HLF 20
+			
+	Grünhof-Tesperhude	Grünhofer Straße 50	21502 Geesthacht
+		Florian Lauenburg 10/14-11	MZF
+		Florian Lauenburg 10/18-11	MTW JF
+		Florian Lauenburg 10/44-11	LF 8/6
+		Florian Lauenburg 10/48-11	HLF 20/16
+			
+	Werkf. KKW Krümmel	Elbuferstraße 82	21502 Geesthacht
+		Florian Lauenburg 10/21-21	SLF 25/25
+		Florian Lauenburg 10/21-22	SLF 25/25
+		Florian Lauenburg 10/46-21	LF 20/16
+		Florian Lauenburg 10/67-21	GW-N
+			
+11	Börnsen	Börnsener Straße 21a	21039 Börnsen
+		Florian Lauenburg 11/11-01	ELW 1
+		Florian Lauenburg 11/18-01	MTW
+		Florian Lauenburg 11/46-01	LF 16/12
+		Florian Lauenburg 11/46-02	LF 10
+		Florian Lauenburg 11/48-01	HLF 20/16
+			
+12	Escheburg	Hofweg 2	21039 Escheburg
+		Florian Lauenburg 12/11-01	ELW 1
+		Florian Lauenburg 12/18-01	MTW
+		Florian Lauenburg 12/47-01	LF 16/12
+		Florian Lauenburg 12/48-01	HLF 20/16
+			
+13	Kröppelshagen-Fahrendorf	Schulweg 1	21529 Kröppelshagen
+		Florian Lauenburg 13/14-01	MZF
+		Florian Lauenburg 13/47-01	LF 10
+		Florian Lauenburg 13/48-01	HLF 20/16
+			
+14	Dassendorf	Am Brink 1	21521 Dassendorf
+		Florian Lauenburg 14/18-01	MTF
+		Florian Lauenburg 14/18-02	MTF
+		Florian Lauenburg 14/47-01	LF 20/16
+		Florian Lauenburg 14/48-01	HLF 20/16
+			
+15	Hohenhorn	Am Ebersoll 2	21526 Hohenhorn
+		Florian Lauenburg 15/18-01	MTW
+		Florian Lauenburg 15/45-01	LF 8/6
+			FwA-Ölschaden
+			
+	Worth	Bogenstraße	21502 Worth
+		Florian Lauenburg 15/46-01	LF 16/12
+			
+16	Wiershop	Lindenstraße 8	21502 Wiershop
+		Florian Lauenburg 16/14-02	MZF
+		Florian Lauenburg 16/44-01	LF 8/6
+			
+	Hamwarde	Dreiecksplatz 2	21502 Hamwarde
+		Florian Lauenburg 16/14-01	MZF
+		Florian Lauenburg 16/45-01	LF 8/6
+		Florian Lauenburg 16/46-01	LF 16
+			
+17	Wohltorf	Am Brink 5	21521 Wohltorf
+		Florian Lauenburg 17/18-01	MTW
+		Florian Lauenburg 17/22-01	TLF 16/25
+		Florian Lauenburg 17/45-01	LF 10/6
+			AL 16/4 (AL 18)
+			
+18	Wentorf/HH	Fritz-Specht-Weg 3	21465 Wentorf bei Hamburg
+		Florian Lauenburg 18/11-01	ELW 1
+		Florian Lauenburg 18/18-01	MTF
+		Florian Lauenburg 18/18-02	MTF
+		Florian Lauenburg 18/22-01	TLF 16/25
+		Florian Lauenburg 18/32-01	DLK 23/12
+		Florian Lauenburg 18/47-01	LF 16/12
+		Florian Lauenburg 18/48-01	LF 20/16
+			
+19	Aumühle	Bergstraße 9	21521 Aumühle
+		Florian Lauenburg 19/14-01	MZF
+		Florian Lauenburg 19/18-01	MTW
+		Florian Lauenburg 19/42-01	LF 8
+		Florian Lauenburg 19/48-01	HLF 20
+			FwA-MZ
+			ÖSA
+			
+20	Lauenburg/Elbe	Reeperbahn 33	21481 Lauenburg
+		Florian Lauenburg 20/10-01	KdoW
+		Florian Lauenburg 20/11-01	ELW 1
+		Florian Lauenburg 20/18-01	MTF
+		Florian Lauenburg 20/18-02	MTF
+		Florian Lauenburg 20/22-01	TLF 16/25
+		Florian Lauenburg 20/22-02	TLF 16/28
+		Florian Lauenburg 20/32-01	DLK 23/12
+		Florian Lauenburg 20/44-01	LF 8/6
+		Florian Lauenburg 20/46-01	LF 20
+		Florian Lauenburg 20/48-01	HLF 20/16
+		Florian Lauenburg 20/55-01	GW-Ölwehr
+		Florian Lauenburg 20/67-01	GW-N
+		Florian Lauenburg 20/69-01	GW
+		(Florian Lauenburg 03/72-02)	ReakErk (Lauenburg)
+			Mehrzweckboot
+			Ölwehrboot Elbe 1
+			FwA-Mehrzweck
+			
+21	Schnakenbek	Dorfstraße	21481 Schnakenbek
+		Florian Lauenburg 21/18-01	MTW
+		Florian Lauenburg 21/42-01	LF 8
+			
+22	Krüzen	Dorfstraße 19	21483 Krüzen
+		Florian Lauenburg 22/18-01	MTW
+		Florian Lauenburg 22/41-01	StLF 10/6
+			
+23	Lütau	Alte Salzstraße 23	21483 Lütau
+		Florian Lauenburg 23/42-01	LF 8
+		Florian Lauenburg 23/45-01	LF 10/6
+			
+24	Wangelau	Zum Bornholz 6	21483 Wangelau
+		Florian Lauenburg 24/41-01	TSF-W
+			
+25	Krukow	Hauptstraße	21483 Krukow
+		Florian Lauenburg 25/41-01	TSF-W
+			
+	Juliusburg	Am Teich 6d	21483 Juliusburg
+		Florian Lauenburg 25/40-01	TSF
+			
+26	Dalldorf	Hauptstraße 12	21483 Dalldorf
+		Florian Lauenburg 26/44-01	LF 8
+			
+27	Basedow	Dorfstraße 10	21483 Basedow
+		Florian Lauenburg 27/14-01	MZF
+		Florian Lauenburg 27/42-01	LF 10/6
+			FwA-Transport
+			
+28	Lanze	Dorfstraße 8	21483 Lanze
+		Florian Lauenburg 28/41-01	TSF-W
+			
+29	Buchhorst	Dorfstraße 2	21481 Buchhorst
+		Florian Lauenburg 29/11-01	ELW 1
+		Florian Lauenburg 29/42-01	LF 8
+		Florian Lauenburg 29/46-01	LF 16/12
+			
+30	Schwarzenbek	Lauenburger Straße 46	21493 Schwarzenbek
+		Florian Lauenburg 30/10-01	KdoW
+		Florian Lauenburg 30/14-01	MZF
+		Florian Lauenburg 30/18-01	MTW
+		Florian Lauenburg 30/20-01	TLF 8/18
+		Florian Lauenburg 30/32-01	DLK 23/12
+		Florian Lauenburg 30/46-01	LF 20/16
+		Florian Lauenburg 30/46-02	LF 20/40
+		Florian Lauenburg 30/46-03	LF 20/24
+		Florian Lauenburg 30/48-01	HLF 20/16
+		Florian Lauenburg 30/51-01	RW 2
+		Florian Lauenburg 30/67-01	GW-N
+		(Florian Lauenburg 03-72-04)	ReakErk (Schwarzenbek)
+			FwA-Pulver
+			FwA-Pritsche
+			FwA-Jugendfeuerwehr
+			
+31	Brunstorf	Lindenstraße 2	21524 Brunstorf
+		Neubau an der B207 in der Orstmitte	
+		Florian Lauenburg 31/18-01	MTW
+		Florian Lauenburg 31/45-01	LF 8/6
+			
+	Kollow	Fasanenweg 6	21527 Kollow
+		Florian Lauenburg 31/44-01	LF 10
+		Florian Lauenburg 31/44-02	LF 8/6
+			
+32	Gülzow	Hauptstraße 21a	21483 Gülzow
+		Florian Lauenburg 32/22-01	TLF 16/25
+		Florian Lauenburg 32/45-01	LF 8/6
+		Florian Lauenburg 32/47-01	LF-KatS-SH
+			
+33	Sahms	Auf den Wischhöfen 1	21493 Sahms
+		Florian Lauenburg 33/18-01	MTW
+		Florian Lauenburg 33/41-01	MLF
+			
+	Elmenhorst	Alte Dorfstraße 6	21493 Elmenhorst
+		Florian Lauenburg 33/14-01	MZF
+		Florian Lauenburg 33/18-01	MTW
+		Florian Lauenburg 33/40-01	TSF-TH
+		Florian Lauenburg 33/48-01	LF 16/12
+			
+34	Kankelau	Elmenhorster Weg 9	21514 Kankelau
+		Florian Lauenburg 34/40-01	TSF
+			
+	Groß Pampau	Hauptstraße 28	21493 Groß Pampau
+		Florian Lauenburg 34/44-01	LF 8
+			
+35	Fuhlenhagen	Dorfstraße 48a	21493 Fuhlenhagen
+		Florian Lauenburg 35/42-01	LF 8
+			
+36	Havekost	Lindenstraße	21493 Havekost
+		Florian Lauenburg 36/40-01	TSF
+			
+	Grabau	Grover Weg 8	21493 Grabau
+		Florian Lauenburg 36/14-01	MZF
+		Florian Lauenburg 36/46-01	LF 10
+			
+	Grove	Schulstraße 9	21493 Grove
+		Florian Lauenburg 36/41-02	TSF-W
+			
+37	Kasseburg	Am Brink 17a	22929 Kasseburg
+		Florian Lauenburg 37/45-01	HLF 10/6
+			
+	Kuddewörde	Lauenburger Straße 112	22958 Kuddewörde
+		Florian Lauenburg 37/14-01	MZF
+		Florian Lauenburg 37/46-01	LF 20/35
+		Florian Lauenburg 37/48-01	LF 16/12 (HLF 16/20)
+			
+38	Mühlenrade	Dorfstraße 36	21493 Mühlenrade
+		Florian Lauenburg 38/41-01	TSF-W
+			
+	Hamfelde-Dahmker	Am Mühlenteich 4	22929 Hamfelde
+		Florian Lauenburg 38/14-01	MZF
+		Florian Lauenburg 38/41-02	TSF-W
+			
+39	Basthorst	Dorfstraße 30	21493 Basthorst
+		Florian Lauenburg 39/41-01	TSF-W
+			
+	Möhnsen	Lankener Weg 3	21493 Möhnsen
+		Florian Lauenburg 39/43-01	LF 8/6
+			
+40	Büchen	Raiffeisenstraße 4	21514 Büchen
+		Florian Lauenburg 40/11-01	ELW 1
+		Florian Lauenburg 40/18-01	MTW
+		Florian Lauenburg 40/46-01	LF 20/16
+		Florian Lauenburg 40/48-02	HLF 20
+		Florian Lauenburg 40/51-01	RW 2
+		Florian Lauenburg 40/67-01	GW-L1
+			FwA-Stromerzeuger 20kVA
+			FwA-TSA
+			FwA-Transport
+			Krad
+			
+	Büchen-Dorf	Schmiedestraße 10	21514 Büchen
+		Florian Lauenburg 40/14-01	MZF
+		Florian Lauenburg 40/44-01	LF 8/6
+			
+41	Güster	Roseburger Straße 28	21514 Güster
+		Florian Lauenburg 41/18-01	MTW
+		Florian Lauenburg 41/40-01	TSF
+		Florian Lauenburg 41/41-01	TSF-W
+			Feuerwehrboot
+			Schlauchanhänger
+			
+42	Roseburg	Trammer Weg 2	21514 Roseburg
+		Florian Lauenburg 42/41-01	TSF-W
+			
+43	Klein Pampau	Hasenböge 7	21514 Klein Pampau
+		Florian Lauenburg 43/18-01	MTW
+		Florian Lauenburg 43/41-01	MLF
+			
+44	Müssen	Zum Sportplatz 1a	21516 Müssen
+		Florian Lauenburg 44/14-01	MZF
+		Florian Lauenburg 44/40-01	TSF-GW
+		Florian Lauenburg 44/41-01	StLF 10/6
+			
+45	Schulendorf	Birkenallee	21516 Schulendorf
+		Florian Lauenburg 45/14-01	MZF
+		Florian Lauenburg 45/41-01	MLF 10/6
+			
+46	Witzeeze	Dorfstraße 16	21514 Witzeeze
+		Florian Lauenburg 46/43-01	LF 8/6
+		Florian Lauenburg 46/47-01	LF 16/12
+			
+47	Bröthen	Alte Dorfstraße 12	21514 Bröthen
+		Florian Lauenburg 47/41-01	MLF
+		Florian Lauenburg 47/42-01	LF 8
+			
+48	Siebeneichen	Kanalstraße	21514 Siebeneichen
+		Florian Lauenburg 48/41-01	TSF-W
+			
+49	Fitzen	Dorfstraße 32	21514 Fitzen
+		Florian Lauenburg 49/41-01	MLF
+			
+50	Breitenfelde	Bergkoppel 1	23881 Breitenfelde
+		Florian Lauenburg 50/18-01	MTW
+		Florian Lauenburg 50/42-01	LF 16-TS
+		Florian Lauenburg 50/48-01	HLF 20/16
+			
+51	Niendorf/Strecknitz	Dorfstraße	23881 Niendorf a.d. St.
+		Florian Lauenburg 51/14-01	MZF
+		Florian Lauenburg 51/45-01	LF 8/6
+			
+52	Tramm	Dorfstraße 13	21516 Tramm
+		Florian Lauenburg 52/14-01	MZF
+		Florian Lauenburg 52/46-01	LF 16/12 n.B. (2022 aus HH)
+			
+	Hornbek	Hauptstraße 14	21514 Hornbek
+		Florian Lauenburg 52/41-01	MLF
+			
+53	Schretstaken	A-Paul-Weber-Straße 36	21493 Schretstaken
+		Florian Lauenburg 53/41-01	TSF-W
+			
+	Talkau	Friedhofstraße 1a	21493 Talkau
+		Florian Lauenburg 53/14-01	MZF
+		Florian Lauenburg 53/48-01	HLF 20/20
+			
+54	Bergrade	Bergrade	23898 Duvensee
+		Florian Lauenburg 54/40-01	TSF
+			
+	Duvensee	Dörpstraat 39	23898 Duvensee
+		Florian Lauenburg 54/18-01	MTW
+		Florian Lauenburg 54/46-01	LF 16/12
+			
+	Koberg	Schulstraße 21	23881 Koberg
+		Florian Lauenburg 54/41-02	TSF-W
+			
+	Ritzerau	Hohlweg 2	23896 Ritzerau
+		Florian Lauenburg 54/41-03	TSF-W
+			
+55	Alt-Mölln	Heinz Hagelstein Weg 1	23881 Alt-Mölln
+		Florian Lauenburg 55/14-01	MZF
+		Florian Lauenburg 55/41-01	TSF-W
+		Florian Lauenburg 55/47-01	LF 10
+			
+56	Bälau	Im Uhlenbusch	23881 Bälau
+		Florian Lauenburg 56/41-01	TSF-W
+			
+	Borstorf	Burgstraße 1	23881 Borstorf
+		Florian Lauenburg 56/41-02	TSF-W
+			
+57	Nusse	Kurzenlandskoppel 2	23896 Nusse
+		Florian Lauenburg 57/14-01	MZF
+		Florian Lauenburg 57/45-01	LF 8/6
+		Florian Lauenburg 57/47-01	LF 10
+			
+58	Woltersdorf	Dorfstraße	214516 Woltersdorf
+		Florian Lauenburg 58/18-01	MTW
+		Florian Lauenburg 58/41-01	MLF
+			
+59	Lankau	Dorfstraße 11	23881 Lankau
+		Florian Lauenburg 59/41-01	TSF-W
+			
+	Hammer	Pantener Straße 1	23896 Panten
+		Florian Lauenburg 59/40-02	TSF
+			
+	Mannhagen	Hauptstraße 9	23896 Panten
+		Florian Lauenburg 59/41-02	TSF-W
+			
+60	Mölln	Sankt-Florian-Weg 1	23879 Mölln
+		Florian Lauenburg 60/10-01	KdoW
+		Florian Lauenburg 60/11-01	ELW 1
+		Florian Lauenburg 60/18-01	MTW
+		Florian Lauenburg 60/18-02	MTW
+		Florian Lauenburg 60/22-01	TLF 16/25
+		Florian Lauenburg 60/32-01	DLK 23/12
+		Florian Lauenburg 60/46-01	LF 20
+		Florian Lauenburg 60/47-01	LF 20
+		Florian Lauenburg 60/48-01	HLF 20
+		Florian Lauenburg 60/51-01	RW 2
+		Florian Lauenburg 60/67-01	GW-L1
+		Florian Lauenburg 60/69-01	MZF-T
+		(Florian Lauenburg 03/72-03)	ReakErk (Mölln)
+			
+61	Horst	Lehmrader Weg	23883 Horst
+		Florian Lauenburg 61/41-01	TSF-W
+			
+	Brunsmark	Dorfstraße	23883 Brunsmark
+		Florian Lauenburg 61/41-02	TSF-W
+			
+62	Seedorf	Dorfstraße 4b	23883 Seedorf
+		Florian Lauenburg 62/42-01	LF 8/6
+			
+	Groß Zecher	An der Weh	23883 Seedorf
+		Florian Lauenburg 62/42-02	LF 8/6
+			
+63	Klein Zecher	Alte Marktstraße 2	23883 Klein Zecher
+		Florian Lauenburg 63/41-02	LF 8
+			
+64	Hollenbek	Dorfstraße 29	23883 Hollenbek
+		Florian Lauenburg 64/18-01	MTW
+		Florian Lauenburg 64/41-01	TSF-W
+			
+	Sterley	Alte Dorfstraße 35	23883 Sterley
+		Florian Lauenburg 63/19-01	MTW-Jugend
+		Florian Lauenburg 64/42-01	LF 10
+		Florian Lauenburg 64/43-01	TSF-W
+			
+65	Gudow	Hauptstraße 24	23899 Gudow
+		Florian Lauenburg 65/14-01	MZF
+		Florian Lauenburg 65/18-01	MTW (auch RHS)
+		Florian Lauenburg 65/44-01	LF 8/6
+		Florian Lauenburg 65/48-01	HLF 20
+			
+66	Salem	Seestraße 44	23911 Salem
+		Florian Lauenburg 66/18-01	MTW (Dargow?)
+		Florian Lauenburg 66/41-01	TSF-W
+			
+	Dargow	Schaalseeweg 2	23883 Salem
+		Florian Lauenburg 66/41-02	TSF-W
+		Florian Lauenburg 66/78-01	RTB
+			
+67	Besenthal	Dorfstraße 1	23899 Besenthal
+		Florian Lauenburg 67/44-01	LF 8/6
+			
+	Göttin	Dorfstraße	21514 Göttin
+		Florian Lauenburg 67/42-01	LF 8/6
+			
+68	Grambek	Heideweg 4	23883 Grambek
+		Florian Lauenburg 68/18-01	MTW
+		Florian Lauenburg 68/22-01	TLF 3000
+		Florian Lauenburg 68/41-01	TSF-W
+			
+	Lehmrade	Gudower Straße 1	23883 Lehmrade
+		Florian Lauenburg 68/44-01	LF 8/6
+			
+69	Langenlehsten	Dorfstraße 29a	21514 Langenlehsten
+		Florian Lauenburg 69/20-01	TLF 8/18
+			
+70	Ratzeburg	Robert-Bosch-Straße 1-3	23909 Ratzeburg
+		Florian Lauenburg 70/10-01	KdoW
+		Florian Lauenburg 70/11-01	ELW 1
+		Florian Lauenburg 70/18-01	MTW
+		Florian Lauenburg 70/18-02	MTW JF
+		Florian Lauenburg 70/22-01	TLF 16/25
+		Florian Lauenburg 70/29-01	WaWe 9000
+		Florian Lauenburg 70/36-01	HAB 23/12
+		Florian Lauenburg 70/44-01	LF 8/6
+		Florian Lauenburg 70/46-01	LF 16/12 (Standort THW)
+		Florian Lauenburg 70/48-01	HLF 20/16
+		Florian Lauenburg 70/58-01	GW-Taucher
+		Florian Lauenburg 70/67-01	GW-Logistik
+		Florian Lauenburg 70/78-01	MZB Dorothea (Standort See)
+		Florian Lauenburg 70/78-02	RTB
+			7 Anhänger (diverse)
+			
+71	Groß Grönau	Am Born 2	23627 Groß Grönau
+		Florian Lauenburg 71/11-01	ELW 1
+		Florian Lauenburg 71/46-01	LF 20
+		Florian Lauenburg 71/48-01	HLF 20/16
+			
+72	Buchholz-Disnack-Pogeez	Neubau B207/Alte Salzstraße/Hauptstraße	23911 Pogeez
+		Florian Lauenburg 71/18-01	MTF
+		Florian Lauenburg 71/41-01	TSF-W
+		Florian Lauenburg 71/41-02	TSF-W
+		Florian Lauenburg 72/42-01	LF 8
+			
+73	Groß Sarau	Klempauer Straße 5	23627 Groß Sarau
+		Florian Lauenburg 73/47-01	LF 10 (2.000er Pumpe, 2.000l Wasser)
+		Florian Lauenburg 73/48-01	LF 16/12
+			RHS im Aufbau
+			
+74	Kittlitz	Niendorfer Straße 2	23911 Kittlitz
+		Florian Lauenburg 74/41-01	StLF 10/6
+			
+75	Mustin	Dorfstraße 26	23911 Mustin
+		Florian Lauenburg 75/42-01	LF 8
+		Florian Lauenburg 75/50-01	RW 1
+			
+76	Bäk-Mechow-Römnitz	Am Brink 1	23909 Mechow am See
+		Florian Lauenburg 76/18-01	MTW
+		Florian Lauenburg 76/42-01	LF 8/6
+		Florian Lauenburg 76/48-02	HLF 20
+			
+	Ziethen	Dorfstraße 17	23911 Ziethen
+		Florian Lauenburg 76/10-01	KdoW
+		Florian Lauenburg 76/44-01	LF 10
+		Florian Lauenburg 76/48-01	HLF 20/16
+			
+77	Schmilau	Dorfstraße 12	23911 Schmilau
+		Florian Lauenburg 77/14-01	MZF
+		Florian Lauenburg 77/41-01	TSF-W
+			
+78	Giesensdorf	Drofstraße	23909 Giesensdorf
+		Florian Lauenburg 78/40-01	TSF
+			
+	Harmsdorf	Dorfstraße 4	23911 Harmsdorf
+		Florian Lauenburg 78/41-01	TSF-W
+			
+79	Kulpin	Dorfstraße	23911 Kulpin
+		Florian Lauenburg 79/40-01	
+			
+	Einhaus	Hauptstraße 26a	23911 Einhaus
+		Florian Lauenburg 79/42-01	LF 8
+			
+80	Berkenthin	Am Schart 16	23919 Berkenthin
+		Florian Lauenburg 80/11-01	ELW 1
+		Florian Lauenburg 80/18-01	MTF
+		Florian Lauenburg 80/46-01	LF 16/12
+		Florian Lauenburg 80/48-01	HLF 20
+			
+81	Klempau	Dorfstraße 47	23628 Klempau
+		Florian Lauenburg 81/18-01	MTW
+		Florian Lauenburg 81/45-01	LF 10
+			
+82	Rondeshagen	Am Brink	23919 Rondeshagen
+		Florian Lauenburg 82/14-01	MZF
+		Florian Lauenburg 82/44-01	LF 8/6
+			Mehrzweckboot
+			
+83	Behlendorf	Am Brink	23919 Behlendorf
+		Florian Lauenburg 83/41-01	MLF
+			
+84	Niendorf bei Berkenthin	Dörpstraat	23919 Niendorf b.Berkenthin
+		Florian Lauenburg 84/41-01	TSF-W
+			
+85	Göldenitz	Fliegenberg 19	23919 Göldenitz
+		Florian Lauenburg 85/40-01	TSF
+			
+86	Sierksrade	Steenkamp 1	23847 Sierksrade
+		Florian Lauenburg 86/41-01	StLF 10/6
+		Florian Lauenburg 86/46-01	TSF
+			
+87	Kastorf	Ratzeburger Straße 26a	23847 Kastorf
+		Florian Lauenburg 87/14-01	MZF
+		Florian Lauenburg 87/43-01	LF 10/6
+		Florian Lauenburg 87/47-01	LF 20 KatS SH
+			
+88	Bliestorf	Neuer Weg 1	23847 Bliestorf
+		Florian Lauenburg 88/14-01	MZF
+		Florian Lauenburg 88/45-01	LF 10/6
+			
+90	Lüchow	Sandesnebener Weg 1	23898 Lüchow
+		Florian Lauenburg 90/40-01	LF 8
+			
+	Sandesneben	Makenhorst 5a	23898 Sandesneben
+		Florian Lauenburg 90/18-01	MTF
+		Florian Lauenburg 90/40-02	TSF-Logistik
+		Florian Lauenburg 90/41-01	TSF-W
+		Florian Lauenburg 90/48-01	HLF 20
+			
+91	Steinhorst	Am Ziegelteich 1	23847 Steinhorst
+		Florian Lauenburg 90/11-01	ELW 1
+		Florian Lauenburg 91/22-01	TLF 16/25
+		Florian Lauenburg 91/42-01	LF 8
+			
+92	Groß Boden	Bodener Landstraße 9	23847 Groß Boden
+		Florian Lauenburg 92/19-01	MZF
+		Florian Lauenburg 92/41-01	TSF-W
+			
+	Stubben	Dorfstraße 42	23847 Stubben
+		Florian Lauenburg 92/18-01	MTF
+		Florian Lauenburg 92/42-01	LF 8
+			
+93	Schürensöhlen	Hauptstraße 27	23847 Schürensöhlen
+		Florian Lauenburg 93/41-01	TSF-W
+			
+	Siebenbäumen	Dorfstraße 4	23847 Siebenbäumen
+		Florian Lauenburg 93/18-01	MTF
+		Florian Lauenburg 93/48-01	LF 10
+			
+94	Grinau	Hauptstraße 38	23847 Grinau
+		Florian Lauenburg 94/18-01	MTF
+		Florian Launeburg 94/41-01	TSF-W
+			
+	Groß Schenkenberg-Rothenhausen	Hauptstraße 33	23860 Groß Schenkenberg
+		Florian Lauenburg 94/18-02	MTF
+		Florian Lauenburg 94/41-02	TSF-W
+			
+95	Klinkrade	Am Schäferkaten 4	23898 Klinkrade
+		Florian Lauenburg 95/47-01	LF 20
+			
+96	Labenz	Schulweg 4	23898 Labenz
+		Florian Lauenburg 96/22-01	TLF 16/25
+		Florian Lauenburg 96/42-01	LF 8
+			
+97	Sirksfelde	Schulstraße 14	23898 Sirksfelde
+		Florian Lauenburg 97/41-01	TSF-W
+			
+	Linau	Kuhdrift 5	22959 Linau
+		Florian Lauenburg 97/44-01	LF 8/6
+		Florian Launeburg 97/47-01	LF 20
+			
+98	Schiphorst	Schulweg 1	23847 Schiphorst
+		Florian Lauenburg 98/14-01	MZF
+		Florian Lauenburg 98/22-01	TLF 16/25
+			
+	Wentorf/AS	Dörpstraat 18	23898 Wentorf A.S.
+		Florian Lauenburg 98/41-01	TSF-W
+		Florian Lauenburg 98/48-01	HLF 20
+			
+99	Schönberg	Dorfstraße	22929 Schönberg
+		Florian Lauenburg 99/18-01	MTF
+		Florian Lauenburg 99/20-01	TLF 16/24-Tr
+		Florian Lauenburg 99/47-01	LF KatS SH
+		Florian Lauenburg 99/48-01	LF 20/16
+			
+	Franzdorf	Schiphorster Straße	22929 Schönberg
+		Florian Lauenburg 99/40-01	TSF
+			
+--	WF Heidenreich & Harbeck	Grambeker Weg 25	23879 Mölln
+			TSA
