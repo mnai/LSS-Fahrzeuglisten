@@ -1,0 +1,131 @@
+Bremen Mitte (ZTr, B, N, R(B))	Kleiner Ort 4	28357 Bremen
+>>> 1. Technischer Zug		
+Heros Bremen-Mitte 21/10	ZugtruppKw	
+Heros Bremen-Mitte 22/51	GKW 1	
+	Anhänger mit AB-Pritsche/Plane	
+Heros Bremen-Mitte 24/54	MzKW	
+	Anhänger NEA 50 kVA mit LiMa	Neufahrzeug 08/2019
+>>> Fachgruppe Räumen		
+Heros Bremen-Mitte 41/66	WLF-Kran	
+Heros Bremen-Mitte 41/72	Bergungsräumgerät-Caterpillar 926M	Neufahrzeug 11/2019
+	Tiefladeranhänger für Radlader	
+	AB-Gerät für Radlader	
+>>> OV Stab		
+Heros Bremen-Mitte 86/25	Zugtrupp-MTW	
+Heros Bremen-Mitte 86/31	MLW 1	
+	Feldkochherd	
+		
+Bremen Nord (ZTr, B, N, W/P(A), ZTr Log, M, FK)	Togostraße 44	28239 Bremen
+>>> 1. Technischer Zug		
+Heros Bremen-Nord 21/10	MTW-TZ	
+Heros Bremen-Nord 22/51	GKW	
+	LKW-Anhänger	Neufahrzeug 06/2016
+>>> Fachgruppe N		
+Heros Bremen-Nord ??/??	GKW 2. Bergungsgruppe	
+	Anhänger NEA 175 kVA?	
+>>> Fachgruppe Wasserschaden / Pumpen		
+Heros Bremen-Nord 38/43?	LKW Lbw	Neufahrzeug 2020
+Heros Bremen-Nord 38/34	MLW IV	
+	Anhänger SwPu 5000l	
+>>> Fachgruppe Führung / Kommunikation		
+Heros Bremen-Nord 16/11	FüKW	
+Heros Bremen-Nord 16/12	FüKomKW	
+Heros Bremen-Nord 16/13	FmKW	
+	evtl. entsprechende Anhänger	
+>>> Fachgruppe Logistik / Materialerhaltung		
+>>>>> Führungstrupp (62)		
+Heros Bremen-Nord ??/??		 
+>>>>> Materialerhaltungstrupp (63)		
+Heros Bremen-Nord 63/63	Lkw Lkr	Neufahrzeug 202x?
+Heros Bremen-Nord 63/35	MLW V	
+Heros Bremen-Nord 63/??	MLW III	
+	Werkstattcontainer	
+	Multifunktionsanhänger	
+		
+Bremen Ost (ZTr, B, N, W/P (B))	Osterholzer Heerstraße 75a	28307 Bremen
+>>> 1. Technischer Zug		
+Heros Bremen-Ost 21/10	Zugtrupp-MTW	
+Heros Bremen-Ost 21/25	MPH MTW	
+Heros Bremen-Ost 22/51	GKW 1	
+Heros Bremen-Ost 25/54	MzKW	
+Heros Bremen-Ost 25	NEA 40 kVA LiMA	
+>>> Fachgruppe Wasserschaden / Pumpen		
+Heros Bremen-Ost 38/34	MLW 4	
+Heros Bremen-Ost 38/43	LKW-Lbw	
+Heros Bremen-Ost 38	Anh-Sw PU 15000	
+Heros Bremen-Ost 86/25	MTW-Jugend	
+		
+	2x Anhänger 7t Plane/Spriegel	
+	1x Anhänger-Jugend	
+	1x Anhänger HV	
+	Gabelstapler	
+		
+Bremen Süd (ZTr, B, N, W(A), BrB, V)	Seesenthorn 2	28201 Bremen
+>>> 1. Technischer Zug		
+Heros Bremen-Süd 21/10	MTW-TZ	
+Heros Bremen-Süd 22/51	GKW	
+	Anhänger 7t ASH	
+	Anhänger 5t	
+	Gabelstabler	
+Heros Bremen-Süd 24/54	MzKW	
+	Anhänger NEA 50 kVA	  
+>>> Fachgruppe Wassergefahren		
+Heros Bremen-Süd 36/45	LKW Lkr	
+Heros Bremen-Süd 36/81	MzAB	
+Heros Bremen-Süd 36/82	MzAB	
+Heros Bremen-Süd 36/85	MZB	
+>>> Fachgruppe Brückenbau		
+Heros Bremen-Süd 54/33	MLW III	
+Heros Bremen-Süd 54/61	LKW-K 7	
+Heros Bremen-Süd 54/47	Kranfahrzeug 25t	
+	Schlauchboot	
+>>> Fachgruppe Logistik und Verpflegung		
+>>>>> Verpflegungstrupp (64)		
+Heros Bremen-Süd 64/35	MLW V	
+Heros Bremen-Süd 64/77	KüKW	
+Heros Bremen-Süd 64/43	LKW Lbw	
+	Anhänger Feldkochherd	
+	Anhänger Küchenausstattung	
+>>> öGA Digitalfunk		
+Heros Bremen-Süd ??/35	MLW V	
+	Anhänger öGA Digitalfunk	
+>>> öGA Öl		
+Heros Bremen-Süd 74/25	MTW	  
+Heros Bremen-Süd 74/65	WLF	 
+Heros Bremen-Süd 74/6?	LKW Lkr	  
+Heros Bremen-Süd 74/34	MLW IV	
+	Anhänger öGA-ÖL	
+	Abrollbehälter Dekon-P	
+>>> OV Stab		
+Heros Bremen-Süd 86/57	BelKW	
+Heros Bremen-Süd 86/21	PKW	
+		
+Bremerhaven (ZTr, B, N, R(C), Öl (B))	Batteriestraße 100	27568 Bremerhaven
+>>> 1. Technischer Zug		
+Heros Bremerhaven 21/10	MTW Ztr	ZuTrKW
+Heros Bremerhaven 22/51	GKW	
+Heros Bremerhaven 24/54	MzKW	
+	Anhänger NEA 50 kVA	
+>>> Fachgruppe Räumen (Typ C)		
+Heros Bremerhaven 41?/65	WLF	
+	Abrollbehälter Mulde	
+	Abrollbehälter Rüst?	
+Heros Bremerhaven 41?/73	Teleskoplader	Neufahrzeug 11/2017
+	Anhänger Tieflader	
+	Anhänger Drucklufterzeuger	
+>>> Fachgruppe Ölschaden (Typ B)		
+Heros Bremerhaven 56/65	WLF	
+Heros Bremerhaven 56/45	LKW Lkr	
+	MzAB Öl	
+	Anhänger Hochdruckreiniger	
+	Geländestapler	
+	Div. Ölwehrgerät	Behelfsstraße, Ölsperren, Motorschubkarre,...
+>>> OV Stab		
+Heros Bremerhaven 86/25	MTW	
+	PKW	
+	Melde-Krad	
+	1x MLW-Jugend	
+	1x Leitstellenanhänger	
+	1x Beleuchtungsanhänger Jugend	
+	1x Bootsanhänger Jugend	
+	1x Leitstellencontainer	
