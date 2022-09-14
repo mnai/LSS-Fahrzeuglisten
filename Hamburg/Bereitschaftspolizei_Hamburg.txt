@@ -14,6 +14,8 @@ Wahrscheinlich ist folgende Struktur mit 2.Ziffer/3.+4.Ziffer der Kennung.
 
 Brise 1/01 Hundertschaftsführung
 Brise 1/0x Versorgungsdienst/Führungsgruppe
+Brise 1/05 - GefKw
+Brise 1/09 - BatKw
 
 Brise 1/10--- Zugführer 1. Zug
 Brise 1/11--- 1. Gruppe

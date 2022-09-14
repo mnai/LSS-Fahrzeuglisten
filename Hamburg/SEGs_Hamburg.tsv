@@ -29,7 +29,7 @@ Rotkreuz Hamburg 20/19-02	MTW-RHS
 Rotkreuz Hamburg 20/59-01	GW-Drohne	HH-RK 293	
 Rotkreuz Hamburg 20/67-02	GW-L	HH-RK 1266	
 Rotkreuz Hamburg 20/69-01	MTW	HH-RK 2971	
-Rotkreuz Hamburg 20/82-01	NEF	HH-RK 328	
+Rotkreuz Hamburg 20/82-01	NEF	HH-RK 1389 - Neufahrzeug	
 Rotkreuz Hamburg 20/83-01	RTW	HH-RK 2103	
 Rotkreuz Hamburg 20/83-02	RTW	HH-RK 165	
 Kater Hamburg 81/85-03	NKTW Typ B	HH-8792	
@@ -53,6 +53,7 @@ Akkon Hamburg 26/10-01 bzw. 17-01	KdoW/PKW	HH-JU 2626
 Akkon Hamburg 26-18-01	MTW	HH-JU 2604	
 Akkon Hamburg 26/54-01	GW-T	WL-JU 20	
 Akkon Hamburg 26/82-01 bzw. 10-02	NEF/KdoW	HH-JH 2657	
+Akkon Hamburg 26/83-XX	RTW	HH-JU 545 - Fahrtec (Neuer Sprinter)	
 Akkon Hamburg 26/83-06	RTW	HH-JU 546	
 Akkon Hamburg 26/83-07	RTW	HH-JU 5441	
 Akkon Hamburg 26/97-01	Betr. LKW	HH-JU 229	
@@ -130,7 +131,8 @@ Kater Hamburg 82/85-03	NKTW Typ B	HH-8788
 			
 Malteser RW 43 Hamburg-Steilshoop	Eichenlohweg 24		
 Johannes Hamburg 43/10-01	KdoW	HH-MH 4310 - VW Caddy	
-Johannes Hamburg 43/11-01	ELW 2	HH-MH 4311 - Iveco Daily, COMPOINT Fahrzeubau	
+Johannes Hamburg 43/11-01	ELW2	HH-MH 4311 - Iveco Daily, COMPOINT Fahrzeubau	
+Johannes Hamburg 43/18-01	MTW	"HH-ZS 6046 - VW T6.1 Battenberg Design - ""Stadtgeschäftsstelle Hamburg"""	
 Johannes Hamburg 93/82-01	NEF	HH-MH 3356	
 Johannes Hamburg 43/83-06	RTW	HH-MH 4346, evtl. auch 24R/24S	
 Kater Hamburg 80/92-08	MZF	HH-8133	
@@ -200,9 +202,10 @@ Kater Hamburg 81/96-02	Betreuungs-LKW	HH-8393
 - 1 Lichtmast 2 kVA			
 - 1 Notstromanhänger 5 kVA			
 			
-ASB Wache 61	Brookkehre 4	ASB OV Hamburg-Bergedorf/Rothenburgsort	
+ASB Wache 61 Bergedorf	Brookkehre 4	ASB OV Hamburg-Bergedorf/Rothenburgsort	
+Sama Hamburg 61/10-01	KDOW	auch Sama Hamburg 61/18-02 (MTW), KdoW Einsatzabteilung	
+Sama Hamburg 61/15-01	ATV	HH-AS 6147	
 Sama Hamburg 61/18-01	MTW	HH-AS 2827	
-Sama Hamburg 61/18-02	MTW	auch Sama Hamburg 61/10-01, KdoW Einsatzabteilung	
 Sama Hamburg 61/18-03	RHS	HH-AS 4083	
 Sama Hamburg 61/18-04	RHS	a.d.?	
 Sama Hamburg 61/18-05	PKW		
@@ -218,7 +221,7 @@ Akkon Hamburg 69/10-XX	KdoW	HH-JU 5432 - VW Caddy
 Akkon Hamburg 69/11-01	ELW1	auch Kater Hamburg 80/11-01 (HH JU 2699)	
 Akkon Hamburg 69/13-01	GW Funk	HH-JU 695	
 Akkon Hamburg 69/13-02	GW Funk	HH-JU 6996	
-Akkon Hamburg 69/15-01	Krad	" "	
+Akkon Hamburg 69/15-01	Krad	HH-J 491	
 Akkon Hamburg 69/15-02	Krad	HH-J 291	
 Akkon Hamburg 69/15-03	Krad	HH-J 281	
 Akkon Hamburg 69/15-06	Quad	HH-JU 63	
@@ -235,7 +238,7 @@ Rotkreuz Hamburg 70/18-03	MTW	HH-RK 729 - Kriseninterventionsteam
 Rotkreuz Hamburg 70/09-11	PKW	HH-RK 714 - Kriseninterventionsteam	
 Rotkreuz Hamburg 70/09-12	PKW	HH-CA 4703 - Kriseninterventionsteam	
 Rotkreuz Hamburg 70/09-16	PKW	HH-RK XXX - Kriseninterventionsteam	
-			
+Rotkreuz Hamburg 70/09-17	PKW	HH-RK 762 - Kriseninterventionsteam -  Ford Focus Turnier	
 Rotkreuz Hamburg 70??	First Responder	HH-RK 764	
 Rotkreuz Hamburg 70/85-01	KTW	HH-RK 4027	
 Rotkreuz Hamburg 70/83-??	RTW	HH-RK 4016, Reservefahrzeug, stellte den 14-RTW-T	
@@ -280,6 +283,7 @@ Nora Hamburg 85/59-31	Rettungshundefahrzeug	HH-RH 1721
 Nora Hamburg 85/69-32	Rettungshundefahrzeug	HH-RH 1732	
 Nora Hamburg 85/xx-xx	Rettungshundefahrzeug	HH-RH 1799	
 Nora Hamburg 85/59-11?	Rettungshundefahrzeug	HH-RH 1763	
+Nora Hamburg 85/79-01	ATV		
 			
 Sammlung von Fahrzeugen	die bisher nicht	einer Wache zugeordnet werden konnten:	
 Rotkreuz Hamburg ??/??-??	PKW	"HH-RK 4702 - Ford "	
