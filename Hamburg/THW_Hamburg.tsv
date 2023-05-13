@@ -3,68 +3,73 @@ Carl-Cohn-Straße 36-38 22297 Hamburg
 		
 		
 OV Hamburg-Altona, Fangdieckstraße 50 22547 Hamburg		
->>>1. Technischer Zug		
-Heros Hamburg 02/21/10	MTW	
+>>> 1. Technischer Zug		
+Heros Hamburg 02/21/10	MTW ZTr	
 Heros Hamburg 02/22/51	GKW 1	
-Heros Hamburg 02/24/54	MzKW	
+	Anhänger Wechselbrücke EGS	
 		
->>>2. Technischer Zug		
-Heros Hamburg 02/26/10	MTW	
+>>> Fachgruppe N		
+Heros Hamburg 02/24/54	MzGW	FRN müsste eigentlich auf 55 enden
+	Anhänger NEA 50 kVA	Neufahrzeug 05/2022
+		
+>>> Fachgruppe Infrastruktur		
+Heros Hamburg 02/31/34	MLW 4 I	
+Heros Hamburg 02/31/25	MTW I	
+		
+>>> Fachgruppe Brückenbau		
+Heros Hamburg 02/54/45	LKW Lkr 780 kNM	
+Heros Hamburg 02/54/34	MLW 4 Brb	
+	Anh Wechselbrücke/Plattform	THW-87715
+		
+>>> 2. Technischer Zug		
+Heros Hamburg 02/26/10	MTW ZTr	
 Heros Hamburg 02/27/51	GKW 1	
-	Anh	
-	Anh NEA	
+	Anh Wechselbrücke	
 		
->>>Fachgruppe Infrastruktur		
-Heros Hamburg 02/31/33	MLW	
-	Anh Werkstatt	
-		
->>>Fachgruppe Räumen		
+>>> Fachgruppe Räumen		
 Heros Hamburg 02/41/62	Kipper	
-Heros Hamburg 02/41/Tieflader	Tieflader	
 Heros Hamburg 02/41/72	Radlader	
-	Anh	
+	Anh DLE	
 		
->>>Fachgruppe Brückenbau		
-Heros Hamburg 02/53/34	MLW 4	
-Heros Hamburg 02/53/45	Kran	
-	Anh Plattform	THW-87715
-		
->>>Fachgruppe Sprengen		
-Heros Hamburg 02/58/31	MLW 1	
+>>> Fachgruppe Sprengen		
+Heros Hamburg 02/35/25	MTW Sp	
+	Container Sprengen	
 		
 >>> OV Stab / Sonstiges		
-Heros Hamburg 02/86/25	MTW	MTW Ford-Transit u.a. Jugendgruppe
-Heros Hamburg 02/86/25-02	MTW	VW-Bus
-	MTW	MB Vito, Stabsfahrzeug
+Heros Hamburg 02/86/21	PKW OV	Neufahrzeug 08/2022
+Heros Hamburg 02/86/25	MTW	VW-Bus
+Heros Hamburg 02/86/26	MTW	MB Vito, Stabsfahrzeug
+	Anh Stab 0,75t	
 		
-Historisches Fahrzeug	DKW	Fukow Munga
 Heros Hamburg 02/86/85	Boot	Altona 1
 Heros Hamburg 02/86/8x	Boot	Altona 2
 		
 		
 OV Hamburg-Bergedorf, Sollredder 10 21465 Hamburg		
->>>1. Technischer Zug		
-Heros Hamburg 06/21/10	MTW	
-	Anh Feldkochherd	
+>>> 1. Technischer Zug		
+Heros Hamburg 06/21/10	MTW ZTr	
 Heros Hamburg 06/22/51	GKW 1	
-Heros Hamburg 06/24/53	GKW 2	GKW 2 Übergangslösung
-	Mehrzweckboot	
+	Anhänger Lafette + Wechselbrücke EGS	
+		
+>>> Fachgruppe N		
+Heros Hamburg 06/24/55	MzGW	
+	Anhänger Mehrzweckboot	
 	SEA 37kVA	
-	Anh EGS	
+		
+>>> Fachgruppe Elektroversorgung		
+Heros Hamburg 06/32/43	LKW Lbw	
+	Anh NEA 200 kVA	
+	Anh NEA 200 kVA	An der BF32	
+	Anh NEA 175 kVA	2022 vom OV Eimsbüttel übernommen
 		
 >>>2. Technischer Zug		
-Heros Hamburg 06/26/10	MTW	Ersetzt MLW 1 Heros Hamburg 06/56/31
+Heros Hamburg 06/26/10	MTW ZTr	
 Heros Hamburg 06/27/51	GKW 1	
-	Anh EGS	
+	Anh Plane EGS	
 		
->>>Fachgruppe Elektroversorgung:		
-Heros Hamburg 06/32/43	LKW Lbw	
-	Anh NEA 200 kVa	
-	Anh NEA 200 kVa  der BF32	
-		
->>>Fachgruppe Wasserschaden Pumpen:		
-Heros Hamburg 06/38/43	LKW LBW	
-Heros Hamburg 06/38/34	MLW IV	
+>>>Fachgruppe Wasserschaden Pumpen		
+Heros Hamburg 06/48/43	LKW LBW	
+Heros Hamburg 06/48/34	MLW IV	
 	Anh Havariepumpe	15000l/min
 	Anh Lafette + Wechselbrücke	
 		
@@ -73,208 +78,236 @@ Heros Hamburg 06/86/21	PKW-OV
 Heros Hamburg 06/86/25	MTW-OV	
 Heros Hamburg 06/86/31	MLW 1 OV	
 	FüKW	
+	Anh Feldkochherd	
 		
->>>ÖGA (Örtliche Gefahrenabwehr):		
-	MLW 1 Ölschaden	
+>>>ÖGA (Örtliche Gefahrenabwehr)		
+Heros Hamburg 06/73/31	MLW 1 Ölschaden	
 		
 		
 OV Hamburg-Eimsbüttel, Spritzenweg 14 22529 Hamburg		
->>>Technischer Zug		
-Heros Hamburg 03/21/10	MTW	
+>>> 1. Technischer Zug		
+Heros Hamburg 03/21/10	MTW Ztr	
 Heros Hamburg 03/22/51	GKW 1	
-Heros Hamburg 03/24/53	GKW 2	
-Heros Hamburg 03/24/NEA	Anh NEA 175kVA	
+	Anhänger Lafette+Wechselbrücke EGS	
 		
->>>Fachgruppe Beleuchtung		
-Heros Hamburg 03/34/43	LKW LbW-Bel	
+>>> Fachgruppe N		
+Heros Hamburg 03/24/55	MzGW	Neufahrzeug 2021
+	Anhänger NEA 50 kVA LiMa	Neufahrzeug 2022
 		
 >>>Fachgruppe Wassergefahren		
-Heros Hamburg 03/36/46	Lkw Ladekran	
-Heros Hamburg 03/36/81	MzAB I	THW-85063
-Heros Hamburg 03/36/82	MzAB II	THW-85163, Rettungs- und Sicherungsboot, RSB
-Heros Hamburg 03/36/85	Rettungsboot	Zodiac Schlauchboot
+Heros Hamburg 03/36/45	Lkw Ladekran	
+Heros Hamburg 03/36/81	MzAB	
+Heros Hamburg 03/36/85	MZB	
 		
->>>Fachgruppe Wasserschaden/Pumpen		
-Heros Hamburg 03/38/33	MLW 4	FRN Nach Fotos, nach Standard wäre 03/38/34
-Heros Hamburg 03/38/43	LKW Lbw	Einsatz unklar, evtl. weitergegeben
+>>> 2. Technischer Zug		
+Heros Hamburg 03/26/10	MTW Ztr	
+Heros Hamburg 03/27/51	GKW II	
+	Anhänger Lafette+Wechselbrücke EGS	
+		
+>>> Fachgruppe Wasserschaden/Pumpen		
+Heros Hamburg 03/47/34	MLW 4	
+Heros Hamburg 03/37/43	LKW Lbw	
 	Anh SwP 5000 Hannibal	
+		
+>>>>> Trupp ESS		
+Heros Hamburg 03/75/25	MTW	
+		
+>>> OV-Stab		
+Heros Hamburg 03/86/25	MTW	
+Heros Hamburg 03/86/26	MTW-Jugend	
+	Anhänger 750 kg	
+	Anhänger Sägeausbildung	
 		
 		
 OV Hamburg-Harburg, Nöldekestrasse 10 21079 Hamburg		
->>>Technischer Zug		
-Heros Hamburg 07/21/10	MTW	
+>>> Technischer Zug		
+Heros Hamburg 07/21/10	MTW ZTr	
 Heros Hamburg 07/22/51	GKW 1	
-Heros Hamburg 07/25/54	MzKW	
-	Anh EGS	
+	Anhänger Wechselbrücke EGS	
+		
+>>> Fachgruppe N		
+Heros Hamburg 07/24/55	MzGW	
+	Anh Polym LiMa	
 	Anh NEA 50kVA mit LiMa	
 		
->>>Fachgruppe Wassergefahren		
-LKWgl 7to / LDK11m/t Heros Hamburg 07/37/46		
+>>> Fachgruppe Wassergefahren		
+Heros Hamburg 07/37/46	LKW Lkr	
 Heros Hamburg 07/37/81	MzB	
-Heros Hamburg 07/37/83	Anh MzPt	
+Heros Hamburg 07/37/83	MzPt	4 Stück
 Heros Hamburg 07/37/85	SchlB	
 	Anh 6t	
-	Anh MzPt	
-	Anh MzPt	
 	Anh MzPt	
 	Anh MzB	
 	Anh SchlB	
 		
->>>Fachgruppe Beleuchtung		
-Heros Hamburg 07/34/43	LKW Lbw	Ersatz für BELKW ca. 2017
-	Anh LIMA	
+>>> Fachgruppe Schwere Bergung		
+Heros Hamburg 07/39/54	MzKW	
 		
->>>Führung/Kommunikation		
-Heros Hamburg 07/19/17	MastKW	
-Heros Hamburg 07/16/11	FüKW	
-Heros Hamburg 16/12	FüKomKW	
-Heros Hamburg 07/16/13	FmKW	
-Heros Hamburg 07/19/16	PKW gl (WVTr.)	Audi Q5, 2009
+>> Fachzug Führung und Kommunikation		
+>>>>> Zugtrupp Fachzug FK		
+Heros Hamburg 16/11	FüKW	
+>>> Fachgruppe Führungsunterstützung		
+Heros Hamburg 07/17/12	FüKomKW	
 	Anh FüLa	
+Heros Hamburg 07/17/13	FmKW	
+Heros Hamburg 07/17/19	Weitverkehrskabine	
+>>> Fachgruppe Kommunikation Typ B		
+>>>>> Weitverkehrstrupp		
+Heros Hamburg 07/19/16	PKW gl (WVTr.)	Audi Q5, 2009
+Heros Hamburg 07/19/17	MastKW	
 	Anh WV-Kabine	Weitverkehrskabine
 		
->>>Fachgruppe Logistik (61)		
->>>>> Logistik-Führungstrupp (62)		
-	PKW	
->>>>> Materialerhaltungstrupp (63)		
-Heros Hamburg 07/63/63	LKW-K	
-		
->>>>> Verpflegungstrupp (64)		
-Heros Hamburg 06/64/25	MTW FGr	THW-91425
+>> Fachzug Logistik		
+>>>>> Zugtrupp Fachzug Log (61)		
+Heros Hamburg 07/xx/10	MTW Ztr	
+>>> Fachgruppe Logistik Verpflegung (64)		
+Heros Hamburg 07/64/25	MTW FGr	THW-91425
 Heros Hamburg 07/64/43	LKW 7t gl Lbw	
-	KüKW mit Anh. 2 to.	
+Heros Hamburg 07/64/56	KüKW	
 	Anh Feldkochherd	
 	Anh	
 		
->>>Sonstiges		
-	PKW-OV	
+>>> Sonstiges		
+Heros Hamburg 07/85/53	GW-AS	 
 Heros Hamburg 07/86/25	MTW-OV	
-	GW-ABC (LKW/Lbw)	
-	Anh Tandemachse für Materialtransporte	
 	SAT-KW	Mercedes Kastenwagen Basisstation BOS-Digitalfunk
 		
 		
 OV Hamburg-Mitte, Billbrookdeich 139 22113 Hamburg-Billbrook		
 >>>1. Technischer Zug		
-Heros Hamburg 01/21/10	MTW	
+Heros Hamburg 01/21/10	MTW ZTr	
 Heros Hamburg 01/22/51	GKW 1	
+	Anhänger Wechselbrücke	
+		
+>>> Fachgruppe N		
 Heros Hamburg 01/24/54	MzKW	
+	Stromerzeuger 40 kVA	
 		
->>>2. Technischer Zug		
-Heros Hamburg 01/26/10	MTW	
-Heros Hamburg 01/27/51	GKW 1	
-	Anh EGS	
-		
->>>Fachgruppe Wassergefahren		
+>>> Fachgruppe Wassergefahren		
+Heros Hamburg 01/37/32	MLW 2	Unimog a.D.?
 Heros Hamburg 01/37/46	LKW LdKr 27mt gl	
-Heros Hamburg 01/37/31	MLW 1	
-Heros Hamburg 01/37/32	MLW 2	Unimog
 Heros Hamburg 01/37/83	MzPt	
 Heros Hamburg 01/37/84	MzPt	
-Heros Hamburg 01/37/81	MzAB	ehemals 01/56/83
-Heros Hamburg 01/37/85	MzAb	
-	Rettungs- und Sicherungsboot	THW-85107
-	Anhänger Ponton	
-	Anh MzAB-1	
-	Anh Fährenoberbau	
+Heros Hamburg 01/37/8x	Schlauchboot	
+Heros Hamburg 01/37/85	Rettungs- und Sicherungsboot	THW-85107
+	Anhänger Ponton 6t	
+	Anh Fährenoberbau 12t	
 		
->>>Fachgruppe Ölschaden		
-Heros Hamburg 01/56/63	LKW LdKr 23mt	
-Heros Hamburg 01/56/65	WLF	2007
+>>> ÖGA Fachgruppe Höhenrettung		
+		
+>>> 2. Technischer Zug		
+Heros Hamburg 01/26/10	MTW Ztr	
+Heros Hamburg 01/27/51	GKW 1	
+	Anh EGS 5t	
+		
+>>> Fachgruppe Ölschaden		
+Heros Hamburg 01/56/45	LKW LKr 23mt	
+Heros Hamburg 01/56/65	WLF 13t	2007
 Heros Hamburg 01/56/81	MzAB Ölschaden	Havariekommando
-Heros Hamburg 01/56/8?	Motorschubboot	„Horst“
-Heros Hamburg 01/56/8?	SchlB	
+Heros Hamburg 01/56/85	SchlB	
+	Anhänger Bootstrailer Schlauchboot	
+	Transportanhänger Ponton	
 	Anh Tieflader	Havariekommando
-	Anh WLF für Abrollbehälter	
+	Anh 12t für Abrollbehälter	
 	Anh Mopwringer	
 	Anh Mopwringer	
-	Anh MzAB-2	
-	Anh M-Boot (Motorschubboot)	
+	Anh MzAB Öl	
+	Anhänger Powertrailer	Hochdruckreiniger
+	Anhänger Notstrom	
+	AB-Öl-Ersteinsatz	
+	AB-Ölwehrgerät Schiebeplane	
+	AB-Mulde	
 		
->>>Sonstiges		
-	PKW OV	
+>> Fachzug Logistik		
+>>>>> Trupp Transport schwer		
+Heros Hamburg 01/62/43	LKW Lbw	
+>>> OV-Stab		
 Heros Hamburg 01/86/25	MTW OV	
-	Gabelstapler	
-	Gabelstapler	
-	Anh NEA 40 KvA	
-	Anh 3t	
-	Anh HD	
-	Anh HD	
-	Anh SEA 25KvA	
+Heros Hamburg 01/86/26	MTW Stab	
+	Gelände-Gabelstapler	
+	Deichselstapler	
 		
 >>> Abrollbehälter		
-	AB-Ersteinsatz	
 	AB-Ölsperren	
 	AB-Plane/Spriegel	
 	AB-Mulde	
-	AB-Mulde	
-	AB-Ölwehrgerät	
 	AB-Plateau	
 		
 		
 OV Hamburg-Nord, Carl-Cohn-Straße 36-38 22297 Hamburg		
 >>>1. Technischer Zug		
-Heros Hamburg 04/21/10	MTW	
+Heros Hamburg 04/21/10	MTW ZTr	
 Heros Hamburg 04/22/51	GKW 1	
-Heros Hamburg 04/25/52	GKW 2	
-	Anh EGS	
-	Anh	
+	Anhänger Lafette+Wechselbrücke	
 		
->>>2. Technischer Zug		
-Heros Hamburg 04/26/10	MTW	
-Heros Hamburg 04/27/51	GKW 1	
-Heros Hamburg 04/28/53	GKW 2	
-		
->>>Fachgruppe Ortung		
-Heros Hamburg 04/45/25	MTW	
-		
->>>Fachgruppe Infrastruktur		
-Heros Hamburg 04/31/32	MLW 2	Unimog
+>>> Fachgruppe Schwere Bergung		
+Heros Hamburg 04/38/55	MzGW	
+	Anhänger Geräte	
+>>> Fachgruppe Infrastruktur		
+Heros Hamburg 04/31/25	MTW	
 Heros Hamburg 04/31/34	MLW 4	
 		
->>>Fachgruppe Räumen		
+>>> 2. Technischer Zug		
+Heros Hamburg 04/26/10	MTW	
+Heros Hamburg 04/27/51	GKW 1	
+		
+>>> Fachgruppe Räumen		
 Heros Hamburg 04/41/31	MLW 1	
 Heros Hamburg 04/41/62	Kipper	
 Heros Hamburg 04/41/72	Radlader	
 	Anh Tieflader	
-	Anh Radladerzubehör	
 	Anh Drucklufterzeuger	
 		
->>>Sonstiges		
+>>> Fachgruppe N		
+Heros Hamburg 04/28/55	MzGW	
+	Anhänger SEA 50 kVA LiMa	
+>>> Fachgruppe Ortung		
+Heros Hamburg 04/45/25	MTW	
+>>>>> Trupp Unbemannte Luftfahrtsysteme		
+	DJI S900	Hexacopter
+	Yuneec H520	Hexacopter
+		
+>>>>> Trupp Logistik-Verpflegung		
+Heros Hamburg 04/64/25	MTW	
+>>> OV-Stab		
 Heros Hamburg 04/86/24	MTW	
 Heros Hamburg 04/86/25	Jugend MTW	
-Heros Hamburg 04/86/31	MLW	
-Heros Hamburg 04/86/31	Jugend MLW	
-Heros Hamburg 04/86/42	LKW Ladebordwand	
-Heros Hamburg 04/86/85	Boot	
-Heros Hamburg 04/xx/xx	LKW Lbw	Transportfahrzeug der Geschäftsstelle
+Heros Hamburg 04/86/42	LKW Ladebordwand	Transportfahrzeug der Geschäftsstelle
+Heros Hamburg 04/86/85	Boot Peter	
 	Anh Feldkochherd	
 		
 		
 OV Hamburg-Wandsbek, Rahlau 19 22045 Hamburg		
-http://www.thw-hamburg-wandsbek.de/die-einsatzfahrzeuge/		
->>>1. Technischer Zug		
+>>> 1. Technischer Zug		
 Heros Hamburg 05/21/10	MTW	
 Heros Hamburg 05/22/51	GKW 1	
+	Anhäger Lafette+Wechselbrücke EGS	
+		
+>>> Fachgruppe N		
 Heros Hamburg 05/24/54	MZKW	
-	Anh	
 	Anh NEA 50 kVA	
 		
->>>2. Technischer Zug		
+>>> Fachgruppe Elektroversorgung		
+Heros Hamburg 05/32/43	LKW 7t, Lbw	
+	Anh NEA 317 kVA	
+	Anh NEA 200 kVA	
+		
+>>> 2. Technischer Zug		
 Heros Hamburg 05/26/10	MTW	
 Heros Hamburg 05/27/51	GKW 1	
 	Anh	
 		
 >>>Fachgruppe Räumen		
-Heros Hamburg 05/86/31	MLW 1	OV-Stab, Jugend, FG Räumen
 Heros Hamburg 05/42/62	Kipper	
 Heros Hamburg 05/42/71	Kettenbagger	
 	Anh Tieflader	
 	Drucklufterzeuger	
 		
->>>Fachgruppe Elektroversorgung		
-Heros Hamburg 05/32/43	LKW 7t, Lbw	
-	Anh NEA 317 kVA	
+>> Fachzug Logistik		
+>>> Fachgruppe Logistik Materialwirtschaft		
+>>>>> Trupp Logistik Materialerhaltung		
+Heros Hamburg 05/63/34	MLW IV	
+Heros Hamburg 05/63/63	LKW K Lkr	
 		
 >>> Sonstiges		
 	Anh Pontonoberbau	Übernommen von OV Eimsbüttel.
