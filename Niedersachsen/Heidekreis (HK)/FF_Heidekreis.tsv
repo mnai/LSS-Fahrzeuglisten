@@ -58,7 +58,7 @@ Florian Heidekreis 14-11-1	ELW 1
 Florian Heidekreis 14-17-1	MTW	
 Florian Heidekreis 14-23-1	TLF 16/25	
 Florian Heidekreis 14-37-1	TLK 23/12	Teleskop-Hubrettungsbühne
-Florian Heidekreis 14-47-1	LF 16/12	
+Florian Heidekreis 14-47-1	LF 20	Neufahrzeug 2023
 Florian Heidekreis 14-48-1	HLF 20	
 Florian Heidekreis 14-64-1	GW-L	
 		
@@ -110,9 +110,8 @@ Samtgemeinde Schwarmstedt
 Ortsfeuerwehr Schwarmstedt	Mühlenweg 1a	29690 Schwarmstedt
 Florian Heidekreis 18-11-01	ELW	
 Florian Heidekreis 18-17-01	MTW	
-Florian Heidekreis 18-47-01	HLF 20	
-Florian Heidekreis 18-48-01	LF 16/12	
-Florian Heidekreis 18-51-01	RW 1	
+Florian Heidekreis 18-47-01	HLF 20	4.000l Wasser, Neufahrzeug 2020
+Florian Heidekreis 18-48-01	HLF 20	2.400l Wasser, Neufahrzeug 2022
 Florian Heidekreis 18-68-01	GW-L2	
 	Pulverlöschanhänger	
 	Anhänger Transport	
@@ -131,8 +130,9 @@ Florian Heidekreis 18-20-3	TLF 8/18
 Florian Heidekreis 18-40-3	TSF	
 		
 Ortsfeuerwehr Essel	Lange Straße 18	29690 Essel
+		Neubau südlich Eschenweg an der L190 in Bau.
 Florian Heidekreis 18-17-4	MTF	
-Florian Heidekreis 18-40-4	TSF	
+Florian Heidekreis 18-41-4	TSF-W	
 Kater Niedersachsen 5-29-12	TLF 3000 CCFM	
 		
 Ortsfeuerwehr Bothmer	Alte Dorfstraße	29690 Schwarmstedt
@@ -246,7 +246,7 @@ Florian Heidekreis 21-64-01	GW-L	Gefahrgut, Atemschutz, Lenzen/Wochwasser, Wasse
 		
 Ortsfeuerwehr Bommelsen	Bommelser Straße	29699 Walsrode
 Florian Heidekreis 21-41-02	TSF-W	
-Kater Niedersachsen 5-68-xx	GW-L2	KatS Waldbrand
+Kater Niedersachsen 01-68-08	GW-L2	KatS Waldbrand
 		
 Ortsfeuerwehr Jahrlingen-Ahrsen	Dorfstraße 4	29699 Walsrode
 Florian Heidekreis 21-41-03	TSF-W	
