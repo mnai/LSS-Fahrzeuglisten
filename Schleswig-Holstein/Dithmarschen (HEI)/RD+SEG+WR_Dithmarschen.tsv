@@ -1,56 +1,63 @@
+Rettungsdienst		
+		
 RkiSH Verwaltung Heide	Esmarchstraße 50	25746 Heide
 Rettung Dithmarschen 10-18-01	MTW	
 Rettung Dithmarschen 10-18-02	MTW	
 		
 DI-RW-11 Heide	Esmarchstraße 50	25746 Heide
-Rettung Dithmarschen 11/82-01	NEF	
-Rettung Dithmarschen 11/85-01	KTW	
-Rettung Dithmarschen 10/10-01	KdoW ORGL	personengebunden und nicht immer an der Wache
-Rettung Dithmarschen 10/10-02	KdoW LNA	LNA Nord, im wöchentlichen Wechsel mit LNA Süd Brunsbüttel
-Rettung Dithmarschen 10/82-01	Reserve NEF	
-Rettung Dithmarschen 10/10-04	KdoW	Reserve/A-Dienst
-Rettung Dithmarschen 02/01-07	KdoW	A-Dienst über ORGL, evtl. auch R D 1/1
+Rettung Dithmarschen 10-10-01	KdoW ORGL	personengebunden und nicht immer an der Wache
+Rettung Dithmarschen 10-10-02	KdoW LNA	LNA Nord, im wöchentlichen Wechsel mit LNA Süd Brunsbüttel
+Rettung Dithmarschen 10-10-02	KdoW	Reserve
+Rettung Dithmarschen 10-82-01	NEF	Reserve
+Rettung Dithmarschen 11-82-01	NEF	24h
+Rettung Dithmarschen 11-85-01	KTW	Mo-Fr 11h
+	LKW	Zur Materialversorgung der RWs, Ohne Sondersignalanlage und Funk
 		
 DI-RW-12 Wrohm	Raiffeisenstraße 3	25799 Wrohm
-Rettung Dithmarschen 12/83-01	RTW	
-Rettung Dithmarschen 12/83-02	RTW	
+Rettung Dithmarschen 12-83-01	RTW	24h
+Rettung Dithmarschen 12-83-02	RTW	Mo-Fr 11h
 		
 DI-RW-13 Brunsbüttel	Delbrückstraße 2	25541 Brunsbüttel
-Rettung Dithmarschen 13/82-01	NEF	
+Rettung Dithmarschen 13-82-01	NEF	24h
 	LNA Süd	im wöchentlichen Wechsel mit LNA Nord (Heide)
 		
 DI-RW-13 Westerbüttel	Fritz-Staiger-Straße 30	25541 Westerbüttel
-Rettung Dithmarschen 13/83-01	RTW	
-Rettung Dithmarschen 13/83-02	RTW	
+Rettung Dithmarschen 13-83-01	RTW	24h
+Rettung Dithmarschen 13-83-02	RTW	Mo-Do, So: 12h; Fr+Sa: 24h
 		
 DI-RW-14 Trennewurth	Op de Meent 2a	25693 Trennewurth
-Rettung Dithmarschen 14/83-01	RTW	
-Rettung Dithmarschen 14/83-02	RTW	
-Rettung Dithmarschen 10/83-04	RTW Reserve	
-Rettung Dithmarschen 10/18-03	MTW	
+Rettung Dithmarschen 10-18-03	MTW	
+Rettung Dithmarschen 10-83-04	RTW	Reserve
+Rettung Dithmarschen 14-83-01	RTW	24h
+Rettung Dithmarschen 14-83-02	RTW	Mo-Fr 11h
+Rettung Dithmarschen 14-85-01	KTW	Mo-Fr 11h
 		
 DI-RW-15 St. Michaelisdonn	Zuckerstraße 24	25693 St. Michaelisdonn
-Rettung Dithmarschen 15/83-01	RTW	
-Rettung Dithmarschen 15/85-01	KTW	
+Rettung Dithmarschen 15-83-01	RTW	24h
+Rettung Dithmarschen 15-85-01	KTW	Mo-Fr 11h
 		
 DI-RW-16 Krumstedt	Hauptstraße 35	25727 Krumstedt
-Rettung Dithmarschen 16/83-01	RTW	
-Rettung Dithmarschen 16/83-02	RTW	
+Rettung Dithmarschen 16-83-01	RTW	24h
+Rettung Dithmarschen 16-83-02	RTW	12h
 		
 DI-RW-17 Heide-Süd	Dösenweg 1	25770 Hemmingstedt
-Rettung Dithmarschen 17/83-01	RTW	
-Rettung Dithmarschen 17/83-02	RTW	
-Rettung Dithmarschen 17/85-01	KTW	
+Rettung Dithmarschen 10-83-03	RTW	Reserve
+Rettung Dithmarschen 17-83-01	RTW	24h
+Rettung Dithmarschen 17-83-02	RTW	24h
+Rettung Dithmarschen 17-85-01	KTW	Mo-Fr 11h
 		
 DI-RW-18 Westerdeichstrich	Dorfstraße 1	25761 Westerdeichstrich
-Rettung Dithmarschen 18/83-01	RTW	
-Rettung Dithmarschen 18/83-02	RTW	
+Rettung Dithmarschen 18-83-01	RTW	24h
+Rettung Dithmarschen 18-83-02	RTW	12h
 		
 DI-RW-19 Ostrohe	Am Steenoben 2	25746 Ostrohe
-Rettung Dithmarschen 19/83-01	RTW	
-Rettung Dithmarschen 19/83-02	RTW	
-Rettung Dithmarschen 10/83-01	Ersatz-RTW	
-Rettung Dithmarschen 10/83-02	Ersatz-RTW	
+Rettung Dithmarschen 10-83-01	RTW	Reserve
+Rettung Dithmarschen 10-83-02	RTW	Reserve
+Rettung Dithmarschen 19-83-01	RTW	24h
+Rettung Dithmarschen 19-83-02	RTW	12h
+		
+		
+Katastrophenschutz		
 		
 Landkreis Dithmarschen		
 Kreis Dithmarschen 01-10-01	KdoW	
@@ -104,7 +111,6 @@ Rotkreuz Dithmarschen 19-98-01	GW-Bt
 		
 		
 DLRG OG Heide	Peter-Bur-Straße 14	25746 Heide
-
 DLRG OG Burg	Bahnhofstraße 86	25712 Burg
 Rettungshundestaffel		
 	Boot	
