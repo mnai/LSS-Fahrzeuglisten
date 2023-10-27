@@ -2,6 +2,8 @@ Wach- /Funkrufname	Typ	Kommentar
 F02 Einsatzabteilung	Wendenstraße 251	20537 Hamburg
 Florian Hamburg 02 KDOW 1	KdoW	
 Florian Hamburg 02 KDOW 2	KdoW	HH-4060E
+Florian Hamburg 02 LNA 01	KdoW LNA	
+Florian Hamburg 02 LNA 01	KdoW LNA	
 		
 F03 Technik & Logistik	Großmannstraße 10	20539 Hamburg
 Florian Hamburg 03 GW-Logistik	GW-L	
@@ -119,11 +121,12 @@ Florian Hamburg 11 GW1 1	GW1
 Florian Hamburg 11 GW-TEL 1	GW-TEL	
 Florian Hamburg 11 RTW A	RTW	
 Florian Hamburg 11 RTW B	RTW	
+Florian Hamburg 11 RTW C	RTW	
 Florian Hamburg 11 RTW K	RTW	
 Florian Hamburg 11 GW-LBZ 1	GW-LBZ	MTW/MZF - Löschbootzentrum
 + Außenstelle Rettungswache Millerntor	Glacischausse 4	
 Florian Hamburg 11 RTW E	RTW	
-Florian Hamburg 11 RTW I	RTW	
+Florian Hamburg 11 RTW F	RTW	
 +Bootsstation Sandtorkai	Kehrwiederspitze 1	
 Florian Hamburg 11 LAB	LAB	„Oberspritzenmeister Repsold“ - Ersatz durch LB Prag/Dresden
 Florian Hamburg 11 KB	KB	
@@ -157,8 +160,9 @@ Florian Hamburg 12 IRTW A	IRTW
 Florian Hamburg 12 IRTW B	IRTW	Technische Reserve
 Florian Hamburg 12 GRTW A	GRTW	
 Florian Hamburg 12 GRTW B	GRTW	Technische Reserve
-Florian Hamburg 12 SRTW A	SRTW	seit 01.04.2021
+Florian Hamburg 12 SKTW A	SRTW	
 Florian Hamburg 12 GW-MANV 1	GW-MANV	
+Florian Hamburg 12 GW-Des	GW-Desinfektor	
 		
 F 13 Feuer- und Rettungswache Rotherbaum	Sedanstrasse 30	20146 Hamburg
 Florian Hamburg 13 ELW 1	ELW1	C-Dienst
@@ -219,7 +223,7 @@ Florian Hamburg 15 MZF	MZF	(ehemaliges KLF)
 Florian Hamburg RTW 15 G	RTW	
 + RW Niendorf	Garstedter Weg 24	besetzt von Finkenwerder
 Florian Hamburg 15 NEF A	NEF	
-Florian Hamburg 10 RTW B	RTW	Bereichsverstärkung
+Florian Hamburg 15 RTW F	RTW	
 + RW Schnelsen	Oldesloer Straße 21-23	
 Florian Hamburg 15 RTW I	RTW	
 Florian Hamburg 15 RTW J	RTW	
@@ -237,9 +241,9 @@ Florian Hamburg 16 RTW A	RTW
 Florian Hamburg 16 RTW B	RTW	
 Florian Hamburg 16 RTW K	RTW	
 + RW Langenhorn	Tangstedter Landstraße 139	
-Florian Hamburg 16 RTW F	RTW	
+Florian Hamburg 16 RTW F	RTW	Besetzt durch den Malteser Hilfsdienst Hamburg
 +RW Ochsenzoll	Langenhorner Chaussee 488	
-Florian Hamburg 16 RTW G	RTW	
+Florian Hamburg 16 RTW G	RTW	Betrieb durch die ASB Rettungsdienst Hamburg GmbH
 		
 F 21 Feuer- und Rettungswache Wandsbek	Stein-Hardenberg-Straße 2	22045 Hamburg
 Florian Hamburg 21 ELW 1	ELW1	C-Dienst
@@ -257,9 +261,9 @@ Florian Hamburg 21 RTW K	RTW
 Florian Hamburg 21 RTW ?	RTW	Technische Reserve
 Florian Hamburg 21 GW-MANV 1		
 + RTW Außenstelle Rahlstedt	Brockdorffstraße 22	Besetzt von Veddel
-Florian Hamburg 21 RTW F	RTW	
-+ RTW Außenstelle Marienthal	Am Neumarkt 30	Besetzt von Harburg
-Florian Hamburg 21 RTW G	RTW	RTW HH 2022
+Florian Hamburg 21 RTW F	RTW	soll in Zukunft vom ASB besetzt werden
++ RTW Außenstelle Marienthal	Am Neumarkt 30	Besetzt durch Malteser Hilfsdienst seit 05/23
+Florian Hamburg 21 RTW G	RTW	HH-MH 4338 - WAS Neufahrzeug 2023
 Florian Hamburg 21 RTW H	RTW	
 		
 F 22 Feuer- und Rettungswache Berliner Tor	Westphalensweg 1	20099 Hamburg
@@ -292,14 +296,15 @@ Florian Hamburg 23 GW-SEGH 1	GW-Höhenrettung
 Florian Hamburg 23 RTW A	RTW	
 Florian Hamburg 23 RTW B	RTW	
 Florian Hamburg 23 RTW C	RTW	war a.d. ab 04.01.2021, dafür 11 RTW F neu, seit Ende 2021 Nachfolger vom 20-RTW-C
+Florian Hamburg 23 RTW D	RTW	12/7
 Florian Hamburg 23 RTW K	RTW	
 Florian Hamburg 23 RTW ?	RTW	Technische Reserve
 Florian Hamburg 23 GW-SAN	GW-San	Doppelbesetzung HLF1
 + RW Barmbek-Nord	AK Barmbek Rübenkamp 220	
 Florian Hamburg 23 NEF A	NEF	
-Florian Hamburg 23 RTW F	RTW	
+Florian Hamburg 23 RTW F	RTW	soll in Zukunft vom DRK besetzt werden
 +RTW Außenstelle Hinschenfelde	Lesserstrasse 180d am BWK	besetzt von Billstedt
-Florian Hamburg 20 RTW B	RTW	Bereichsverstärkung
+Florian Hamburg 23 RTW G	RTW	
 		
 F 24 Feuer- und Rettungswache Sasel	Saseler Kamp 2	22393 Hamburg
 Florian Hamburg 24 ELW 1	ELW1	C-Dienst
@@ -316,7 +321,11 @@ Florian Hamburg 24 RTW ?	RTW	Technische Reserve
 + RTW Außenstelle Bramfeld	Ellernreihe 139	
 Florian Hamburg 24 RTW F	RTW	Betrieb durch die ASB Rettungsdienst Hamburg GmbH
 + RTW Außenstelle Lemsahl-Mellingstedt	Lemsahler Landstraße 220	
-Florian Hamburg 24 RTW I	RTW	
+Florian Hamburg 24 RTW P	RTW	Besetzt durch den Malteser Hilfsdienst Hamburg
++ RW Meiendorf	Bei der Neuen Münze 17	22145 Hamburg
+Florian Hamburg 24 RTW G	RTW	
+Florian Hamburg 24 RTW H	RTW	
+Florian Hamburg 24 RTW I	RTW	7-19
 		
 F 25 Feuer- und Rettungswache Billstedt	Wöhlerstraße 28	22113 Hamburg
 Florian Hamburg 25 ELW 1	ELW1	C-Dienst
@@ -356,7 +365,10 @@ Florian Hamburg 26 RTW K	RTW
 Florian Hamburg 26 RTW L	MZF	Mit Tragestuhl für Krankentransporte ausgestattet.
 Florian Hamburg 26 RTW ?	RTW	Technische Reserve
 + RTW Außenstelle Mümmelmannsberg	Asbrookdamm 32	
-Florian Hamburg 26 RTW F	RTW	
+Florian Hamburg 26 RTW F	RTW	besetzt durch das DRK
++ RW Allermöhe	Wilhelm-Iwan-Kehre 5	21035 Hamburg
+Florian Hamburg 26 RTW G	RTW	
+Florian Hamburg 26 RTW H	RTW	
 		
 F 31 Feuer- und Rettungswache Harburg	Großmoorbogen 8	21079 Hamburg
 Florian Hamburg 31 ELW 1	ELW1	C-Dienst
@@ -370,7 +382,6 @@ Florian Hamburg 30 BDI 1	ELW1
 Florian Hamburg 31 RTW A	RTW	
 Florian Hamburg 31 RTW B	RTW	
 Florian Hamburg 31 RTW K	RTW	
-Florian Hamburg 31 RTW L	RTW	
 Florian Hamburg 31 RTW ?	RTW	Technische Reserve
 Florian Hamburg 31 GW-SAN	GW-San	Doppelbesetzung HLF1
 + Kampfmittelräumdienst		nur Räumlich untergebracht, siehe F045
@@ -426,6 +437,7 @@ Florian Hamburg 33 GW1 1	GW1
 Florian Hamburg 33 GW-MANV 1	GW-MANV	
 Florian Hamburg 33 NEF A	NEF	
 Florian Hamburg 33 RTW A	RTW	
+Florian Hamburg 33 RTW B	RTW	in Zukunft neu? wohl mit Personal des 21F wenn dieser vom ASB übernommen wurde
 Florian Hamburg 33 RTW K	RTW	
 Florian Hamburg 33 RTW ?	RTW	Technische Reserve
 		
@@ -463,6 +475,7 @@ Florian Hamburg 36 LUF 1	LUF
 Florian Hamburg 36 TMF Reserve	TMF	Metz-Wumag
 Florian Hamburg 36 RTW A	RTW	
 Florian Hamburg 36 RTW B	RTW	
+Florian Hamburg 36 RTW C	RTW	
 Florian Hamburg 36 RTW K	RTW	
 Florian Hamburg 36 GW-MANV 1	GW-MANV	
 	AB-Atemschutz	

@@ -10,11 +10,23 @@ Sortiert nach Wachkennung
 JUH NEF 16 Heidberg	Tangstedter Landstraße 400	22417 Hamburg
 Florian Hamburg 16 NEF A	NEF	HH-JU 5414 - MB Vito - Neufahrzeug
 		
+DRK RW 20 Hamburg-Altona	Paul-Ehrlich-Straße 1	22763 Hamburg
+Florian Hamburg 12 RTW H	RTW	Mo-Fr 8-20
+Rotkreuz Hamburg 20/85-01	KTW	
+Rotkreuz Hamburg 20/85-02	KTW	
+Rotkreuz Hamburg 20/85-03	KTW	
+Rotkreuz Hamburg 20/85-04	KTW	
+		
+DRK RW 20 Hamburg-Bahrenfeld	Boschstraße 5	22761 Hamburg
+Florian Hamburg 12 RTW R	RTW	Mo-Fr 8-20 - HH RK 1368
+Florian Hamburg 12 RTW S	RTW	Mo-Fr 8-20
+		
 ASB RW 21 Hamburg-Osdorf	Lupinenweg 12	
-Sama Hamburg 14 NAW A	NAW	8-20 Uhr, HH AS 4169
-Sama Hamburg 21/81-02 bzw. NAW 21/52	NAW	Reservefahrzeug
-Sama Hamburg 21/83-02	RTW	Reservefahrzeug
-Sama Hamburg 21/85-01	KTW	Mo-Fr 6-22, Sa 7-14
+Florian Hamburg 14 RTW G	RTW	Mo-Fr 8-20
+Florian Hamburg 14 RTW H	RTW	Mo-Fr 8-18
+Florian Hamburg 14 ITW A	ITW	auch Sama Hamburg 21/81-01, 7-19 Uhr, HH AS 4169, auch NAW 21/51
+Sama Hamburg 21/81-02	NAW	Reservefahrzeug, auch NAW 21/52
+Sama Hamburg 21/85-01	KTW	Mo-Fr 6-22, Sa 7-14, steht an RW 22
 		
 ASB RW 22 Hamburg-Ottensen	Behringstraße 28	
 Sama Hamburg 22/83-01	RTW	HH-AS 6175
@@ -37,24 +49,25 @@ JUH RW 23 Eilbek	Dehnhaide 120	22081 Hamburg, am Grete-Zabe-Weg
 Florian Hamburg 23-RTW-R	RTW	24h
 Florian Hamburg 23-RTW-S	RTW	24h
 Florian Hamburg 23-RTW-T	RTW	12h
-	Reservefahrzeug	
+Florian Hamburg 23-RTW-U	RTW	12h
 		
-DRK RW 27 Hamburg-Altona am AK Altona	Paul-Ehrlich-Straße 1	
-Rotkreuz Hamburg 27/85-01	KTW	
-Rotkreuz Hamburg 27/85-02	KTW	
+DRK RW 26 Hamburg-Boberg	Bergedorfer Straße 10	21033 Hamburg
+Florian Hamburg 26 RTW O	RTW	Mo-Fr 8-20
+Florian Hamburg 26 RTW ?	RTW	ab 17.11.2023
 		
 DRK RW 28 Hamburg-Rissen	Suurheid 20	Haus 6
 Rotkreuz Hamburg 28/85-01	KTW	
 Rotkreuz Hamburg 28/85-02	KTW	
 Rotkreuz Hamburg 28/85-03	KTW	
-Rotkreuz Hamburg 28/85-04	KTW	
-Akkon Hamburg 28/85-09	KTW	JUH Fahrzeug unbekannt ob noch aktuell.
+Rotkreuz Hamburg 73/85-10	KTW	Reserve
 		
 ASB RW 32 Hamburg-Niendorf	Alwin Lippert Weg 16	
+Florian Hamburg 15 RTW R	RTW	24/7
+Florian Hamburg 15 RTW S	RTW	Mo-Sa 8-20
 Sama Hamburg 32/83-01	RTW	
-Sama Hamburg 32/83-02	RTW	Auch RTW Niendorf 1
-Sama Hamburg 32/83-03	RTW	HH-AS 6174 - Auch RTW Niendorf 1
-Sama Hamburg 32/83-04	RTW	als 15 RTW P genutzt
+Sama Hamburg 32/83-02	RTW	
+Sama Hamburg 32/83-03	RTW	
+Sama Hamburg 32/83-04	RTW	
 Sama Hamburg 32/85-01	KTW	
 Sama Hamburg 32/85-02	KTW	
 Sama Hamburg 32/85-03	KTW	
@@ -63,14 +76,20 @@ Sama Hambrg 32/01	KdoW	(Ford Focus, bei Bedarf auch Blut-/Organtransport)
 		
 DRK RW 37 Eidelstedt	Reichsbahnstrasse 72	22525 Hamburg
 Florian Hamburg 15 NEF B	NEF	9-21 Uhr
+Florian Hamburg 15 RTW T	RTW	Mo-So 8-20
+Florian Hamburg 15 RTW U	RTW	Mo-Fr 8-20
 Rotkreuz Hamburg 37/85-01	KTW	HH-RK XXXX - VW Crafter (BAUS AT)
 Rotkreuz Hamburg 37/85-02	KTW	HH-RK XXXX - VW Crafter (BAUS AT)
 Rotkreuz Hamburg 37/85-03	KTW	HH-RK 1251 - VW Crafter (BAUS AT)
 vmt weitere KTWs		
+diverse Sonderbedarfsfahrzeuge		
 		
 MHD RW 43 Hamburg-Steilshoop	Eichenlohweg 24	
 Florian Hamburg 24-RTW-R	RTW	HH-MH 4344  - Neufahrzeug (WAS)
-Florian Hamburg 24-RTW-S	RTW	HH-MH 4346  - Neufahrzeug (WAS)
+Florian Hamburg 24-ITW-A	ITW	HH-MH-2483 - Baujahr 2022 (Fahrtec)
+Florian Hamburg 24-RTW-S?	RTW	HH-MH 4346  - Neufahrzeug (WAS) - aktuelle Dienstzeiten unklar
+Florian Hamburg 84-NEF-A	NEF	Sonderbedarfsfahrzeug
+Florian Hamburg 84-RTW-A	RTW	Sonderbedarfsfahrzeug - durch folgende Fahrzeuge gestellt
 Johannes Hamburg 43/85-01	MZF	HH-MH 2449 - RTW Sonderbedarf 1, Sonst im Regeldienst als KTW
 Johannes Hamburg 43/85-02	MZF	HH-MH 4348 - RTW Sonderbedarf 1, Sonst im Regeldienst als KTW
 Johannes Hamburg 43/85-03	KTW	HH-MH 4313
@@ -83,6 +102,7 @@ Johannes Hamburg 43/85-XX	KTW	HH-MH 3712
 Johannes Hamburg 43-83-XX	RTW	HH-MH 4341 - SH-RTW 2014 - Bis Ende 2018 als 43-83-01 über ZKN und Sonderbedarf. Nutzung oder a.D. ist unbekannt.
 Johannes Hamburg 43-83-XX	RTW	HH-MH 5345 - SH-RTW 2014 - Bis Ende 2018 als 43-83-01 über ZKN, Sonderbedarf danach als 24S unterwegs. Nutzung oder a.D. ist unbekannt.
 Johannes Hamburg 43-83-XX	RTW	HH-MH 6046 - .Zuvor als 24R unterwegs. Nutzung oder a.D. ist unbekannt.
+Johannes Hamburg 43-81-XX	Reserve-ITW	HH-MH 4380 - 2023 gebraucht aus NRW, auch Reserve-RTW
 		Außerdem SEG/Bereitschaft auf derselben Wache mit diversen weiteren Fahrzeugen
 		
 DRK RW 47 Barmbek	Steilshooper Straße 2	
@@ -112,7 +132,7 @@ Johannes Hamburg 53/83-XX	RTW	HH-MH 4347 - Zuvor als 24U eingesetzt. Nutzung ode
 		
 		
 JUH RW 54 Wandsbek	Helbingstraße 47	
-unklar ob primär RTW noch vorhanden		
+Florian Hamburg 21-RTW-O	RTW	Mo-Fr 8-20
 Akkon Hamburg 54/85-01	KTW	
 Akkon Hamburg 54/85-02	KTW	
 Akkon Hamburg 54/85-04	KTW	
@@ -147,13 +167,14 @@ Rotkreuz Hamburg 73/85-10	KTW	HH-RK 6004, Reservefahrzeug
 Rotkreuz Hamburg 73/85-11	KTW	HH-RK ????, Reservefahrzeug
 		
 Bundeswehr Rettungszentrum Wandsbek	Lesserstraße 180	Bundeswehrkrankenhaus
+Christoph 29	RTH	
 Florian Hamburg 23-NAW-A	NAW	Y 864 715 - Iveco Daily
+Florian Hamburg 23-NAW-B	NAW	Y 864 716 - Iveco Daily - Reservefahrzeug
 Florian Hamburg 23-ITW-A	ITW	Y 470 177 - Iveco mit Gruppenkabine, Doppelfunktion zum NAW-A
 Florian Hamburg 23-ITW-B	ITW	Y 470 156 - Reservefahrzeug , auch als 23-NAW-A eingesetzt
 Florian Hamburg 23-NEF-C	NEF	Kleinbus, im Dienst wenn Christoph 29 nicht fliegen kann
 Florian Hamburg 33-NEF-A	NEF	vom BWK gestellt: 33-NEF-A an FuRW Veddel
-Florian Hamburg 23-NAW-X	NAW	Y 864 716 - Iveco Daily - Reservefahrzeug
-SIM-NAW		Y 449 703 - Mercedes Vario, Simulationsfahrzeug
+Florian Hamburg 23-MZF-A	MZF	
 		
 Falck RW Hamburg-Bahrenfeld	Rondenbarg 7	
 Florian Hamburg FALCK-BAHRF1	RTW	Teil der Hamburger Notfallrettung
