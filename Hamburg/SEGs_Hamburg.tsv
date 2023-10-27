@@ -55,7 +55,7 @@ Akkon Hamburg 26/10-01 bzw. 17-01	KdoW/PKW	HH-JU 2626
 Akkon Hamburg 26-18-01	MTW	HH-JU 2604
 Akkon Hamburg 26/54-01	GW-T	WL-JU 20
 Akkon Hamburg 26/82-01 bzw. 10-02	NEF/KdoW	HH-JH 2657 stellt das 82 NEF A
-Akkon Hamburg 26/83-XX	RTW	HH-JU 545 - Fahrtec (Neuer Sprinter)
+Akkon Hamburg 26/83-XX	RTW	HH-JU 545 - Fahrtec (Neuer Sprinter) war als 82 C im Einsatz
 Akkon Hamburg 26/83-06	RTW	HH-JU 546
 Akkon Hamburg 26/83-07	RTW	HH-JU 5441
 Akkon Hamburg 26/97-01	Betr. LKW	HH-JU 229
@@ -136,7 +136,6 @@ Johannes Hamburg 43/10-01	KdoW	HH-MH 4310 - VW Caddy
 Johannes Hamburg 43/11-01	ELW2	HH-MH 4311 - Iveco Daily, COMPOINT Fahrzeubau
 Johannes Hamburg 43/18-01	MTW	"HH-ZS 6046 - VW T6.1 Battenberg Design - ""Stadtgeschäftsstelle Hamburg"""
 Johannes Hamburg 93/82-01	NEF	HH-MH 3356
-Johannes Hamburg 43/83-06	RTW	HH-MH 4346, evtl. auch 24R/24S
 Kater Hamburg 80/92-08	MZF	HH-8133
 Kater Hamburg 80/92-09	MZF	HH-8253
 Kater Hamburg 82/85-05	NKTW Typ B	HH-8786
@@ -160,17 +159,18 @@ Kater Hamburg 81/93-07	GW-San	" "
 Kater Hamburg 81/96-05	Betr.-LKW (HH 8367)	
 		
 Johanniter RW 54 Wandsbek	Helbingstraße 47	RV Hamburg/Gruppe Alstertal
+Akkon Hamburg 54/17-01	PKW	HH-JU 5417
 Akkon Hamburg 54/18-01	MTW	HH-JU 113
 Akkon Hamburg 54/19-01	MTW	HH-JH 515
 Akkon Hamburg 54	RTW	HH-JU 178, technische Reserve für die RTW 23R,23S
 Akkon Hamburg 54	RTW	HH-JU 5430, technische Reserve für 23S, 23R
 Akkon Hamburg 82/95-0x	Betreuungskombi	
-Akkon Hamburg 54/97-01	Betreuungs LKW	
+Akkon Hamburg 54/97-01	Betreuungs LKW	HH-8354
 Akkon Hamburg 54/97-02	Betreuungs LKW	
 Akkon Hamburg 54/97-03	Betreuungs LKW	
 Akkon Hamburg 54/98-01	Anhänger Sanitätsstation	
 Kater Hamburg 82/10-01	KdoW	HH-8201
-Kater Hamburg 82/85-01	NKTW Typ B	
+Kater Hamburg 82/85-01	NKTW Typ B	HH-8709
 Kater Hamburg 82/85-02	NKTW Typ B	HH 8787
 Kater Hamburg 82/93-02	GW-San	HH 8653
 Kater Hamburg 80/92-06	MZF	HH-8262
@@ -185,7 +185,7 @@ DRK Wache 60	Allermöher Deich 437	DRK Kreisverband Bergedorf
 Rotkreuz Hamburg 60/10-01	Kommandowagen	HH-RK 861, auch als 60/17-01
 Rotkreuz Hamburg 60/11-01	ELW 1	HH-RK 621
 Rotkreuz Hamburg 60/18-01	Betreuungskombi	HH-RK 637
-Rotkreuz Hamburg 60/18-02	MTW	
+Rotkreuz Hamburg 60/18-02	MTW	HH-RK 6115
 Rotkreuz Hamburg 60/54-01	Gerätewagen-Technik	HH-RK 659
 Rotkreuz Hamburg 60/15-01	Sanitätskraftrad	neue BMW Maschine
 Rotkreuz Hamburg 60/15-02	Sanitätskraftrad	neuer als das FZ bei BOS
@@ -241,6 +241,7 @@ Rotkreuz Hamburg 70/09-11	PKW	HH-RK 714 - Kriseninterventionsteam
 Rotkreuz Hamburg 70/09-12	PKW	HH-CA 4703 - Kriseninterventionsteam
 Rotkreuz Hamburg 70/09-16	PKW	HH-RK XXX - Kriseninterventionsteam
 Rotkreuz Hamburg 70/09-17	PKW	HH-RK 762 - Kriseninterventionsteam -  Ford Focus Turnier
+Rotkreuz Hamburg 70/xx-xx	PKW	HH-RK 4001 - Kriseninterventionsteam - ehem. Kdow
 Rotkreuz Hamburg 70??	First Responder	HH-RK 764
 Rotkreuz Hamburg 70/85-01	KTW	HH-RK 4027
 Rotkreuz Hamburg 70/83-??	RTW	HH-RK 4016, Reservefahrzeug, stellte den 14-RTW-T
@@ -294,3 +295,4 @@ Sama Hamburg 90/10-01	KdoW	HH-AS 4079 - Landesverband Hamburg
 Akkon Hamburg ??/??-??	MTW	HH-JU 113, einer der oben aufgelisteten Akkon-MTW
 Rotkreuz Hamburg ??/??-??		HH-RK 4019 Sprinter RTW/KTW
 Rotkreuz Hamburg 98/10-14	KdoW	Geschäftsführung Ambulanzdienst (wahrscheinlich in Harburg stationiert)
+xxx Hamburg 17/xx-xx	MZF	MTD
