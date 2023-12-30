@@ -158,7 +158,7 @@ Florian Dithmarschen 08-41-01,StLF10-6,
 ,,
 FF Wrohm,Brammerweg 4,25799 Wrohm
 Florian Dithmarschen 04-11-02,ELW1,Feuerwehrbereitschaft
-Florian Dithmarschen 04-42-43,LF16-TS,Feuerwehrbereitschaft
+Florian Dithmarschen 04-47-06,LF KatS-SH,Feuerwehrbereitschaft
 Florian Dithmarschen 09-14-01,MZF,
 Florian Dithmarschen 09-21-01,TLF 8/8,
 Florian Dithmarschen 09-41-01,StLF10-6,
@@ -236,8 +236,9 @@ Florian Dithmarschen 87-41-01,TSF-W,
 FF St. Annen,Dorfstraße 74,25776 St. Annen
 Florian Dithmarschen 88-40-01,TSF,
 ,,
-FF Karolinenkoog,Deichstraße,25774 Karolinenkoog
-Florian Dithmarschen 90-40-01,TSF,
+FF Karolinenkoog,Deichstraße,25774 Karolinenkoog - außer Dienst
+,,wegen Personalmangel zu 2024 aufgelöst
+Florian Dithmarschen 90-40-01,TSF,a.D.
 ,,
 FF Hemme,Dorfstraße 55,25774 Hemme
 Florian Dithmarschen 04-50-02,RW1,Feuerwehrbereitschaft
@@ -281,7 +282,7 @@ Florian Dithmarschen 51-11-01,ELW 1,
 Florian Dithmarschen 51-47-01,LF10,
 Florian Dithmarschen 51-48-01,HLF20-16,
 ,,
-FF Weddingstedt LG Wesseln,Holstenstraße 42,25746 Wesseln
+FF Weddingstedt LG Wesseln,Holstenstraße 63,25746 Wesseln
 Florian Dithmarschen 51-48-02,HLF20,
 ,,
 FF Stelle-Wittenwurth,Dorfstraße 8a,25795 Stelle-Wittenwurth
@@ -341,7 +342,7 @@ Florian Dithmarschen 30-41-01,TSF-W,
 ,,
 FF Helse,Triangel 4,25709 Helse
 Florian Dithmarschen 31-41-01,TSF-W,
-Florian Dithmarschen 31-59-01,GW-N,
+Florian Dithmarschen 31-59-01,RW / GW-N,
 ,FwA Ölwehr,
 ,FwA Logistik,
 ,,
@@ -381,6 +382,7 @@ Florian Dithmarschen 55-45-01,LF10-6,
 Florian Dithmarschen 55-48-01,HLF20,
 Florian Dithmarschen 55-48-02,LF16-12,
 ,Anh Wasserwerfer,
+,Drohne,DJI Matrice M30T
 ,,
 Amt Mitteldithmarschen,,
 ,,
@@ -592,11 +594,14 @@ Florian Dithmarschen 03-76-01,sonCBRN,
 LZG Dithmarschen Halle 1,Hinrich-Schmidt-Straße 22,25746 Heide
 Florian Dithmarschen 03-10-01,KdoW,
 Florian Dithmarschen 03-11-01,ELW 1,
+Florian Dithmarschen 03-64-01,WLF-K,Neufahrzeug 12/2023
 Florian Dithmarschen 03-72-01,ReakErk,
 Florian Dithmarschen 03-72-02,ReakErk,
 Florian Dithmarschen 03-72-03,ReakErk,
 Florian Dithmarschen 03-74-01,GW-DekonP,
 Florian Dithmarschen 02-12-01,ELW 2 TEL Dithmarschen,
+,AB-Mulde,in Beschaffung - ab Q1 2024
+,AB Logistik,in Beschaffung - ab Q2 2024
 ,,
 LZG Dithmarschen Halle 2,Hinrich-Schmidt-Straße 26,25746 Heide
 Florian Dithmarschen 03-54-01,GW-G,
