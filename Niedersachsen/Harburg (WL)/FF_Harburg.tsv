@@ -7,11 +7,13 @@ Florian Harburg 81-65-01	WLF
 Florian Harburg 81-66-01	WLF	
 Florian Harburg 99-03-01	KdoW	Abschnitssleiter Elbe
 Florian Harburg 99-03-02	KdoW	Abschnittsleiter Heide
-	AB-Logistik	(Fachzug Tierseuchenbekämpfung-Dekontamination Fahrzeuge)
+	AB-Tierseuchenbekämpfung	Fachzug Tierseuchenbekämpfung-Dekontamination Fahrzeuge
 	AB-Atemschutz	
 	AB-Mulde (mehrere)	
-	AB-Besprechung	
-	AB-Geräte (Schlauchmaterial)	
+	AB-Besprechung	Einsatzleitung / Betreuung
+	AB-FTZ 1	Schläuche, Atemluftflaschen, div. weitere Materialien zum schnellen Austausch
+	AB-Wasser 1	10.000l, PFPN 10-1500
+	AB-ManV	
 		
 		
 >>> Freiwillige Feuerwehr Neu Wulmstorf <<<		
@@ -23,13 +25,14 @@ Florian Harburg 11-30-11	DL(A) K 23/12 GL
 Florian Harburg 11-47-11	LF 20	
 Florian Harburg 11-48-11	HLF 20	
 Florian Harburg 11-66-11	WLF	
+Florian Harburg 11-69-11	GW-N	ehem. ELW
 	AB-Mulde	
 	AB-Gefahrgut	
-	AB-Wasser in Zulauf	
+	AB-Wasser 2	10.000l, PFPN 10-1500
 		
 Ortsfeuerwehr Elstorf	Lindenstraße 2 a	21629 Neu Wulmstorf
 Florian Harburg 11-25-21	TLF 20/40	
-Florian Harburg 11-47-21	LF 16/12	
+Florian Harburg 11-48-21	HLF 20-L	
 Florian Harburg 11-17-21	MTF	
 Florian Harburg 11-50-11	KLAF	KdoW Ford Ranger
 		
@@ -70,7 +73,7 @@ Florian Harburg 12-46-51	HLF 10	Neufahrzeug 2021
 Florian Harburg 12-17-51	MTF	
 		
 Ortsfeuerwehr Leversen-Sieversen	Hauptstraße 62	Leversen
-Florian Harburg 12-11-01	ELW	
+Florian Harburg 12-11-01	ELW	Neufahrzeug 2015
 Florian Harburg 12-17-61	MTF	
 Florian Harburg 12-23-61	TLF 16/25	
 Florian Harburg 12-45-61	LF 10	
@@ -174,7 +177,7 @@ Florian Harburg 80-12-01	ELW 2
 		
 Ortsfeuerwehr Fliegenberg-Rosenweide	Fliegenberg 1a	21435 Stelle
 Florian Harburg 14-17-31	MTF	
-Florian Harburg 14-45-31	LF 8	
+Florian Harburg 14-47-31	LF 20	Neufahrzeug 08/2022
 Florian Harburg 14-78-31	KLB	
 		
 Freiwillige Feuerwehr Winsen (Luhe)		
@@ -196,7 +199,7 @@ Florian Harburg 15-45-11	LF 8/6
 		
 Ortsfeuerwehr Rottorf	Handorfer Kirchsteig 19	21423 Winsen
 Florian Harburg 15-41-11	TSF-W	
-Florian Harburg 15-17-12	MTW	
+Florian Harburg 15-17-12	MTW	Neufahrzeug 2022
 		
 Ortsfeuerwehr Sangenstedt	Ellerndamm 38	21423 Winsen
 Florian Harburg 15-41-12	TSF-W	
@@ -208,9 +211,9 @@ Florian Harburg 15-78-21	RTB
 Florian Harburg 82-77-01	MZB	
 		
 Ortsfeuerwehr Lassrönne	Laßrönner Dorfstraße 33	21423 Winsen
-Florian Harburg 15-41-21	TSF-W	
-Florian Harburg 15-17-21	MTW	
-Florian Harburg 15-78-22	RTB	
+Florian Harburg 15-41-24	TSF-W	Neufahrzeug 10/2023
+Florian Harburg 15-17-24	MTW	
+Florian Harburg 15-78-24	RTB	
 		
 Ortsfeuerwehr Stöckte	Hoopter Straße 163	21423 Winsen
 Florian Harburg 15-41-22	TSF-W	
@@ -223,12 +226,12 @@ Ortsfeuerwehr Bahlburg	Bahlburger Straße 63	21423 Winsen
 Florian Harburg 15-42-31	MLF	
 		
 Ortsfeuerwehr Luhdorf	Winsener Landstr. 61A	21423 Winsen
-Florian Harburg 15-21-31	TLF 16/24 Tr.	
+Florian Harburg 15-23-31	TLF 3000	Neufahrzeug 05/2023
 Florian Harburg 15-46-31	HLF 10	
 		
 Ortsfeuerwehr Pattensen	Osterberg	21423 Winsen
 Florian Harburg 15-17-31	MTW	
-Florian Harburg 15-42-32	MLF	
+Florian Harburg 15-42-31	MLF	3.000er Pumpe, 1.600l Wassertank, Neufahrzeug 2020
 		
 Ortsfeuerwehr Roydorf	Ole Karkweg 12	21423 Winsen
 Florian Harburg 15-17-33	MTF	
@@ -325,7 +328,7 @@ Florian Harburg 21-45-71	LF 10/6
 Freiwillige Feuerwehr Samtgemeinde Tostedt		
 		
 Ortsfeuerwehr Tostedt	Todtglüsingerstr. 1	21255 Tostedt
-Florian Harburg 22-11-01	ELW 1 SG	
+Florian Harburg 22-11-01	ELW 1 SG	Neufahrzeug 07/2023
 Florian Harburg 22-17-11	MTW	Neufahrzeug 2018
 Florian Harburg 22-47-11	LF 20	Neufahrzeug 2021
 Florian Harburg 22-48-11	HLF 20/16	
@@ -348,7 +351,7 @@ Florian Harburg 22-73-14	GW-G
 	Gerätewagen Logistik in Planung	
 		
 Ortsfeuerwehr Wistedt	Am Brink 10	21255 Wistedt
-Florian Harburg 22-45-15	LF 8/6	
+Florian Harburg 22-46-15	HLF 10	Neufahrzeug 2022
 Florian Harburg 22-17-15	MTW	Neufahrzeug 2019
 		
 Ortsfeuerwehr Heidenau	Hauptstraße 22	21258 Heidenau
@@ -411,24 +414,24 @@ Florian Harburg 23-17-41	MZF	2 PA; TS; Säge
 		
 Ortsfeuerwehr Trelde	Torfweg 2	21244 Buchholz
 Florian Harburg 23-17-51	MZF	Verkehrssicherung; Schläuche; MTF
-Florian Harburg 23-42-51	LF 8/6	
+Florian Harburg 23-48-51	HLF 20	Neufahrzeug 12/2023
 Florian Harburg 23-73-51	GW-G 2	
 		
 Freiwillige Feuerwehr Samtgemeinde Jesteburg		
 		
 Ortsfeuerwehr Bendestorf	Im Brook 3	21227 Bendestorf
-Florian Harburg 24-17-11	MTF	
+Florian Harburg 24-17-11	MTF	Neufahrzeug 2019, Logistik/Wechselkasten: AS, Kettensäge, TP
 Florian Harburg 24-24-11	TLF 3000	Besatzung 1/8; 4000l Wasser
 Florian Harburg 24-45-11	LF 8/6	
 		
 Ortsfeuerwehr Harmstorf	Schulstraße 1	21228 Harmstorf
-Florian Harburg 24-11-01	ELW 1 Samtgemeinde	
+Florian Harburg 24-11-01	ELW 1 Samtgemeinde	Neufahrzeug 07/2022
 Florian Harburg 24-17-21	MTF	
-Florian Harburg 24-41-21	TSF-W	
+Florian Harburg 24-44-21	LF 10 KatS	Neufahrzeug 07/2022
 		
 Ortsfeuerwehr Jesteburg	Schützenstraße 30	21266 Jesteburg
 Florian Harburg 24-17-31	MTW/ELW	
-Florian Harburg 24-17-32	MTW	
+Florian Harburg 24-17-32	MTW	Neufahrzeug 2019
 Florian Harburg 24-23-31	TLF 16/25	
 Florian Harburg 24-45-31	LF 10	
 Florian Harburg 24-52-31	RW 2	Zusatzbeladung Gefahrgut
@@ -458,7 +461,7 @@ Florian Harburg 25-45-31	LF 10/6
 Florian Harburg 82-52-02	RW	
 		
 Ortsfeuerwehr Evendorf	Wiedsal 3	21272 Egestorf (Evendorf); Neubau an altem Standort
-Florian Harburg 25-20-41	TLF 8/18	
+Florian Harburg 25-20-41	TLF 8/18	2023 Überholt und modernisiert
 Florian Harburg 25-62-41	GW-L2	SW-KatS mit Zusatzbeladung; Neufahrzeug 2016
 		
 Ortsfeuerwehr Hanstedt	Buchholzer Straße 15	21271 Hanstedt
