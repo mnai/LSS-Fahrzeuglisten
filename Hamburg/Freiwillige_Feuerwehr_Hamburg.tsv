@@ -1,10 +1,8 @@
 Wach- /Funkrufname	Typ	Kommentar
 Übersicht Freiwillige Feuerwehren Hamburg		
-"Aktuelle Informationen immer unter "	https://www.feuerwehr-hamburg.de/fahrzeug/	
+Aktuelle Informationen immer unter	https://www.feuerwehr-hamburg.de/fahrzeug/	
 Ein LF-KatS (Bund) hat 9 Plätze und nur 1000l Wasser	entspricht also am ehesten einem LF 10 im Spiel	
-"Ein LF-KatS (HH) hat 9 Plätze und 1600l Wasser und "	ist damit im Spiel ein LF 20/16	
-Die meisten LF 16/12 erfüllen die Anforderungen eines LF 20/16		
-Aktuell in Beschaffung sind 9 HLF niedrige Bauart	Lieferung bis 2022	
+Ein LF-KatS (HH) hat 9 Plätze und 1600l Wasser und 	ist damit im Spiel ein LF 20/16	
 		
 Landesbereichsführer LBF		
 Landesbereichsführer	Kdow	Mercedes-Benz C-Klasse
@@ -22,7 +20,7 @@ Bereichsführer Altona (F192)
 Florian Hamburg Bereichsführer Altona	Kdow	Opel Astra
 		
 F 1921 FF Rissen	Rissener Landstr. 254	22559 Hamburg
-Florian Hamburg Rissen 1	LF 16/12	
+Florian Hamburg Rissen 1	HLF 20	
 Florian Hamburg Rissen 2	LF-KatS (HH)	
 Florian Hamburg Rissen RW	RW 1	
 Florian Hamburg Rissen KB	KLB Typ 1	
@@ -33,11 +31,11 @@ Florian Hamburg Blankenese 2	LF-KatS (Bund)
 Florian Hamburg Blankenese ErkW	CBRN-ErkW	
 		
 F 1923 FF Nienstedten	Georg-Bonne-Straße 92	22609 Hamburg
-Florian Hamburg Nienstedten 1	LF 16/12	
+Florian Hamburg Nienstedten 1	HLF 20	
 Florian Hamburg Nienstedten 2	LF-Kats (HH)	
 Florian Hamburg Nienstedten KB	KLB Typ 1	
 		
-F 1924 FF Osdorf	Blomkamp 11	"22549 Hamburg "
+F 1924 FF Osdorf	Blomkamp 11	22549 Hamburg
 Florian Hamburg Osdorf 1	HLF 20 n.B.	neues HLF n.b. seit 04/2021
 Florian Hamburg Osdorf 2	LF-KatS (HH) n.B.	
 		
@@ -46,7 +44,7 @@ Florian Hamburg Groß Flottbek 1	HLF n.B.	neues HLF n.b. seit 04/2021
 Florian Hamburg Groß Flottbek 2	LF-KatS (HH) n.B.	
 		
 F 1926 FF Lurup	Stückweg 4	22547 Hamburg
-Florian Hamburg Lurup 1	LF 16/12	
+Florian Hamburg Lurup 1	HLF 20	
 Florian Hamburg Lurup 2	LF-Kats (Bund)	
 		
 F 1927 FF Sülldorf- Iserbrook	Sülldorfer Kirchenweg 235	22589 Hamburg
@@ -59,7 +57,7 @@ Florian Hamburg Altona 2	LF-KatS (HH)
 Florian Hamburg Altona GW-FM	GW-FM	
 		
 F 1929 FF Ottensen- Bahrenfeld	Friesenweg 5d	22763 Hamburg
-Florian Hamburg Ottensen-Bahrenfeld 1	LF 16/12	
+Florian Hamburg Ottensen-Bahrenfeld 1	HLF 20	
 Florian Hamburg Ottensen-Bahrenfeld 2	LF-Kats (HH)	
 Florian Hamburg Ottensen-Bahrenfeld GW-Vers	GW-Vers	
 Florian Hamburg Ottensen-Bahrenfeld FwA-Fkh	FwA-Fkh	
@@ -79,25 +77,25 @@ Florian Hamburg Eidelstedt 2	LF-KatS (Bund)
 Florian Hamburg Eidelstedt GW-Rüst 1	GW-Rüst 1	
 		
 F 1933 FF Schnelsen	Oldesloer Str. 34	22457 Hamburg
-Florian Hamburg Schnelsen 1	"HLF 20 n.B. "	neues HLF n.B. seit 04/2021
+Florian Hamburg Schnelsen 1	HLF 20 n.B.	neues HLF n.B. seit 04/2021
 Florian Hamburg Schnelsen 2	LF-Kats (HH) n.B.	
 		
 F 1934 FF Niendorf	Fuhlsbütteler Weg 5	22523 Hamburg
-Florian Hamburg Niendorf 1	LF 16/12	
+Florian Hamburg Niendorf 1	HLF 20	
 Florian Hamburg Niendorf 2	LF-KatS (HH)	
 		
 F 1935 FF Lokstedt	Vogt-Wells-Straße 13	22529 Hamburg
 Florian Hamburg Lokstedt 1	HLF 20	
 Florian Hamburg Lokstedt 2	LF-KatS (HH)	
-Florian Hamburg Lokstedt Schlauchwagen	SW-KatS	" "
+Florian Hamburg Lokstedt Schlauchwagen	SW-KatS	
 		
 F 1937 FF Eimsbüttel	Kieler Str. 204	22525 Hamburg
-Florian Hamburg Eimsbüttel 1	LF 16/12	
+Florian Hamburg Eimsbüttel 1	HLF 20	
 Florian Hamburg Eimsbüttel 2	LF-KatS (HH)	
-Florian Hamburg Eimsbüttel GW-FM	GW-FM	
+Florian Hamburg Eimsbüttel ELW 2	ELW 2	
 		
 F 1938 FF Pöseldorf	Schröderstiftstraße 13	20146 Hamburg
-Florian Hamburg Pöseldorf 1	LF 16/12	
+Florian Hamburg Pöseldorf 1	HLF 20	
 Florian Hamburg Pöseldorf 2	LF 16-KatS (HH)	
 Florian Hamburg Pöseldorf Dekon-P	Dekon-LKW-P	
 Florian Hamburg Pöseldorf KB	KLB Typ 1	
@@ -106,7 +104,8 @@ Florian Hamburg Pöseldorf KB	KLB Typ 1
 Bereichsführer Nord (F195)		
 Florian Hamburg Bereichsführer Nord	Kdow	Opel Astra FF Langenhorn
 		
-F 1951 FF Eppendorf	Obenhauptstraße 1	22335 Hamburg
+F 1951 FF Eppendorf	Heselstücken 15	22453 Hamburg
+		Übergangsstandort, Neubau in der Sportallee bis Ende 2024
 Florian Hamburg Eppendorf 1	LF KatS (Bund)	
 Florian Hamburg Eppendorf GKW	GKW 1	
 Florian Hamburg Eppendorf GW-Rüst 3	GW-Rüst 3	
@@ -119,12 +118,12 @@ Florian Hamburg Fuhlsbüttel GW-Rüst 1	GW-Rüst 1
 Florian Hamburg Fuhlsbüttel KB	Kleinboot-RTB	
 		
 F 1953 FF Langenhorn Nord	Neubergerweg 158	22417 Hamburg
-Florian Hamburg Langenhorn-Nord 1	LF 16/12	
+Florian Hamburg Langenhorn-Nord 1	HLF 20	
 Florian Hamburg Langenhorn-Nord 2	LF-KatS (HH)	
 Sonderkomponente Dekon vorgesehen aber aktuell kein Fahrzeug		
 		
 F 1954 FF Groß Borstel	Geschwister-Beschütz-Bogen 20	22335 Hamburg
-Florian Hamburg Groß Borstel 1	LF 16/12	
+Florian Hamburg Groß Borstel 1	HLF 20	
 Florian Hamburg Groß Borstel 2	LF-KatS (HH)	
 		
 F 1955 FF Alsterdorf	Maienweg 119	22297 Hamburg
@@ -133,7 +132,7 @@ Florian Hamburg Alsterdorf 2	LF-KatS (HH)
 Florian Hamburg Alsterdorf Dekon-P2	Dekon-P2	
 		
 F 1956 FF Langenhorn	Tangstedter Landstraße 139	22415 Hamburg
-Florian Hamburg Langenhorn 1	LF 16/12	
+Florian Hamburg Langenhorn 1	HLF 20	
 Florian Hamburg Langenhorn 2	LF-KatS (HH)	
 		
 		
@@ -145,15 +144,15 @@ Florian Hamburg Berne 1	HLF 20
 Florian Hamburg Berne 2	LF-KatS (HH)	
 		
 F 2912 FF Farmsen	Berner Heerweg 151	22159 Hamburg
-Florian Hamburg Farmsen 1	LF 16/12	
+Florian Hamburg Farmsen 1	HLF 20	
 Florian Hamburg Farmsen 2	LF-KatS (HH)	
 		
-F 2913 FF Oldenfelde- Siedlung	Bekassinenau 30c	22147 Hamburg
-Florian Hamburg Oldenfelde-Siedlung 1	HLF 20	" "
+F 2913 FF Oldenfelde-Siedlung	Bekassinenau 30c	22147 Hamburg
+Florian Hamburg Oldenfelde-Siedlung 1	HLF 20	
 Florian Hamburg Oldenfelde-Siedlung 2	LF-KatS (HH)	
 		
 F 2914 FF Oldenfelde	Bargteheider Str. 165	22143 Hamburg
-Florian Hamburg Oldenfelde 1	LF 16/12	
+Florian Hamburg Oldenfelde 1	HLF 20	
 Florian Hamburg Oldenfelde 2	LF-KatS (HH) n.B.	
 Florian Hamburg Oldenfelde RW	RW 1	
 		
@@ -162,15 +161,15 @@ Florian Hamburg Meiendorf 1	LF 16/12
 Florian Hamburg Meiendorf 2	LF-Kats (Bund)	
 		
 F 2916 FF Rahlstedt	Brockdorffstr. 22	22149 Hamburg
-Florian Hamburg Rahlstedt 1	LF 16/12 niedrige Bauart	neues HLF n.b. seit 02/2021
-Florian Hamburg Rahlstedt 2	LF-KatS (HH) n.B.	" "
+Florian Hamburg Rahlstedt 1	LF 16/12 niedrige Bauart	
+Florian Hamburg Rahlstedt 2	LF-KatS (HH) n.B.	
 		
 F 2917 FF Tonndorf	Jenfelder Allee 75	22045 Hamburg
 Florian Hamburg Tonndorf 1	HLF 20	
 Florian Hamburg Tonndorf 2	LF-KatS (HH)	
 		
 F 2918 FF Wandsbek-Marienthal	Am Neumarkt 30	22041 Hamburg
-Florian Hamburg Wandsbek-Marienthal 1	LF 16/12	
+Florian Hamburg Wandsbek-Marienthal 1	HLF 20	
 Florian Hamburg Wandsbek-Marienthal 2	LF-KatS (HH)	
 Florian Hamburg Wandsbek-Marienthal GW-FM	GW-FM	
 Florian Hamburg Wandsbek-Marienthal FwA-FüLa		Führung und Lage
@@ -186,7 +185,7 @@ Florian Hamburg Bramfeld Dekon-P
 Florian Hamburg Bramfeld KB	Kleinboot-RTB	
 		
 F 2922 FF Wellingsbüttel	Schulteßdamm 18	22391 Hamburg
-Florian Hamburg Wellingsbüttel 1	LF 16/12	
+Florian Hamburg Wellingsbüttel 1	HLF 20	
 Florian Hamburg Wellingsbüttel 2	LF-KatS (Bund)	
 Florian Hamburg Wellingsbüttel ErkW	CBRN-ErkW	
 		
@@ -200,7 +199,7 @@ Florian Hamburg Hummelsbüttel 1	HLF 20
 Florian Hamburg Hummelsbüttel 2	LF-KatS (HH)	
 		
 F 2925 FF Sasel	Saseler Parkweg 1	22393 Hamburg
-Florian Hamburg Sasel 1	LF 16/12	
+Florian Hamburg Sasel 1	HLF 20	
 Florian Hamburg Sasel 2	LF KatS (Bund)	
 		
 F 2926 FF Barmbek	Holzmühlenstraße 88	22041 Hamburg
@@ -209,7 +208,7 @@ Florian Hamburg Barmbek 2	LF-KatS (HH)
 Florian Hamburg Barmbek SW-KatS		
 		
 F 2928 FF Winterhude	Wiesendamm 36	22303 Hamburg
-Florian Hamburg Winterhude 1	HLF 20	" "
+Florian Hamburg Winterhude 1	HLF 20	
 Florian Hamburg Winterhude 2	LF-KatS (HH)	
 Florian Hamburg Winterhude KB	Kleinboot-RTB	
 		
@@ -226,13 +225,13 @@ Florian Hamburg Bergstedt 1	HLF 20
 Florian Hamburg Bergstedt 2	LF-KatS (HH)	
 		
 F 2933 FF Lemsahl-Mellingstedt	Bilenbarg 3	22397 Hamburg
-Florian Hamburg Lemsahl- Mellingstedt 1	LF 16/12	
+Florian Hamburg Lemsahl- Mellingstedt 1	HLF 20	
 Florian Hamburg Lemsahl- Mellingstedt 2	LF KatS (Bund)	
 Florian Hamburg Lemsahl- Mellingstedt GW-VERS	GW-Versorgungslogistik	T2 Vario 818D
 Florian Hamburg Lemsahl- Mellingstedt FwA-FKH	Feldkochherd	
 		
 F 2934 FF Duvenstedt	Poppenbüttler Chaussee 17	22397 Hamburg
-Florian Hamburg Duvenstedt 1	LF 16/12	
+Florian Hamburg Duvenstedt 1	HLF 20	
 Florian Hamburg Duvenstedt 2	LF-KatS (Bund)	
 Florian Hamburg Duvenstedt GW-Rüst 1		
 Florian Hamburg Duvenstedt KB	Kleinboot-RTB	
@@ -262,23 +261,23 @@ Florian Hamburg Nettelnburg 2	LF-KatS (HH)
 Florian Hamburg Nettelnburg KB	Kleinboot-RTB	
 		
 F 2943 FF Lohbrügge	Lohbrügger Markt 3	21031 Hamburg
-Florian Hamburg Lohbrügge 1	LF 16/12	
+Florian Hamburg Lohbrügge 1	HLF 20	
 Florian Hamburg Lohbrügge 2	LF-KatS (Bund)	
 Florian Hamburg Lohbrügge ErkW	CBRN-ErkW	
 Florian Hamburg Lohbrügge KB	Kleinboot-RTB	
 		
 F 2944 FF Boberg	Am Langberg 76	21033 Hamburg
 Florian Hamburg Boberg 1	HLF n.B.	neues HLF n.B. seit 04/2021
-		
 Florian Hamburg Boberg 2	LF-KatS (Bund)	
 Florian Hamburg Boberg KB	Kleinboot-RTB	
 		
 F 2945 FF Kirchsteinbek	Brockhausweg 15	22117 Hamburg
+		Neubau Steinbeker Markt gegenüber Brockhausweg 3 im Bau
 Florian Hamburg Kirchsteinbek 1	LF 16/12	
 Florian Hamburg Kirchsteinbek 2	LF-KatS (Bund)	
 		
 F 2946 FF Öjendorf	Reinskamp 40	22117 Hamburg
-Florian Hamburg Öjendorf 1	LF 16/12	
+Florian Hamburg Öjendorf 1	HLF 20	
 Florian Hamburg Öjendorf 2	LF-KatS (HH)	
 Florian Hamburg Öjendorf GW Rüst 1		
 Florian Hamburg Öjendorf KB	KLB Typ 2	
@@ -287,12 +286,12 @@ F 2947 FF Bille	Chrysanderstraße 2d	21029 Hamburg
 Florian Hamburg Bille 1	LF 16/12	
 Florian Hamburg Bille 2	LF-KatS (Bund)	
 Florian Hamburg Bille GW-FM		
-Florian Hamburg Bille FwA-FüLa (Führung und Lage)		
+Florian Hamburg Bille FwA-FüLa	(Führung und Lage)	
 		
 F 2948 FF Billstedt-Horn	Bergmannring 4	22119 Hamburg
-Florian Hamburg Billstedt-Horn 1	"HLF 20 "	
+Florian Hamburg Billstedt-Horn 1	HLF 20	
 Florian Hamburg Billstedt-Horn 2	LF-KatS (HH)	
-Florian Hamburg Billstedt-Horn GW-Rüst 1	GW-Rüst 1	" "
+Florian Hamburg Billstedt-Horn GW-Rüst 1	GW-Rüst 1	
 		
 		
 Bereichsführer Vierlande (F295)		
@@ -316,7 +315,7 @@ Florian Hamburg Neuengamme 2	LF-KatS (HH)
 Florian Hamburg Neuengamme KB	KLB Typ 2	
 		
 F 2954 FF Krauel	Kirchwerder Marschbahndamm 259	21037 Hamburg
-Florian Hamburg Krauel 1	LF 16/12	
+Florian Hamburg Krauel 1	HLF 20	
 Florian Hamburg Krauel 2	LF-KatS (HH)	
 Florian Hamburg Krauel GW-VERS	GW-Versorgungslogistik	T2 Vario 818D
 Florian Hamburg Krauel FwA-FKH	Feldkochherd	
@@ -327,8 +326,8 @@ Florian Hamburg Kirchwerder-Süd 1	HLF 20
 Florian Hamburg Kirchwerder-Süd 2	LF-Kats (HH) n.B.	
 Florian Hamburg Kirchwerder-Süd KB	KLB Typ 1	
 		
-F 2956 FF Kirchwerder-Nord	Norderquerweg 1	21037 Hamburg
-Florian Hamburg Kirchwerder-Nord 1	LF 16/12 niedrige Bauart	
+F 2956 FF Kirchwerder-Nord	Kirchwerder Hausdeich 127	21037 Hamburg
+Florian Hamburg Kirchwerder-Nord 1	HLF 20	
 Florian Hamburg Kirchwerder Nord 2	LF-Kats (HH) n.B.	
 Florian Hamburg Kirchwerder Nord KB	Kleinboot-RTB	
 		
@@ -343,30 +342,30 @@ mehrere Anhänger der SEPCON	Ölseparationsanlage
 Bereichsführer Marschlande (F296)		
 Florian Hamburg Bereichsführer Marschlande	Kdow	Opel Astra
 		
-F 2961 FF Allermöhe-Billwerder	"Allermöher Deich 111 "	"21037 Hamburg "
+F 2961 FF Allermöhe-Billwerder	Allermöher Deich 33	21037 Hamburg
 Florian Hamburg Allermöhe-Billwerder 1	LF 16/12	
 Florian Hamburg Allermöhe-Billwerder 2	LF-KatS (Bund)	
 Florian Hamburg Allermöhe-Billwerder KB	KLB Typ 2	
 		
 F 2963 FF Reitbrook	Vorderdeich 128	21037 Hamburg
-Florian Hamburg Reitbrook 1	LF 16/12	
-Florian Hamburg Reitbrook 2	LF-KatS (HH) n.B.	" "
+Florian Hamburg Reitbrook 1	HLF 20	
+Florian Hamburg Reitbrook 2	LF-KatS (HH) n.B.	
 Florian Hamburg Reitbrook KB	KLB Typ 2	
+Florian Hamburg Reitbrook RTB	RTB	
 		
 F 2964 FF Hohendeich	Ochsenwerder Elbdeich 325	21037 Hamburg
 Florian Hamburg Hohendeich 1	HLF 20	
 Florian Hamburg Hohendeich 2	LF-KatS (Bund)	
 Florian Hamburg Hohendeich KB	Kleinboot-RTB	
 		
-		
 F 2965 FF Neudorf	Elversweg 46b	21037 Hamburg
-Florian Hamburg Neudorf 1	LF 16/12	
+Florian Hamburg Neudorf 1	HLF 20	
 Florian Hamburg Neudorf 2	LF-KatS (HH)	
 Florian Hamburg Neudorf GW-Rüst 1		
 Florian Hamburg Neudorf KB	KLB Typ 1	
 		
 F 2966 FF Spadenland	Ruschorter Hauptdeich	21037 Hamburg
-Florian Hamburg Spadenland 1	LF 16/12	
+Florian Hamburg Spadenland 1	HLF 20	
 Florian Hamburg Spadenland 2	LF-KatS (HH)	
 Florian Hamburg Spadenland KB	KLB Typ 1	
 		
@@ -376,10 +375,11 @@ Florian Hamburg Moorfleet 2	LF-KatS (Bund)
 Florian Hamburg Moorfleet KB	KLB Typ 2	
 		
 F 2968 FF Fünfhausen	Durchdeich 62	21037 Hamburg
-Florian Hamburg Fünfhausen 1	LF 16/12	
+Florian Hamburg Fünfhausen 1	HLF 20	
 Florian Hamburg Fünfhausen 2	LF-KatS (Bund)	
 Florian Hamburg Fünfhausen SW	SW-KatS	
 Florian Hamburg Fünfhausen KB	KLB Typ 1	
+Florian Hamburg Fünfhausen WW	FwA-SWW	
 		
 F 2969 FF Berliner Tor	Bergmannring 6	22119 Hamburg
 Florian Hamburg Berliner Tor 1	LF 16/12	
@@ -392,40 +392,41 @@ Florian Hamburg Bereichsführer Harburg	Kdow	Skoda Octavia
 F 3911 FF Kirchdorf	Bei der Windmühle 61	21109 Hamburg
 Florian Hamburg Kirchdorf 1	HLF 20	
 Florian Hamburg Kirchdorf 2	LF-KatS (HH)	
-Florian Hamburg Kirchdorf KB	KLB Typ 2	" "
+Florian Hamburg Kirchdorf KB	KLB Typ 2	
 		
-F 3912 FF Moorwerder	Bauernstegel 1	"21109 Hamburg "
+F 3912 FF Moorwerder	Bauernstegel 1	21109 Hamburg
 Florian Hamburg Moorwerder 1	HLF 20	
 Florian Hamburg Moorwerder 2	LF-KatS (HH)	
-Florian Hamburg Moorwerder KB	KLB Typ 1	" "
+Florian Hamburg Moorwerder KB	KLB Typ 1	
 		
-F 3913 FF Neuland	Neuländer Elbdeich 245	"21079 Hamburg "
-Florian Hamburg Neuland 1	LF 16/12	
+F 3913 FF Neuland	Neuländer Elbdeich 245	21079 Hamburg
+Florian Hamburg Neuland 1	HLF 20	
 Florian Hamburg Neuland 2	LF-KatS (Bund)	
-Florian Hamburg Neuland KB	KLB Typ 2	" "
+Florian Hamburg Neuland KB	KLB Typ 1	
 		
-F 3914 FF Rönneburg	Küsterstieg 1	"21079 Hamburg "
+F 3914 FF Rönneburg	Küsterstieg 1	21079 Hamburg
 Florian Hamburg Rönneburg 1	HLF 20 n.B.	neues HLF n.B. seit 04/2021
 Florian Hamburg Rönneburg 2	LF-KatS (HH)	
 		
-F 3915 FF Sinstorf	Beckedorfer Str. 1	"21077 Hamburg "
-Florian Hamburg Sinstorf 1	LF 16/12	
+F 3915 FF Sinstorf	Beckedorfer Str. 1	21077 Hamburg
+Florian Hamburg Sinstorf 1	HLF 20	
 Florian Hamburg Sinstorf 2	LF-KatS (HH)	
 Florian Hamburg Sinstorf ErkW	CBRN ErkW	
 		
-F 3916 FF Marmstorf	Elfenwiese 6	"21077 Hamburg "
-Florian Hamburg Marmstorf 1	LF 16/12	" "
+F 3916 FF Marmstorf	Elfenwiese 6	21077 Hamburg
+Florian Hamburg Marmstorf 1	HLF 20	
 Florian Hamburg Marmstorf 2	LF-KatS (Bund)	
 Florian Hamburg Marmstorf GW-Rüst 1		
 		
 F 3917 FF Rothenburgsort-Veddel	Billhorner Kanalstr. 45	20539 Hamburg
-Florian Hamburg Rothenburgsort-Veddel 1	LF 16/12	
+Florian Hamburg Rothenburgsort-Veddel 1	HLF 20	
 Florian Hamburg Rothenburgsort-Veddel 2	LF-KatS (HH)	
 Florian Hamburg Rothenburgsort-Veddel KB	KLB Typ 1	
 		
 F 3918 FF Wilhelmsburg	Rotenhäuserstr. 73 a	21107 Hamburg
 Florian Hamburg Wilhelmsburg 1	HLF 20	
 Florian Hamburg Wilhelmsburg 2	LF-KatS (HH)	
+	ELW 2	soll in 2024 ausgeliefert werden
 		
 		
 Bereichsführer Süderelbe (F392)		
@@ -434,7 +435,7 @@ Florian Hamburg Bereichsführer Süderelbe	Kdow	Opel Astra
 F 3921 FF Hausbruch	Rehrstieg 1	21149 Hamburg
 Florian Hamburg Hausbruch 1	HLF 20	
 Florian Hamburg Hausbruch 2	LF-KatS (Bund)	
-Florian Hamburg Hausbruch Dekon-P		"Steht an F36 "
+Florian Hamburg Hausbruch Dekon-P		
 		
 F 3922 FF Harburg	Helmsweg 30	21079 Hamburg (Neubau zum 01.04.2020 bezogen)
 Florian Hamburg Harburg 1	LF 16/12	
@@ -443,7 +444,7 @@ Florian Hamburg Harburg GW-FM
 Florian Hamburg Harburg FwA-FüLa		Führung und Lage
 		
 F 3923 FF Moorburg	Moorburger Elbdeich 221	21079 Hamburg
-Florian Hamburg Moorburg 1	LF 16/12 niedrige Bauart	" "
+Florian Hamburg Moorburg 1	LF 16/12 niedrige Bauart	
 Florian Hamburg Moorburg 2	LF-Kats (HH) n.B.	
 Florian Hamburg Moorburg GW-Rüst 1	GW-Rüst 1	
 Florian Hamburg Moorburg KB	KLB Typ 1	
@@ -472,10 +473,11 @@ Florian Hamburg Finkenwerder 2	LF-KatS (HH)
 Florian Hamburg Finkenwerder KB	Kleinboot-RTB (2010)	
 		
 F 3932 FF Francop	Hohenwischer Straße 89	21129 Hamburg
-Florian Hamburg Francop 1	LF 16/12	
+Florian Hamburg Francop 1	HLF 20	
 Florian Hamburg Francop 2	LF-KatS (Bund)	
-Florian Hamburg Francop SW 2000-Tr		
+Florian Hamburg Francop SW	SW 2000-Tr	
 Florian Hamburg Francop KB	Kleinboot-RTB (2010)	
+Florian Hamburg Francop WW	FwA-SWW	
 		
 F 3933 FF Neunefelde-Nord	Arp-Schnitger-Stieg 39	21129 Hamburg
 Florian Hamburg Neuenfelde-Nord 1	HLF 20	
@@ -496,5 +498,6 @@ Florian Hamburg Neuenfelde-Süd KB	Kleinboot-RTB (2010)
 F 3936 FF Neuwerk	Insel Neuwerk	27499 Insel Neuwerk/Cuxhaven
 Florian Hamburg Neuwerk Rüst-Lösch-Fahrzeug RLF		
 Florian Hamburg Neuwerk Kleinboot KB	MZB Watt	
-Florian Hamburg Neuwerk Rettungswagen RTW		" "
+Florian Hamburg Neuwerk Rettungswagen RTW		
+	Tragkraftspritzenanhänger	
 		
