@@ -187,12 +187,13 @@ Florian Hamburg 14 RTW D	RTW	Ehemals 10-RTW-A
 Florian Hamburg 14 RTW K	RTW	
 Florian Hamburg 14 NEF B	NEF	Technische Reserve
 Florian Hamburg 14 GW-SAN	GW-San	Doppelbesetzung HLF1
-+ Außenstelle Othmarschen	Walderseestraße 15	besetzt von F14, außer 12 RTW E
++ Außenstelle Othmarschen	Walderseestraße 15	besetzt von F14, F12, F35
 Florian Hamburg 12 SLF-T 1	SLF-T	
 Florian Hamburg 12 VRW-T 1	VRW-T	
 Florian Hamburg 12 VRW-T 2	VRW-T	
 Florian Hamburg 12 RTW E	RTW	besetzt von F12
 Florian Hamburg 12 RTW F	RTW	
+Florian Hamburg 12 RTW G	RTW	besetzt von F35
 + Außenstelle Waltershof	Altenwerder Damm	besetzt von F14
 Florian Hamburg 35 SLF-T 1	SLF-T	
 Florian Hamburg 35 VRW-T 1	VRW-T	
@@ -213,13 +214,13 @@ Florian Hamburg 17 SLF-T 1	SLF-T	Bis Fertigstellung Wache Schnelsen
 Florian Hamburg 15 RTW A	RTW	
 Florian Hamburg 15 RTW B	RTW	
 Florian Hamburg 15 RTW C	RTW	
-Florian Hamburg 15 RTW D	RTW	
+Florian Hamburg 15 RTW D	RTW	ab 06.01.2025 außer Dienst
 Florian Hamburg 15 RTW E	RTW	vom ASB besetzt
 Florian Hamburg 15 RTW K	RTW	
 Florian Hamburg 15 GW-MANV 1	GW-MANV	
 Florian Hamburg 15 MZF	MZF	(ehemaliges KLF)
 + RW Eidelstedt	Furtweg 57	
-Florian Hamburg RTW 15 G	RTW	wahrscheinlich ab 09/2024 vom DRK besetzt
+Florian Hamburg RTW 15 G	RTW	vom DRK besetzt
 + RW Niendorf	Garstedter Weg 24	besetzt von Finkenwerder
 Florian Hamburg 15 NEF A	NEF	
 Florian Hamburg 15 RTW F	RTW	
@@ -258,13 +259,13 @@ Florian Hamburg 21 RTW A	RTW
 Florian Hamburg 21 RTW B	RTW	
 Florian Hamburg 21 RTW C	RTW	
 Florian Hamburg 21 RTW D	RTW	
-Florian Hamburg 21 RTW E	RTW	vom ASB besetzt
+Florian Hamburg 21 RTW E	RTW	8-20 vom MHD besetzt
 Florian Hamburg 21 RTW I	RTW	vorübergehend RW Höltigbaum
 Florian Hamburg 21 RTW K	RTW	
 Florian Hamburg 21 RTW ?	RTW	Technische Reserve
 Florian Hamburg 21 GW-MANV 1		
-+ RTW Außenstelle Rahlstedt	Brockdorffstraße 22	Besetzt von Veddel
-Florian Hamburg 21 RTW F	RTW	soll vom ASB besetzt werden, aktuell JUH, vorübergehend RW Höltigbaum
++ RTW Außenstelle Rahlstedt	Brockdorffstraße 22	
+Florian Hamburg 21 RTW F	RTW	24/7 vom ASB besetzt, vorübergehend RW Höltigbaum
 + RTW Interimswache Höltigbaum	Merkurring 110	
 Florian Hamburg 21 RTW F	RTW	Übergangsstandort
 Florian Hamburg 21 RTW I	RTW	Übergangsstandort
@@ -284,8 +285,8 @@ Florian Hamburg 22 NEF B?	NEF	Technische Reserve
 Florian Hamburg 22 RTW A	RTW	
 Florian Hamburg 22 RTW B	RTW	
 Florian Hamburg 22 RTW C	RTW	
-Florian Hamburg 22 RTW D	RTW	
-Florian Hamburg 22 RTW E	RTW	vom ASB besetzt
+Florian Hamburg 22 RTW D	RTW	ab 06.01.2025 24/7, besetzt von F33
+Florian Hamburg 22 RTW E	RTW	12/7 vom ASB besetzt
 Florian Hamburg 22 RTW K	RTW	
 Florian Hamburg 22 RTW ?	RTW	Technische Reserve
 Florian Hamburg 22 GW-MANV 1	GW-MANV	
@@ -304,7 +305,7 @@ Florian Hamburg 23 GW-SEGH 2	GW-Höhenrettung	Reservefahrzeug
 Florian Hamburg 23 RTW A	RTW	
 Florian Hamburg 23 RTW B	RTW	
 Florian Hamburg 23 RTW C	RTW	
-Florian Hamburg 23 RTW D	RTW	12/7
+Florian Hamburg 23 RTW D	RTW	12/7, ab 06.01.2025 nur Mo-Fr
 Florian Hamburg 23 RTW E	RTW	
 Florian Hamburg 23 RTW K	RTW	
 Florian Hamburg 23 RTW ?	RTW	Technische Reserve
@@ -324,6 +325,7 @@ Florian Hamburg 24 NEF A	NEF
 Florian Hamburg 24 RTW A	RTW	
 Florian Hamburg 24 RTW B	RTW	
 Florian Hamburg 24 RTW C	RTW	Ehemals 20-RTW-A
+Florian Hamburg 24 RTW D	RTW	12/7
 Florian Hamburg 24 RTW K	RTW	
 Florian Hamburg 24 RTW L	MZF	Mit Tragestuhl für Krankentransporte ausgestattet.
 Florian Hamburg 24 RTW ?	RTW	Technische Reserve
@@ -334,7 +336,7 @@ Florian Hamburg 24 RTW P	RTW	Besetzt durch den Malteser Hilfsdienst Hamburg
 + RW Meiendorf	Bei der Neuen Münze 17	22145 Hamburg
 Florian Hamburg 24 RTW G	RTW	
 Florian Hamburg 24 RTW H	RTW	
-Florian Hamburg 24 RTW I	RTW	7-19
+Florian Hamburg 24 RTW I	RTW	24/7 vom ASB besetzt
 		
 F 25 Feuer- und Rettungswache Billstedt	Wöhlerstraße 28	22113 Hamburg
 Florian Hamburg 25 ELW 1	ELW1	C-Dienst
@@ -486,6 +488,7 @@ Florian Hamburg 36 WLF B	WLF
 Florian Hamburg 36 LUF 1	LUF	
 Florian Hamburg 36 TMF Reserve	TMF	Metz-Wumag
 Florian Hamburg 36 RTW A	RTW	
+Florian Hamburg 36 RTW B	RTW	12/7
 Florian Hamburg 36 RTW K	RTW	
 Florian Hamburg 36 GW-MANV 1	GW-MANV	
 	AB-Atemschutz	
@@ -497,7 +500,7 @@ Florian Hamburg 36 GW-MANV 1	GW-MANV
 	AB-Wasser	
 	FWA-SWW	
 + RTW Außenstelle Eißendorf	Stader Straße 27	
-Florian Hamburg 36 RTW F	RTW	
+Florian Hamburg 36 RTW F	RTW	vom DRK besetzt
 + NEF Außenstelle	Eißendorfer Pferdeweg 52	am AK Harburg
 Florian Hamburg 36 NEF A	NEF	
 + RW Neugraben-Fischbek	Geutensweg 30	21147 Hamburg
