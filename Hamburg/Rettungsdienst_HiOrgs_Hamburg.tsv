@@ -81,8 +81,8 @@ Sama Hambrg 32/01	KdoW	(Ford Focus, bei Bedarf auch Blut-/Organtransport)
 		
 DRK RW 37 Eidelstedt	Reichsbahnstrasse 72	22525 Hamburg
 Florian Hamburg 15 NEF B	NEF	9-21 Uhr
-Florian Hamburg 15 RTW T	RTW	Mo-So 8-20
-Florian Hamburg 15 RTW U	RTW	Mo-Fr 8-20
+Florian Hamburg 15 RTW T	RTW	24/7
+Florian Hamburg 15 RTW U	RTW	Mo-Fr 8-20, Mo-Do+Sa 20-8
 Florian Hamburg 15 RTW V	RTW	24/7
 Rotkreuz Hamburg 81 RTW B	RTW	HH-RK 4002 - VW Crafter (Baus AT)
 Rotkreuz Hamburg 37/85-01	KTW	HH-RK XXXX - VW Crafter (BAUS AT)
@@ -177,6 +177,7 @@ Bundeswehr Rettungszentrum Wandsbek	Lesserstraße 180	Bundeswehrkrankenhaus
 Christoph 29	RTH	
 Florian Hamburg 23-NAW-A	NAW	Y 864 715 - Iveco Daily
 Florian Hamburg 23-NAW-B	NAW	Y 864 716 - Iveco Daily - Reservefahrzeug
+Florian Hamburg 23-RTW-H	RTW	Spitzenabdeckung mit 30min Vorlaufzeit
 Florian Hamburg 23-ITW-A	ITW	Y 470 177 - Iveco mit Gruppenkabine, Doppelfunktion zum NAW-A
 Florian Hamburg 23-ITW-B	ITW	Y 470 156 - Reservefahrzeug , auch als 23-NAW-A eingesetzt
 Florian Hamburg 23-NEF-C	NEF	Kleinbus, im Dienst wenn Christoph 29 nicht fliegen kann
