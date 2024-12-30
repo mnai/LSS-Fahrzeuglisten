@@ -5,6 +5,7 @@ Florian Pinneberg 01-17-01	PKW	VW		PI-FV 1120
 Florian Pinneberg 01-17-02	PKW	Skoda		PI-FV 20	
 Florian Pinneberg 01-18-01	MTW	Opel		PI-FV 1123	
 Florian Pinneberg 01-18-02	MTW	Ford		PI-FV 112	
+Florian Pinneberg 01-47-01	LF-KatS	Mercedes	2018	PI-KX 761	2.000er Pumpe, 1.000l Wasser
 Florian Pinneberg 01-61-01	SW 2000	MAN			Stationiert in Tangstedt
 Florian Pinneberg 01-68-01	LKW	MB Atego		PI-FV 1122	
 	MTW (Zivil)	Ford		PI-FV 1124	
@@ -38,7 +39,7 @@ Florian Pinneberg 03-54-01	AB-Gefahrgut		2008
 Florian Pinneberg 03-57-01	AB-Atemschutz		2001		
 	AB-Kran/Mulde				
 	AB-Mulde		2007		
-	Teleskoplader	Atlas	2023	PI-KX 708
+	Teleskoplader	Atlas	2023	PI-KX 708	
 					
 04	KFV Pinneberg FWB	Alte Bundesstraße 10	25436 Tornesch		
 Florian Pinneberg 04-10-01	KdoW	Audi	2012	PI-KX 555	KdoW KatS
@@ -51,18 +52,18 @@ Florian Pinneberg 04-AB-Schlauch
 	FwA-Brandschutzerziehung		2007	PI 130	
 	FwA-Jugendfeuerwehr	Voss	2009	PI-JF 1000	
 					
-10	Pinneberg	Friedrich-Ebert Straße 25-27	25421 Pinneberg
+10	Pinneberg	Friedrich-Ebert Straße 25-27	25421 Pinneberg		
 Florian Pinneberg 10-10-01	KdoW	Renault	2019	PI-FP 1002	
 Florian Pinneberg 10-10-02	KdoW	BMW	2023	PI-FP 1021	
 Florian Pinneberg 10-12-01	ELW 2	Mercedes	2002	PI 2728	
 Florian Pinneberg 10-18-01	MTW	MAN TGE	2023	PI-FP 181	
 Florian Pinneberg 10-18-02	MTW	MAN TGE	2023	PI-FP 191	
 Florian Pinneberg 10-18-04	MTW	Mercedes	2010	PI-FP xxx	
-Florian Pinneberg 10-24-01	TLF 20/40-SL	Mercedes Atego	2007	PI-FP 204	4.800l Wasser, 3200er Pumpe
+Florian Pinneberg 10-24-01	TLF 20/40-SL	Mercedes Atego	2007	PI-FP 204	3.200er Pumpe, 4.800l Wasser 
 Florian Pinneberg 10-32-01	DLAK 23-12	Mercedes	2019	PI-FP 3201	
-Florian Pinneberg 10-47-01	LF 20/16-Logistik	Mercedes Atego	2018	PI-FP 47	
-Florian Pinneberg 10-46-01	LF 20/16-P	Mercedes Atego	2010	PI-FP 443	
-Florian Pinneberg 10-48-01	HLF 20/16	Mercedes Atego	2010	PI-FP 441	
+Florian Pinneberg 10-47-01	LF 20/16-Logistik	Mercedes Atego	2018	PI-FP 47	2.000er Pumpe, 2.000l Wasser, RC: Schlauch, TS, Schaum, Pumpe
+Florian Pinneberg 10-46-01	LF 20/16-P	Mercedes Atego	2010	PI-FP 443	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 10-48-01	HLF 20/16	Mercedes Atego	2010	PI-FP 441	2.000er Pumpe, 2.000l Wasser
 Florian Pinneberg 10-51-01	RW 2	Mercedes Atego	2004	PI 2452	
 Florian Pinneberg 10-67-01	GW-N	MAN TGE	2024	PI-FP 67	
 Florian Pinneberg 10-62-01	WLF	Mercedes Actros	1998	PI 2822	
@@ -71,22 +72,22 @@ Florian Pinneberg 10-62-01	WLF	Mercedes Actros	1998	PI 2822
 	AB-Mulde				
 					
 	Pinneberg GH Waldenau	Waldenauer Marktplatz	25421 Pinneberg		
-Florian Pinneberg 10-14-01	MZF Rüst/Bahn	Mercedes Vito	2014	
+Florian Pinneberg 10-14-01	MZF Rüst/Bahn	Mercedes Vito	2014		
 Florian Pinneberg 10-18-03	MTW				
-Florian Pinneberg 10-44-01	LF 10/6	Mercedes Atego	2007	PI-FP 110	
-Florian Pinneberg 10-48-02	HLF 20/16	Mercedes Atego	2009	PI-FP 442	
+Florian Pinneberg 10-44-01	LF 10/6	Mercedes Atego	2007	PI-FP 110	2.000er Pumpe, 600l Wasser
+Florian Pinneberg 10-48-02	HLF 20/16	Mercedes Atego	2009	PI-FP 442	2.000er Pumpe, 2.000l Wasser
 Florian Pinneberg 10-68-01	GW-Bahn/Rüst	MAN TGM	2010	PI-FP 592	
 					
 11	Rellingen	Ellerbeker Weg 6	25462 Rellingen		
-Florian Pinneberg 11-10-01	KdoW	
+Florian Pinneberg 11-10-01	KdoW	Mitsubishi		PI-FR 1110	
 Florian Pinneberg 11-11-01	ELW 1	Mercedes-Benz 516 CDI Sprinter	2017	PI-FR 2017	
 Florian Pinneberg 11-18-01	MTW	Volkswagen T5 Caravelle TDI	2014	PI-FR 1119	
 Florian Pinneberg 11-18-02	MTW	Mercedes-Benz 311 CDI Sprinter	2005	PI-2619	
-Florian Pinneberg 11-22-01	TLF 16/25	Mercedes-Benz 1224 AF	1996	PI-2060	Wassertank von 2500 auf 2900 vergrößert+9 Sitzplätze
+Florian Pinneberg 11-22-01	TLF 16/25	Mercedes-Benz 1224 AF	1996	PI-2060	1.600er Pumpe, 2.900l Wasser, Besatzung 1/8
 Florian Pinneberg 11-32-01	DLK	Mercedes Rosenbauer	2024		
-Florian Pinneberg 11-45-01	LF 10/6	Mercedes-Benz 1326 AF Atego	2008	PI-FR 1142	
+Florian Pinneberg 11-45-01	LF 10/6	Mercedes-Benz 1326 AF Atego	2008	PI-FR 1142	2.000er Pumpe, 700l Wasser
 Florian Pinneberg 11-46-01	LF 20	Mercedes Benz Atego 1530 AF	2023		3.000er Pumpe, 2.400l Wasser
-Florian Pinneberg 11-48-01	HLF 20		2019		
+Florian Pinneberg 11-48-01	HLF 20	Mercedes Benz Atego 1530 AF	2019	PI-FR 2019	3.000er Pumpe, 2.400l Wasser
 Florian Pinneberg 11-51-01	RW 2	Mercedes-Benz 1428 AF Atego	2007	PI-FR 952	
 Florian Pinneberg 11-67-01	LKW	Mercedes-Benz LN 814	1997	PI-2274	
 					
@@ -97,43 +98,43 @@ Florian Pinneberg 12-18-01	MTF 1	Mercedes Benz Sprinter	2016	PI-FH 1218
 Florian Pinneberg 12-19-01	MTF 2	Mercedes Benz Vito	2015	PI-FH 1219	
 Florian Pinneberg 12-23-01	TLF 16/25	MB ATEGO 1629 AF	2015	PI-FH 1223	2.000er Pumpe, 2.400l Wasser
 Florian Pinneberg 12-32-01	DLA(K) 23/12	MAN 15.285 LC	2003	PI-2383	
-Florian Pinneberg 12-44-01	LF 10	Mercedes	2020	PI-FH 1244	2.000er Pumpe, 1.600l Wasser
+Florian Pinneberg 12-44-01	LF 10	Mercedes Atego 1430 AFE	2020	PI-FH 1244	2.000er Pumpe, 1.600l Wasser
 Florian Pinneberg 12-46-01	LF 20/16	Mercedes Atego 1629 AF	2009	PI-LF 2006	2.100l Wasser
 Flroian Pinneberg 12-48-01	HLF 20	Mercedes Atego 1730 AF	2018		3.000er Pumpe, 1.800l Wasser
 Florian Pinneberg 12-51-01	RW-Kran	Scania	2018	PI-FH 1251	
-	Stromgeneratoranhänger						
+	Stromgeneratoranhänger				
 Florian Pinneberg 12-63-01	WLF	MB Antos	2019	PI-FH 1263	
 	AB-Gefahrgut		2019		
 	AB-Logistik		2021?		u.a. Rollcontainer Schlauch, Schaum, Atemluft, Bahnausrüstung
 	AB-Mulde				
 					
-13	Egenbüttel	
-Florian Pinneberg 13-14-01	MZF	Mercedes Sprinter			
+13	Egenbüttel	Pinneberger Straße 54	25462 Rellingen		
+Florian Pinneberg 13-14-01	MZF	Mercedes Sprinter		PI-2520	
 Florian Pinneberg 13-47-01	LF 10	Mercedes Atego 1530 AF	2024	PI-FE 1347	2.000er Pumpe, 2.000l Wasser
-Florian Pinneberg 13-48-01	HLF 10	Mercedes Atego 1629 F	2013	PI-2520	
+Florian Pinneberg 13-48-01	HLF 10	Mercedes Atego 1629 F	2013	PI-FE 1348	3.000er Pumpe, 2.200l Wasser
 					
 14	Ellerbek	Hauptstraße 22	25474 Ellerbek		
 Florian Pinneberg 14-14-01	MZF Jugendfeuerwehr	Opel Movano	2006	PI-2514	
 Florian Pinneberg 14-18-01	MTW Jugendfeuerwehr	VW Crafter		PI-JF 200	
-Florian Pinneberg 14-23-01	TLF 16/25			PI-2825	
-Florian Pinneberg 14-41-01	LF 8			PI-2883	
-Florian Pinneberg 14-48-01	HLF 10	Rosenbauer		
+Florian Pinneberg 14-23-01	TLF 16/25			PI-2825	1.600er Pumpe, 2.500l Wasser
+Florian Pinneberg 14-42-01	LF 8	Mercedes-Benz 814 F	1994	PI-2883	800er Pumpe
+Florian Pinneberg 14-48-01	HLF 10	Mercedes-Benz Atego 1530 AF	2021		1.600l Wasser
 	FwA-Ölschaden			PI-2710	
 					
 15	Appen	Almtweg 21	25482 Appen		
 Florian Pinneberg 15-14-01	MZF	Volkswagen LT 35	2002	PI-2086	
 Florian Pinneberg 15-18-01	MTW	Mercedes-Benz 313 CDI Sprinter	2013	PI-FA 1519	
-Florian Pinneberg 15-46-01	LF 20/16	Mercedes-Benz 1629 AF Atego	2009	PI-FA 4401	2.800l Wasser
+Florian Pinneberg 15-46-01	LF 20/16	Mercedes-Benz 1629 AF Atego	2009	PI-FA 4401	2.000er Pumpe, 2.800l Wasser
 Florian Pinneberg 15-47-01	LF 10	Mercedes-Benz 1630 AF Atego	2017	PI-FA 1547	3.000er Pumpe, 1.200l Wasser
-Florian Pinneberg 15-48-01	LF 16/12	Mercedes-Benz 1224 AF	1994	PI-2033	1.200l Wasser
-Florian Pinneberg 15-67-01	GW-N	Mercedes Sprinter 413	2004	PI-FA 1567	RC Rüstholz, Schlauch, Ölbindemittel
+Florian Pinneberg 15-48-01	LF 16/12	Mercedes-Benz 1224 AF	1994	PI-2033	1.600er Pumpe, 1.200l Wasser
+Florian Pinneberg 15-67-01	GW-N	Mercedes Sprinter 413	2004	PI-FA 1567	RC: Rüstholz, Schlauch, Ölbindemittel
 	FWA-Bootstrailer	Harbeck	2014	PI-FA 1578	
 					
 16	Prisdorf	Hudenbarg 5	25497 Prisdorf		
 Florian Pinneberg 16-11-01	ELW 1	MB Sprinter	2014	PI-FP 1611	
 Florian Pinneberg 16-18-01	MTW	VW T6	2020	PI-FF 1618	
-Florian Pinneberg 16-46-01	LF 20/16	Mercedes Benz Atego 1529	2009	PI-FP 1644	2.000l Wasser
-Florian Pinneberg 16-47-01	LF 10	Mercedes Benz Atego 1530	2019	PI-FP 1647	1.200l Wasser
+Florian Pinneberg 16-46-01	LF 20/16	Mercedes Benz Atego 1529	2009	PI-FP 1644	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 16-47-01	LF 10	Mercedes Benz Atego 1530	2019	PI-FP 1647	2.000er Pumpe, 1.200l Wasser
 	Transportanhänger	Koch Fahrzeugbau	2003	PI-2300	
 	Schlauch-Anh	Brenderup Kofferaufbau	2008	PI-2708	
 	Stromerzeuger 30 kVA			PI-FF 1618	aus Tornesch übernommen
@@ -142,7 +143,7 @@ Florian Pinneberg 16-47-01	LF 10	Mercedes Benz Atego 1530	2019	PI-FP 1647	1.200l
 17	Kummerfeld	Bornbarg 16a	25495 Kummerfeld		
 Florian Pinneberg 17-11-01	ELW 1	MB Sprinter		PI-FF 1711	
 Florian Pinneberg 17-18-01	MTW	MB Sprinter		PI-FF 1719	
-Florian Pinneberg 17-44-01	LF 10/6	MB Atego		PI-2640	800l Wasser
+Florian Pinneberg 17-44-01	LF 10/6	MB Atego		PI-2640	1.000er Pumpe, 600l Wasser
 Florian Pinneberg 17-48-01	HLF 20	MB Atego	2019	PI-FF 1748	3.000er Pumpe, 2.000l Wasser
 	Transportanhänger			PI-FF 1720	
 					
@@ -151,7 +152,7 @@ Florian Pinneberg 18-14-01	MZF		2015	PI-FF 1814
 Florian Pinneberg 18-45-01	HLF 10/6	MB Atego 1226 AFE	2011	PI-BO 1845	2.000er Pumpe, 800l Wasser
 Florian Pinneberg 18-47-01	LF 10	MB Atego 1226 AFE	2013	PI-HO 1847	2.000er Pumpe, 1.200l Wasser
 					
-19	Tangstedt	Brummackerweg 6	25499 Tangstedt	
+19	Tangstedt	Brummackerweg 6	25499 Tangstedt		
 Florian Pinneberg 19-14-01	MZF		2008	PI-FT 160	
 Florian Pinneberg 19-45-01	LF 8/6	MB Atego 815 F	2003	PI-2338	2.400er Pumpe, 600l Wasser
 Florian Pinneberg 19-46-02	LF 10-Sonder	MAN TGM 13-290 4x4	2014	PI-FT 19	2.000er Pumpe, 2.380l Wasser
@@ -162,23 +163,23 @@ Florian Pinneberg 01-61-01	SW 2000	MAN			Fahrzeug der Kreisfeuerwehrbereitschaft
 Florian Pinneberg 20-10-01	KdoW	Mercedes	2009	PI-FW 2016	
 Florian Pinneberg 20-18-01	MTW	VW	2010	PI-FW 191	
 Florian Pinneberg 20-18-03	MTW	VW	2019	PI-SE 3025	
-Florian Pinneberg 20-22-01	TLF 16/24-Tr	MB Atego	2013	PI-FW 2022	
+Florian Pinneberg 20-22-01	TLF 16/24-Tr	MB Atego	2013	PI-FW 2022	2.000er Pumpe, 2.400l Wasser
 Florian Pinneberg 20-32-01	DLK 23/12	Mercedes Atego 1630 F	2023	PI-SE 3201	
-Florian Pinneberg 20-46-01	LF 16/12	MB Atego 1325 AF	2004	PI-2945	
-Florian Pinneberg 20-48-01	HLF 20/16	MB Atego 1529 AF	2007	PI-LF 202	
+Florian Pinneberg 20-46-01	LF 16/12	MB Atego 1325 AF	2004	PI-2945	1.600er Pumpe, 1.200l Wasser
+Florian Pinneberg 20-48-01	HLF 20/16	MB Atego 1529 AF	2007	PI-LF 202	2.000er Pumpe, 1.600l Wasser
 Florian Pinneberg 20-51-01	RW 2	Mercedes Atego 1630 AF	2020	PI-SE 6000	
 Florian Pinneberg 20-67-01	GW-N		2015	PI-FW 2067	
 Florian Pinneberg 20-20-06	GLF 25		1942	PI-2000	voll Einsatzfähig; a.D seit 1971
 					
 	Elmshorn (Süd)	Hamburger Straße 2-6	25337 Elmshorn		
-Florian Pinneberg 20-12-01	ELW 2	MB Sprinter	2004	PI-2266	könnte auf der Wache Nord stehen!
+Florian Pinneberg 20-12-01	ELW 2	MB Sprinter	2004	PI-2266	könnte auf der Wache Nord stehen
 Florian Pinneberg 20-14-01	MZF	MB Sprinter	2002	PI-2073	
 Florian Pinneberg 20-18-02	MTW	VW	2007	PI-FW 192	
-Florian Pinneberg 20-22-02	TLF 16/24-Tr	MB Atego	2009	PI-FW 2021	
+Florian Pinneberg 20-22-02	TLF 16/24-Tr	MB Atego	2009	PI-FW 2021	2.000er Pumpe, 2.400l Wasser
 Florian Pinneberg 20-32-02	DLK 23/12	Mercedes Atego 1630 F	2023	PI-SE 3202	
-Florian Pinneberg 20-41-01	TSF-W	MB	1998	PI-2093	
-Florian Pinneberg 20-46-02	LF 20		2022	PI-SE 4602	
-Florian Pinneberg 20-48-02	HLF 20/16		2017	PI-FW 2048	
+Florian Pinneberg 20-41-01	TSF-W	MB	1998	PI-2093	TS 8/8, 750l Wasser
+Florian Pinneberg 20-46-02	LF 20		2022	PI-SE 4602	2.000er Pumpe, 2.600l Wasser
+Florian Pinneberg 20-48-02	HLF 20/16		2017	PI-FW 2048	2.000er Pumpe, 2.000l Wasser
 Florian Pinneberg 20-63-01	WLF	MB Atego	2008	PI-FE 800	
 	AB Atemschutz				AB-Atemschutz mit Atemschutzgeräten und Chemikalienschutzanzügen
 	AB-Aufenthalt				
@@ -196,13 +197,13 @@ Florian Pinneberg 21-41-01	TSF-W	MAN LE 140 C	2002	PI-2099
 Florian Pinneberg 22-11-01	ELW 1	Ford Transit 125 T 350	2004	PI-2102	
 Florian Pinneberg 22-18-01	MTW	Ford Transit 130 T 350	2020	PI-FF 2218	
 Florian Pinneberg 22-40-01	TSF	MB Sprinter 310 D	1999	PI-2755	
-Florian Pinneberg 22-45-01	LF 10/6	MB Atego 925 AFE	2004	PI-2059	
-Florian Pinneberg 22-48-01	HLF 20	MB Atego 1630 AF	2019		
+Florian Pinneberg 22-45-01	LF 10/6	MB Atego 925 AFE	2004	PI-2059	1.000er Pumpe, 600l Wasser
+Florian Pinneberg 22-48-01	HLF 20	MB Atego 1630 AF	2019		2.000er Pumpe, 2.000l Wasser
 	Anhänger Schiene		2004	PI-2799	Aufgleisvorrichtung
 					
 23	Kölln-Reisiek	Sandfohrt 1	25337 Kölln-Reisiek		
-Florian Pinneberg 23-42-01	LF 8	MB 814	1992		Geld für neues LF-KatS im Haushalt 2024 eingeplant
-Florian Pinneberg 23-43-01	LF 8/6	DaimlerCrysler Atego	2001		
+Florian Pinneberg 23-42-01	LF 8	MB 814	1992		Auftrag für LF10 an Mercedes/Schlingmann vergeben, Lieferung 2026
+Florian Pinneberg 23-43-01	LF 8/6	DaimlerCrysler Atego	2001		800er Pumpe, 600l Wasser
 Florian Pinneberg 23-48-01	HLF 10	MB Atego 1426 F	2010	PI-KR 112	2.000er Pumpe, 2.000l Wasser
 	Anh-Transport				
 	MTW Jugendfeuerwehr				
@@ -210,246 +211,299 @@ Florian Pinneberg 23-48-01	HLF 10	MB Atego 1426 F	2010	PI-KR 112	2.000er Pumpe, 
 24	Kl. Offenseth-Sparrieshoop	Rosenstraße 49	25365 Klein Offenseth-Sparrieshop		
 Florian Pinneberg 24-11-01	ELW 1	VW T5	2007	PI-FF 2411	
 Florian Pinneberg 24-14-01	MZF	MB Sprinter	1999	PI-2433	
-Florian Pinneberg 24-48-01	HLF 20/16	MAN	2005	PI-2442	
+Florian Pinneberg 24-48-01	HLF 20/16	MAN	2005	PI-2442	2.000er Pumpe, 1.970l Wasser
 Florian Pinneberg 24-48-02	LF 10	MAN TGM 13.290 4x4	2016	PI-FF 2448	
 					
 25	Seeth-Ekholt	Schulstraße 4	25337 Seeth-Ekholt		
 Florian Pinneberg 25-18-01	MTW	Ford Transit	2004	PI-FW 25	
-Florian Pinneberg 25-22-01	TLF 3000	IVECO Eurocargo 150 E 300	2022	PI-FW 2522	
-Florian Pinneberg 25-48-01	LF 10 TH	IVECO Eurocarco 150	2020	PI-FW 2548	
+Florian Pinneberg 25-22-01	TLF 3000	IVECO Eurocargo 150 E 300	2022	PI-FW 2522	2.000er Pumpe, 3.300l Wasser
+Florian Pinneberg 25-48-01	LF 10 TH	IVECO Eurocarco 150	2020	PI-FW 2548	2.000er Pumpe, 1.200l Wasser
 					
 26	Seester	Schulsteig 2	25370 Seester		
 Florian Pinneberg 26-11-01	ELW 1	MB Sprinter 416 CDI	2021	PI-FW 26	
-Florian Pinneberg 26-44-01	LF 8/6	MB 814 F	1996	PI-2958	
-Florian Pinneberg 26-48-01	LF 10-TH	MB Atego 1326 F	2016		
+Florian Pinneberg 26-44-01	LF 8/6	MB 814 F	1996	PI-2958	800er Pumpe, 600l Wasser
+Florian Pinneberg 26-48-01	LF 10-TH	MB Atego 1326 F	2016	PI-FW 248	2000er Pumpe, 1.600l Wasser
 	Anh-Transport	Böckmann	2013		
 					
-27	Seestermühe	
-Florian Pinneberg 27-14-01	MZF				
-Florian Pinneberg 27-42-01	LF 8	MB L 508 D	1983	PI-2196	
+27	Seestermühe	Dorfstraße 54a	25371 Seestermühe		
+Florian Pinneberg 27-14-01	MZF	MB Sprinter 313	2016	PI-FW 2714	
+Florian Pinneberg 27-42-01	LF 8	MB L 508 D	1983	PI-2196	HLF 10 Mercedes/Schlingmann in Bau, Auslieferung 02/2025 geplant
 Florian Pinneberg 27-45-01	LF 8/6	MB Atego 815 F	2002	PI-2252	
 	Anh-Schlauch				
-	Anh-Transport 				FwA-Transport (Musikzug)
+	Anh-Transport				FwA-Transport (Musikzug)
 	Anh-Transport				FwA-Transport (Jugendfeuerwehr)
 					
-28	Helgoland (Unterland)	Florian Pinneberg 18-11-01	ELW 1	MB Sprinter 315 CDI	2011	PI-FH 808	
-		Florian Pinneberg 28-30-01	DL(A)K 12/9	MB Atego 924 F	2011	PI-FH 80	
-		Florian Pinneberg 28-41-01	KLF				
-		Florian Pinneberg 28-41-02	TSF-W	MB Vario 612 D	1998	PI-2614	
-			Anhängeleiter AL 16/4				
-			Anh-Schlauch				
-			Anh-Transport				
-							
-	Helgoland (Oberland)	Florian Pinneberg 28-18-01	MTW				
-		Florian Pinneberg 28-20-01	TLF 2000				
-		Florian Pinneberg 28-49-01	KLF	MB Sprinter 313 CDI	2004	PI-2353	
-							
-	Helgoland (Düne)	Florian Pinneberg 28-20-02	TLF 2000 St.				
-							
-30	Wedel	Florian Pinneberg 30-10-01	KdoW	VW Passat B7	2015	PI-FW 3016	
-		Florian Pinneberg 30-11-01	ELW	MB Sprinter 519 CDI 4x4 	2017	PI-FW 3011	
-		Florian Pinneberg 30-14-01	MZF	MB Sprinter 06 	2009	PI-FW 14	
-		Florian Pinneberg 30-18-01	MTW	MB Sprinter 06 	2009	PI-FW 19	
-		Florian Pinneberg 30-18-02	MTW	VW T5	2011	PI-FW 3019	
-		Florian Pinneberg 30-25-01	TLF 4000	MAN TGM 18.340 4x4 BB	2013	PI-FW 3025	
-		Florian Pinneberg 30-32-01	DLK 23/12	MAN 15.285 LC	2003	PI-2150	
-		Florian Pinneberg 30-41-01	MLF	MAN TGL 8.180 4x2 BL	2014	PI-FW 3043	
-		Florian Pinneberg 30-43-01	LF 10/6	MB Atego 1225 AFE	2007	PI-FW 342	
-		Florian Pinneberg 30-46-01	LF 20	MAN TGM 13.290	2010	PI-FW 441	
-		Florian Pinneberg 30-48-01	HLF 1	MAN TGM 18.340 4x4	2019	PI-FW 4801	
-		Florian Pinneberg 30-48-02	HLF 2	MAN TGM 18.340 4x4	2018	PI-FW 4802	
-		Florian Pinneberg 30-63-01	WLF	MAN TGS 28.320 6x4-4 BL	2012	PI-FW 3065	
-		Florian Pinneberg 30-64-01	WLF Kran	MAN	2021		Neufahrzeug Oktober 2021
-		Florian Pinneberg 30-68-01	GW Gefahrgut / Logistik	MB 1426 AF Atego	2008	PI-FW 59	
-		Florian Pinneberg 30-69-01	Gabelstapler	Jungheinrich	2010		
-		Florian Pinneberg 30-78-01	Mehrzweckboot Bgm. Balack				
-		Florian Pinneberg 30-78-02	Mehrzweckboot Bgm. Kahlert				
-			AB-Atemschutz	GSF	2012		
-			AB-Technische Hilfeleistung	GSF	2017		
-			AB-Hochwasser	Roland-Tankbau	1991		
-			AB-Mulde				
-			AB-Transport	Roland-Tankbau	1991		
-			AB-Ölwehr 1 	Bruhns			
-			AB-Ölwehr 2 	Bruhns			
-			AB-Ölwehr 3	Bruhns			
-			AB-Löschwasser	GSF	2020		
-			AB-Aufenthalt/Führung		2021?		
-			Anh-Mehrzweck	Firma Koch	2003	PI-2144	
-			Anh-Mehrzweck	Voss Karroseriebau	2012	PI-FW 3030	
-			Anh-Stromerzeuger	Polyma Energiesysteme	2010		
-							
-31	Holm	Florian Pinneberg 31-18-01	MTW	MB Sprinter 316	2018	PI-FH 3118	
-		Florian Pinneberg 31-42-01	LF 8	MB 814	1990	PI-2479	
-		Florian Pinneberg 31-46-01	LF 20/16	MB Atego 1328F	2006	PI-2198	
-		Florian Pinneberg 31-48-01	HLF 10	MB 1629 AF 4x4		PI-FH 3145	
-			Anh-Mehrzweck				für Öleinsätze oder Schlauchmaterial
-			Anh-Notstromaggregat				
-							
-32	Hetlingen	Florian Pinneberg 32-42-01	LF 8/6	MB Atego	2002	PI-2130	
-		Florian Pinneberg 32-46-01	HLF 20/16	MB 1425 Atego	2005	PI-2814	
-							
-33	Haseldorf	Florian Pinneberg 33-14-01	MTW	MB Sprinter 311 CDI	2002	PI-2075	
-		Florian Pinneberg 33-43-01	LF 8/6	MB 811 D	1991	PI-2261	
-		Florian Pinneberg 33-48-01	HLF 20/16	MB Atego 1629 AF	2012	PI-FF 3344	
-							
-34	Schenefeld	Florian Pinneberg 34-11-01	ELW 1	MB Sprinter 311 CDI	2006	PI-2400	
-		Florian Pinneberg 34-14-01	MZF	MB Sprinter 313 CDI	2002	PI-2220	
-		Florian Pinneberg 34-18-01	MTW	VW Caddy Trendline 2,0 l TDI, Euro 6	2015	PI-F 3418	
-		Florian Pinneberg 34-18-02	MTF	MB Sprinter 316 CDI	2018	PI-F 3419	
-		Florian Pinneberg 34-32-01	DLA(K) 23/12	MB Atego 1530 Euro-6	2014	PI-F 3432	
-		Florian Pinneberg 34-42-01	LF 10/6	MB Atego 1326 AF	2009	PI-F 3442 	
-		Florian Pinneberg 34-48-01	HLF 20/16	MB Atego 1528 AF	2005	PI-2027	
-		Florian Pinneberg 34-48-02	LF 16/12	MB Atego 1325 AF	2001		
-		Florian Pinneberg 34-67-01	GW-L 1	MB Sprinter 316 CDI	2016	PI-F 3414	
-		Florian Pinneberg 34-68-01	GW-L 2	MB Atego 1629 AF	2012	PI-F 3459	
-			TS 8/8	VW Typ 2 Transporter	1958	PI-2314	a.D. seit 1983
-							
-40	Uetersen	Florian Pinneberg 40-10-01	KdoW	Ford S-Max	2010	PI-FF 402	
-		Florian Pinneberg 40-11-01	ELW 1	MB Sprinter	2008	PI-FF 401	
-		Florian Pinneberg 40-14-01	MZF	MB Sprinter	2019	PI-FF 4014	
-		Florian Pinneberg 40-32-01	DLK 23/12	MB Atego	2020	PI-FF 4032	
-		Florian Pinneberg 40-46-01	LF 16/12	MB	1998	PI-2999	
-		Florian Pinneberg 40-46-02	LF 20	MB Atego 1627	2017	PI-FF 4602	
-		Florian Pinneberg 40-48-01	HLF 20/16	MB Atego 1529 F	2010	PI-FF 403	
-		Florian Pinneberg 40-51-01	RW 2	MB Atego 1629	2016	PI-FF 4052	
-		Florian Pinneberg 40-59-01	GW-Atemschutz	MB Atego	2000	PI-2259	
-		Florian Pinneberg 40-67-01	GW-Logistik 1	MB Sprinter	2002	PI-2277	
-		Florian Pinneberg 40-68-01	GW-Logistik 2	MB Atego 1629	2016	PI-FF 4068	
-		Florian Pinneberg 40-78-01	MZB	Pioner Multi III	2018		
-			Anh-Mehrzweck	Ivor Williams  / Koch Anhänger Werke	2019		
-							
-41	Tornesch-Esingen	Florian Pinneberg 41-11-01	ELW 1	MB Sprinter 519 CDI	2016	PI-TO 4111	
-		Florian Pinneberg 41-17-01	PKW	BMW			
-		Florian Pinneberg 41-18-01	MTW	MB  Sprinter 316 CDI	2012	PI-TO 4119	
-		Florian Pinneberg 41-22-01	TLF 16/25	MB 1124 AF	1994	PI-2904	
-		Florian Pinneberg 41-36-01	TMF 23/12	MB Econic 1833 LL	2014	PI-TO 4136	
-		Florian Pinneberg 41-47-01	LF 10	MB Atego 1429 AFE	2014	PI-TO 4142	
-		Florian Pinneberg 41-48-01	LF 16/12	MB Atego 1325 AF	2002	PI-2248	
-		Florian Pinneberg 41-68-01	GW-L	MAN TGM 13.290 4x4	2010	PI-TO 4159	
-			Anh-Notstromaggregat		2017	PI-TO 4101	
-			Anh-Transport				
-							
-41	Tornesch-Ahrenlohe	Florian Pinneberg 41-14-01	MZF	MB Sprinter 313 CDI	2002	PI-2068	
-		Florian Pinneberg 41-44-01	LF 8/6	MB Atego 815 F	1999	PI-2852	
-		Florian Pinneberg 41-48-02	HLF 20/16	MB Atego 1529 AF	2008	PI-TO 300	
-		Florian Pinneberg 41-68-02	GW-L2	MB Atego	2012	PI-TO 592	
-			Anh-Pulver	Total Pulverlöschgerät G250	1970	PI-2068	
-			Anh-Transport	Koch	2004	PI-2618	
-							
-42	FF Heidgraben	Florian Pinneberg 42-11-01	ELW 1	Ford Transit	1993	PI-FH 4211	
-		Florian Pinneberg 42-42-01	LF 8	MB LP 608	1977	PI-2110	
-		Florian Pinneberg 42-43-01	LF 8/6	MB Atego	1999	PI 2998	
-							
-43	Groß Nordende	Florian Pinneberg 43-42-01	LF 8/6				
-							
-44	Moorrege	Florian Pinneberg 44-14-01	MZF	MB Sprinter	2009	PI-FM 4414	
-		Florian Pinneberg 44-42-01	LF 10	MB Atego	2009	PI-FM 4442	
-		Florian Pinneberg 44-44-01	LF 16	MB 1224	1995	PI-2956	
-		Florian Pinneberg 44-48-01	HLF 10	MB Atego	2019	PI-FM 4448	
-			Anh-Jugendfeuerwehr				
-							
-45	Heist	Florian Pinneberg 45-14-01	MZF	Ford		PI-FH 4514	
-		Florian Pinneberg 45-20-01	TLF 8/18	MB		PI-FH 2459	
-		Florian Pinneberg 45-44-01	LF 8/6	MB		PI-2154	
-		Florian Pinneberg 45-48-01	HLF 20	MB Atego		PI-FF 4544	
-							
-46	Haselau	Florian Pinneberg 46-14-01	MZF	MB Sprinter 311 CDI	2005	PI-2021	
-		Florian Pinneberg 46-41-01	StLF 10/6	MAN TGL 8.180	2010	PI-FH 46	
-		Florian Pinneberg 46-45-01	LF 8/6	MB Atego 918 AFE	2003	PI-2405	
-							
-47	Neuendeich	Florian Pinneberg 47-41-01	TSF-W	MB Vario 612 D	1998	PI-2413	
-		Florian Pinneberg 47-44-01	LF 10	Atego 1527 F	2019	PI-FN 4744	
-							
-60	Br. Hörnerkirchen/Osterhorn	Florian Pinneberg 60-14-01	MZF				
-		Florian Pinneberg 60-42-01	LF 8	MB 814 F	1989	PI-2889	
-		Florian Pinneberg 60-45-01	LF 8/6				
-							
-61	Bokel	Florian Pinneberg 61-45-01	TLF 8				
-							
-62	Westerhorn	Florian Pinneberg 62-14-01	MZF	VW Caravelle T4	1999	PI-2620	
-		Florian Pinneberg 62-22-01	TLF 3000	MB Atego 1530 AF	2020	PI-FW 6222	
-		Florian Pinneberg 62-48-01	LF 20/16				
-							
-70	Quickborn	Florian Pinneberg 70-11-01	ELW 1-1	VW T6	2013		
-		Florian Pinneberg 70-11-02	ELW 1-2	MB Sprinter 211 CDI	2003		
-		Florian Pinneberg 70-18-01	MTW 1	MB Sprinter 208 CDI	2005		
-		Florian Pinneberg 70-18-02	MTW 2	MB Sprinter 316 CDI	2016		
-		Florian Pinneberg 70-25-01	TLF 24/50	MB 1827 AF	1995		
-		Florian Pinneberg 70-32-01	DLK 23/12 GL CS	IVECO E160 E30	2016		
-		Florian Pinneberg 70-41-01	TSF-W	MB Vario 612	2002		
-		Florian Pinneberg 70-44-01	LF 10/6	MAN TGM 13.280	2010		
-		Florian Pinneberg 70-46-01	LF 20/16-2	MAN TGM 13.280	2011		3.030 l Wassertank
-		Florian Pinneberg 70-48-01	LF 20/16-1	MAN TGM 13.280	2009		2.000l Wasser + TH Geräte
-		Florian Pinneberg 70-48-02	HLF 20	MB Atego 1530  	2021		neues Erstangriffsfahrzeug, dafür geht 70-48-01 zum neuen Außenstandort später
-		Florian Pinneberg 70-51-01	RW 2	MB 1224 AF	1996		
-		Florian Pinneberg 70-55-01	GW-Öl	Ford Transit	1999		
-		Florian Pinneberg 70-56-01	GW-A	MB 711D	1992		
-		Florian Pinneberg 70-67-01	GW-L1	MAN TGL	2016		
-			TroLA	Gloria	1975		
-			MZA	Heinemann	1987		
-			MZA JF	Barthau S1	2002		
-Die Feuerwache an der Marktstraße in Quickborn (Foto) bleibt die Zentrale. Der Neubau an der Ecke Friedrichsgaber Straße und Ulzburger Landstraße wird ein deutlich kleineres Gebäude mit Sozialraum und Unterstellmöglichkeit für Fahrzeuge. – Quelle: https://www.shz.de/31724672 ©2021							
-							
-71	Bilsen	Florian Pinneberg 71-45-01	LF 10	Mercedes Benz Atego 1225 AFE	2005	PI-2524	
-		Florian Pinneberg 71-48-01	HLF 10	Mercedes Benz Atego 1527			
-							
-72	Hasloh	Florian Pinneberg 72-14-01	MZF	MB Sprinter	2009	PI-FW 7214	
-		Florian Pinneberg 72-18-01	MTW	VW	2012	PI-FW 7218	
-		Florian Pinneberg 72-22-01	TLF 16/25	MAN	2000	PI-2536	2800l Wasser an Bord statt 2500l
-		Florian Pinneberg 72-44-01	LF 10/6	MB Atego	2008	PI-FW 72	
-		Florian Pinneberg 72-48-01	HLF 20	MB Atego	2020	PI-FW 7248	
-							
-73	Bönningstedt	Florian Pinneberg 73-11-01	ELW 1	Ford Transit Kombi FT 350 L	2001	PI-2107	
-		Florian Pinneberg 73-18-01	MTW	Ford Tourneo Custom	2017	PI-FB 7318	
-		Florian Pinneberg 73-22-01	TLF 16/25	MAN 14.224 MAC-KO	1997	PI-2535	
-		Florian Pinneberg 73-32-01	DLK 23/12	IVECO 140-25	1990	PI-FB 7332	
-		Florian Pinneberg 73-47-01	LF 10	MB 1326 F Atego	2014	PI-FB 7342	
-		Florian Pinneberg 73-48-01	HLF 20/16	MB 1629 AF Atego	2007	PI-2858	
-		Florian Pinneberg 73-67-01	GW-L1	MB Atego 818 L 4×2	2018	PI-FB 7367	
-							
-80	Barmstedt	Florian Pinneberg 80-11-01	ELW 1	MB 311 CDI Sprinter NCV 3	2007	PI-FW 811	
-		Florian Pinneberg 80-14-01	MZF	MB 316 CDI Sprinter NCV 3	2011	PI-FW 814	
-		Florian Pinneberg 80-18-01	MTW	MB 316 CDI Sprinter	2019	PI FW 8018	
-		Florian Pinneberg 80-19-01	MTW	VW LT 35	2002	PI-2751	
-		Florian Pinneberg 80-24-01	TLF 3000	MB Atego 1629 AF	2017	PI-FW 8024	4.120l Wassertrank, Besatzung 1/8
-		Florian Pinneberg 80-32-01	DLK 23 				
-		Florian Pinneberg 80-42-01	LF 10	MB Atego	2020		
-		Florian Pinneberg 80-48-01	LF 16/12	MB 1325 AF Atego	2003	PI-2100	
-		Florian Pinneberg 80-51-01	RW 2	Iveco EuroCargo 135 E 22	1996	PI-2552	
-		Florian Pinneberg 80-69-01	WLF	MAN 10.163	2000	PI-2994	
-			AB-Löschwasser	Ottenbacher	2000		
-			AB-Mulde	Confa Hamburg	2000		
-			AB-Technik	Jessen	2000		
-			FWA-Schlauch	Barth	1965		
-							
-81	Heede	Florian Pinneberg 81-20-01	TLF 8/18	MB Unimog			
-		Florian Pinneberg 81-45-01	LF 10/6	MB Atego			
-							
-82	Hemdingen	Florian Pinneberg 82-14-01	MZF	MB Sprinter 316 CDI	2016	PI-FH 8241	
-		Florian Pinneberg 82-45-01	LF 8/6	MB Atego 815 F	2003	PI-2808	
-		Florian Pinneberg 82-47-01	LF 10	IVECO EuroCargo FF 150 E 30 WS	2015	PI-FH 8247	
-							
-83	Bevern	Florian Pinneberg 83-42-01	LF 8/6	MB 815 F Atego	2003	PI-2225	
-							
-84	Ellerhoop	Florian Pinneberg 84-14-01	MZF	Ford Transit	2003		
-		Florian Pinneberg 84-18-01	MTW	Ford	2017		
-		Florian Pinneberg 84-42-01	StTLF	MAN	2012		
-		Florian Pinneberg 84-48-01	LF 10	MAN	2017		
-							
-85	Bokholt-Hanredder	Florian Pinneberg 85-14-01	MZF	VW T4	1994	PI-2332	
-		Florian Pinneberg 85-20-01	TLF 8/18	MB Unimog 1300 L	1980	PI-2203	
-		Florian Pinneberg 85-44-01	LF 8/6	MB 814 F	1995	PI-2932	
-		Florian Pinneberg 85-48-01	HLF 10	MB Atego 1527 AF	2018	PI-BH 8548	1.600l Wasser
-							
-86	Groß Offenseth-Aspern	Florian Pinneberg 86-40-01	TSF				
-		Florian Pinneberg 86-41-01	MLF				
-							
-87	Lutzhorn	Florian Pinneberg 87-22-01	TLF 3000				9 Mann Besatzung
-		Florian Pinneberg 87-43-01	LF 8/6	MB 814 F		PI-2493	
-							
-88	Langeln	Florian Pinneberg 88-42-01 	LF 10/6	MAN  TGL 12.210	2009	PI-L 112	
-							
-89	Bullenkuhlen	Florian Pinneberg 89-41-01	StLF 10/6	MAN TGL 8.180	2010	PI-B 8942	
-
-
-Florian Pinneberg 01-47-01	LF-KatS	Mercedes	2018	PI-KX 761	
+28	Helgoland (Unterland)	Hafenstraße 1020	27498 Helgoland		
+Florian Pinneberg 28-30-01	DL(A)K 12/9	MB Atego 924 F	2011	PI-FH 80	
+Florian Pinneberg 28-41-01	KLF 8/8				
+Florian Pinneberg 28-41-02	TSF-W	Mercedes Sprinter	2024		
+	Anh-Transport				
+	Anh-Geräte				Schlauch+TS
+	Anh-Notstrom 60 kVA				
+					
+	Helgoland (Oberland)	Gouverneur-Maxse-Straße	27498 Helgoland		
+Florian Pinneberg 18-11-01	ELW 1	MB Sprinter 315 CDI	2011	PI-FH 808	
+Florian Pinneberg 28-18-01	MTW	VW Transporter T5	2018	PI-FH 2818	
+Florian Pinneberg 28-20-01	TLF 2000	Mercedes Atego 1126	2016	PI-FH 81	
+Florian Pinneberg 28-49-01	KLF	MB Sprinter 313 CDI	2004	PI-2353	
+	Anh-Schlauch				Schlauchhaspel und Verteiler
+	Anh-NEA 15 kVA		2011		
+					
+	Helgoland (Düne)	Düne	27498 Helgoland		
+Florian Pinneberg 28-20-02	TLF 2000 St.				
+	Anh-NEA/Tragkraftspritze				
+					
+	Helgoland BtF Flugplatz Helgoland	Flugplatz	27498 Helgoland		
+Florian Pinneberg 28-20-03	TLF 8/20	Unimog U 1300 L	1987	PI-2602	
+					
+30	Wedel	Schulauer Straße 101	22880 Wedel		
+Florian Pinneberg 30-10-01	KdoW	VW Passat B7	2015	PI-FW 3016	
+Florian Pinneberg 30-11-01	ELW	MB Sprinter 519 CDI 4x4	2017	PI-FW 3011	
+Florian Pinneberg 30-14-01	MZF	MB Sprinter 06	2009	PI-FW 14	
+Florian Pinneberg 30-18-01	MTW	MB Sprinter 06	2009	PI-FW 19	
+Florian Pinneberg 30-18-02	MTW	VW T5	2011	PI-FW 3019	
+Florian Pinneberg 30-25-01	TLF 4000	MAN TGM 18.340 4x4 BB	2013	PI-FW 3025	3.000er Pumpe, 4.600l Wasser
+Florian Pinneberg 30-32-01	DLK 23/12	MAN 15.285 LC	2003	PI-2150	
+Florian Pinneberg 30-41-01	MLF	MAN TGL 8.180 4x2 BL	2014	PI-FW 3043	1.000er Pumpe, 600l Wasser
+Florian Pinneberg 30-43-01	LF 10/6	MB Atego 1225 AFE	2007	PI-FW 342	2.000er Pumpe, 600l Wasser
+Florian Pinneberg 30-46-01	LF 20	MAN TGM 13.290	2010	PI-FW 441	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 30-48-01	HLF 1	MAN TGM 18.340 4x4	2019	PI-FW 4801	3.000er Pumpe, 2.400l Wasser
+Florian Pinneberg 30-48-02	HLF 2	MAN TGM 18.340 4x4	2018	PI-FW 4802	3.000er Pumpe, 1.600l Wasser
+Florian Pinneberg 30-63-01	WLF	MAN TGS 28.320 6x4-4 BL	2012	PI-FW 3065	
+Florian Pinneberg 30-64-01	WLF Kran	MAN TGX 24.400 6x2.2 LL-U	2021	PI-FW 3064	Neufahrzeug 2021
+Florian Pinneberg 30-68-01	GW Gefahrgut / Logistik	MB 1426 AF Atego	2008	PI-FW 59	
+Florian Pinneberg 30-69-01	Gabelstapler	Jungheinrich	2010		
+Florian Pinneberg 30-78-01	Mehrzweckboot Stadtpräsidentin Lüchau				Neufahrzeug 2024
+Florian Pinneberg 30-78-02	Mehrzweckboot Bgm. Kahlert				
+	AB-Atemschutz	GSF	2012		
+	AB-Technische Hilfeleistung	GSF	2017		
+	AB-Hochwasser	Roland-Tankbau	1991		
+	AB-Mulde				
+	AB-Transport	Roland-Tankbau	1991		
+	AB-Ölwehr 1	Bruhns			
+	AB-Ölwehr 2	Bruhns			
+	AB-Ölwehr 3	Bruhns			
+	AB-Löschwasser	GSF	2020		TS, Schlauchmaterial, 9.000l Wasser
+	AB-Aufenthalt/Führung		2021?		
+	Anh-Mehrzweck	Voss Karroseriebau	2012	PI-FW 3030	
+	Anh-Stromerzeuger 72 kVA	Polyma Energiesysteme	2010		
+					
+31	Holm	Schulstraße 12	25488 Holm		
+Florian Pinneberg 31-18-01	MTW	MB Sprinter 316	2018	PI-FH 3118	
+Florian Pinneberg 31-42-01	LF 8	MB 814	1990	PI-2479	
+Florian Pinneberg 31-46-01	LF 20/16	MB Atego 1328F	2006	PI-2189	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 31-48-01	HLF 10	MB 1629 AF 4x4		PI-FH 3145	3.500er Pumpe, 2.000l Wasser
+	Anh-Mehrzweck				für Öleinsätze oder Schlauchmaterial
+	Anh-Notstromaggregat 40kVA		2001	PI-2047	
+	Anh-Schlauch		1965	PI-2479	
+					
+32	Hetlingen	Hauptstraße 63	25491 Hetlingen		
+Florian Pinneberg 32-42-01	LF 8/6	MB Atego	2002	PI-2130	800er Pumpe, 600l Wasser
+Florian Pinneberg 32-46-01	HLF 20/16	MB 1425 Atego	2005	PI-2814	2.000er Pumpe, 1.630l Wasser
+					
+33	Haseldorf	Hauptstraße 24a	25489 Haseldorf		
+Florian Pinneberg 33-14-01	MTW	MB Sprinter 311 CDI	2002	PI-2075	
+Florian Pinneberg 33-41-01	MLF	MB Atego 918	2021	PI-FF 3341	
+Florian Pinneberg 33-48-01	HLF 20/16	MB Atego 1629 AF	2012	PI-FF 3344	3.000er Pumpe, 2.400l Wasser
+					
+34	Schenefeld	Kiebitzweg 24	22869 Schenefeld		
+Florian Pinneberg 34-11-01	ELW 1	MB Sprinter 311 CDI	2006	PI-2400	
+Florian Pinneberg 34-14-01	MZF	MB Sprinter 313 CDI	2002	PI-2220	
+Florian Pinneberg 34-18-01	MTW	VW Caddy Trendline 2,0 l TDI, Euro 6	2015	PI-F 3418	
+Florian Pinneberg 34-18-02	MTF	MB Sprinter 316 CDI	2018	PI-F 3419	
+Florian Pinneberg 34-32-01	DLA(K) 23/12	MB Atego 1530 Euro-6	2014	PI-F 3432	
+Florian Pinneberg 34-47-01	LF 10/6	MB Atego 1326 AF	2009	PI-F 3442	2.000er Pumpe, 1.200l Wasser
+Florian Pinneberg 34-48-01	HLF 20/16	MB Atego 1528 AF	2005	PI-2027	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 34-48-02	LF 16/12	MB Atego 1325 AF	2001		1600er Pumpe, 1.600l Wasser, TH-Beladung
+Florian Pinneberg 34-67-01	GW-L 1	MB Sprinter 316 CDI	2016	PI-F 3414	MTW mit Laderampe
+Florian Pinneberg 34-68-01	GW-L 2	MB Atego 1629 AF	2012	PI-F 3459	RC: 2x AS, Heben/Dichten, Rettungssatz, Unterbau, Schlauch, Öl, Wasser, Lüfter,...
+	Anh-Transport				
+					
+40	Uetersen	Am Seeth 6	25436 Uetersen		
+Florian Pinneberg 40-10-01	KdoW	Volvo XC 60	2024	PI-FF 4010	
+Florian Pinneberg 40-11-01	ELW 1	MB Sprinter	2008	PI-FF 401	
+Florian Pinneberg 40-14-01	MZF	MB Sprinter	2019	PI-FF 4014	
+Florian Pinneberg 40-32-01	DLK 23/12	MB Atego	2020	PI-FF 4032	
+Florian Pinneberg 40-46-01	LF 20	MB	2024	PI-FF 4046	3.000er Pumpe, 2.200l Wasser
+Florian Pinneberg 40-46-02	LF 20	MB Atego 1627	2017	PI-FF 4602	2.000er Pumpe, 2.400l Wasser
+Florian Pinneberg 40-48-01	HLF 20/16	MB Atego 1529 F	2010	PI-FF 403	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 40-51-01	RW 2	MB Atego 1629	2016	PI-FF 4052	mit Ladebordwand, RC: Wasserschaden, Licht, Heben,...
+Florian Pinneberg 40-59-01	GW-Atemschutz	MB Atego 815 F	2000	PI-2259	
+Florian Pinneberg 40-67-01	GW-Logistik 1	MB Sprinter	2002	PI-2277	
+Florian Pinneberg 40-68-01	GW-Logistik 2	MB Atego 1629	2016	PI-FF 4068	RC: Wasserschaden, TS, Schlauch,...
+Florian Pinneberg 40-78-01	MZB	Pioner Multi III	2018		
+	Anh-Mehrzweck	Ivor Williams / Koch Anhänger Werke	2019		
+					
+	BtF Nordmark	Pinnauallee 4	25436 Uetersen		
+	TSF-W	VW LT55	1990	PI-NM 112	
+					
+41	Tornesch-Esingen	An der Feuerwache 2	25436 Tornesch		
+Florian Pinneberg 41-11-01	ELW 1	MB Sprinter 519 CDI	2016	PI-TO 4111	
+Florian Pinneberg 41-16-01	Drohne	TH 520	2019		
+Florian Pinneberg 41-17-01	PKW	BMW	2017		
+Florian Pinneberg 41-xx-xx	PKW	VW Caddy	2021	PI-TO 4100	
+Florian Pinneberg 41-18-01	MTW	MB  Sprinter 316 CDI	2012	PI-TO 4119	
+Florian Pinneberg 41-24-01	TLF 4000		2023	PI-TO 4124	3.000er Pumpe, 4.000l Wasser
+Florian Pinneberg 41-36-01	TMF 23/12	MB Econic 1833 LL	2014	PI-TO 4136	
+Florian Pinneberg 41-47-01	LF 10	MB Atego 1429 AFE	2014	PI-TO 4142	2.000er Pumpe, 1.270l Wasser
+Florian Pinneberg 41-48-01	LF 16/12	MB Atego 1325 AF	2002	PI-2248	1.600er Pumpe, 1.800l Wasser
+Florian Pinneberg 41-68-01	GW-L	MAN TGM 13.290 4x4	2010	PI-TO 4159	RC: Wasser, Öl, Atemluft, Schlauchboot,...
+	Anh-Notstromaggregat 60 kVA		2017	PI-TO 4101	
+	Anh-Transport				
+	Anh-Toilettenwagen				
+					
+41	Tornesch-Ahrenlohe	Hörnweg 7	25436 Tornesch		
+Florian Pinneberg 41-14-01	MZF		2022	PI-	
+Florian Pinneberg 41-18-02	MTW	MB Sprinter	2022	PI-TO 1802	
+Florian Pinneberg 41-44-01	LF 8/6	MB Atego 815 F	1999	PI-2852	600l Wasser
+Florian Pinneberg 41-48-02	HLF 20/16	MB Atego 1529 AF	2008	PI-TO 300	2.000l Wasser
+Florian Pinneberg 41-68-02	GW-L2	MB Atego	2012	PI-TO 592	RC: Öl, Licht, TP,...
+	Anh-Pulver	Total Pulverlöschgerät G250	1970	PI-2068	
+	Anh-Transport	Koch	2004	PI-2618	
+					
+42	FF Heidgraben	Uetersener Straße 8	25436 Heidgraben		
+Florian Pinneberg 42-11-01	ELW 1	Ford Transit	2002	PI-FH 4211	
+Florian Pinneberg 42-45-01	LF 8/6	MB Atego	1999	PI 2998	800er Pumpe, 600l Wasser
+Florian Pinneberg 42-47-01	LF 10	MB Atego 1530 F	2023	PI-FH 4247	2000er Pumpe, 2.000l Wasser
+					
+43	Groß Nordende	Am Gemeindezentrum 2	25436 Groß Nordende		
+Florian Pinneberg 43-48-01	LF 10	MB Atego		PI-GN 4348	4.000er Pumpe, 2.000l Wasser
+	Anh-Schlauch				
+					
+44	Moorrege	Wedeler Chaussee 67	25436 Moorrege		
+Florian Pinneberg 44-14-01	MZF	MB Sprinter	2009	PI-FM 4414	
+Florian Pinneberg 44-46-01	LF 16/12	MB 1224	1995	PI-2956	1.600l Wasser
+Florian Pinneberg 44-47-01	LF 10	MB Atego	2009	PI-FM 4442	1.000er Pumpe, 1.200l Wasser
+Florian Pinneberg 44-48-01	HLF 10	MB Atego	2019	PI-FM 4448	1.000er Pumpe, 2.000l Wasser
+	Anh-Jugendfeuerwehr				
+					
+45	Heist	Schulstraße 3	25492 Heist		
+Florian Pinneberg 45-14-01	MZF	Ford		PI-FH 4514	
+Florian Pinneberg 45-20-01	TLF 8/18	MB		PI-2459	800er Pumpe, 2.100l Wasser
+Florian Pinneberg 45-47-01	LF 10	MB	2023	PI-FH 4547	3.400l Wasser
+Florian Pinneberg 45-48-01	HLF 20	MB Atego	2012	PI-FF 4544	2000er Pumpe, 2.400l Wasser
+	MTW-Jugend+Anhänger				
+					
+46	Haselau	Neuer Weg 18	25489 Haselau		
+Florian Pinneberg 46-14-01	MZF	MB Sprinter 311 CDI	2005	PI-2021	
+Florian Pinneberg 46-41-01	StLF 10/6	MAN TGL 8.180	2010	PI-FH 46	1000er Pumpe, 1.000l Wasser
+Florian Pinneberg 46-45-01	LF 8/6	MB Atego 918 AFE	2003	PI-2405	800er Pumpe, 600l Wasser
+					
+47	Neuendeich	Schadendorf 8	25436 Neuendeich		
+Florian Pinneberg 47-41-01	TSF-W	MB Vario 612 D	1998	PI-2413	
+Florian Pinneberg 47-44-01	LF 10	Atego 1527 F	2019	PI-FN 4744	1.000er Pumpe, 1.200l Wasser
+					
+60	Br. Hörnerkirchen/Osterhorn	Steinstraße 11	25364 Brande-Hönerkirchen		
+Florian Pinneberg 60-14-01	MZF	Mercedes		PI-JF 6014	
+Florian Pinneberg 60-18-01	MTW	Fiat	1994	PI-FF 6018	2024 übernommen
+Florian Pinneberg 60-42-01	LF 8	MB 814 F	1989	PI-2889	
+Florian Pinneberg 60-45-01	LF 8/6			PI-2035	
+					
+61	Bokel	Mühlenstraße 14	25364 Bokel		
+Florian Pinneberg 61-47-01	LF 16/12	MAN 14.224 LA-LF	1998	PI-FB 1121	1.600er Pumpe, 1.600l Wasser
+					
+62	Westerhorn	Am Beek 3	25364 Westerhorn		
+Florian Pinneberg 62-14-01	MZF	VW Caravelle T4	1999	PI-2620	
+Florian Pinneberg 62-22-01	TLF 3000	MB Atego 1530 AF	2020	PI-FW 6222	2.000er Pumpe, 3.000l Wasser
+Florian Pinneberg 62-48-01	LF 20/16 Sonder	MB Atego 1529 F	2010	PI-FW 6244	2.000er Pumpe, 2.000l Wasser
+					
+70	Quickborn	Marktstraße 9	25451 Quickborn		
+Florian Pinneberg 70-10-01	KdoW	Seat Ateca 4drive	2017	PI-FQ 7010	
+Florian Pinneberg 70-11-01	ELW 1-1	VW T6	2013	PI-FQ 111	
+Florian Pinneberg 70-11-02	ELW 1-2	MB Sprinter 211 CDI	2003	PI-2304	
+Florian Pinneberg 70-18-02	MTW 2	MB Sprinter 316 CDI	2016	PI-FQ 182	
+Florian Pinneberg 70-25-01	TLF 24/50	MB 1827 AF	1995	PI-2441	2.400er Pumpe, 4.800l Wasser
+Florian Pinneberg 70-32-01	DLK 23/12 GL CS	IVECO E160 E30	2016		
+Florian Pinneberg 70-44-01	LF 10/6	MAN TGM 13.280	2010	PI-FQ 421	1.000er Pumpe, 1.600l Wasser
+Florian Pinneberg 70-46-01	LF 20/16-2	MAN TGM 13.280	2011		2.000er Pumpe, 3.030l Wasser
+Florian Pinneberg 70-48-02	HLF 20	MB Atego 1530	2021	PI-FQ 48	3.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 70-63-01	WLF	Mercedes Arocs 2546L	2021	PI-FQ 6301	
+Florian Pinneberg 70-67-01	GW-L1	MAN TGL	2016	PI-FQ 67	
+Florian Pinneberg 70-69-01	ATV ARGO 8x8		2023	PI-FQ 69	
+	Abrollbehälter Rüst		2022		
+	Abrollbehälter Atemschutz		2023		
+	Abrollbehälter Mulde		2024		
+	TroLA	Gloria	1975		
+	Mehrzweckanhänger Jugend	Voß Karosseriebau	2018	PI-FQ 112	
+					
+	Quickborn Wache Heide	Ulzburger Landstraße 353	25451 Quickborn		im Bau bis Dez. 2025
+					
+	Quickborn Interimswache Ost	Albert-Einstein-Ring 2f-g	25451 Quickborn		bis Fertigstellung Wache Heide
+Florian Pinneberg 70-18-01	MTW 1	MB Sprinter 208 CDI	2005	PI-FQ 191	
+Florian Pinneberg 70-41-01	TSF-W	MB Vario 612	2002	PI 2041	
+Florian Pinneberg 70-48-01	LF 20/16-1	MAN TGM 13.280	2009	PI-FQ 441	2.000er Pumpe, 2.000l Wasser + TH Geräte
+					
+71	Bilsen	Schulweg 3a	25485 Bilsen		
+Florian Pinneberg 71-44-01	LF 10	Mercedes Benz Atego 1225 AFE	2005	PI-2524	1.000er Pumpe, 1.000l Wasser
+Florian Pinneberg 71-48-01	HLF 10	Mercedes Benz Atego 1527	2019	PI-FB 7148	3.000er Pumpe, 2.000l Wasser
+					
+72	Hasloh	Kieler Straße 38	25474 Hasloh		
+Florian Pinneberg 72-14-01	MZF	MB Sprinter	2009	PI-FW 7214	
+Florian Pinneberg 72-18-01	MTW	VW	2012	PI-FW 7218	
+Florian Pinneberg 72-22-01	TLF 16/25	MAN	2000	PI-2536	1.600er Pumpe, 2.800l Wasser
+Florian Pinneberg 72-44-01	LF 10/6	MB Atego	2008	PI-FW 72	2.000er Pumpe, 600l Wasser
+Florian Pinneberg 72-48-01	HLF 20	MB Atego	2020	PI-FW 7248	3.000er Pumpe, 2.000l Wasser
+					
+73	Bönningstedt	Kieler Straße 83-87	25474 Bönningstedt		
+Florian Pinneberg 73-11-01	ELW 1	Mercedes Sprinter	2024	PI-FB 7311	
+Florian Pinneberg 73-18-01	MTW	Ford Tourneo Custom	2017	PI-FB 7318	
+Florian Pinneberg 73-22-01	TLF 16/25	MAN 14.224 MAC-KO	1997	PI-2535	1.600er Pumpe, 2.500l Wasser
+Florian Pinneberg 73-32-01	DLK 23/12	IVECO 140-25	1991	PI-FB 7332	
+Florian Pinneberg 73-47-01	LF 10	MB 1326 F Atego	2014	PI-FB 7342	2.000er Pumpe, 1.200l Wasser
+Florian Pinneberg 73-48-01	HLF 20/16	MB 1629 AF Atego	2007	PI-2858	2.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 73-67-01	GW-L1	MB Atego 818 L 4×2	2018	PI-FB 7367	Ölbindemittel, Atemschutz, Gefahrgut, Pumpe,...
+					
+80	Barmstedt	Marktstraße 41	25335 Barmstedt		Neubau ab 2025 Steinmoorweg/Lutzhorner Landstraße
+Florian Pinneberg 80-11-01	ELW 1	MB 311 CDI Sprinter NCV 3	2007	PI-FW 811	
+Florian Pinneberg 80-14-01	MZF	MB 316 CDI Sprinter NCV 3	2011	PI-FW 814	
+Florian Pinneberg 80-18-01	MTW	MB 316 CDI Sprinter	2019	PI-FW 8018	
+Florian Pinneberg 80-19-01	MTW	VW LT 35	2002	PI-2751	
+Florian Pinneberg 80-24-01	TLF 3000	MB Atego 1629 AF	2017	PI-FW 8024	3.000er Pumpe, 4.120l Wasser, Besatzung 1/8
+Florian Pinneberg 80-32-01	DLK 23	MB Atego 1529 F	2013	PI-FW 8032	
+Florian Pinneberg 80-47-01	LF 10	MB Atego 1730 AF	2020	PI-FW 8047	3.000er Pumpe, 1.800l Wasser
+Florian Pinneberg 80-48-01	LF 16/12	MB 1325 AF Atego	2003	PI-2100	1.600er Pumpe, 1.600l Wasser, TH-Ausrüstung
+Florian Pinneberg 80-51-01	RW 2	Iveco EuroCargo 135 E 22	1996	PI-2552	
+Florian Pinneberg 80-69-01	WLF	MAN 10.163	2000	PI-2994	
+	AB-Löschwasser	Ottenbacher	2000		TS, Schlauch, AS, Strom,...
+	AB-Mulde	Confa Hamburg	2000		
+	AB-Technik	Jessen	2000		Ölbindemittel, Wassersauger, Lüfter,...
+	FWA-Schlauch	Barth	1965		
+					
+81	Heede	Schultwiete 2	25355 Heede		
+Florian Pinneberg 81-20-01	TLF 8/18	MB Unimog	1986	PI-2213	400.000 Euro in 2022 für neues TLF reserviert
+Florian Pinneberg 81-45-01	LF 10/6	MB Atego 815 F	2006	PI-2112	
+					
+82	Hemdingen	Steindamm 6	25485 Hemdingen		
+Florian Pinneberg 82-14-01	MZF	MB Sprinter 316 CDI	2016	PI-FH 8241	
+Florian Pinneberg 82-45-01	LF 8/6	MB Atego 815 F	2003	PI-2808	1.600er Pumpe, 600l Wasser
+Florian Pinneberg 82-47-01	LF 10	IVECO EuroCargo FF 150 E 30 WS	2015	PI-FH 8247	2.000er Pumpe, 2.000l Wasser
+					
+83	Bevern	Hauptstraße 7b	25355 Bevern		
+Florian Pinneberg 83-42-01	LF 8/6	MB 815 F Atego	2003	PI-2225	TH-Ausrüstung
+					
+84	Ellerhoop	Dorfstraße 18	25373 Ellerhoop		
+Florian Pinneberg 84-14-01	MZF	Ford Transit	2003	PI-2258	
+Florian Pinneberg 84-18-01	MTW	Ford Transit	2017	PI-EL 8418	
+Florian Pinneberg 84-22-01	StTLF 3000	MAN TGM 13.250 4x4	2012	PI-EL 8423	2.000er Pumpe, 3.000l Wasser
+Florian Pinneberg 84-48-01	LF 10	MAN TGM 15.290	2017	PI-EL 8448	2.000er Pumpe, 1.260l Wasser, TH-Ausrüstung
+					
+85	Bokholt-Hanredder	Hauptstraße 85	25335 Bokholt-Hanredder		
+Florian Pinneberg 85-14-01	MZF	Mercedes	2021	PI-BH 8514	
+Florian Pinneberg 85-20-01	TLF 8/18	MB Unimog 1300 L	1980	PI-2203	1.600er Pumpe, 1.800l Wasser
+Florian Pinneberg 85-44-01	LF 8/6	MB 814 F	1995	PI-2932	800er Pumpe, 600l Wasser
+Florian Pinneberg 85-48-01	HLF 10	MB Atego 1527 AF	2018	PI-BH 8548	2.000er Pumpe, 1.600l Wasser
+					
+86	Groß Offenseth-Aspern	Hauptstraße 30	25355 Groß Offenseth-Aspern		100m² Anbau in Planung
+Florian Pinneberg 86-40-01	TSF	VW-Crafter	2012	PI-GO 8647	
+Florian Pinneberg 86-41-01	MLF	MAN TGL 8.180	2017	PI-GO 8641	2.000er Pumpe, 800l Wasser
+					
+87	Lutzhorn	Grotenkamp 1	25355 Lutzhorn		
+Florian Pinneberg 87-22-01	TLF 3000	MAN TGM 15.250		PI-LU 8723	TH-Ausrüstung, Besatzung 1/8
+Florian Pinneberg 87-43-01	LF 8/6	MB 814 F	1993	PI-2493	
+	FwA-Schlauch			PI-2193	
+					
+88	Langeln	Dorfstraße 32	25485 Langeln		
+Florian Pinneberg 88-45-01	LF 10/6	MAN TGL 12.210	2009	PI-L 112	
+					
+89	Bullenkuhlen	Schulweg 7	25355 Bullenkuhlen		
+Florian Pinneberg 89-41-01	StLF 10/6	MAN TGL 8.180	2010	PI-B 8942	600l Wasser
