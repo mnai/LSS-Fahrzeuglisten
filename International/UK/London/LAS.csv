@@ -1,0 +1,74 @@
+Station Code / Callsign,Station Name / Unit-Type,Address,Comment,Coordinates
+,Waterloo Headquarters,220 Waterloo Road London,EOC,
+,Bow Headquaters,"Saint Andrews House, St Andrews Way, London E3 3PA, United Kingdom",Event Control Room,
+,,,,
+North Central Area,,,,
+C8,Mill Hill Ambulance Station,"10 Hartley Ave, London NW7 2HX, United Kingdom",,"51.615042681605104, -0.24346232409574065"
+D2,Barnet Ambulance Station,"144 Station Rd, Barnet EN5 1TE, United Kingdom",,"51.647166918182144, -0.1859973047117958"
+D4,Friern Barnet Ambulance Station,"272a Colney Hatch Ln, London N11 3DD, United Kingdom",Group station,"51.60858500558894, -0.15398412368544187"
+E1,Bloomsbury Ambulance Station,"19 Herbrand St, London WC1N 1HP, United Kingdom",,"51.52489188087816, -0.12657842054440321"
+E3,Camden Ambulance Station,"5 Cressy Rd, London NW3 2NA, United Kingdom",Group station,"51.5539025449009, -0.16118005951665748"
+G1,Islington Ambulance Station,"88 Brewery Rd, London N7 9NT, United Kingdom",North Central Sector HQ / Training station,"51.544479624427225, -0.12388735676309313"
+H1,Chase Farm Ambulance Station,"22 Enders Close, Enfield EN2 8JR, United Kingdom",,"51.66577256176633, -0.10624063967600375"
+H3,Edmonton Ambulance Station,"93 Windmill Rd, London N18 1NJ, United Kingdom",Group station,"51.61949824452792, -0.08103762661489423"
+H4,Ponders End Ambulance Station,"Carterhatch Ln, Enfield EN3, United Kingdom",,"51.66137338228199, -0.06257467507087959"
+H5,Tottenham Ambulance Station,"297 St Ann's Rd, London N15 3TL, United Kingdom",,"51.58125436486404, -0.09286160966839065"
+,,,,
+North East Area,,,,
+G3,Homerton Ambulance Station,"126 Homerton High St, London E9 6JA, United Kingdom",Group station,"51.547863872092584, -0.045387850604878044"
+G4,Shoreditch Ambulance Station,"35 Kingsland Rd, London E2 8AA, United Kingdom",,"51.528999724083185, -0.07846950494947248"
+J1,Poplar Ambulance Station,"4 Harford St, London E1, United Kingdom",,"51.522517879770916, -0.03920440705696591"
+J2,West Ham Ambulance Station,"5 Howards Road London E13 8AU, United Kingdom",,"51.52764668679985, 0.023242623173045557"
+J3,Whipps Cross Ambulance Station,"176 James Ln, London E11 1NU, United Kingdom",Group station,"51.57676758064689, 0.005635414483056365"
+J4,Walthamstow Ambulance Station,"14 Grove Park Ave, London E4 8SS, United Kingdom",,"51.600968382728496, -0.015126272490073743"
+K1,Newham Ambulance Station,"Wellington Rd, London E6 2RQ, United Kingdom",Group station,"51.531489722408345, 0.058131207151943386"
+K2,Becontree Ambulance Station,"2 Baden Powell Cl, Dagenham RM9 6XN, United Kingdom",,"51.5336006920786, 0.13648411764677815"
+K3,Ilford Ambulance Station,"Aldborough Rd. S, Ilford IG3 8HQ, United Kingdom",North East Sector HQ / MRUs,"51.5777153520381, 0.1012815734449941"
+K4,Romford Ambulance Station,"14 Bridge Cl, Romford RM7 0AU, United Kingdom",Group station,"51.572034657540264, 0.1823626279931704"
+,,,,
+South East Area,,,,
+L1,Barnehurst Ambulance Station,"164 Erith Rd, Bexleyheath DA7 6BZ, United Kingdom",,"51.460781589094516, 0.1538301596803565"
+L2,Greenwich Ambulance Station,"392 Shooters Hill Rd, London SE18 4LP, United Kingdom",Group station,"51.47263561021509, 0.04642547991120954"
+L3,Mottingham Ambulance Station,"205 Eltham Rd, London SE9 5LN, United Kingdom",,"51.45270879041267, 0.03416846320256686"
+L4,St. Pauls Cray Ambulance Station,"4 St Peters Ln, Orpington BR5 2DT, United Kingdom",,"51.40400878085732, 0.10407230487008881"
+L5,Woolwich Ambulance Station,"New Ferry Approach, London SE18 6DX, United Kingdom",,"51.49434696642917, 0.06162468971154466"
+M1,Bromley Ambulance Station,"Crown Ln, Bromley BR2 9PW, United Kingdom",Training station / Group station,"51.38938265898592, 0.03678185284449715"
+N1,Deptford Ambulance Station,"1 New Cross Rd, London SE14 5DS, United Kingdom",South East Sector HQ/ Group station,"51.47874830579902, -0.053070618643606675"
+N3,Waterloo Ambulance Station,"4 Frazier St, London SE1 7BG, United Kingdom",EOC / MRUs (Command Unit seen),"51.499818378822546, -0.10893438769528191"
+N6,Forest Hill Ambulance Station,"51 David's Rd, London SE23 3EP, United Kingdom",,"51.44102090824045, -0.054898353986824355"
+P3,Streatham Ambulance Station,"35 Mount Nod Rd, London SW16 2LL, United Kingdom",,"51.43593079121866, -0.11997325160145401"
+Q2,Brixton Ambulance Station,"Milkwood Rd, London SE24 0JE, United Kingdom",,"51.457846508442636, -0.10323415231913555"
+Q3,Oval Ambulance Station,"Foxley Rd, London SW9 6ES, United Kingdom",Group station,"51.47922124719753, -0.10808889551335307"
+,,,,
+South West Area,,,,
+M2,Croydon Ambulance Station,"168 Primrose Ln, Croydon CR0 8YY, UK",Group station / MRUs,"51.37799585227298, -0.06010828019016415"
+M3,New Addington Ambulance Station,"221 Lodge Ln, New Addington, Croydon CR0 0QA, United Kingdom",,"51.3522634329092, -0.024336656215496834"
+P1,Coulsdon Ambulance Station,"21 Ullswater Cres, Coulsdon CR5 2HR, United Kingdom",,"51.31590466902413, -0.13176180885569652"
+P2,South Croydon Ambulance Station,"123 Waddon Way, South Croydon CR0 6MD United Kingdom",,"51.35818353391892, -0.1129061021863375"
+Q1,Battersea Ambulance Station,"119 Battersea Rise, London SW11 1HW, United Kingdom",,"51.460514298704545, -0.1685637388575296"
+Q4,Putney Ambulance Station,"48 West Hill, London SW18 1RX, United Kingdom",,"51.456862736196584, -0.20164584294521273"
+R1,St. Helier Ambulance Station,"Bishopsford Rd, Carshalton, Morden SM4 6BN, United Kingdom",Group station,"51.3867723424365, -0.18420331029520123"
+R3,Wimbledon Ambulance Station,"5 Nursery Rd, London SW19 4JA, United Kingdom",Group station,"51.4160630742304, -0.2168318909271899"
+S1,New Malden Ambulance Station,"21 Wellington Cres, New Malden KT3 3NP, United Kingdom",South West Sector HQ / Training station / Group station,"51.402709285022624, -0.2693383400322292"
+S2,Richmond Ambulance Station,"73 Kings Rd, Richmond TW10 6EG, United Kingdom",,"51.461363542924715, -0.29391964806161935"
+,,,,
+North West Area,,,,
+A1,Feltham Ambulance Station,"104 Faggs Rd, Feltham TW14 0LH, United Kingdom",,"51.46091962515458, -0.4140025052066723"
+A2,Isleworth Ambulance Station,"105 Mogden Ln, Isleworth TW7 7LJ, United Kingdom",,"51.45953701579695, -0.33672212827347525"
+A4,Heathrow Airport Station,"450 Northern Perimeter Rd, Hayes, Hounslow TW6 2RL, United Kingdom",,"51.48012648110216, -0.4581269220324408"
+B1,Greenford Ambulance Station,"479 Greenford Rd, Greenford UB6 8QR, United Kingdom",,"51.5349177006561, -0.3475116638431819"
+B2,Hayes Ambulance Station,"1 Church Grn, Hayes UB3 2LY, United Kingdom",,"51.517247459324665, -0.4192307335943036"
+B3,Hanwell Ambulance Station,"85 Boston Rd, London W7 3SA, United Kingdom",Group station,"51.50563386336859, -0.3356390105262902"
+B5,Hillingdon Ambulance Station,"40 Royal Ln, Uxbridge UB8 3QX, United Kingdom",Group station,"51.524709268325765, -0.4645083262646266"
+B6,Pinner Ambulance Station,"167 Imperial Dr, Rayners Lane, Harrow HA2 7HD, United Kingdom",,"51.57742841505444, -0.3682278612970589"
+C1,Kenton Ambulance Station,"52 The Mall, Harrow HA3 9TB, United Kingdom",North West Sector HQ / Training station,"51.5840665331688, -0.28325667633326257"
+C2,Chiswick Ambulance Station,"368 Goldhawk Rd, Chiswick, London W6 0XF, United Kingdom",,"51.49631044435946, -0.2445743360644171"
+C3,Brent Ambulance Station,"Unit 2-3, Falcon Park Industrial Estate, Neasden Ln, Neasden, London NW10 1RZ, United Kingdom",Group station,"51.55502248225912, -0.2493051057471839"
+C4,North Kensington Ambulance Station,"20 Malton Rd, London W10 6JE, United Kingdom",,"51.516925054915475, -0.21351481936510788"
+E2,St. Johns Wood Ambulance Station,"7 Lyons Pl, London NW8 8NL, United Kingdom",,"51.52444031182003, -0.1756260723059989"
+F1,Westminster Ambulance Station,"53 Causton St, London SW1V, United Kingdom",Group station,"51.491296660316024, -0.13133537842629261"
+F2,Fulham Ambulance Station,"150 Seagrave Rd, London SW6 1RX, United Kingdom",Training station / Group station,"51.48432500978401, -0.19435885953645946"
+,,,,
+H.A.R.T.,,,,
+,East H.A.R.T. Base,"2 South Cres, London E16 4TL, United Kingdom",,"51.521115087469965, -0.0007329014399668333"
+,West H.A.R.T. Base,"Unit 14-15 Clock Tower Rd, Isleworth TW7 6DT, United Kingdom",,"51.46864460137128, -0.33161255046217697"
