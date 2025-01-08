@@ -53,13 +53,13 @@ A341,DPL,,DPL 243 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F
 A342,DPL,,DPL 291 - 2019 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WX69 YWG)
 A346,FRU,,FRU 39 - 2021 Mercedes Benz Atego 1527F / Emergency One (#WX71 VJA)
 A34S,ORV,,Station Manager
-USAR Support Carrier (UVL01-4),2019 MAN TGE 4.180,,
+USAR Support Carrier,UVL,,UVL01-4 - 2019 MAN TGE 4.180 (#DF19 YUA)
 Prime Mover 140,PM,,PM 140 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VRO)
 Prime Mover 159,PM,,PM 159 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VSN)
-USAR1 014,Structural Collapse Pod,,
-USAR3 003,Support Pod,,
-USAR4 017,Multi-Purpose Vehicle Pod,,
-USAR5 004,Timber Pod,,
+,Structural Collapse Pod,,USAR1 014
+,Support Pod,,USAR3 003
+,Multi-Purpose Vehicle Pod,,USAR4 017
+,Timber Pod,,USAR5 004
 ,,,
 A35,Enfield,93 Carterhatch Lane,Built 1966
 A351,DPL,,DPL 219 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU18 FBN)
@@ -74,7 +74,7 @@ A37,Barnet,144 Station Road,Built 1992
 A371,DPL,,DPL 318 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU70 BFE)
 A37S,ORV,,Station Manager
 Prime Mover 003,PM,,PM 003 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VLL)
-HVP DC03,High Volume Pump Pod,,
+,High Volume Pump Pod,,HVP DC03
 ,,,
 A38,Mill Hill,10 Hartley Avenue,Built 1929
 A381,DPL,,DPL 190 - 2017 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU67 HLW)
@@ -195,19 +195,19 @@ E439,HLU,,HLU 3 - 2010 Mercedes Benz Atego 1626 (#WN60 AYB)
 E43S,ORV,,Station Manager
 Prime Mover 004,PM,,PM 004 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VLN)
 Prime Mover 174,PM,,PM 174 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VTP)
-HVP DC04P,High Volume Pump Pod,,
-HVP DC76HB,High Volume Pump Pod,,
+,High Volume Pump Pod,,HVP DC04P
+,High Volume Pump Pod,,HVP DC76HB
 ,,,
 Eastern Command (F),,,
 F21,Stratford,117 Romford Road,Built 1964
-BM?,(Assistant Commissioner),,
-F2,(Area Manager),,
-F3,(Area Manager),,
-F4,(Area Manager),,
+BM?,,,Assistant Commissioner
+F2,,,Area Manager
+F3,,,Area Manager
+F4,,,Area Manager
 F211,DPL,,DPL 323 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU70 BFM)
 F21A,OSU,,OSU 4 - 007 Mercedes Benz Atego 1224 / Emergency One (#AE07 HXO)
 F21S,ORV,,Station Manager
-F81,(Group Manager),,
+F81,,,Group Manager
 ,MV,,MV 20 - 2019 MAN TGE 3.140 (#DF19 YUG)
 ,UV,,UV 03 - 2019 Ford (#LC69 VVF)
 ,UVM,,UVM 06 - 2019 MAN TGE 3.180 (#DF19 YUJ)
@@ -279,8 +279,9 @@ F37,Hainault,386-388 New North Road,Built 1952
 F371,DPL,,DPL 203 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU67 JFF)
 F37S,ORV,,Station Manager
 Prime Mover 005,PM,,PM 005 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VLO)
-HVP DC75HB,High Volume Pump Pod,,
-HVP DC89H,High Volume Pump Pod,,
+,High Volume Pump Pod,,HVP DC75HB
+,High Volume Pump Pod,,HVP DC89H
+,,,
 F38,Romford,198 Pettits Lane North,Built 1959
 F381,DPL,,DPL 311 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WX20 ZHJ)
 F38S,ORV,,Station Manager
@@ -294,8 +295,8 @@ F401,DPL,,DPL 195 - 2016 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F
 F40S,ORV,,Station Manager
 Prime Mover 093,PM,,PM 093 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VNY)
 Prime Mover 153,PM,,PM 153 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VTC)
-MDR 013,Mass Decontamination Rerobe Pod,,
-MDD 017,Mass Decontamination Disrobe Pod,,
+,Mass Decontamination Rerobe Pod,,MDR 013
+,Mass Decontamination Disrobe Pod,,MDD 017
 ,,,
 F41,Dagenham,70 Rainham Road North,Built 2016
 F411,DPL,,DPL 263 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU19 JNL)
@@ -311,27 +312,27 @@ F42S,ORV,,Station Manager
 F43,Barking,Alfreds Way,
 F431,DPL,,DPL 224 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WP68 TKC)
 F432,DPL,,DPL 283 - 2019 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WX69 YSL)
-F437,HDU,,HDU 2 - 2022 Scania L320 B6X2 4NB / Emergency One (#EX22 HLK) (Ex-G217)
+F437,HDU,,HDU 2 - 2022 Scania L320 B6X2 4NB / Emergency One (#EX22 HLK)
 ,FLT,,FLT 05 - 2022 Moffett Mounty Forklift
 F439,HLU,,HLU 2 - 2010 Mercedes Benz Atego 1626 (#WN60 AYA)
 F43S,ORV,,Station Manager
-,,MV,MV 07-T - 2020 MAN TGE 3.180 (#DE70 VSN)
-,,MV,MV 10-T - 2020 MAN TGE 3.180 (#DE70 VST)
-,,MV,MV 11-T - 2020 MAN TGE 3.180 (#DE70 VSU)
-,,MV,MV 13-T - 2020 MAN TGE 3.180 (#DE70 VSX)
+,MV,,MV 07-T - 2020 MAN TGE 3.180 (#DE70 VSN)
+,MV,,MV 10-T - 2020 MAN TGE 3.180 (#DE70 VST)
+,MV,,MV 11-T - 2020 MAN TGE 3.180 (#DE70 VSU)
+,MV,,MV 13-T - 2020 MAN TGE 3.180 (#DE70 VSX)
 ,,,
 F44,East Ham,210 High Street South,Built 1960
 F441,DPL,,DPL 228 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU18 FGX)
 F446,FRU,,FRU 42 - 2021 Mercedes Benz Atego 1527F / Emergency One (#WX71 VJV)
 F44S,ORV,,Station Manager
-USAR Support Carrier,,,UVL03-4 - 2019 MAN TGE 4.180
+USAR Support Carrier,UVL,,UVL03-4 - 2019 MAN TGE 4.180
 Prime Mover 109,PM,,PM 109 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VOU)
 Prime Mover 124,PM,,PM 124 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VPT)
-USAR1 003,Structural Collapse Pod,,
-USAR2 003,Major Transport Pod,,
-USAR3 014,Support Pod,,
-USAR4 012,Multi-Purpose Vehicle Pod,,
-USAR5 010,Timber Pod,,
+,Structural Collapse Pod,,USAR1 003
+,Major Transport Pod,,USAR2 003
+,Support Pod,,USAR3 014
+,Multi-Purpose Vehicle Pod,,USAR4 012
+,Timber Pod,,USAR5 010
 ,,,
 F45,Plaistow,145 Prince Regent Lane,Built 2014
 F451,DPL,,DPL 315 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU70 AOG)
@@ -366,8 +367,8 @@ G221,DPL,,DPL 223 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F
 G222,DPL,,DPL 270 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU19 HZY)
 G22S,ORV,,Station Manager
 Prime Mover 092,PM,,PM 092 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VNW)
-MDR 006,Mass Decontamination Rerobe Pod,,
-MDD 016,Mass Decontamination Disrobe Pod,,
+,Mass Decontamination Rerobe Pod,,MDR 006
+,Mass Decontamination Disrobe Pod,,
 G23,Hillingdon,3-4 Uxbridge Road,Built 1964
 G231,DPL,,DPL 249 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WP68 TJV)
 G232,DPL,,DPL 293 - 2019 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WX69 ZBE)
@@ -421,7 +422,8 @@ G321,DPL,,DPL 330 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F
 G32S,ORV,,Station Manager
 Prime Mover 010,PM,,PM 010 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VLV)
 Prime Mover 040,PM,,PM 040 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VKJ)
-HVP DC44HA,High Volume Pump Pod,,
+,High Volume Pump Pod,,HVP DC44HA
+,,,
 G33,Kensington,13 Old Court Place,Built 1904
 G331,DPL,,DPL 222 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU18 FDO)
 G33S,ORV,,Station Manager
@@ -469,14 +471,15 @@ H21,Clapham,29 Old Town,
 H211,DPL,,DPL 301 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WX69 ZFO)
 H213,TL,,TL59A - 2020 Scania L360 Turntable Ladder / Emergency One / Magirus M32L-AS (2400/-/32M) (#EY20 YMK)
 H21S,ORV,,Station Manager
-H21X,DIM,,DIM 009 - 007 Iveco Daily / AES (#MX56 NHD)
-,DIM,,DIM 003 - 006 Iveco Daily / AES (#MX06 VBV)
+H21X,DIM,,DIM 009 - 007 Iveco Daily / AES (#MX56 NHD) - Home Office owned
+H21Z,DIM,,DIM 003 - 006 Iveco Daily / AES (#MX06 VBV) - Home Office owned
 ,,,
 H22,Lambeth,8 Albert Embankment,Built 1937
 H221,DPL,,DPL 193 - 2017 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU67 HLZ)
 H222,DPL,,DPL 255 - 2019 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WP68 TKE)
 H22S,ORV,,Station Manager
-AT2,,,DIM 102 - 2023 Iveco Daily 65C18 / Emergency One (#SP73 XUE)
+H22X,DIM,,DIM 102 - 2023 Iveco Daily 65C18 / Emergency One (#SP73 XUE) - LFB owned
+,,,
 ,,,
 H23,Lambeth River,Across from Lambeth Fire Station,Built 1992
 H23A,Fireboat,,ERRINGTON - 2022 Hollyhead Marine Landing Craft (2500/-)
@@ -502,14 +505,15 @@ H27,Battersea,11 Este Road,
 H271,DPL,,DPL 329 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU70 BPY)
 H276,FRU,,FRU 44 - 2021 Mercedes Benz Atego 1527F / Emergency One (#WX71 VJZ)
 H27S,ORV,,Station Manager
-,USAR Support Carrier,,UVL04-4 - 2019 MAN TGE 4.180
+USAR Support Carrier,UVL,,UVL04-4 - 2019 MAN TGE 4.180 (#DE70 EKE)
 Prime Mover 130,PM,,PM 130 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VRC)
 Prime Mover 131,PM,,PM 131 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VRD)
-USAR1 001,Structural Collapse Pod,,
-USAR2 013,Major Transport Pod,,
-USAR3 001,Support Pod,,
-USAR4 013,Multi-Purpose Vehicle Pod,,
-USAR5 011,Timber Pod,,
+,Structural Collapse Pod,,USAR1 001
+,Major Transport Pod,,USAR2 013
+,Support Pod,,USAR3 001
+,Multi-Purpose Vehicle Pod,,USAR4 013
+,Timber Pod,,USAR5 011
+,,,
 H28,Woodside,2 Long Lane,
 H281,DPL,,DPL 328 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU70 BPX)
 H28S,ORV,,Station Manager
@@ -525,11 +529,11 @@ H316,FRU,,FRU ?? - 2021 Mercedes Benz Atego 1527F / Emergency One
 H31S,ORV,,Station Manager
 Prime Mover 117,PM,,PM 117 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VPK)
 Prime Mover 118,PM,,PM 118 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VPL)
-USAR1 006,Structural Collapse Pod,,
-USAR2 009,Major Transport Pod,,
-USAR3 009,Support Pod,,
-USAR4 010,Multi-Purpose Vehicle Pod,,
-USAR5 013,Timber Pod,,
+,Structural Collapse Pod,,USAR1 006
+,Major Transport Pod,,USAR2 009
+,Support Pod,,USAR3 009
+,Multi-Purpose Vehicle Pod,,USAR4 010
+,Timber Pod,,USAR5 013
 ,,,
 H32,Norbury,1327 London Road,
 H321,DPL,,DPL 209 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU18 FBA)
@@ -575,7 +579,7 @@ H40,New Malden,180 Burlington Road,
 H401,DPL,,DPL 321 - 2020 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU70 BFK)
 H40S,ORV,,Station Manager
 Prime Mover 002,PM,,PM 002 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VLM)
-HVP DC02,High Volume Pump Pod,,
+,High Volume Pump Pod,,HVP DC02
 ,,,
 H41,Kingston,390 Richmond Road,
 H411,DPL,,DPL 242 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU68 LWY)
@@ -594,7 +598,7 @@ H431,DPL,,DPL 218 - 2018 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F
 H432,DPL,,DPL 269 - 2019 Mercedes Benz Atego 1327 / Emergency One (2000/1365/75F) (#WU19 HZX)
 H43S,ORV,,Station Manager
 Prime Mover 094,PM,,PM 094 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VNZ)
-MDU 002,Mass Decontamination Unit Pod,,
+,Mass Decontamination Unit Pod,,MDU 002
 ,,,
 ,Babcock Training Centre,25 Gemini Business Park Hornet Way,
 Prime Mover 034,PM,,PM 034 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VKC)
@@ -603,11 +607,11 @@ Prime Mover 097,PM,,PM 097 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VOC)
 Prime Mover 110,PM,,PM 110 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VOV)
 Prime Mover 125,PM,,PM 125 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VPU)
 Prime Mover 147,PM,,PM 147 - 2004 MAN 26.363 TG-A Hooklift Rigid (#WX54 VRY)
-HVP DC90,High Volume Pump Pod,,
-HVP DC96,High Volume Pump Pod,,
-USAR1 003,Structural Collapse Pod,,
-USAR2 001,Major Transport Pod,,
-USAR3 001,Support Pod,,
+,High Volume Pump Pod,,HVP DC90
+,High Volume Pump Pod,,HVP DC96
+,Structural Collapse Pod,,USAR1 003
+,Major Transport Pod,,USAR2 001
+,Support Pod,,USAR3 001
 ,MV,,MV 03T - 2017 Citroen Relay 35 L3H3 Blue HDI (#LJ67 AVZ)
 ,MV,,MV 02T - 2017 Citroen Relay 35 L3H3 Blue HDI (#LJ67 AVY)
 ,,,V 337 - 2017 Ford Transit Connect Trend (#LD17 AZN)
