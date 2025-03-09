@@ -32,24 +32,28 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 10/10-01	KdoW
 		Florian Lauenburg 10/11-01	ELW 1
 		Florian Lauenburg 10/12-01	ELW 2
-		Florian Lauenburg 10/18-01	MTW
 		Florian Lauenburg 10/25-01	TLF 4000
 		Florian Lauenburg 10/32-01	DLK 23/12
 		Florian Lauenburg 10/46-01	LF 20
 		Florian Lauenburg 10/48-01	HLF 20
 		Florian Lauenburg 10/48-03	HLF 20
+		Florian Lauenburg 10/59-01	GW-Hygiene
 		Florian Lauenburg 10/68-01	GW-L2
 		Florian Lauenburg 10/76-01	GW-ASG
+		Florian Lauenburg 10/78-01	RTB
 			
 	Geesthacht Nordwache	Mercatorstraße 14a	21502 Geesthacht
+		Florian Lauenburg 10/18-01	MTW
 		Florian Lauenburg 10/47-02	LF-KatS
 		Florian Lauenburg 10/48-02	HLF 20
+			NEA 100 KatS SH
 			
 	Grünhof-Tesperhude	Grünhofer Straße 50	21502 Geesthacht
 		Florian Lauenburg 10/14-11	MZF
 		Florian Lauenburg 10/18-11	MTW JF
 		Florian Lauenburg 10/44-11	LF 8/6
 		Florian Lauenburg 10/48-11	HLF 20/16
+		Florian Lauenburg 10/78-11	RTB
 			
 	Werkf. KKW Krümmel	Elbuferstraße 82	21502 Geesthacht
 		Florian Lauenburg 10/21-21	SLF 25/25
@@ -95,8 +99,8 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 			
 	Hamwarde	Dreiecksplatz 2	21502 Hamwarde
 		Florian Lauenburg 16/14-01	MZF
-		Florian Lauenburg 16/45-01	LF 8/6
 		Florian Lauenburg 16/46-01	LF 16
+		Florian Lauenburg 16/48-01	HLF 20
 			
 17	Wohltorf	Am Brink 5	21521 Wohltorf
 		Florian Lauenburg 17/18-01	MTW
@@ -105,18 +109,20 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 			AL 16/4 (AL 18)
 			
 18	Wentorf/HH	Fritz-Specht-Weg 3	21465 Wentorf bei Hamburg
+		Florian Lauenburg 18/10-01	KdoW
 		Florian Lauenburg 18/11-01	ELW 1
 		Florian Lauenburg 18/18-01	MTF
 		Florian Lauenburg 18/18-02	MTF
 		Florian Lauenburg 18/22-01	TLF 16/25
 		Florian Lauenburg 18/32-01	DLK 23/12
-		Florian Lauenburg 18/47-01	LF 16/12
-		Florian Lauenburg 18/48-01	LF 20/16
+		Florian Lauenburg 18/47-01	LF 20/16
+		Florian Lauenburg 18/48-01	LF 16/12
+		Florian Lauenburg 18/48-02	HLF 20-L
 			
 19	Aumühle	Bergstraße 9	21521 Aumühle
 		Florian Lauenburg 19/14-01	MZF
 		Florian Lauenburg 19/18-01	MTW
-		Florian Lauenburg 19/42-01	LF 8
+		Florian Lauenburg 19/47-01	LF 10
 		Florian Lauenburg 19/48-01	HLF 20
 			FwA-MZ
 			ÖSA
@@ -162,7 +168,7 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 25/40-01	TSF
 			
 26	Dalldorf	Hauptstraße 12	21483 Dalldorf
-		Florian Lauenburg 26/44-01	LF 8
+		Florian Lauenburg 26/44-01	LF 8/6
 			
 27	Basedow	Dorfstraße 10	21483 Basedow
 		Florian Lauenburg 27/14-01	MZF
@@ -222,10 +228,10 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 34/40-01	TSF
 			
 	Groß Pampau	Hauptstraße 28	21493 Groß Pampau
-		Florian Lauenburg 34/44-01	LF 8
+		Florian Lauenburg 34/44-01	LF 8/6
 			
 35	Fuhlenhagen	Dorfstraße 48a	21493 Fuhlenhagen
-		Florian Lauenburg 35/42-01	LF 8
+		Florian Lauenburg 35/41-01	TSF-W
 			
 36	Havekost	Lindenstraße	21493 Havekost
 		Florian Lauenburg 36/40-01	TSF
@@ -389,7 +395,10 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 60/51-01	RW 2
 		Florian Lauenburg 60/67-01	GW-L1
 		Florian Lauenburg 60/69-01	MZF-T
+		Florian Lauenburg 60/78-01	RTB 2
+		Florian Lauenburg 60/78-02	Boot
 		(Florian Lauenburg 03/72-03)	ReakErk (Mölln)
+			Stromerzeuger 67 kVA
 			
 61	Horst	Lehmrader Weg	23883 Horst
 		Florian Lauenburg 61/41-01	TSF-W
@@ -451,7 +460,7 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 70/11-01	ELW 1
 		Florian Lauenburg 70/18-01	MTW
 		Florian Lauenburg 70/18-02	MTW JF
-		Florian Lauenburg 70/22-01	TLF 16/25
+		Florian Lauenburg 70/24-01	LF 20/40
 		Florian Lauenburg 70/29-01	WaWe 9000
 		Florian Lauenburg 70/36-01	HAB 23/12
 		Florian Lauenburg 70/44-01	LF 8/6
@@ -461,7 +470,9 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 70/67-01	GW-Logistik
 		Florian Lauenburg 70/78-01	MZB Dorothea (Standort See)
 		Florian Lauenburg 70/78-02	RTB
-			7 Anhänger (diverse)
+			Anhänger Feldküche
+			Anhänger NEA 100 KatS SH
+			6 Anhänger (diverse)
 			
 71	Groß Grönau	Am Born 2	23627 Groß Grönau
 		Florian Lauenburg 71/11-01	ELW 1
@@ -475,9 +486,11 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 72/42-01	LF 8
 			
 73	Groß Sarau	Klempauer Straße 5	23627 Groß Sarau
+		Florian Lauenburg 73-14-01	MZF
 		Florian Lauenburg 73/47-01	LF 10 (2.000er Pumpe, 2.000l Wasser)
 		Florian Lauenburg 73/48-01	LF 16/12
-			RHS im Aufbau
+			Rettungshundestaffel
+			Drohne
 			
 74	Kittlitz	Niendorfer Straße 2	23911 Kittlitz
 		Florian Lauenburg 74/41-01	StLF 10/6
@@ -504,15 +517,16 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 		Florian Lauenburg 78/40-01	TSF
 			
 	Harmsdorf	Dorfstraße 4	23911 Harmsdorf
-		Florian Lauenburg 78/41-01	TSF-W
+		Florian Lauenburg 78/47-01	LF 10
 			
 79	Kulpin	Dorfstraße	23911 Kulpin
-		Florian Lauenburg 79/40-01	
+		Florian Lauenburg 79/40-01	TSF
 			
 	Einhaus	Hauptstraße 26a	23911 Einhaus
 		Florian Lauenburg 79/42-01	LF 8
 			
-80	Berkenthin	Am Schart 16	23919 Berkenthin
+80	Berkenthin	Rehmen 10	23919 Berkenthin
+			Neubau 2023, Drohnengruppe im Aufbau
 		Florian Lauenburg 80/11-01	ELW 1
 		Florian Lauenburg 80/18-01	MTF
 		Florian Lauenburg 80/46-01	LF 16/12
@@ -533,12 +547,12 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 84	Niendorf bei Berkenthin	Dörpstraat	23919 Niendorf b.Berkenthin
 		Florian Lauenburg 84/41-01	TSF-W
 			
-85	Göldenitz	Fliegenberg 19	23919 Göldenitz
-		Florian Lauenburg 85/40-01	TSF
+85	Göldenitz	Dorfstraße 21	23919 Göldenitz
+		Florian Lauenburg 85/41-01	TSF-W
 			
 86	Sierksrade	Steenkamp 1	23847 Sierksrade
+		Florian Lauenburg 86/14-01	MZF
 		Florian Lauenburg 86/41-01	StLF 10/6
-		Florian Lauenburg 86/46-01	TSF
 			
 87	Kastorf	Ratzeburger Straße 26a	23847 Kastorf
 		Florian Lauenburg 87/14-01	MZF
@@ -555,7 +569,7 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 	Sandesneben	Makenhorst 5a	23898 Sandesneben
 		Florian Lauenburg 90/18-01	MTF
 		Florian Lauenburg 90/40-02	TSF-Logistik
-		Florian Lauenburg 90/41-01	TSF-W
+		Florian Lauenburg 90/41-01	TSF-W/MLF
 		Florian Lauenburg 90/48-01	HLF 20
 			
 91	Steinhorst	Am Ziegelteich 1	23847 Steinhorst
@@ -610,7 +624,6 @@ Kennung	Feuerwehr	Funk	Fahrzeugtyp
 			
 99	Schönberg	Dorfstraße	22929 Schönberg
 		Florian Lauenburg 99/18-01	MTF
-		Florian Lauenburg 99/20-01	TLF 16/24-Tr
 		Florian Lauenburg 99/47-01	LF KatS SH
 		Florian Lauenburg 99/48-01	LF 20/16
 			
