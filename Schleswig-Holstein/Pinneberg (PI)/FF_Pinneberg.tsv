@@ -97,7 +97,7 @@ Florian Pinneberg 12-11-01	ELW 1	Mercedes Benz Sprinter	2007	PI-FH 1211
 Florian Pinneberg 12-18-01	MTF 1	Mercedes Benz Sprinter	2016	PI-FH 1218	
 Florian Pinneberg 12-19-01	MTF 2	Mercedes Benz Vito	2015	PI-FH 1219	
 Florian Pinneberg 12-23-01	TLF 16/25	MB ATEGO 1629 AF	2015	PI-FH 1223	2.000er Pumpe, 2.400l Wasser
-Florian Pinneberg 12-32-01	DLA(K) 23/12	MAN 15.285 LC	2003	PI-2383	
+Florian Pinneberg 12-32-01	DLA(K) 23/12	Mercedes Atego 1630 F	2020	PI-1232	
 Florian Pinneberg 12-44-01	LF 10	Mercedes Atego 1430 AFE	2020	PI-FH 1244	2.000er Pumpe, 1.600l Wasser
 Florian Pinneberg 12-46-01	LF 20/16	Mercedes Atego 1629 AF	2009	PI-LF 2006	2.100l Wasser
 Flroian Pinneberg 12-48-01	HLF 20	Mercedes Atego 1730 AF	2018		3.000er Pumpe, 1.800l Wasser
@@ -118,7 +118,7 @@ Florian Pinneberg 14-14-01	MZF Jugendfeuerwehr	Opel Movano	2006	PI-2514
 Florian Pinneberg 14-18-01	MTW Jugendfeuerwehr	VW Crafter		PI-JF 200	
 Florian Pinneberg 14-23-01	TLF 16/25			PI-2825	1.600er Pumpe, 2.500l Wasser
 Florian Pinneberg 14-42-01	LF 8	Mercedes-Benz 814 F	1994	PI-2883	800er Pumpe
-Florian Pinneberg 14-48-01	HLF 10	Mercedes-Benz Atego 1530 AF	2021		1.600l Wasser
+Florian Pinneberg 14-48-01	HLF 10	Mercedes-Benz Atego 1530 AF	2021	PI-FE 210	1.600l Wasser
 	FwA-Ölschaden			PI-2710	
 					
 15	Appen	Almtweg 21	25482 Appen		
@@ -443,6 +443,7 @@ Florian Pinneberg 72-18-01	MTW	VW	2012	PI-FW 7218
 Florian Pinneberg 72-22-01	TLF 16/25	MAN	2000	PI-2536	1.600er Pumpe, 2.800l Wasser
 Florian Pinneberg 72-44-01	LF 10/6	MB Atego	2008	PI-FW 72	2.000er Pumpe, 600l Wasser
 Florian Pinneberg 72-48-01	HLF 20	MB Atego	2020	PI-FW 7248	3.000er Pumpe, 2.000l Wasser
+Florian Pinneberg 72-69-01	NEA 45 kVA	Munz	2024	PI-FW 7269	Stromerzeuger, Lichtmast
 					
 73	Bönningstedt	Kieler Straße 83-87	25474 Bönningstedt		
 Florian Pinneberg 73-11-01	ELW 1	Mercedes Sprinter	2024	PI-FB 7311	
