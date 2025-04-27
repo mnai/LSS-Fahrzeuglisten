@@ -72,7 +72,7 @@ Florian Steinburg 10-10-01	KdoW
 Florian Steinburg 10-10-02	KdoW		
 Florian Steinburg 10-11-01	ELW 1		
 Florian Steinburg 10-18-01	MTW		
-Florian Steinburg 10-21-01	TLF 16/25		
+Florian Steinburg 10-22-01	TLF 3000	2024	3.000er Pumpe, 3.000l Wasser
 Florian Steinburg 10-32-02	DLK 23		
 Florian Steinburg 10-48-01	HLF 20/38		
 Florian Steinburg 10-48-02	HLF 20/20		
@@ -111,8 +111,8 @@ Florian Steinburg 14	FF Gehlensiel	Amt Horst-Herzhorn	Gehlensiel 9b 25379 Herzho
 Florian Steinburg 14-40-01	TSF		
 			
 Florian Steinburg 14	FF Herzhorn	Amt Horst-Herzhorn	Hinterstraße 21b, 25379 Herzhorn
-Florian Steinburg 14-40-02	TSF		
-Florian Steinburg 14-41-01	TSF-W		
+Florian Steinburg 14-41-01	MLF	2024	
+Florian Steinburg 14-41-02	TSF-W		
 			
 Florian Steinburg 15	FF Kollmar-Bielenberg	Amt Horst-Herzhorn	Wiesengrund 1, 25377 Kollmar
 Florian Steinburg 15-41-01	StLF 10-6		
@@ -120,7 +120,7 @@ Florian Steinburg 15-41-01	StLF 10-6
 Florian Steinburg 15	FF Langenhals	Amt Horst-Herzhorn	Moorhusen 55a 25377 Kollmar
 Florian Steinburg 15-41-02	TSF-W		
 			
-Florian Steinburg 16	FF Krempdorf	Amt Horst-Herzhorn	Dorfstraße ??, 25376 Krempdorf
+Florian Steinburg 16	FF Krempdorf	Amt Horst-Herzhorn	Dorfstraße 41, 25376 Krempdorf
 Florian Steinburg 16-40-01	TSF		
 			
 Florian Steinburg 17	FF Neuendorf b.E.	Amt Horst-Herzhorn	Moorhusen 7a, 25335 Neuendorf bei Elmshorn
@@ -134,7 +134,7 @@ Florian Steinburg 18-11-01	ELW
 Florian Steinburg 18-18-01	MTW		
 Florian Steinburg 18-41-03	MLF	1.000er Pumpe, 2.500l Wasser	
 Florian Steinburg 18-48-01	LF 16-12		
-Florian Steinburg 18-68-01	GW-L2	auch LF10-Logistik	
+Florian Steinburg 18-68-01	GW-L2	TSF-W Beladung + Logistik	
 			
 Florian Steinburg 18	FF Ridders	Amt Kellinghusen	Ridders 43 25551 Hohenlockstedt
 Florian Steinburg 18-44-01	LF 16-TS		
@@ -168,21 +168,21 @@ Florian Steinburg 25-41-02	StLF 10-6
 			
 Florian Steinburg 26	FF Horst	Amt Horst-Herzhorn	Elmshorner Str. 35, 25358 Horst
 Florian Steinburg 26-14-01	MZF		
+Florian Steinburg 26-22-01	TLF 3000 St.	2022	2.000er Pumpe, 3.000l Wasser
 Florian Steinburg 26-44-01	LF 8-6		
 Florian Steinburg 26-48-01	HLF 20		
-Florian Steinburg 26-48-02	LF 16-12		
 Florian Steinburg 26-59-01	sonGW		
-Florian Steinburg 26-69-01	sonLog		
+Florian Steinburg 26-69-01	GW-N sonLog		
 			
 Florian Steinburg 27	FF Kiebitzreihe	Amt Horst-Herzhorn	Hauptstraße 46, 25368 Kiebitzreihe
-Florian Steinburg 27-44-01	LF 8-6		
 Florian Steinburg 27-45-01	HLF 10-6		
+Florian Steinburg 27-47-01	LF 10	2024	2.000er Pumpe, 2.000l Wasser
 			
 Florian Steinburg 28	FF Grönland-Dückermühle	Amt Horst-Herzhorn	Grönland 56 25358 Sommerland
-Florian Steinburg 28-40-01	TSF		
+			Zusammenschluss mit Siethwende und Neubau geplant
 Florian Steinburg 28-40-02	TSF		
 			
-Florian Steinburg 28	FF Siethwende	Amt Horst-Herzhorn	Sommerland 2, 25358 
+Florian Steinburg 28	FF Siethwende	Amt Horst-Herzhorn	Sommerland 2, 25358 Sommerland
 Florian Steinburg 28-43-01	LF 8-6		
 			
 Florian Steinburg 30	FF Glückstadt	Stadt Glückstadt	Am Fleth 70, 25348 Glückstadt
@@ -207,10 +207,11 @@ Florian Steinburg 31-42-01	LF 8
 			
 Florian Steinburg 32	FF Heiligenstedten-Bekmünde	Amt Itzehoe-Land	Juliankadamm 11, 25524 Heiligenstedten
 Florian Steinburg 32-20-01	TLF 16-24		
-Florian Steinburg 32-44-01	LF 8-6		
-Florian Steinburg 32-44-02	LF 8-6		
+Florian Steinburg 32-42-01	LF 8-6		
+Florian Steinburg 32-48-01	HLF 10		
 			
 Florian Steinburg 33	FF Heiligenstedtenerkamp-Hodorf	Amt Itzehoe-Land	Dorfstraße 5A, 25569 Hodorf
+Florian Steinburg 33-14-01	MZF	2023	First Responder, Führungsfahrzeug, Logistik
 Florian Steinburg 33-40-01	TSF		
 Florian Steinburg 33-44-01	LF 8-6		
 			
@@ -244,13 +245,20 @@ Florian Steinburg 42	FF Peissen	Amt Itzehoe-Land	Obere Dorfstraße, 25551 Peisse
 Florian Steinburg 42-41-01	TSF-W		
 			
 Florian Steinburg 43	FF Kellinghusen	Amt Kellinghusen	Schulstraße 8, 25548 Kellinghusen
-Florian Steinburg 43-14-01	MZF		
-Florian Steinburg 43-22-01	TLF 16-25		
-Florian Steinburg 43-32-01	DLK 23		
-Florian Steinburg 43-45-01	LF 8-6		
-Florian Steinburg 43-48-01	HLF 20-16		
-Florian Steinburg 43-68-01	GW-L2		
-Florian Steinburg 43-69-01	sonLog		
+Florian Steinburg 43-10-01	KdoW	2025	Audi
+Florian Steinburg 43-11-01	ELW 1	2021	Mercedes
+Florian Steinburg 43-14-01	MZF	2003	Ford
+Florian Steinburg 43-32-01	DLK 23	2015	
+Florian Steinburg 43-45-01	LF 8-6	2003	Ersatz durch HLF10 geplant
+Florian Steinburg 43-48-01	LF 20/24 TH	2009	2.000er Pumpe, 2.400l Wasser
+Florian Steinburg 43-48-02	HLF 20	2024	3.000er Pumpe, 2.000l Wasser
+Florian Steinburg 43-68-01	GW-L2	2020	AS, Schlauch, Wasser, Hygiene, Lenzen,...
+Florian Steinburg 43-69-01	sonLog	2003	Ford
+	MTW	2009	Ford, ohne Funk
+	Anh NEA 100 kVA KatS-SH	2024	
+	Anh NEA 35 kVA	2016	Endress
+	Anh Jugendfeuerwehr	1997	
+	Mehrzweckboot	2019	Auf Schienentransport umrüstbar
 			
 Florian Steinburg 44	FF Auufer-Wittenbergen	Amt Breitenburg	Mühlenstraße 5c, 25548 Wittenbergen
 Florian Steinburg 44-40-01	TSF		
@@ -277,7 +285,7 @@ Florian Steinburg 50	FF Poyenberg	Amt Kellinghusen	Reihe 1, 25581 Poyenberg
 Florian Steinburg 50-41-01	TSF-W		
 			
 Florian Steinburg 51	FF Quarnstedt	Amt Kellinghusen	Schulstraße, 25563 Quarnstedt
-Florian Steinburg 51-44-01	LF 8/6		
+Florian Steinburg 51-14-01	MZF	2022	
 Florian Steinburg 51-47-01	LF 10		
 			
 Florian Steinburg 52	FF Rade	Amt Kellinghusen	Twiete 14 25579 Rade
@@ -362,7 +370,7 @@ Florian Steinburg 74-20-01	TLF 8-18
 Florian Steinburg 74-42-01	LF 8		
 			
 Florian Steinburg 75	FF Holstenniendorf	Amt Schenefeld	Hauptstraße, 25584 Holstenniendorf
-Florian Steinburg 75-44-01	LF 8-6		
+Florian Steinburg 75-42-01	LF 8-6		
 			
 Florian Steinburg 76	FF Looft	Amt Schenefeld	Raiffeisenstraße, 25582 Looft
 Florian Steinburg 76-40-01	TSF		
@@ -377,7 +385,7 @@ Florian Steinburg 79	FF Pöschendorf-Hadenfeld-Kaisborstel	Amt Schenefeld	Schuls
 Florian Steinburg 79-41-01	TSF-W		
 			
 Florian Steinburg 80	FF Puls	Amt Schenefeld	Schulstraße, 25560 Puls
-Florian Steinburg 80-44-01	LF 8-6		
+Florian Steinburg 80-42-01	LF 8-6		
 			
 Florian Steinburg 81	FF Reher	Amt Schenefeld	Bahnhofstraße, 25593 Reher
 Florian Steinburg 81-14-01 A	MZF		
@@ -400,7 +408,7 @@ Florian Steinburg 84-40-01	TSF
 Florian Steinburg 85	FF Wacken	Amt Schenefeld	Alter Markt, 25596 Wacken
 Florian Steinburg 85-14-01	MZF		
 Florian Steinburg 85-41-01	MLF		
-Florian Steinburg 85-44-01	LF 8-6		
+Florian Steinburg 85-42-01	LF 8-6		
 			
 Florian Steinburg 86	FF Warringholz	Amt Schenefeld	Seefelder Weg 18, 25560 Warringholz
 Florian Steinburg 86-41-01	TSF-W		
@@ -418,16 +426,16 @@ Florian Steinburg 88-41-01	TSF-W
 			
 Florian Steinburg 89	FF Beidenfleth	Amt Wilstermarsch	Deichreihe, 25573 Beidenfleth
 Florian Steinburg 89-14-01	MZF		
-Florian Steinburg 89-44-01	LF 8-6		
+Florian Steinburg 89-42-01	LF 8-6		
 			
 Florian Steinburg 90	FF Brokdorf	Amt Wilstermarsch	Dorfstraße, 25576 Brokdorf
 Florian Steinburg 90-11-01	ELW 1		
-Florian Steinburg 90-45-01	LF 8-6		
+Florian Steinburg 90-42-01	LF 8-6		
 Florian Steinburg 90-46-01	LF 20		
 Florian Steinburg 90-67-01	GW-L1		
 Florian Steinburg 90-78-01	MRB		
 			
-Florian Steinburg 92	FF Damfleth	Amt Wilstermarsch	Hochfeld 13, 25554 Dammfleth
+Florian Steinburg 92	FF Dammfleth	Amt Wilstermarsch	Hochfeld 13, 25554 Dammfleth
 Florian Steinburg 92-47-01	LF 10		
 			
 Florian Steinburg 93	FF Kudensee	Amt Wilstermarsch	Dörpstroot, 25572 Kudensee
@@ -443,7 +451,7 @@ Florian Steinburg 96	FF Neuendorf-Sachsenbande	Amt Wilstermarsch	Dückerstieg, 2
 Florian Steinburg 96-41-01	MLF		
 			
 Florian Steinburg 97	FF Nortorf	Amt Wilstermarsch	Schotten 11, 25554 Nortorf
-Florian Steinburg 97-44-01	LF 8-6		
+Florian Steinburg 97-42-01	LF 8-6		
 			
 Florian Steinburg 98	FF St. Margarethen	Amt Wilstermarsch	Wilhelm-Jensen-Weg 1a, 25572 Sankt Margarethen
 Florian Steinburg 98-14-01	MZF		
@@ -456,7 +464,7 @@ Florian Steinburg 99-20-01	TLF 8-18
 Florian Steinburg 99-41-01	TSF-W		
 Florian Steinburg 99-43-01	LF 10-6		
 			
-Florian Steinburg 29	Werkfeuerwehr Steinbeis Temming		
+Florian Steinburg 29	Werkfeuerwehr Steinbeis Papier GmbH		
 Florian Steinburg 29-42-01	LF 8		
 Florian Steinburg 29-44-01	LF 8/6		
 Florian Steinburg 29-59-01	sonGW		
