@@ -1,10 +1,10 @@
 Rettungsdienst im Landkreis Harburg		
 		
 		Aktuell wird der neue Rettungsdienstbedarfsplan umgesetzt, dadurch gibt es einen
-		provisorischen Standort an der FTZ in Hittfeld, dessen Fahrzeuge eigentlich an den Standort Seevetal sollen,
-		und Neubauten in Hanstedt und Tostedt und weitere Änderungen wie Zusatz-(N)KTW.
+		provisorischen Standort an der ehemaligen FF Hittfeld, dessen Fahrzeuge eigentlich an den Standort Seevetal sollen,
+		und weitere Änderungen wie Zusatz-(N)KTW.
 		
-Rettung? Harburg 97-08-01 ORGL		(silberner Caddy, Funktionskennung, unklar ob Fahrzeugkennung vorhanden)
+Rettung Harburg 97-08-01 ORGL		VW-Tiguan
 		LNA wird entweder von ORGL abgeholt oder fährt mit privatem PKW, selten MTW-Shuttle einer FF.
 		
 		
@@ -12,22 +12,22 @@ DRK RW Buchholz in der Nordheide	Steinbecker Straße 44	21244
 Rotkreuz Harburg 40-83-11	RTW	
 Rotkreuz Harburg 40-83-12	RTW	
 Rotkreuz Harburg 40-83-13	RTW	
-Rotkreuz Harburg 40-83-14	RTW	
 Rotkreuz Harburg 40-92-11	KTW	
+Rotkreuz Harburg 40-93-11	N-KTW	
 		
 Johanniter RW Elstorf	Lindenstraße 2a	21629 Neu Wulmstorf - Elstorf
 Akkon Harburg 50-83-21	RTW	
 Akkon Harburg 50-83-22	RTW	
-Akkon Harburg 50-83-23	RTW	taktische und technische Reserve, normalerweise nicht i.D.
+Akkon Harburg 50-83-23	RTW	taktische und technische Reserve, normalerweise nicht i.D., auch Akkon Harburg 55-83-01
 		
 DRK RW Seevetal	Helmstorfer Straße 25	21218 Seevetal
-Rotkreuz Harburg 40-82-01	NEF	(WL RK 596)
+Rotkreuz Harburg 40-82-01	NEF	
 Rotkreuz Harburg 40-83-31	RTW	
 Rotkreuz Harburg 40-83-32	RTW	
 Rotkreuz Harburg 40-83-33	RTW	
 		Die Wache wird ab Ende 2021 erweitert um den provisorischen Standort (s.u.) mit aufzunehmen
 		
-Provisorische DRK RW an der FTZ Hittfeld	Rieselwiesen 14	21218 Seevetal
+Provisorische DRK RW an der ehemaligen FF Hittfeld	Bahnhofstraße 17	21218 Seevetal
 Rotkreuz Harburg 40-83-81	RTW	7-15
 Rotkreuz Harburg 40-83-82	RTW	7-15
 Rotkreuz Harburg 40-92-81	KTW	7-15 (WL RK 538)
@@ -35,7 +35,7 @@ Rotkreuz Harburg 40-92-81	KTW	7-15 (WL RK 538)
 DRK RW Tostedt	Todtglüsingerstr. 1b	21255 Tostedt
 Rotkreuz Harburg 40-83-41	RTW	24h
 Rotkreuz Harburg 40-83-42	RTW	7-23
-	KTW	soll aus Buchholz verlegt werden
+Rotkreuz Harburg 40-92-41	KTW	aus Buchholz verlegt
 		Neubau direkt nördlich der Feuerwehr 08/2022 eröffnet
 		
 LK Harburg RW Elbmarsch	Brandhagen 1	21436 Marschacht
@@ -52,12 +52,10 @@ Rettung Harburg 90-83-72	RTW	24h
 Rettung Harburg 90-83-73	RTW	Mo-Do 7-17 Fr 7-19
 Rettung Harburg 90-92-71	KTW	Mo-Fr 6:30-14:30
 Rettung Harburg 90-92-72	KTW	Mo-Fr 8-19
+Rettung Harburg 90-93-71	N-KTW	7-19
 		
 JUH RW Buchholz	Rütgerstraße 3	21244 Buchholz in der Nordheide
 Akkon Harburg 50-92-12	KTW	Mo-Fr 8-16
-		
-DRK RW Hanstedt		
-Rotkreuz Harburg 90-92-91	KTW	24h
 		
 		
 Bereitschaften / SEGs im Landkreis Harburg		
@@ -68,66 +66,114 @@ Abschnitt Heide:
 		
 DRK OV Jesteburg	Zum Spritzenhaus 21	21266 Jesteburg
 Rotkreuz Harburg 44-83-20	RTW	
-Rotkreuz Harburg 44-94-20	KTW-4	
+Kater Harburg 84-94-20	KTW-4	
 		
 DRK OV Tostedt	Poststraße 16	21255 Tostedt
 Rotkreuz Harburg 44-17-40	MTW	
-Rotkreuz Harburg 44-93-40	NKTW	
-Rotkreuz Harburg 84-94-40	KTW-4	
-Rotkreuz Harburg 84-19-20	MTW	OV Jesteburg
+Rotkreuz Harburg 44-83-40	RTW	
+Kater Harburg 84-94-40	KTW-4	
 		
 DRK Standort Nenndorf	Langrehmer Weg 15	21224 Rosengarten (im FF Gebäude)
+Rotkreuz Harburg 44-11-01	ELW	OV Tostedt+Jesteburg, WL RK 4411
+Rotkreuz Harburg 44-17-20	MTW	OV Jesteburg
+Rotkreuz Harburg 44-93-30	N-KTW	OV Tostedt
 Rotkreuz Harburg 44-96-40	GW-MANV	OV Tostedt
-Rotkreuz Harburg 44-11-01	ELW	OV Tostedt, WL RK 4411
 		
 DRK Standort Buchholz	?	21244 Buchholz
-Rotkreuz Harburg 44-17-20	MTW	OV Jesteburg
 Rotkreuz Harburg 44-96-20	GW-San	OV Jesteburg
 Rotkreuz Harburg 44-99-20	Argo	OV Jesteburg, Geländefahrzeug (WL RK 4499)
 		
 Abschnitt Elbe:		
 		
-DRK OV Winsen	Rote- Kreuz-Straße 5	21423 Winsen
+DRK OV Winsen	Benzstraße 18	21423 Winsen, Neubau 2023
 Rotkreuz Harburg 45-11-01	ELW	
 Rotkreuz Harburg 45-17-70	MTW	
 Rotkreuz Harburg 45-19-70	MTW	
+Rotkreuz Harburg 45-59-70	GW-TuS	
+Rotkreuz Harburg 45-64-70	GW-Logistik	
 Rotkreuz Harburg 45-83-70	RTW	
-Kater Harburg 45-94-70	KTW-4	
+Kater Harburg 84-94-70	KTW B ZS	
 Rotkreuz Harburg 45-96-70	GW-San	Neufahrzeug 2021
 		
 JUH OV Seevetal	Am Blöcken 14	21217 Seevetal
 Akkon Harburg 55-10-01	Kdow	
+Akkon Harburg 55-10-02	Kdow	
 Akkon Harburg 55-11-01	ELW	
 Akkon Harburg 55-17-01	MTW	
-Akkon Harburg 55-68-01	GW-Log	
-Akkon Harburg 55-75-01	GW-Tech	
-Akkon Harburg 55-83-01	RTW	WL JU 8322, MANV-T JUH
-Akkon Harburg 55-93-01	KTW	MANV-T JUH
+Akkon Harburg 55-17-02	MTW	
+Akkon Harburg 55-66-01	WLF	2025
+Akkon Harburg 55-74-01	GW-Betreuung	
+Akkon Harburg 55-83-01	RTW	WL JU 8322, MANV-T JUH, in Elstorf
+Akkon Harburg 55-93-01	KTW	
 Akkon Harburg 55-96-01	GW-San	
-Akkon Harburg 55-69-xx	3x Krad	
-Kater Harburg 85-16-01	MTW	
+Akkon Harburg 55-79-xx	3x Krad	
 Kater Harburg 85-64-01	GW-Verpflegung	
 Kater Harburg 85-94-01	KTW-4	MANV-T JUH
 	Anhänger FKH	
 	Kühlanhänger	
+	Anhänger-NEA	
+	AB-Logistik	
 		
 JUH OV Salzhausen	Bahnhofstraße 5	21376 Salzhausen
 Akkon Harburg 56-17-61	MTW	
-Akkon Harburg 56-63-11	GW	Rettungshundestaffel?
-Akkon Harburg 56-93-61	KTW	(MANV-T JUH)
+Akkon Harburg 56-63-11	GW-Rettungshunde	
+Akkon Harburg 56-93-61	N-KTW	(MANV-T JUH)
 		
 JUH OV Buchholz	Rütgersstraße 3	21244 Buchholz
-Akkon Harburg 56-17-11	MTW	
-Akkon Harburg 56-19-11	MTW-Krisenintervention	
+Sanitätsgruppe		
 Akkon Harburg 56-83-11	RTW	WL JU 8321, MANV-T JUH
 Akkon Harburg 56-96-11	GW-San	
+Kater Harburg 85-16-01	MTW	
+Krisenintervention		
+Akkon Harburg 56-17-12	MTW	Standort Winsen
+Akkon Harburg 56-19-11	MTW	Standort FTZ
+Akkon Harburg 56-19-12	MTW	
+Weiteres		
+Akkon Harburg 56-93-11	KTW	
 	Betreuungs-Anhänger	
 		
 DRK OV Neu Wulmstorf	Wulmstorfer Straße 92-94	21629 Neu Wulmstorf
 Rotkreuz Harburg 45-16-25	MTW / Betreuungskombi	
+Rotkreuz Harburg 45-17-70	Bt-Kombi	
 Rotkreuz Harburg 45-64-25	GW-Logistik	
 Rotkreuz Harburg 45-69-25	GW-Küche	
 Rotkreuz Harburg 45-74-25	GW-Betreuung	
 Rotkreuz Harburg 45-93-25	NKTW	
 	Betreuungsanhänger	
 	Modul- Feldküche	
+		
+DLRG OG Winsen/Luhe	Hoopter Elbdeich 13	21423 Winsen
+Pelikan Harburg 71-10-01	KdoW	
+Pelikan Harburg 71-17-01	MTW	
+Pelikan Harburg 71-58-01	GW-WR	
+Pelikan Harburg 71-xx-xx	Technik/Logistik	
+Pelikan Harburg 71-78-01	MRB	Seebär
+Pelikan Harburg 71-78-02	MRB	Seeadler
+Pelikan Harburg 71-78-03	MRB	Seefalke
+		
+DLRG OG Seevetal	Peperdiekshöhe 4	21218 Seevetal
+Pelikan Harburg 72/11-01	ELW	
+Pelikan Harburg 72/58-01	GW Wasserrettung	
+Pelikan Harburg 72/78-01	MZB	Hol em rut
+		
+DLRG OG Buchholz	Holzweg 12	21244 Buchholz in der Nordheide
+Pelikan Harburg 73-57-01	MTW	
+		
+DLRG OG Neu Wulmstorf	Wulmstorfer Straße 100	21629 Neu Wulmstorf
+Pelikan Harburg 74-17-01	MTW	
+Pelikan Harburg 74-17-02	MTW	
+Pelikan Harburg 74-58-01	GW-W	
+Pelikan Harburg 74-79-01	Schlauchboot	
+Pelikan Harburg 74-79-02	MZB	
+Pelikan Niedersachsen 75-64-91	GW-V	 
+	Geräteanhänger KatS	
+		
+DLRG OG Elbmarsch	Howisch 10	21423 Drage-Mover
+Pelikan Harburg xx/xx	MTW	
+		
+DLRG OG Tostedt	Am Freibad 14	21255 Tostedt
+Pelikan Harburg 76-17-01	MTW	
+Pelikan Harburg 76-96-01	GW-San	
+		
+DLRG OG Maschen	Höhenkamp 11a	21220 Seevetal
+Pelikan Harburg 77-17-01	MTW	
