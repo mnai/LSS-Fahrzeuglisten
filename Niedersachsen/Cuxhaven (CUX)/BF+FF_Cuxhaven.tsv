@@ -43,6 +43,7 @@ FF CUXHAVEN OF SAHLENBURG	Spanger Straße 14	27476 Cuxhaven
 Florian Cuxhaven 04/17-02	MTF	
 Florian Cuxhaven 04/20-02	TLF 8-W	
 Florian Cuxhaven 04/45-01	LF 10/6	
+Florian Cuxhaven 04/62-01	GW-L2	vorher Lüdingworth
 	AB-Mulde	liegt nur hier, für Sandsäcke bei Hochwasser, gehört aber zu OF Döse
 		
 FF CUXHAVEN OF HOLTE-SPANGEN	Im Dorf 3	27476 Cuxhaven
@@ -62,8 +63,8 @@ Florian Cuxhaven 06/51-01	RW
 		
 FF CUXHAVEN OF LÜDINGWORTH	Süderende 4	27478 Cuxhaven
 Florian Cuxhaven 07/17-01	MTF	
-Florian Cuxhaven 07/45-01	LF 10	
-Florian Cuxhaven 07/62-01	GW-L2	
+Florian Cuxhaven 07/41-01	TSF-W	vorher Stickenbüttel
+Florian Cuxhaven 07-44-01	LF-KatS	Neufahrzeug 2024
 		
 FF CUXHAVEN OF ALTENBRUCH	Friedhofstraße 2-3	27478 Cuxhaven
 Florian Cuxhaven 07/17-02	MTF	
@@ -73,7 +74,7 @@ Florian Cuxhaven 07/48-02	HLF 20
 FF CUXHAVEN OF STICKENBÜTTEL	Windeichenweg 4c	27476 Cuxhaven
 Florian Cuxhaven 08/17-01	MTF	
 Florian Cuxhaven 08/20-01	TLF 8/18	
-Florian Cuxhaven 08/41-01	TSF-W	
+Florian Cuxhaven 08/45-01	LF 10	vorher Lüdingworth
 		
 FF CUXHAVEN OF DUHNEN	Rugenbargsweg 7	27476 Cuxhaven
 Florian Cuxhaven 08/17-02	MTF	
@@ -89,7 +90,7 @@ Florian Cuxhaven 10/43-02	LF 10
 		
 FF SG LAND HADELN OF NEUENKIRCHEN	Dorfstraße 47	21765 Neuenkirchen
 Florian Cuxhaven 10/11-03	ELW	
-Florian Cuxhaven 10/21-03	TLF 2000	
+Florian Cuxhaven 10/21-03	TLF 3000	
 Florian Cuxhaven 10/43-03	LF 8	
 		
 FF SG LAND HADELN OF NORDLEDA	Otterndorfer Str 11	21765 Nordleda
@@ -150,7 +151,7 @@ Florian Cuxhaven 12/21-06	TLF 16/24 Tr
 Florian Cuxhaven 12/43-06	LF 8	
 	Rettungsboot	
 		
-FF SG LAND HADELN OF OBERNDORF GH BENTWISCH	Bentwisch	211787 Oberndorf
+FF SG LAND HADELN OF OBERNDORF GH BENTWISCH	Bentwisch	21787 Oberndorf
 Florian Cuxhaven 12/40-07	TSF	
 		
 FF SG LAND HADELN OF OBERNDORF GH OBERNDORF	Hoffmann-von-Fallersleben-Straße 10	21787 Oberndorf
@@ -167,8 +168,11 @@ Florian Cuxhaven 12/43-09	LF 8/6
 Florian Cuxhaven 12/68-09	GW-Logistik	
 		
 		
-FF SG HEMMOOR OF ALTHEMMOOR		
-keine Angaben gefunden		
+FF SG HEMMOOR OF ALTHEMMOOR	Lindenstraße 23	21745 Hemmoor
+Florian Cuxhaven 14/11-01	ELW	
+Florian Cuxhaven 14/41-01	TSF-W	
+Florian Cuxhaven 14/59-01	GW-Öl	
+		gemeinsamer Neubau mit Westersode, Dorfstraße 21c
 		
 FF SG HEMMOOR OF BASBECK	Rosenthalweg 3	21745 Hemmoor
 Florian Cuxhaven 14/11-02	ELW	
@@ -181,8 +185,8 @@ Florian Cuxhaven 14/45-03	LF 10/6 A
 Florian Cuxhaven 14/63-03	MZF	
 	FwA-Schlauch	Zugfahrzeug Florian Cuxhaven 14/17-03
 		
-FF SG HEMMOOR OF HEEßEL		
-keine Angaben gefunden		
+FF SG HEMMOOR OF HEEßEL	Achtern Barg 2	21745 Hemmoor
+Florian Cuxhaven 14/41-03	TSF-W	
 		
 FF SG HEMMOOR OF KLINT	Landstraße 59 a	21755 Hechthausen
 Florian Cuxhaven 14/40-05	TSF	
@@ -193,20 +197,25 @@ Florian Cuxhaven 14/77-06	RTB
 Florian Cuxhaven 81/47-06	LF 20	
 		
 FF SG HEMMOOR OF WARSTADE	Holzstraße 23	21745 Hemmoor
-Florian Cuxhaven 14/11-07	ELW 1/MTW	
+Florian Cuxhaven 14/11-07	ELW 1	
 Florian Cuxhaven 14/23-07	TLF 16/25	
-Florian Cuxhaven 14/43-07	LF 8	a.D.
+Florian Cuxhaven 14/45-07	LF 10	
+Florian Cuxhaven 81/73-07	GW-G	
 		
 FF SG HEMMOOR OF WESTERSODE	Dorfstraße 45	21745 Hemmoor
 Florian Cuxhaven 14/41-08	TSF-W	
 Florian Cuxhaven 14/61-08	SW 1000	
+		gemeinsamer Neubau mit Althemmoor, Dorfstraße 21c
 		
 		
-FF SG BÖRDE LAMSTEDT OF ABBENSETH	Alte Dorfstraße 13	21769 Hollnseth
+FF SG BÖRDE LAMSTEDT OF ABBENSETH	Am Sportplatz 3	21769 Hollnseth-Abbenseth
 Florian Cuxhaven 15/40-01	TSF	
 		
 FF SG BÖRDE LAMSTEDT OF ARMSTORF	Bruchwiese 2	21769 Armstorf
 Florian Cuxhaven 15/42-02	LF 8/6	
+		
+FF SG BÖRDE LAMSTEDT OF DORNSODE	Dorfstraße 7	21769 Armstorf
+Florian Cuxhaven 15/40-03	TSF	
 		
 FF SG BÖRDE LAMSTEDT OF HOLLEN	Schulstraße 10	21769 Hollen
 Florian Cuxhaven 15/45-04	LF 10/6	
@@ -227,7 +236,7 @@ FF SG BÖRDE LAMSTEDT OF NINDORF	Dorfstr. 14	21769 Lamstedt
 Florian Cuxhaven 15/40-08	TSF	
 Florian Cuxhaven 15/61-08	SW 1000	
 		
-FF SG BÖRDE LAMSTEDT OF NORDAHN	Westerende 6	21770 Mittelstenahe
+FF SG BÖRDE LAMSTEDT OF NORDAHN	Auf dem Berge 2 / Op' n Kamp	21770 Mittelstenahe
 Florian Cuxhaven 15/43-09	LF 8	
 		
 FF SG BÖRDE LAMSTEDT OF STINSTEDT	Hauptstr. 11	21772 Stinstedt
@@ -241,14 +250,17 @@ Florian Cuxhaven 20/41-01	TSF-W
 FF WURSTER NORDSEEKÜSTE OF CAPPEL-NEUFELD	Cappel-Neufelder Sieltrift 15	27639 Wurster Nordseeküste
 Florian Cuxhaven 20/40-02	TSF	
 		
+FF WURSTER NORDSEEKÜSTE OF DEICHSENDE	Feuerweg 49a	27637 Nordholz
+Florian Cuxhaven 20/21-03	TLF 8/18	
+Florian Cuxhaven 20/46-03	HLF 10	
+		
 FF WURSTER NORDSEEKÜSTE OF DORUM	Gröpelstraße 5	27639 Wurster Nordseeküste
 Florian Cuxhaven 20/11-04	ELW 1	
 Florian Cuxhaven 20/24-04	TLF 16/25	
 Florian Cuxhaven 20/43-04	LF 8	
-Florian Cuxhaven 20/59-04	GW-Z	
+Florian Cuxhaven 82/64-04	GW-L	auch Drohnenstaffel mit Multikopter
 	Mehrzweckanhänger	
-	Boot mit Außenbordmotor	
-	Schlauchanhänger	
+	Anh NEA 60 kVA + Lichtmast	
 		
 FF WURSTER NORDSEEKÜSTE OF MIDLUM	Specken	27639 Midlum
 Florian Cuxhaven 20-19-05	MZF	
@@ -298,13 +310,27 @@ Florian Cuxhaven 24-21-12	TLF 16/24
 Florian Cuxhaven 24-48-12	HLF 20	
 Florian Cuxhaven 24-64-12	GW-L	
 Florian Cuxhaven 24-72-12	LKW Dekon-P	
+	Rettungsboot	
 		
 FF GEESTLAND OF DEBSTEDT	An der alten Mühle 11	27607 Langen
 Florian Cuxhaven 24-45-13	LF 8/6	
-Florian Cuxhaven 24-62-13	WLF als GW-L2	
+Florian Cuxhaven 24-62-13	WLF	
+	AB-Schlauch	
+	AB-Mulde/Plane	
+		
+FF GEESTLAND OF DRANGSTEDT	Reitwiesenstraße	27624 Drangstedt
+Florian Cuxhaven 24/17-14	MTW	
+Florian Cuxhaven 24/43-14	LF 8	
+		
+FF GEESTLAND OF ELMLOHE	Geesteallee 16	27624 Geestland
+Florian Cuxhaven 24/41-15	MLF	
+Florian Cuxhaven 24/71-15	ABC-ErkKW	
+		
+FF GEESTLAND OF FICKMÜHLEN	Fickmühlener Straße 42	27624 Geestland
+Florian Cuxhaven 24/40-16	TSF	
 		
 FF GEESTLAND OF FLÖGELN	Flögelinger Str. 58	27624 Flögeln
-keine Angaben gefunden		
+Florian Cuxhaven 24/43-17	LF 8 (Allrad)	
 		
 FF GEESTLAND OF GROSSENHAIN	Karkhoffstroot 3	27624 Geestland
 Florian Cuxhaven 24/40-18	TSF	
@@ -315,7 +341,7 @@ Florian Cuxhaven 24/45-19	LF 10/6
 	FwA-Schlauchhochbrücke	
 		
 FF GEESTLAND OF HYMENDORF	Hymendorfer Str. 73	27607 Langen
-Florian Cuxhaven xx/xx-xx	MTF	
+Florian Cuxhaven 24/17-20	MTF	
 Florian Cuxhaven 24/42-20	StLF 10/6	
 		
 FF GEESTLAND OF IMSUM	Alte Bahnhofstraße 36	27607 Langen
@@ -330,6 +356,10 @@ Florian Cuxhaven 24/46-22	HLF 10
 FF GEESTLAND OF KREMPEL	Hauptstr. 32	27607 Langen
 Florian Cuxhaven 24/45-23	LF 10/6	
 		
+FF GEESTLAND OF KÜHRTSTEDT/ALFSTEDT	Dorfstraße 8-10	27624 Geestland
+Florian Cuxhaven 24-41-24	TSF-W	
+Florian Cuxhaven 24-40-24	TSF	
+		
 FF GEESTLAND OF LANGEN	Imsumer Straße 18	27607 Langen
 Florian Cuxhaven 24-11-25	ELW 1	
 Florian Cuxhaven 24-17-25	MTF	
@@ -342,16 +372,16 @@ Florian Cuxhaven 82-73-25	GW-G
 Florian Cuxhaven 82-79-25	Quad	
 	FwA-Wasserwerfer	
 		
-FF GEESTLAND OF LINTIG	Feldstr. 1	27624 Lintig
+FF GEESTLAND OF LINTIG-MECKELSTEDT	Hüttenstraße 1	27624 Geestland
 Florian Cuxhaven 24-17-26	MTF	
+Florian Cuxhaven 24-40-26	TSF	
 Florian Cuxhaven 24-41-26	MLF	
+	FwA-Jugendfeuerwehr	
 		
 FF GEESTLAND OF MECKELSTEDT	Meckelstedter Str. 19	27624 Lintig
-Florian Cuxhaven 24-40-27	TSF	
+		01.02.2019 mit Lintig fusioniert
 		
-FF GEESTLAND OF NEUENWALDE		
-Florian Cuxhaven 24/21-28	TLF 20/24	
-Florian Cuxhaven 24/46-28	HLF 10	
+FF GEESTLAND OF NEUENWALDE	Holßeler Weg 25	27607 Langen
 Florian Cuxhaven 24/21-28	TLF 20/24	
 Florian Cuxhaven 24/46-28	HLF 10	
 		
@@ -363,27 +393,41 @@ Florian Cuxhaven 24/17-30	MTW
 Florian Cuxhaven 24/42-30	MLF	
 		
 		
-FF SCHIFFDORF OF GEESTENSETH	Hollbreek 2	27619 Schiffdorf
-Florian Cuxhaven 26/11-xx	ELW	
-Florian Cuxhaven 26/41-xx	TSF-W	
-Florian Cuxhaven 26/48-xx	HLF 20	
+FF SCHIFFDORF OF ALTLUNEBERG	Schiffstellendamm 9	27619 Schiffdorf
+Florian Cuxhaven 26/41-10	TSF-W	
 		
-FF SCHIFFDORF OF SCHIFFDORF	Bismarckstraße 12	27619 Schiffdorf
-Florian Cuxhaven 26/11-02	ELW 1/MTW	
+FF SCHIFFDORF OF BRAMEL	Dahlfordel 5	27619 Schiffdorf
+Florian Cuxhaven 26/43-11	LF 8	
+		
+FF SCHIFFDORF OF GEESTENSETH	Hollbreek 2	27619 Schiffdorf
+Florian Cuxhaven 26/11-12	ELW	
+Florian Cuxhaven 26/41-12	TSF-W	
+Florian Cuxhaven 26/48-12	HLF 20	
+		
+FF SCHIFFDORF OF SPADEN LG LAVEN	Ak Eekewehr 5	27619 Schiffdorf
+Florian Cuxhaven 26/40-xx	TSF	
+		
+FF SCHIFFDORF OF SCHIFFDORF	Brameler Straße 49	27619 Schiffdorf
+Florian Cuxhaven 26/17-14	MTW	Drohnengruppe
 Florian Cuxhaven 26/23-14	TLF 16/25	
-Florian Cuxhaven 26/48-xx	HLF 20	
+Florian Cuxhaven 26/48-14	HLF 20	
+Florian Cuxhaven 82/64-14	GW-L	Mercedes 816d, vorher Spaden
 		
 FF SCHIFFDORF OF SELLSTEDT	Große Str. 12	27619 Schiffdorf
 Florian Cuxhaven 26/11-01	ELW 1	
 Florian Cuxhaven 26/45-15	LF 10/6	
 		
 FF SCHIFFDORF OF SPADEN	Friesenstraße 9	27619 Schiffdorf
-Florian Cuxhaven 26/24-16	TLF 16/25	TH
+Florian Cuxhaven 26-11-02	ELW	
+Florian Cuxhaven 26/24-16	TLF 16/25	TH Beschaffung HLF 20 geplant
 Florian Cuxhaven 26/45-16	LF 10/6	
-Florian Cuxhaven 82/64-16	GW-L	
+		
+FF SCHIFFDORF OF WEHDEL	An der Schule 2	27619 Schiffdorf
+Florian Cuxhaven 26/17-17	MTF	
+Florian Cuxhaven 26/45-17	LF 10/6	
 		
 FF SCHIFFDORF OF WEHDEN	Hajenweg 8	27619 Schiffdorf
-Florian Cuxhaven 26/45-xx	LF 8/6	
+Florian Cuxhaven 26/45-18	LF 8/6	
 		
 		
 FF BEVERSTEDT OF ALTWISTEDT	Zur Schmiede 5	27616 Beverstedt
@@ -415,19 +459,19 @@ FF Beverstedt OF Heerstedt	Wesermünder Straße 30	27616 Beverstedt
 Florian Cuxhaven 30/17-16	MTF	
 Florian Cuxhaven 30/45-16	LF 8/6	
 		
-FF Beverstedt OF Hollen		
-Florian Cuxhaven 30/40-1x	TSF	2021 aus Wollingst übernommen
+FF Beverstedt OF Hollen	Schuldamm 30	27616 Beverstedt
+Florian Cuxhaven 30/40-18	TSF	2021 aus Wollingst übernommen
 		
 FF BEVERSTEDT OF KIRCHWISTEDT	Bergstraße 1	27616 Beverstedt
 Florian Cuxhaven 30/40-19	TSF	
 		
-FF Beverstedt OF Lunestedt	Gewerbepark 20	27616 Beverstedt
+FF Beverstedt OF Lunestedt	Gewerbekamp 20	27616 Beverstedt
 Florian Cuxhaven 30/17-20	MTW	
 Florian Cuxhaven 30/20-20	TLF 8/18	
 Florian Cuxhaven 30/46-20	HLF 10	
 		
 FF Beverstedt OF Osterndorf	Ahrensdamm 1	27616 Beverstedt
-Florian Cuxhaven 30/40/21	TSF	
+Florian Cuxhaven 30/40-21	TSF	
 		
 FF BEVERSTEDT OF STUBBEN	Bahnhofstraße 84	27616 Beverstedt
 Florian Cuxhaven 30/17-22	MTW	
@@ -437,6 +481,7 @@ FF BEVERSTEDT OF WEHLDORF	Wehldorfer Straße 30a	27616 Beverstedt
 Florian Cuxhaven 30/40-23	TSF	
 		
 FF BEVERSTEDT OF WELLEN	Dehn-Misselhorn-Weg 1	27616 Beverstedt
+Florian Cuxhaven 30/17-24	MTW	
 Florian Cuxhaven 30/40-24	TSF	
 		
 FF Beverstedt OF Wollingst	Wollingster Dorfstraße 7	27616 Beverstedt
@@ -463,6 +508,9 @@ Florian Cuxhaven 32/10-31	KdoW
 Florian Cuxhaven 32/20-31	TLF 8/18	
 Florian Cuxhaven 32/46-31	HLF 10 Varus	
 		
+FF HAGEN I.B. OF HEINE	Hagener Str. 15a	27628 Wulsbüttel
+Florian Cuxhaven 32/40-31	TSF	
+		
 FF HAGEN I.B. OF WULSBÜTTEL	Lindenstr. 5	27628 Wulsbüttel
 Florian Cuxhaven 32/41-32	TSF-W	
 		
@@ -478,6 +526,11 @@ Florian Cuxhaven 32/40-41	TSF
 FF HAGEN I.B. OF DRIFTSETHE	Auf dem Heidland 2	27628 Driftsethe
 Florian Cuxhaven 32/41-41	TSF-W	
 		
+FF HAGEN I.B. OF BRAMSTEDT	Auf der Loge	27628 Bramstedt
+Florian Cuxhaven 32/43-51	LF 8	
+Florian Cuxhaven 82/62-51	GW-L (2000m B)	
+	Anhänger Beleuchtung 60 kVA	
+		
 FF HAGEN I.B. OF WITTSTEDT	Kastanienweg 1	27628 Bramstedt
 Florian Cuxhaven 32/41-51	TSF-W	
 		
@@ -485,7 +538,7 @@ FF HAGEN I.B. OF LOHE	Hauptstr. 6	27628 Bramstedt
 Florian Cuxhaven 32/40-52	TSF	
 		
 FF HAGEN I.B. OF HARRENDORF		
-Florian Cuxhaven 32/40-52	TSF	
+Florian Cuxhaven 32/40-53	TSF	
 		
 FF HAGEN I.B. OF ALBSTEDT	Unter den Linden 5 a	27628 Wulsbüttel
 Florian Cuxhaven 32/40-61	TSF	
@@ -496,6 +549,8 @@ Florian Cuxhaven 32/41-62	TSF-W
 Freiwillige Feuerwehr Wurtfleth		
 		Im September 2021 schlossen sich die Wehren Offenwarden, Wersabe und Wurthfleth zur Ortsfeuerwehr Süderosterstade zusammen.
 		
+FF LOXSTEDT OF BEXHÖVEDE	Lindenallee 36	27612 Loxstedt
+Florian Cuxhaven 34-45-11	LF10/10	
 		
 FF LOXSTEDT OF BÜTTEL/NEUENLANDE	Zur neuen Lune 1	27612 Loxstedt
 Florian Cuxhaven 34-40-12	TSF	
@@ -505,28 +560,22 @@ Florian Cuxhaven 34-11-1	ELW 1
 Florian Cuxhaven 34-43-13	LF 8	
 Florian Cuxhaven 34-49-13	HLF 20/24	
 		
+FF LOXSTEDT OF DONNERN	Dorfstraße 31	27612 Loxstedt
+Florian Cuxhaven 34-40-15	TSF	
+		
 FF Loxstedt OF Düring	Uhlandstraße 1	27612 Loxstedt
 Florian Cuxhaven 34/17-16	MTW	
 Florian Cuxhaven 34/40-16	TSF	
 	Anhänger Transport	
 		
-FF LOXSTEDT OF STINSTEDT	Alte Schulstr. 7	27612 Loxstedt
-Florian Cuxhaven 34-40-24	TSF	
+FF LOXSTEDT OF FLEESTE	Knipweg 1	27612 Loxstedt
+Florian Cuxhaven 34-40-17	TSF	
 		
-FF LOXSTEDT OF STOTEL	An der Feuerwache 1	27612 Stotel
-Florian Cuxhaven 34/10-25	Kdow	
-Florian Cuxhaven 34/29-25	TLF 3000	4.100l Wasser, 8 Personen
-Florian Cuxhaven 34/43-25	LF 8	
-Florian Cuxhaven 34/54-25	RW	
-Florian Cuxhaven 34/77-25	Boot	
-Florian Cuxhaven 83/79-25	Quad	
+FF LOXSTEDT OF HAHNENKNOOP	Am Denkmal 21	27612 Loxstedt
+Florian Cuxhaven 34-41-18	TSF-W	
 		
-FF LOXSTEDT OF UETERLANDE/OVERWARFE	Oldenburger Str. 76	27612 Loxstedt
-Florian Cuxhaven 34-40-27	TSF	
-		
-FF LOXSTEDT OF NESSE	Am Kamp 1	27612 Loxstedt
-Florian Cuxhaven 34-40-22	TSF	
-		
+FF LOXSTEDT OF HOLTE	Holter Allee 37	27612 Loxstedt
+außer Dienst?		
 FF LOXSTEDT OF LOXSTEDT	Parkstraße 19	27612 Loxstedt
 Florian Cuxhaven 34/10-20	Kdow	
 Florian Cuxhaven 34/47-20	LF 20	
@@ -534,12 +583,28 @@ Florian Cuxhaven 34/48-20	HLF 20 CAFS
 Florian Cuxhaven 34/61-20	SW 1000	
 Florian Cuxhaven 34/68-20	GW-L2	
 		
-FF LOXSTEDT OF DONNERN	Dorfstr. 31	27612 Loxstedt
-Florian Cuxhaven 34-40-15	TSF	
+FF LOXSTEDT OF NESSE	Am Kamp 1	27612 Loxstedt
+Florian Cuxhaven 34-40-22	TSF	
 		
-FF Loxstedt OF Düring	Uhlandstr. 1	27612 Loxstedt
-Florian Cuxhaven 34/17-16	MTW	
-Florian Cuxhaven 34/40-16	TSF	
+FF LOXSTEDT OF SCHWEGEN	Schwegen 34b	27612 Loxstedt
+Florian Cuxhaven 34-43-23	LF 8	
+		
+FF LOXSTEDT OF STINSTEDT	Alte Schulstr. 7	27612 Loxstedt
+Florian Cuxhaven 34-40-24	TSF	
+		
+FF LOXSTEDT OF STOTEL	An der Feuerwache 1	27612 Stotel
+Florian Cuxhaven 34/10-25	Kdow	
+Florian Cuxhaven 34/29-25	TLF 3000	4.100l Wasser, 8 Personen
+Florian Cuxhaven 34/45-25	LF 10	
+Florian Cuxhaven 34/54-25	RW	
+Florian Cuxhaven 34/77-25	Boot	
+Florian Cuxhaven 83/79-25	Quad	
+		
+FF LOXSTEDT OF UETERLANDE/OVERWARFE	Oldenburger Str. 76	27612 Loxstedt
+Florian Cuxhaven 34-40-27	TSF	
+		
+FF LOXSTEDT OF WIEMSDORF	Wiemsdorfer Dorfstraße 33	27612 Loxstedt
+Florian Cuxhaven 34/41-28	TSF-W	
 		
 LK Cuxhaven FTZ Cadenberge	Tannenweg 2	21781 Cadenberge
 Florian Cuxhaven 81/17-01	MTW	
