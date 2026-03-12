@@ -31,11 +31,10 @@ Florian Bremen 01/72-13	KdoW
 Florian Bremen 01/72-15	KdoW	
 Florian Bremen 01/88-01	FwA-RTB 1	
 		
-Florian Bremen 01/18-01	GW-LRD	
-Florian Bremen 01/81-01	ITW	steht beim DRK Schwachhausen
 Florian Bremen 01/83-01	RTW 11	(P)
 Florian Bremen 01/83-10	RTW 12	(P-Res)
-Florian Bremen 10/07-02	KdoW LNA	
+Florian Bremen 01/83-30	I-RTW	Reserve
+Florian Bremen 10/07-02	KdoW LNA	beim Diensthabenden
 Florian Bremen 10/83-01	RTW 13	(Des-Tausch) (rot)
 Florian Bremen 10/83-02	RTW	(Des-Tausch) (rot)
 Florian Bremen 10/82-01	NEF Reserve	
@@ -53,16 +52,21 @@ Florian Bremen 02/29-01	FwA-P250
 Florian Bremen 02/88-02	FwA RTB-W	
 Florian Bremen 02/88-03	FwA RTB 2	
 		
+Florian Bremen 02/80-01	GW-Rett	MANV-Komponente
 Florian Bremen 02/83-01	RTW 21	
-Florian Bremen 02/83-02	RTW 22 Reserve	
-Florian Bremen 02/83-03	RTW 23 Primär-Reserve	
+Florian Bremen 02/83-02	RTW 22	
+Florian Bremen 02/83-03	RTW 23	
+Florian Bremen 02/83-05	Verlegungs-RTW	
+Florian Bremen 02/83-10	RTW Reserve	
+Florian Bremen 02/83-20	S-RTW	MAN TGL
+Florian Bremen 02/92-01	HanseSani	
+Florian Bremen 02/92-02	HanseSani Reserve	
 		
 FuRW 3	Osterholzer Heerstraße 75	28307 Bremen
 Florian Bremen 03/33-01	DLA (K) 23-12	
 Florian Bremen 03/43-01	HLF 20/16	
 Florian Bremen 03/72-01	KdoW	
 Florian Bremen 03/88-01	FwA-RTB	
-Florian Bremen 03/83-01	RTW	
 		
 FuRW 4	Woltmershauser Allee 1	28199 Bremen
 Florian Bremen 04/18-01	GW-L	
@@ -79,6 +83,7 @@ Florian Bremen 04/72-01	KdoW Abschnittsleiter
 Florian Bremen 04/72-02	KdoW	
 Florian Bremen 04/88-01	FwA-RTB	
 		
+Florian Bremen 04/80-01	GW-Rett	MANV-Komponente
 Florian Bremen 04/83-01	RTW 41 (P)	
 Florian Bremen 04/83-10	RTW Takt. Res. 4	
 		
@@ -107,14 +112,11 @@ Florian Bremen 05/72-01	KdoW-Abschnittsleiter
 Florian Bremen 05/74-01	Fw-Hub	
 Florian Bremen 05/88-01	FwA-RTB	
 		
+Florian Bremen 05/80-01	GW-Rett	MANV-Komponente
 Florian Bremen 05/83-01	RTW 51 (P)	
 Florian Bremen 05/83-10	RTW Takt. Res. 5 (P)	
-Florian Bremen 05/85-01	RTW-Sonder 1	
-Florian Bremen 05/85-02	RTW-Sonder 2	
-Florian Bremen 05/87-01	GRTW	
-Florian Bremen 05/69-24	AB-RD (MANV)	
-Florian Bremen 05/74-20	AB-Rett	Gerätekoffer Rettungszelle
-		4 RTW der Technischen Reserve FW5/1-5/4
+Florian Bremen 05/83-30	I-RTW	
+		
 Standort Kap-Hoorn-Straße:		
 Florian Bremen 05/69-27	Gabelstapler	
 Florian Bremen 05/69-96	AB-Trellboom-SEA	
@@ -144,6 +146,7 @@ Florian Bremen 06/72-02	KdoW GPZ
 Florian Bremen 06/72-03	KdoW GPZ	
 		
 Florian Bremen 06/83-01	RTW 61 (P)	
+Florian Bremen 06/83-02	RTW ASB	06:30-18:30
 Florian Bremen 06/83-10	RTW Takt. Res. 6(P)	
 		
 FuRW 7	Hochschulring 3	28359 Bremen
@@ -158,38 +161,38 @@ Florian Bremen 07/88-01	FwA-Boot
 		
 Florian Bremen 07/83-01	RTW	
 		
-Werkfeuerwehr Daimler AG Werk Bremen	Mercedesstraße 1	28309 Bremen
+Werkfeuerwehr Mercedes-Benz AG Werk Bremen	Mercedesstraße 1	28309 Bremen
 Florian Daimler 67/10-01	KdoW	
-Florian Daimler 67/10-02	KdoW	
+Florian Daimler 67/10-02	KdoW-E	
 Florian Daimler 67/11-01	ELW 1	
 Florian Daimler 67/36-01	TM 51	
 Florian Daimler 67/43-02	HLF 1	
 Florian Daimler 67/43-02	HLF 2	
 Florian Daimler 67/48-01	VLF	
 Florian Daimler 67/50-01	GW	
-Florian Daimler 67/59-01	WLF	
 Florian Daimler 67/65-01	WLF-Kran	
-	AB-Gefahrgut	
+	Teleskoplader	
+	AB-Havarie	
 	AB-Mulde	
 	FwA mit Wechselmodulen	z. B. CO², SWW, Ifex, Lenzpumpen, Schaummittel
 		
 Werkfeuerwehr Airbus Deutschland Gmbh	Airbus Allee 1	28199 Bremen
 1	HLF 3000	
-2	LF	Poolfahrzeug ex Hamburg HLF mit Werfer
+2	LF 20	Poolfahrzeug ex Hamburg HLF mit Werfer
 3	RTW	
 4	MZF	
 	FwA-MZ	
 	Anh. Stromerzeuger Knurz	
 	2 Anh. Stromerzeuger GEKO 15 kVA	
 		
-Werkfeuerwehr ArcelorMittal Bremen GmbH	Haupstraße	28237 Bremen
+Werkfeuerwehr ArcelorMittal Bremen GmbH	Carl-Benz-Straße 30	28237 Bremen
 Florian Bremen 69/11-01	ELW 1	
-Florian Bremen 69/18-01	GW-Logistik	
-Florian Bremen 69/18-02	GW-Rüst	
+Florian Bremen 69/18-01	GW	
+Florian Bremen 69/18-02	GW-Logistik	
 Florian Bremen 69/19-01	MTF	
-Florian Bremen 69/19-02	MZF	
-Florian Bremen 69/19-03	MZF	
-Florian Bremen 69/43-01	HTLF 3000	
+Florian Bremen 69/19-02	GW-Technik	
+Florian Bremen 69/19-03	GW-Technik	
+Florian Bremen 69/43-01	HLF 3000	
 Florian Bremen 69/43-02	HTLF 4000	
 Florian Bremen 69/56-01	GW-A	
 Florian Bremen 69/83-01	RTW	
@@ -201,27 +204,28 @@ Anhänger:
 	CO2-Batterie (150 Kg)	
 	CO2 Tank (3 t)	
 	P250	
-	Leichtschaumgenerator	
+	PG 250	
 	Notstromaggregat 60 KVA	
 		
 Betriebsfeuerwehr Flughafen Bremen	Flughafendamm 51	28199 Bremen
-Florian Flughafen 10/1	KdoW	
-Florian Flughafen 10/3	MZF	
-Florian Flughafen 11/1	ELF	
-Florian Flughafen 11/2	ELW	
-Florian Flughafen 19/1	MTW	
-Florian Flughafen 19/2	Evakuierungsbus	
-Florian Flughafen 27/1	FLF Panther 8x8	
-Florian Flughafen 27/2	FLF Panther 8x8 HRET	
-Florian Flughafen 27/3	FLF Panther 8x8 HRET	
-Florian Flughafen 39/1	RTF E 5000	
-Florian Flughafen 43/1	HLF 20	
-Florian Flughafen 65/1	WLF	
-Florian Flughafen 89/1	First Responder	
+Florian Flughafen 49-10/01	KdoW	
+Florian Flughafen 49-11/01	ELF	
+Florian Flughafen 49-19/01	MTW	
+Florian Flughafen 49-19/02	MTW	
+Florian Flughafen 49-27/01	FLF Panther 8x8	
+Florian Flughafen 49-27/02	FLF Panther 8x8 HRET	
+Florian Flughafen 49-27/03	FLF Panther 8x8 HRET	
+Florian Flughafen 49-27/04	FLF MAN Bremen	
+Florian Flughafen 49-39/01	RTF E 5000	
+Florian Flughafen 49-43/01	HLF 20	
+Florian Flughafen 49-65/01	WLF	
+Florian Bremen 49/87-01	GRTW	Kooperation Flughafen+Stadt
+Florian Bremen 49/94-01	NKTW	
 		
 Abrollbehälter:		
-Florian Flughafen 69-1	AB Umweltschutz & Gefahrgut	
-Florian Flughafen 69-2	AB Bergung	
-Florian Flughafen 69-3	AB Flugzeugbergung	
-	FwA- Sanität	
+Florian Flughafen 49-69-01	AB Umweltschutz & Gefahrgut	
+Florian Flughafen 49-69-02	AB Bergung	
+Florian Flughafen 49-69-03	AB Flugzeugbergung	
+Florian Flughafen 49-69-04	AB	
+Florian FLughafen 49-69-05	AB	
 	Teleskoplader Merlo	in grün zur Bergung

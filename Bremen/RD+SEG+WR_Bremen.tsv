@@ -8,35 +8,34 @@ NEF Standort Klinikum Nord	Hammersbecker Straße 228	28755 Bremen
 Florian Bremen 60/82-01	NEF	
 		
 NEF Standort Klinikum Links der Weser	Senator-Weßling-Str. 1	28277 Bremen
-Florian Bremen 40/82-01	NEF	
+Florian Bremen 40/82-01	NEF	   
 		
 NEF Standort Diako Krankenhaus	Gröpelinger Heerstraße 406	28239 Bremen
 Florian Bremen 50/82-01	NEF	
 		
 NEF Standort Ost	Züricher Straße 40	28325 Bremen
 Florian Bremen 30/82-01	NEF	
-Florian Bremen 03/83-02	RTW	Nachts von FuRW 2 aus als 02-83-02 unterwegs
 		
-Hilfsorganisationen		
-JUH RW Bremen	Julius-Bamberger-Straße 11	28279 Bremen
-Akkon Bremen 75/85-01	KTW	
+JUH / BF RW Bremen-Ost	Züricher Straße 40a	28325 Bremen
+Florian Bremen 03/83-01	RTW	24/7 BF
+Florian Bremen 03/83-02	RTW	24/7 JUH
+Florian Bremen 03/83-03	RTW	12/7 BF
 		
 DRK RZ Bremen Neustadt	Osterstraße 1c	28199 Bremen
 Florian Bremen 90/83-01	RTW	24/7
 Florian Bremen 90/83-02	RTW	12/7
-Florian Bremen 90/83-03	RTW	12/7
-Florian Bremen 90/83-04	RTW	11/7
-Florian Bremen 90/83-05	RTW	DES-Tausch
+Florian Bremen 90/93-03	N-KTW	12/7
+Florian Bremen 85/83-06	RTW	DES-Tausch
 		
 DRK RW Bremen Schwachhausen am St. Joseph Stift	Georg-Gröning-Straße 57	28209 Bremen
 Florian Bremen 91/83-01	RTW	24/7
 Florian Bremen 91/83-02	RTW	24/7
-Florian Bremen 91/83-03	RTW	12/7
-Florian Bremen 1/81-01	ITW	Mo.-Fr. 7-19 Uhr
+Florian Bremen 91/93-03	NTW	12/7
 		
 ASB RW Bremen-Horn	Edisonstraße 3	28357 Bremen
 Florian Bremen 92/83-01	RTW	
 Florian Bremen 92/83-02	RTW	
+Florian Bremen 92/93-01	NTW	
 		
 ASB RW Bremen-Ost	Hemelinger Hafendamm 22	28309 Bremen
 Florian Bremen 93/83-01	RTW	
@@ -47,8 +46,9 @@ Florian Bremen 94/83-01	RTW
 Florian Bremen 94/83-02	RTW	
 Florian Bremen 94/83-05	RTW	Verlegung
 		
-ASB RW Bremen Nord	Ringstr. 9	27721 Ritterhude
-Florian Bremen 95/83-01	RTW	
+JUH RW Bremen-Habenhausen	Julius-Bamberger-Straße 11	28279 Bremen
+Florian Bremen 95/93-01	NTW	24h
+Florian Bremen 95/93-02	NTW	12h
 		
 DRK RW Bremen-Lesum	Charlotte-Wolff-Allee 9a	28757 Bremen
 Florian Bremen 96/83-01	RTW	
@@ -56,19 +56,21 @@ Florian Bremen 96/83-02	RTW
 Florian Bremen 10/76-01	Krad First Responder	
 Rotkreuz Bremen 85/83-05	Desinfektions Reserve	
 		
-DRK RW Bremen-Blumenthal	Heidbleek 8	28779 Bremen (in FF-Gebäude)
+ASB RW Bremen-Blumenthal	Heidbleek 8	28779 Bremen (in FF-Gebäude)
 Florian Bremen 97/83-01	RTW	
 		
 DRK RW Habenhausen	Fritz-Thiele-Str. 14	28279 Bremen
 Florian Bremen 98/83-01	RTW	24/7
-Florian Bremen 98/83-02	RTW	12/7
+Florian Bremen 98/83-02	RTW	24/7
+Florian Bremen 98/93-01	NTW	10/5 Mo-Fr
 Technische Reserve DRK/1	RTW	HB-2168
 		
 DRK RW Gröpelingen	Pastorenweg 104	28237 Bremen
 Florian Bremen 99/83-01	RTW	24/7
 Florian Bremen 99/83-02	RTW	12/7
-Florian Bremen 99/83-03	RTW	12/7
-Florian Bremen 99/83-04	RTW	12/7
+Florian Bremen 99/83-05	RTW	12/7 Verlegungs-RTW
+Florian Bremen 99/93-01	NTW	10/7
+Florian Bremen 99/92-01	HanseSani	
 		
 		
 Daimler-AG Werksärztlicher Dienst	Mercedesstraße 1	28309 Bremen
@@ -78,92 +80,96 @@ Florian Daimler 67/83-02	RTW
 Bereitschaften und SEGs		
 		
 ASB OV Bremen-Ost	In der Vahr 61-63	28329 Bremen
-Sama Bremen 81/72-04	MZF-4	
-Sama Bremen 81/72-05	MZF-5	
-Sama Bremen 81/72-06	MZF-6	
-Sama Bremen 81/83-04	RTW-4	
+Sama Bremen 81/72-04	MZF	SEG
+Sama Bremen 81/72-05	MZF	SEG
+Sama Bremen 81/72-06	MZF	auch KdoW Führung
+Sama Bremen 81/83-04	RTW	a.D.?
+Sama Bremen 81/89-02	NKTW	SEG Transport
 	2x Materialanhänger	
 		
 ASB LV Bremen / OV Bremen-Mitte/Nord	Bremerhavener Straße 155	28219 Bremen
 Führungsdienst/Fachberater-SEG:		
-Sama Bremen 81/10-01	KdoW	
-Sama Bremen 81/10-02	KdoW	
+Sama Bremen 81/10-01	KdoW BL	
+Sama Bremen 81/10-02	KdoW FB	
 SEG-Transport:		
-Sama Bremen 81/83-01	RTW	
-Sama Bremen 81/83-02	RTW	
-Sama Bremen 81/83-03	RTW	Orstverband Mitte/Nord
+Florian Bremen 12/83-01	RTW	HB-2163
+Florian Bremen 12/89-01	NKTW	HB-5307
+Sama Bremen 81/83-01	RTW	HB-RD 811
+Sama Bremen 81/83-02	RTW	HB-AS 416
+Sama Bremen 81/83-03	RTW	HB-RD 333
+Sama Bremen 81/89-01	NKTW	Orstverband Mitte/Nord
+SEG-Rettungsdienst-Unterstützung / MTF 4:		
+Florian Bremen 12/95-01	VEF	HB-5304 Vorausfahrzeug RDU
+Sama Bremen 81/18-01	GW-L	Orstverband Mitte/Nord / SEG-RDU
+Sama Bremen 81/59-01	GW-San	Bundesfahrzeug / SEG-RDU / Medizinische Taskforce 4
+Sama Bremen 81/59-02	GW-San	Bundesfahrzeug / Medizinische Taskforce 4
+Sama Bremen 81/89-01	KTW Typ B ZS	HB 8013
+Weitere SEG Fahrzeuge / Vollalarm:		
+Sama Bremen 81/72-01	MZF	Orstverband Mitte/Nord
+Sama Bremen 81/72-02	MZF	Orstverband Mitte/Nord, HB RD 335, auch als NEF
+	Anhänger Logistik/Sanität	
+Sama Bremen 81/85-01	KTW	Wünschewagen-LV
+Sonstige Fahrzeuge:		
+Sama Bremen 81/12-01	ELC	Einsatzleitcontainer
+Sama Bremen 81/72-03	MZF	
+Sama Bremen 81/82-01	NEF	Orstverband Mitte/Nord, HB RD 335, auch als MZF
 Sama Bremen 81/83-05	RTW	DesReserve-RD GmbH
 Sama Bremen 81/83-06	RTW	DesReserve-RD GmbH
-Sama Bremen 81/85-01	KTW	Wünschewagen-LV
-Sama Bremen 81/89-01	NKTW	Orstverband Mitte/Nord
-SEG-Rettungsdienst-Unterstützung:		
-Sama Bremen 81/18-01	GW-L	Orstverband Mitte/Nord / SEG-RDU
-Sama Bremen 81/59-01	GW-San	Bundesfahrzeug / SEG-RDU
-Sama Bremen 81/59-02	GW-San	Bundesfahrzeug / Medizinische Taskforce
-Sama Bremen 81/72-01	MZF	Orstverband Mitte/Nord
-Sama Bremen 81/72-02	MZF	Orstverband Mitte/Nord
-Sama Bremen 81/72-03	MZF	RD GmbH
-Sama Bremen 81/12-01	ELC	Einsatzleitcontainer
-Sama Bremen 81/82-01	NEF	Orstverband Mitte/Nord
-Sama Bremen 81/86-01	4T-KTW	
-Sama Bremen 81/86-02	4T-KTW	
-Sama Bremen 81/86-03	4T-KTW	
 		
-DRK KV Bremen und Bereitschaft Betreuung und Logistik	Fritz-Thiele-Straße 14	28279 Bremen
-Rotkreuz Bremen 84/10-01	KdoW KBL	
-Rotkreuz Bremen 84/19-01	MTW-SEG Betr.	
-Rotkreuz Bremen 84/19-02	MTW-MZF	
-Rotkreuz Bremen 84/59-01	GW-SEG Betreuung	
-Rotkreuz Bremen 84/59-02	GW-Verpflegung	
-Rotkreuz Bremen 84/73-03	Geräteanhänger Technik & Sicherheit	
-Rotkreuz Bremen 84/73-04	Anhänger TFK 250	
-Rotkreuz Bremen 84/74-01	LKW-Technik	
-Rotkreuz Bremen 84/74-02	LKW-HZ Betreuung	
-Rotkreuz Bremen 84/74-03	LKW-G	
-		
+DRK KV Bremen Katastrophenschutzzentrum	Arsterdamm 116a	28277 Bremen
+Rotkreuz Bremen 84-10-01	KdoW KBL	
+Bereitschaft Betreuung und Logistik:		
+Rotkreuz Bremen 84-19-01	MTW-SEG Betr.	
+Rotkreuz Bremen 84-19-02	MTW-MZF	
+Rotkreuz Bremen 84-59-02	GW-Verpflegung	
+Rotkreuz Bremen 84-59-03	Foodtruck	
+Rotkreuz Bremen 84-72-05	MTW	
+Rotkreuz Bremen 84-73-04	Anhänger TFK 250	
+Rotkreuz Bremen 84-74-03	LKW-G	Unimog
 Rotkreuz Bremen 84	Kühlanhänger	
-Rotkreuz Bremen 84	Tandemanhänger	
-		
-DRK Einsatzeinheit Bremen	Steubenstraße	28207 Bremen
-RK Bremen 85-11-01	ELW (Verbandsführer)	
-RK Bremen 85-11-02	ELW	
-RK Bremen 85-11-03	ELW	
-RK Bremen 85-19-01	MTW	auch SEG
-RK Bremen 85-59-01	SanLKW	
-RK Bremen 85-59-02	SanAnhänger	
-RK Bremen 85-74-03	Betr.LKW	
-RK Bremen 85-80-01	ATRKW	
-RK Bremen 85-80-02	ATRKW	
-RK Bremen 85-83-01	RTW	SEG-RTW RW98
-RK Bremen 85-83-02	RTW	
-RK Bremen 85-83-03	RTW	
-RK Bremen 85-83-04	RTW	RW 98
-RK Bremen 85-83-05	RTW	RW 96
-RK Bremen 85-85-01	N-KTW	auch SEG
-RK Bremen 85-85-02	N-KTW	
-RK Bremen 85-85-03	N-KTW	
-RK Bremen 85-85-04	4-Tragen KTW	
-RK Bremen 85-85-07	KTW / MZF	
-RK Bremen 85-85-08	KTW / MZF	
+Blut- und Organtransport:		
+Rotkreuz Bremen 84-72-03	MZF	
+Einsatzeinheit / Zug Rettung / 1.+2. Sanitätszug:		
+Rotkreuz Bremen 85-10-02	Kdow	Reservefahrzeug
+Rotkreuz Bremen 85-10-0x	KdoW	
+Rotkreuz Bremen 85-11-01	ELF	
+Rotkreuz Bremen 85-19-01	MTW	Medizinische Taskforce
+Rotkreuz Bremen 85-19-02	MTW	
+Rotkreuz Bremen 85-59-01	GW-SAN	
+Rotkreuz Bremen 85-72-01	MZF	auch KdoW / NEF
+Rotkreuz Bremen 85-72-02	MZF	
+Rotkreuz Bremen 85-83-02	RTW	SEG
+Rotkreuz Bremen 85-83-03	RTW	
+Rotkreuz Bremen 85-83-04	RTW	
+Rotkreuz Bremen 85-85-01	N-KTW	auch SEG
+Rotkreuz Bremen 85-85-02	N-KTW	
+Rotkreuz Bremen 85-85-03	KTW	Rückholdienst
+Rotkreuz Bremen 85-85-04	KTW	
+Rotkreuz Bremen 85-86-01	KTW 4-Tragen	
+Rotkreuz Bremen 85-86-02	KTW 4-Tragen	Unimog
+Rotkreuz Bremen 85-89-01	KTW Typ B ZS	
+Rotkreuz Bremen 85-89-02	N-KTW	
+Rotkreuz Bremen 85-89-03	N-KTW	
 		
 MHD Bremen	Winkelstraße 30	28207 Bremen
 Ein Teil der Fahrzeuge steht in der Steubenstraße		
 Johannes Bremen 83-10-01	KdoW	
-Johannes Bremen 83-11-01	ELW	
-Johannes Bremen 83-19-01	MTW	
+Johannes Bremen 83-11-01	ELW	außer Dienst?
+Johannes Bremen 83-19-01	MTW	Medizinische Taskforce
 Johannes Bremen 83-19-02	MTW	
 Johannes Bremen 83-59-01	GW-San	stationiert auf dem Kasernengelände am Niedersachsendamm
 Johannes Bremen 83-74-02	LKW	
-Johannes Bremen 83-74-03	LKW	
+Johannes Bremen 83-74-03	LKW	außer Dienst?
+Johannes Bremen 83-83-01	RTW	
 Johannes Bremen 83-83-02	RTW	
 Johannes Bremen 83-85-01	KTW	
 Johannes Bremen 83-89-01	N-KTW B	
 		
 Johanniter Ortsverband Bremen	Julius-Bamberger-Straße 11	28279 Bremen
 Akkon Bremen 87/12-01	EL-Anhänger	ELW2
-Akkon Bremen 87/19-01	MTW	Kältebus
+Akkon Bremen 87/19-01	MTW	Kältebus VW T4
 Akkon Bremen 87/19-02	MTW-MTF	KIT-PSNV
-Akkon Bremen 87/19-03	MZW	
+Akkon Bremen 87/19-03	MZF	auch als NEF einsetzbar
 Akkon Bremen 87/59-01	GW-San	
 Akkon Bremen 87/59-02	GW-TeSi	
 Akkon Bremen 87/59-03	GA-San	
@@ -175,34 +181,55 @@ Akkon Bremen 87/83-01	RTW
 Akkon Bremen 87/83-02	RTW	
 Akkon Bremen 87/85-01	KTW	
 Akkon Bremen 87/85-02	KTW	
-Akkon Bremen 87/85-03	KTW	
 		
 Wasserrettung:		
 		
 DLRG LV Bremen	Auf dem Dreieck 8	28197 Bremen
-		Fahrzeuge unbekannt
+DLRG Bezirk Bremen-Stadt		
+Adler Bremen 9-8	Wache	Technischer Betrieb
+	MRB Bremen 15	
+	MRB Seeadler	durchgehend am Anleger in der Weser
+	MRB Triton	besetzt von BS Bultensee, stationiert Weser Bremen-Hemelingen
 		
-DLRG Bezirk Bremen Nord - RW am Rabenfeld	Am Rabenfeld 2	28757 Bremen
-Pelikan Bremen 89/19-01	MTF	
-Pelikan Bremen 89/58-01	GW-W1	
-Pelikan Bremen 89/58-02	GW-W2	
-Pelikan Bremen 89/88-01	MRB Dükerhölper	
-Pelikan Bremen 89/88-02	MRB Nivea 3	
+DLGR Bezirk Bremen-Stadt - RW am Achterdieksee	zwischen See und A27	28355 Bremen
+Adler Bremen 1-8	Wache	
+	MRB Beluga School for Life	
+		
+DLRG BS Bultensee	Am Osterholzer Deich	28325 Bremen
+Adler Bremen 2-8	Wache	
+	MTW	Mercedes Sprinter
+	MRB Triton	stationiert Weser Bremen-Hemelingen
+		
+DLRG WRS Mahndorfer See	Bollener Kirchweg	28307 Bremen
+Adler Bremen 3-8	Wache	
+		
+DLRG WRS Sodenmattsee	Am Sodenmatt	28259 Bremen
+Adler Bremen 4-8	Wache	
+		
+DLRG WRS Stadtwaldsee	Wetterungsweg 5	28359 Bremen
+Adler Bremen 5-8	Wache	
+Adler Bremen 5-41	MRB Primus	
+		
+DLRG WRS Waller Feldmarksee	Heideweg	28219 Bremen
+Adler Bremen 7-8	Wache	
+		
+DLRG WRS Wedersee	Huckelrieder Weg	28201 Bremen
+Adler Bremen 8-8	Wache	
+Adler Bremen 8-41	MRB Deichschart	
 		
 DLRG Bezirk Bremen Nord - RW am Sportparksee Grambke	Sportparksee Grambke	28719 Bremen
-Wachfunk:		
-Pelikan Bremen 89/16-01 | Adler 31-08		
-Digitalfunk:		
-Pelikan Bremen 89/19-02	MTF	
-Analogfunk:		
+Pelikan Bremen 89/16-01	Wache	analog: Adler Bremen 31-08
+Pelikan Bremen 89/19-02	MTF	analog: Adler Bremen 31-51
 Adler Bremen 31-31	MZB Sechser	
 Adler Bremen 31-41	MRB Nivea 47	
 Adler Bremen 31-42	MRB Seefee	
-Adler Bremen 31-51	MTF	
 		
-DLRG WRS am Wedersee	Huckelrieder Weg	28201 Bremen
-	MRB Deichschart	
-		
-DLRG BS Bultensee	Am Osterholzer Deich	28325 Bremen
-	MTW	Mercedes Sprinter
-	Boot	
+DLRG Bezirk Bremen-Nord - RW am Rabenfeld	Am Rabenfeld 2	28757 Bremen
+Pelikan Bremen 89/19-01	MTF	analog: Adler Bremen 30-51
+Pelikan Bremen 89/58-01	GW-W1 Taucher	analog: Adler Bremen 30-52
+Pelikan Bremen 89/58-02	GW-W2	analog: Adler Bremen 30-53
+Pelikan Bremen 89/88-01	MRB Dükerhölper	analog: Adler Bremen 30-41
+Pelikan Bremen 89/88-02	MRB Nivea 3	analog: Adler Bremen 30-42
+Adler Bremen 30-31	MZB Lütje	
+Adler Bremen 30-32	MZB Schlammschnecke	
+Adler Bremen 30-43	IRB	Strömungsretter
