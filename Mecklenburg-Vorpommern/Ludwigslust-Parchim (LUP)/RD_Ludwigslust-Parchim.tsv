@@ -1,85 +1,107 @@
-LUP-RD-gGmbH RW Crivitz	Brüeler Straße 27b	19089 Crivitz
+LK LUP RW Crivitz	Brüeler Straße 27b	19089 Crivitz
 Rettung Crivitz 56 11-82-01	NEF	
-Rettung Crivitz 56 11-83-01	RTW	
-Rettung Crivitz 56 11-85-01	KTW	
+Rettung Crivitz 56 11-83-01	RTW	LUP RD 144
+Rettung Crivitz 56 11-85-01	MZF	
 		
-ASB RW Boizenburg	Steingahre 3	19258 Boizenburg/Elbe
-Sama Boizenburg 6211-82-01	NEF	
-Sama Boizenburg 6211-82-02	NEF Reserve	
-Sama Boizenburg 6211-83-01	RTW	
-Sama Boizenburg 6211-83-02	RTW Reserve	
-Sama Boizenburg 6211-85-01	KTW	
+LK LUP RW Boizenburg	Steingahre 3	19258 Boizenburg/Elbe
+		evtl. teilweise Fahrzeuge an Interimswache Galliner Straße 34
+Rettung Boizenburg 6211-82-01	NEF	
+Rettung Boizenburg 6211-83-01	RTW	
+Rettung Boizenburg 6211-85-01	KTW	
+Rettung Boizenburg 6211-82-02	NEF Reserve	
+Rettung Boizenburg 6211-83-02	RTW Reserve	
+Rettung Boizenburg 6211-83-03	RTW Reserve	
+Rettung Boizenburg 6211-85-02	KTW Reserve	
 		
-ASB RW Waschow	(Waschower) Dorfstraße 8	19243 Waschow
-Sama Waschow 5311-83-01	RTW	
-Sama Waschow 5311-83-02	RTW Reserve	
+LK LUP RW Waschow	Dorfstraße 8	19243 Waschow
+Rettung Waschow 5311-83-01	RTW	
 		
-DRK RW Lübtheen	Amtsstraße 1	19249 Lübtheen
-Rotkreuz Lübtheen 64 13/83-01	RTW	
+LK LUP RW Lübtheen	Amtsstraße 1	19249 Lübtheen
+Rettung Lübtheen 6413-83-01	RTW	LUP RD 148
+Rettung Lübtheen 6413-83-02	RTW Reserve	
 		
-DRK RW Hagenow	Eichenweg 7	19230 Hagenow
-Rotkreuz Hagenow 6411-83-01	RTW	
-Rotkreuz Hagenow 6411-83-02	RTW Reserve	
-Rotkreuz Hagenow 6411-85-01	MZF	
-Rotkreuz Hagenow 6411-85-02	MZF	
+LK LUP RW Hagenow-Land	Eichenweg 7	19230 Hagenow
+Rettung Hagenow 6411-83-01	RTW	
+Rettung Hagenow 6411-83-02	RTW Reserve	
+Rettung Hagenow 6411-85-01	KTW	
+Rettung Hagenow 6411-85-02	MZF	
+Rettung Hagenow 6411-85-03	KTW Reserve	
+Rettung Hagenow 6411-82-02	NEF Reserve	
 		
-DRK RW Brüel	Am Kreuzsee 11	19412 Brüel
-Rotkreuz Brüel 4611-82-01	NEF	
+LK LUP RW Hagenow-Stadt	Parkstraße 12	19230 Hagenow
+Rettung Hagenow 6412-82-01	NEF	LUP RD 172
+Rettung Hagenow 6412-83-01	RTW	LUP RD 179
 		
-DRK RW Cambs	Ventschower Straße 1	19067 Cambs
-Rotkreuz Cambs 4514-83-01	RTW	
+LK LUP RW Brüel	Am Kreuzsee 11	19412 Brüel
+Rettung Brüel 4611-82-01	NEF	
+		
+LK LUP RW Cambs	Ventschower Straße 1c	19067 Cambs
+Rettung Cambs 4514-83-01	RTW	
+Rettung Cambs 4514-85-01	KTW	
 Rotkreuz Parchim 4514-80-01	ITW 1 MV	
 		
-DRK RW Goldberg	Neue Hoffnung	19399 Goldberg
-Rotkreuz Goldberg 5811-83-01	RTW	
+LK LUP RW Goldberg	Neue Hoffnung 10	19399 Goldberg
+Rettung Goldberg 5811-83-01	RTW	
 		
-DRK RW Groß Godems	Parchimer Straße 20	19372 Groß Godems
-Rotkreuz Groß Godems 6713-83-01	RTW	
+LK LUP RW Groß Godems	Parchimer Straße 20	19372 Groß Godems
+Rettung Groß Godems 6713-83-01	RTW	
 		
-DRK RW Lübz	Grevener Straße 31	19386 Lübz
-Rotkreuz Lübz 5711-83-01	RTW	
+LK RW Gallin	Neu Galliner Ring	19258 Gallin
+Rettung Gallin 5312-83-01	RTW	LUP RD 169
+Rettung Gallin 5312-83-02	RTW Reservefahrzeug	
 		
-DRK RW Ludwigslust	Grabower Chaussee 2	19288 Ludwigslust
-Rotkreuz Ludwigslust 6511-10-01	KdoW OrgL/(LNA)	
-Rotkreuz Ludwigslust 6511-83-01	RTW	
-Rotkreuz Ludwigslust 6511-83-02	RTW Reserve	
-Rotkreuz Ludwigslust 6511-85-01	KTW	
-Rotkreuz Ludwigslust 6511-85-02	KTW	
-Rotkreuz Ludwigslust 6511-85-03	MZF	
+LK LUP RW Lübz	Grevener Straße 31	19386 Lübz
+Rettung Lübz 5711-83-01	RTW	
+		
+LK RW Ludwigslust	Grabower Chaussee 2	19288 Ludwigslust
+Rettung Ludwigslust 6511-83-01	RTW	
+Rettung Ludwigslust 6511-85-01	KTW	
+Rettung Ludwigslust 6511-85-02	MZF (RTW)	
+Rettung Ludwigslust 6511-10-01	KdoW OrgL/(LNA)	
+Rettung Ludwigslust 6511-83-02	RTW Reserve	
+Rettung Ludwigslust 6511-85-03	KTW Reserve	
+Rettung Ludwigslust 6512-82-02	NEF Reserve	
 		
 DRK NEF Ludwigslust	Neustädter Straße 1	19288 Ludwigslust
-Rotkreuz Ludwigslust 6512-82-01	NEF	
+Rettung Ludwigslust 6512-82-01	NEF	LUP RD 173
 		
-DRK RW Malliß	Am Bergwerk 4b (gegenüber Hausnr. 3)	19294 Malliß
-Rotkreuz Malliß 7411-83-01	RTW	
+LK LUP RW Ludwigslust-Zentrum	Lindenstraße 26	19288 Ludwigslust
+Rettung Ludwigslust 6512-83-01	RTW	LUP RD 180
 		
-Neustadt-Glewe	Neuhöfer Straße 34	19306 Neustadt-Glewe
-Rotkreuz Neustadt-Glewe 6611-83-01	RTW	
+LK LUP RW Malliß	Am Bergwerk 4b (gegenüber Hausnr. 3)	19294 Malliß
+Rettung Malliß 7511-83-01	RTW	LUP RD 167
 		
-DRK RW Parchim	Pestalozziweg 19	19370 Parchim
-Rotkreuz Parchim 6711-83-01	RTW	
-Rotkreuz Parchim 6711-85-01	KTW	
-	NEF Reserve	
-	RTW Reserve	
-	KTW Reserve	
-	Kdow-OrgL	
-	Kdow-LNA	
+LK LUP Neustadt-Glewe	Neuhöfer Straße 35	19306 Neustadt-Glewe
+Rettung Neustadt-Glewe 6611-83-01	RTW	
 		
-DRK NEF KH Parchim	John-Brinckman-Straße 8-10	19370 Parchim
-Rotkreuz Parchim 6712-82-01	NEF	
+LK LUP RW Parchim	Pestalozziweg 19	19370 Parchim
+Rettung Parchim 6711-83-01	RTW	LUP RD 190
+Rettung Parchim 6711-85-01	MZF	
+Rettung Parchim 6711-10-01	Kdow ORGL	
+Rettung Parchim 6711-83-02	RTW Reserve	
+Rettung Parchim 6711-85-02	KTW Reserve	
+Rettung Parchim 6711-82-02	NEF Reserve	
+	weitere Reservefahrzeuge	
 		
-DRK RW Plau am See	Lange Straße 58a	19395 Plau am See
-Rotkreuz Plau 5813-83-01	RTW	
-Rotkreuz Plau 5813-85-01	KTW	
+LK LUP NEF KH Parchim	John-Brinckman-Straße 8-10	19370 Parchim
+Rettung Parchim 6712-82-01	NEF	
 		
-DRK NEF Plau am See	Quetziner Str. 88	19395 Plau am See
-Rotkreuz Plau 5812-82-01	NEF	
+LK LUP Provisorische RW Parchim-West	Ludwigsluster Chaussee 18	19370 Parchim
+Rettung Parchim 6714-83-01	RTW	LUP RD 181
 		
-DRK NEF Schwinz	Krakower Str. 4a	19399 Dobbertin
-Rotkreuz Schwinz 8411-82-01	NEF	
+LK LUP RW Plau am See	Lange Straße 58a	19395 Plau am See
+Rettung Plau 5813-83-01	RTW	
+Rettung Plau 5813-85-01	KTW	
 		
-DRK RW Sternberg	Rachower Moor 4	19406 Sternberg
-Rotkreuz Sternberg 47 11-83-01	RTW	
+LK LUP NEF Plau am See	Quetziner Str. 88	19395 Plau am See
+Rettung Plau 5812-82-01	NEF	
 		
-DRK RW Walsmühlen	Schossiner Weg 7	19073 Dümmer
-Rotkreuz Walsmühlen 5411-83-01	RTW	
+LK LUP NEF Schwinz	Krakower Str. 4a	19399 Dobbertin
+Rettung Schwinz 8411-82-01	NEF	
+		
+LK LUP RW Sternberg	Rachower Moor 4	19406 Sternberg
+Rettung Sternberg 47 11-83-01	RTW	
+	Reserve RTW?	
+		
+LK LUP RW Walsmühlen	Schossiner Weg 7	19073 Dümmer
+Rettung Walsmühlen 5411-83-01	RTW	
